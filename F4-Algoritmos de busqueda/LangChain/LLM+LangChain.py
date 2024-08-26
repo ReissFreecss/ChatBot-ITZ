@@ -47,7 +47,7 @@ def generate_response(question):
     # Buscar documentos relevantes
     docs = knowledge_base.similarity_search(question, 3)
     
-    # Concatenar el texto de los documentos encontrados
+    #    Concatenar el texto de los documentos encontrados
     context = " ".join([doc.page_content for doc in docs])
     
     # Formatear el prompt usando el template
