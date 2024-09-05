@@ -1,0 +1,1025 @@
+﻿3.4.1. 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Química de Alimentos 
+
+  
+
+  
+
+Clave de la asignatura: CDF-2101 
+
+  
+
+  
+
+SATCA1: 3-2-5 
+
+  
+
+  
+
+Carrera: Ingeniería Química 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura proporciona al estudiante la capacidad de 
+interpretar, analizar y evaluar la importancia que tienen las diferentes 
+biomoléculas en los alimentos, así como sus propiedades 
+funcionales y fisicoquímicas. 
+
+ 
+Para integrar esta asignatura se realizó un análisis del área de 
+química y fisicoquímica identificado los fundamentos de química 
+de los alimentos y sistemas alimentarios, además de los cambios 
+que sufren los componentes de los alimentos en los procesos de 
+elaboración, conservación y producto terminado. También la 
+funcionalidad de los componentes en los que el Ingeniero Químico 
+e Ingeniero Bioquímico tienen quehacer profesional. 
+
+ 
+Esta asignatura tiene relación con otras asignaturas, como son 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+fundamentos de Química, Bioquímica, Matemáticas y 
+Fisicoquímica identificando los contenidos que tienen una mayor 
+aplicación en el perfil profesional del egresado. La asignatura de 
+Química de los alimentos provee las herramientas necesarias para 
+el conocimiento de los componentes de los alimentos y las 
+reacciones que en ellos se presentan por la manipulación, 
+tratamientos físicos y químicos y su control, indispensable para el 
+desarrollo de nuevos productos alimenticos, el diseño de equipos y 
+procesos, estudio y aplicación de nuevas tecnologías, y diseño de 
+normas y programas en el ámbito de las Ingeniería Bioquímica. 
+
+ 
+El contenido de esta asignatura ayuda al estudiante a comprender 
+las materias paralelas y posteriores consideradas en los diferentes 
+planes de estudios. 
+ 
+Se realizan prácticas de laboratorio en las que se aplica el 
+conocimiento teórico con las que el alumno comprende la 
+funcionalidad y cambios de los componentes de los alimentos 
+
+ 
+Es una asignatura fundamental para el conocimiento y el análisis 
+crítico de las materias de la especialidad de Ciencia y Desarrollo de 
+Productos Alimenticios. 
+
+Intención didáctica 
+
+La asignatura de Química de alimentos se organiza en siete temas, 
+en cada uno de los temas se analizan y aprenden los conceptos de 
+cada uno de los constituyentes principales de los alimentos, 
+enfocándose en sus propiedades funcionales y fisicoquímicas. El 
+alumno construirá conocimientos suficientes para comprender el 
+funcionamiento, comportamiento propiedades funcionales y 
+fisicoquímicas de los principales componentes de los alimentos, así 
+como la interacción que ocurre en ellos bajo diferentes condiciones 
+de procesamiento y tecnologías de conservación al realizar 
+prácticas de laboratorio específicas para cada uno de los 
+componentes de los alimentos. 
+ 
+El alumno comprende, relaciona sinteriza y desarrolla el lenguaje 
+propio desde un punto de vista científico, físico y químico, que le 
+ayuda en la redacción de informes técnicos de laboratorio, 
+exposición de temas relación e interpretar con su propio lenguaje 
+los planteamientos utilizados en el tratamiento del objeto de 
+estudio. 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+Se sugiere que el profesor involucre actividades integradoras del 
+conocimiento como actividades prácticas que promuevan el 
+desarrollo de habilidades para la experimentación a través del método 
+científico y trabajo en equipo, asimismo, que se propicie procesos 
+intelectuales como inducción-deducción y análisis-síntesis con la 
+intención de generar una actividad intelectual compleja con la 
+oportunidad de conceptualizar a partir de lo observado. En las 
+actividades prácticas sugeridas, es conveniente que el profesor busque 
+sólo guiar a sus alumnos para que ellos hagan la elección de los 
+métodos apropiados para el desarrollo de su aprendizaje de manera 
+independiente. 
+
+  
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o 
+
+revisión 
+
+Instituto Tecnológico Dra. Cinthya Dinorah Desarrollo de planes y 
+de Zacatepec, 29 de Arrieta González programas de nuevas 
+enero del 2021. especialidades. 
+
+ 
+
+Dr. Francisco Javier 
+Hernández Campos  
+
+ 
+
+Dra. Wendy Netzy 
+Hernández Díaz 
+
+ 
+
+Ing. José Elías Salado 
+Huerta 
+
+ 
+
+Dra. Leonor Zavaleta 
+Avejar          
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Relaciona las características fisicoquímicas y estructurales del agua, 
+proteínas, carbohidratos, lípidos, enzimas, vitaminas y minerales 
+con las funciones que desempeñan en los alimentos. 
+
+Analiza las reacciones de proteínas, carbohidratos, lípidos, enzimas, 
+vitaminas y minerales que sufren los sistemas alimenticios en las 
+tecnologías de procesamiento, conservación y almacenamiento. 
+
+ 
+Comprende los mecanismos de reacciones enzimáticas para el 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+control sobre ellas al procesar un alimento. 
+
+Identifica los diferentes aditivos empleados en alimentos para 
+mejorar la aceptabilidad de los alimentos por el consumidor y para 
+su conservación. 
+
+ 
+
+5. Competencias previas 
+
+Aplica los conceptos básicos de los compuestos orgánicos para 
+aprender la composición y las reacciones químicas de los 
+carbohidratos, lípidos, proteínas, enzimas, vitaminas y aditivos en 
+los alimentos. 
+
+Analiza los conceptos básicos de Bioquímica para interpretar las 
+reacciones químicas y biológicas que suceden en los sistemas 
+alimenticios al interaccionar con otros constituyentes. 
+
+Comprender los conceptos de química y la nomenclatura de 
+compuestos químicos para crear estructuras y reacciones químicas 
+que suceden en los alimentos. 
+
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Agua en alimentos 1.1 Importancia del agua en los 
+alimentos 
+
+1.2 Actividad de agua (Aw) en 
+alimentos 
+
+1.3 Porcentaje de agua en 
+alimentos 
+
+1.4 Importancia de la Aw en 
+alimentos 
+1.5 Papel del agua en los alimentos 
+para su conservación 
+1.6 Relación Aw microorganismos 
+1.7 Métodos para disminuir Aw. 
+
+1.7.1 Osmodeshidratación 
+1.7.2 Secado 
+1.7.3 Liofilización 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+2 Carbohidratos en 2.1 Clasificación y alimentos 
+
+alimentos representativos. 
+2.2 Propiedades funcionales de 
+carbohidratos 
+2.3 Propiedades funcionales de 
+polisacáridos de reserva 
+2.4 Propiedades funcionales de 
+polisacáridos estructurales 
+2.5 Cambios funcionales de los 
+carbohidratos. 
+
+2.5.1 Reacciones de 
+oscurecimiento 
+
+2.5.2 Cinética de reacciones de 
+oscurecimiento no enzimático 
+2.5.2 Oxidación del ácido 
+
+ascórbico 
+2.5.3 Reacciones de 
+
+caramelización 
+2.5.4 Reacciones de 
+oscurecimiento enzimático 
+
+2.7 Uso industrial de carbohidratos 
+y derivados 
+
+2.7.1 Almidones nativo, 
+modificado y céreo y su 
+aplicación en alimentos. 
+
+2.7.1.1 Gelatinización, 
+gelificación, retrogradación, 
+sinéresis. 
+
+2.8. Azúcares alcoholes y 
+edulcorantes 
+2.8.1 Polioles 
+2.8.2 Dextrinas 
+2.8.3 Concentrados de alta 
+
+fructuosa 
+3 Proteínas en alimentos 3.1 Propiedades funcionales de las 
+
+proteínas de los sistemas 
+alimenticios: solubilidad, 
+hidratación, viscosidad, gelificación, 
+texturización, formación de 
+espumas emulsificación, y fijación 
+de sustancias responsables del 
+aroma. 
+3.2 Desnaturalización de proteínas 
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+en alimentos 
+
+3.3 Modificaciones a las 
+propiedades funcionales. 
+
+3.4 Proteínas en alimentos 
+4 Lípidos en alimentos 4.1Funciones de los lípidos en 
+
+alimentos 
+4.3 Modificaciones de aceites y 
+
+grasas 
+4.3.1 Cinética de la oxidación de 
+
+lípidos 
+4.3.2 Deterioro de lípidos 
+
+4.4 Ácidos grasos esenciales 
+
+5 Enzimas en alimentos 5.1 Enzimas en la industria de 
+alimentos (Amilasas, xilanasas, 
+celulasas, pectinasa, quitinasa, 
+papaína, bromelina, invertasa 
+fenilalanina amonio liasa, 
+superóxido dismutasa, 
+galactosidasas poligalacturonasas, 
+5.2 Aplicación de enzimas en 
+
+alimentos 
+5.3 Inhibidores enzimáticos 
+5.4 Regulación de la actividad 
+
+enzimática en los alimentos 
+6 Vitaminas y minerales en 6.1. Vitaminas en los alimentos 
+
+alimentos 6.2. Vitaminas liposolubles 
+6.3. Vitaminas hidrosolubles 
+6.4. Estabilidad de las vitaminas 
+6.5. Propiedades químicas y 
+
+funcionales de los minerales en 
+los alimentos 
+
+7 Aditivos alimentarios 7.1 Aspectos legales 
+7.2Pigmentos 
+7.2.1 Clasificación de los 
+
+pigmentos 
+7.2.2 Estabilidad de los 
+
+pigmentos 
+7.3 Conservadores 
+7.4 Emulsionantes 
+7.5 Potenciadores del sabor 
+7.6 Ácidos 
+7.7 Quelantes 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+7.8 Edulcorantes 
+7.9 Antiaglomerantes 
+7.10 Antiespumante 
+7.11 Colorantes 
+7.12 Agentes clarificantes 
+7.13 Nitritos, nitratos y fosfatos 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Nombre de tema 
+
+Agua en alimentos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Comprender el efecto de la 
+actividad de agua (Aw) sobre los 
+
+Comprende la importancia e alimentos y relacionarlo   con   
+influencia del agua y actividad los   cambios   físicos   y químicos 
+de agua en los alimentos y los en los alimentos así como la 
+procesos de transformación acción de agentes externos. 
+
+• Demostrar experimentalmente 
+Genéricas: el efecto de la humedad y la 
+
+Aw en los alimentos, así como 
+• Capacidad de análisis y destacar la importancia en cada 
+
+síntesis. alimento. 
+• Capacidad de organizar y • Investigar el efecto de la 
+
+planificar. humedad relativa y la 
+• Capacidad de comunicación temperatura sobre la actividad 
+
+oral y escrita. de agua en los alimentos. 
+• Habilidad para buscar y • Analizar textos de divulgación 
+
+científica que resalten los 
+analizar información conocimientos de frontera con 
+proveniente de fuentes relación a la importancia de 
+diversas. agua en la conservación y 
+
+• Habilidad en el uso de transformación de alimentos. 
+tecnologías de la 
+información. 
+
+• Capacidad para identificar, 
+plantear y resolver 
+problemas. 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+• Capacidad crítica y 
+
+autocrítica. 
+• Capacidad de trabajo en 
+
+equipo.  
+• Habilidades interpersonales. 
+• Compromiso ético. 
+•  Habilidad para trabajar en 
+
+forma autónoma. 
+Nombre de tema 
+
+Carbohidratos en alimentos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Describir las propiedades de los 
+azúcares y polisacáridos, su 
+
+• Describe las propiedades 
+importancia en la conservación 
+
+funcionales de los azúcares y 
+de alimentos. 
+
+polisacáridos importantes en 
+Realizar experimentalmente las 
+
+alimentos, resaltando su 
+diferentes reacciones químicas 
+
+comportamiento fisicoquímico. 
+en que los carbohidratos 
+
+• Aplica los conceptos de las 
+influyen en el proceso de 
+
+propiedades de los 
+transformación de los alimentos. 
+
+carbohidratos para explicar sus 
+ 
+
+diversos cambios 
+Demostrar el efecto de factores 
+
+fisicoquímicos en los alimentos. 
+físicos y químicos sobre los 
+
+Genéricas: 
+carbohidratos, que se 
+
+• Capacidad de análisis y manifiestan en las reacciones de 
+síntesis. oscurecimiento enzimático y no 
+
+• Capacidad de organizar y enzimático. 
+planificar.  
+
+• Capacidad de comunicación Reunir información científica 
+oral y escrita. actualizada con relación a la 
+
+• Habilidad para buscar y utilización de los carbohidratos 
+analizar información en la tecnología alimentaria. 
+proveniente de fuentes  
+diversas. Integrarse por equipos e 
+
+investigar el comportamiento de 
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+• Habilidad en el uso de los polisacáridos y sus derivados 
+
+tecnologías de la de importancia en alimentos, así 
+información. como productos donde son 
+
+• Capacidad para identificar, utilizados. 
+plantear y resolver  
+problemas. Realizar exposición en clase. 
+
+• Capacidad crítica y  
+autocrítica. Realizar práctica de laboratorio, 
+
+elaborar y entregar reporte. 
+• Capacidad de trabajo en 
+
+equipo.  
+• Habilidades interpersonales. 
+• Compromiso ético. 
+• Habilidad para trabajar en 
+
+forma autónoma. 
+Nombre de tema 
+
+Proteínas en alimentos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Describir las propiedades y 
+relacionarlas a la estructura y 
+
+• Aprende las propiedades 
+propiedades fisicoquímicas de 
+
+funcionales de las proteínas 
+las proteínas. 
+
+para comprender las funciones 
+ 
+
+que desempeñan en los 
+Investigar la utilización de las 
+
+alimentos. 
+propiedades funcionales de las 
+
+• Analiza los cambios en las 
+proteínas para modificar los 
+
+propiedades que se producen 
+alimentos y evitar su deterioro. 
+
+en las proteínas para 
+ 
+
+determinar los factores que 
+producen dichos cambios. Comprender el efecto de la 
+
+Genéricas: desnaturalización de las 
+proteínas en los alimentos. 
+
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y  
+
+planificar. 
+• Capacidad de comunicación 
+
+oral y escrita. 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+• Habilidad para buscar y analizar Identificar las proteínas y su 
+
+información proveniente de funcionalidad en los diferentes 
+fuentes diversas. sistemas alimenticios. 
+
+• Habilidad en el uso de 
+tecnologías de la información. 
+
+• Capacidad para identificar, 
+plantear y resolver problemas. 
+
+• Capacidad crítica y autocrítica. 
+• Capacidad de trabajo en equipo.  
+• Habilidades interpersonales. 
+• Compromiso ético. 
+• Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre de tema 
+
+Lípidos en alimentos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Identificar las características que 
+diferencian a los aceites de las 
+
+• Aprende las propiedades 
+químicas de los lípidos para grasas. 
+comprender las funciones que Determinar los diferentes 
+desempeñan en los alimentos. 
+
+factores que afectan a los lípidos. 
+• Evalúa las factores que afectan 
+
+las características Comprender la importancia 
+fisicoquímicas de los lípidos y los funcional de los lípidos en los 
+cambios que se producen 
+
+Genéricas:  alimentos. 
+
+• Capacidad de análisis y síntesis. Observar experimentalmente el 
+
+• Capacidad de organizar y comportamiento de los lípidos 
+planificar. en un alimento. 
+
+• Capacidad de comunicación Identificar reacciones de 
+oral y escrita. hidrogenación y observar el 
+
+• Habilidad para buscar y analizar comportamiento químico 
+información proveniente de resultante. 
+fuentes diversas. 
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+• Habilidad en el uso de 
+
+tecnologías de la información. 
+• Capacidad para identificar, 
+
+plantear y resolver problemas. 
+• Capacidad crítica y autocrítica. 
+• Capacidad de trabajo en equipo.  
+• Habilidades interpersonales. 
+• Compromiso ético. 
+• Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre de tema 
+
+Enzimas en alimentos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Elaborar un cuadro comparativo 
+que resalte las funciones de las 
+
+• Aprende las propiedades de 
+enzimas. 
+
+las enzimas para comprender 
+las funciones que desempeñan Explicar las diferentes 
+en los alimentos.  aplicaciones de las enzimas, así 
+• Conoce los principales como sus principales 
+sistemas enzimáticos que se características. 
+usan en alimentos dando 
+importancia a las aplicaciones Investigar las principales 
+
+de los mismos. enzimas utilizadas en alimentos 
+
+Genéricas: y preparar una exposición al 
+grupo. 
+
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y Realizar práctica para 
+
+planificar. determinar la importancia de las 
+• Capacidad de comunicación reacciones enzimáticas en los 
+
+oral y escrita. alimentos elaborar y entregar un 
+• Habilidad para buscar y analizar reporte escrito 
+
+información proveniente de 
+fuentes diversas. 
+
+• Habilidad en el uso de 
+tecnologías de la información. 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+• Capacidad para identificar, 
+
+plantear y resolver problemas. 
+• Capacidad crítica y autocrítica. 
+• Capacidad de trabajo en equipo.  
+• Habilidades interpersonales. 
+• Compromiso ético. 
+• Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre de tema  
+
+Vitaminas y minerales en alimentos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Identificar las vitaminas que se 
+producen y que se encuentran 
+
+• Aprende las propiedades de 
+en los alimentos. 
+
+las vitaminas y minerales para 
+ 
+
+comprender las funciones que 
+Elaborar un cuadro de la 
+
+desempeñan en los alimentos. clasificación de las vitaminas y los 
+• Evalúa las variables que minerales presentes en los 
+afectan las características alimentos. 
+fisicoquímicas de vitaminas y 
+los cambios que se producen. 
+
+Genéricas: 
+
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y 
+
+planificar. 
+• Capacidad de comunicación 
+
+oral y escrita. 
+• Habilidad para buscar y analizar 
+
+información proveniente de 
+fuentes diversas. 
+
+• Habilidad en el uso de 
+tecnologías de la información. 
+
+• Capacidad para identificar, 
+plantear y resolver problemas. 
+
+• Capacidad crítica y autocrítica. 
+
+Página | 13  
+ 
+
+
+
+ 
+ 
+
+ 
+• Capacidad de trabajo en equipo.  
+• Habilidades interpersonales. 
+• Compromiso ético. 
+• Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre de tema 
+
+Aditivos alimentarios 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conocer la normatividad legal de 
+los aditivos alimentarios. 
+
+• Conoce y maneja los 
+ 
+
+diferentes aditivos alimentarios 
+Definir los diferentes tipos de 
+
+de acuerdo a las necesidades y 
+aditivos de acuerdo a su uso. 
+
+requerimientos del producto y 
+ 
+
+la normatividad legal. 
+Enlistar los principales aditivos 
+
+Genéricas: 
+utilizados en la Industria 
+
+• Capacidad de análisis y síntesis. Alimentaria. 
+• Capacidad de organizar y  
+
+planificar. Comprender el mecanismo de 
+• Capacidad de comunicación acción y efecto de los aditivos en 
+
+oral y escrita. las propiedades de los 
+• Habilidad para buscar y analizar alimentos. 
+
+información proveniente de  
+fuentes diversas. Analizar las tendencias en el uso 
+
+• Habilidad en el uso de de los aditivos (naturales vs 
+tecnologías de la información. sintéticos). 
+
+• Capacidad para identificar,  
+plantear y resolver problemas. 
+
+• Capacidad crítica y autocrítica. Elaborar un documento donde 
+• Capacidad de trabajo en equipo.  integre una revisión bibliográfica 
+• Habilidades interpersonales. exhaustiva, del uso de aditivos en 
+• Compromiso ético. los sistemas alimenticios con la 
+• Habilidad para trabajar en forma dosis máxima permitida de cada 
+
+autónoma. aditivo de acuerdo a las 
+legislaciones alimentarias. 
+
+Página | 14  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+8. Práctica(s) 
+
+• Determinación de actividad acuosa en los alimentos 
+• Determinación de las reacciones de caramelización 
+• Aplicación de gomas y almidones en diferentes alimentos. 
+• Desnaturalización de proteínas por diversos factores 
+• Propiedades emulsificantes 
+• Determinación de la cinética de oxidación en frutas y 
+
+hortalizas 
+• Aplicación de una enzima en los alimentos (panificación y/o 
+
+aplicación de papaína en carne) 
+• Estudiar los efectos de calentamiento sobre el color de 
+
+algunos vegetales 
+• Uso de sorbitol como potenciador de sabor 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta 
+asignatura, es demostrar el desarrollo y alcance de la(s) competencia(s) 
+de la asignatura, considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, 
+legal) en el cual se fundamenta el proyecto de acuerdo con un 
+diagnóstico realizado, mismo que permite a los estudiantes lograr la 
+comprensión de la realidad o situación objeto de estudio para definir 
+un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el 
+diseño del proyecto por parte de los estudiantes con asesoría del 
+docente; implica planificar un proceso: de intervención empresarial, 
+social o comunitario, el diseño de un modelo, entre otros, según el 
+tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto 
+realizada por parte de los estudiantes con asesoría del docente, es 
+decir en la intervención (social, empresarial), o construcción del 
+
+Página | 15  
+ 
+
+
+
+ 
+ 
+
+ 
+modelo propuesto según el tipo de proyecto, es la fase de mayor 
+duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través 
+del reconocimiento de logros y aspectos a mejorar se estará 
+promoviendo el concepto de “evaluación para la mejora continua”, la 
+metacognición, el desarrollo del pensamiento crítico y reflexivo en los 
+estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+Reportes escritos con lenguaje técnico de las observaciones 
+realizadas durante las prácticas realizadas en laboratorio, así como 
+las conclusiones obtenidas y referencias consultadas. 
+Información de las investigaciones solicitadas plasmadas en 
+resúmenes Conocimientos y dominio del tema en las 
+exposiciones orales 
+Discusión plenaria de temas por equipo 
+Exámenes escritos para comprobar el manejo de aspectos 
+teóricos y prácticos Participación activa y colaborativa 
+
+ 
+
+11. Fuentes de información 
+
+1. Badui Dergal S. 2006. Química de los Alimentos, 4a edición. 
+Pearson Educación. 
+
+2. Belitz H.D. 2012. Química de los alimentos, 3a edición, editorial 
+Acribia. 
+
+3. Charley, H. (1991). Tecnología de Alimentos. Editorial Limusa, 
+México 
+
+4. Cheftel, J. C. and Cheftel H. (1989). Introducción a la bioquímica 
+y tecnología de alimentos, Vol. I y II, Edititorial Acribia. 
+
+5. Coultate T.P., 2007. Alimentos: Química de sus componentes. 
+Editorial Acribia, primera edición. 
+
+6. Fennema O.R., 2010. Química de los alimentos. Edit. Acribia, 
+Tercera edición 
+
+7. Fox, A.B., and Cameron, G. A. (2000).Ciencia de los Alimentos 
+nutrición y salud (4ta reimpresión). Editorial Limusa. 
+
+8. Lee, F. A. (1990). Basic food chemistry. Editorial Published by AVI. 
+
+Página | 16  
+ 
+
+
+
+ 
+ 
+
+ 
+9. Linden G., Lorient D., 1997. Bioquímica Agroindustrial. Editorial 
+
+Acribia, primera edición. 
+10. Lück E., 2000. Conservación Química de los Alimentos. Editorial 
+
+Acribia, segunda edición. 
+11. Mathews C. K., Van Holde K. E., Ahern K. G., 2000. Biochemistry. 
+
+Editorial 
+12. Multon J.L., 2000. Aditivos y Auxiliares de Fabricación. Editorial 
+
+Acribia, primera edición. 
+13. Pomeranz, Y. (1985).Functional Properties of Food 
+
+Components. Editorial Academic Press, INC. S.A 
+14. Potter, N.N. and Hotchkiss, J. H. (1999). Ciencia de los 
+
+Alimentos. Editorial Acribia. 
+15. Tucker, G.A. and Woods, L.F.J. (1991) Enzymes in Food 
+
+Processing. Publishing by AVI, USA 
+Fuentes de Internet.  
+Nota: se consideran como fuentes serias de información en 
+Internet a los sitios web de universidades e instituciones de 
+educación superior de prestigio, centros de investigación (no 
+comercial), organismos gubernamentales tanto nacionales 
+como internacionales y organismos sin fines de lucro. 
+Artículos de revistas científicas: Food Technology, Journal of Food 
+Engineering, Food Science and Technology International, entre 
+otros 
+
+ 
+
+  
+
+Página | 17  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+Página | 18

@@ -1,0 +1,546 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Tópicos de Logística 
+  
+
+Clave de la asignatura: SEC - 2107 
+  
+
+1
+SATCA : 2-2-4 
+
+  
+Carrera: Ingeniería Industrial 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura aporta al perfil del Ingeniero industrial la capacidad para gestionar los procesos 
+logísticos en el sistema de producción de bienes y servicios, con orientación al servicio del cliente 
+en el ambiente nacional e internacional; así mismo la habilidad para diseñar, construir, planear, 
+organizar, manejar, controlar y mejorar sistemas de abastecimiento y distribución de bienes y 
+servicios de manera sustentable y administrar los sistemas de flujo de materiales en las 
+organizaciones en forma eficaz y eficiente. 
+
+La importancia de esta asignatura radica en que las actividades económicas actuales se llevan a 
+cabo entre cadenas de suministro donde las alianzas estratégicas y el manejo de la logística inversa 
+contribuyen al éxito de las mismas. 
+
+La asignatura se relaciona con Administración de Operaciones I y II en cuanto a la planeación de 
+la demanda y de los recursos necesarios para satisfacerla, con Integración de los Sistemas de 
+Gestión ya que coadyuva en el cumplimiento y certificación de los procesos, con Ingeniería de 
+Sistemas al plantear una visión holística del ciclo de vida de productos y servicios. 
+
+Intención didáctica 
+La asignatura es teórico-práctica debido a que se estudian los conceptos relacionados con la 
+logística en diversas fuentes de información y, a la vez, los estudiantes aplican los conceptos 
+abordados analizando casos de estudio. 
+El temario se ha organizado en cuatro temas, tomando en consideración la necesidad de ampliar 
+algunos de los conocimientos vistos en la asignatura de Logística y Cadenas de Suministro. 
+En el tema uno se desarrollan aspectos como la importancia de los proveedores el proceso de 
+selección de los mismos, así como las estrategias de negociación y alianzas con los proveedores en 
+el contexto comercial. 
+En el tema dos se analiza el diseño de envases y embalajes, con base en las normas aplicables, 
+influyendo en los procesos logísticos para crear y mejorar procesos productivos de bienes o 
+servicios. 
+En el tema tres se aborda el concepto de Logística Inversa, beneficios y obstáculos y el impacto 
+que tiene en el mejor aprovechamiento de los recursos, utilizando casos de estudio. 
+ 
+En el tema cuatro se plantean los conceptos generales de la logística internacional, así como los 
+Tratados de Libre Comercio firmados por México y su impacto en el desempeño global de las 
+organizaciones. Se analizan también las barreras arancelarias y no arancelarias, así como el marco 
+legal en materia aduanal y de comercio internacional. 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+Las competencias del profesor deben mostrar y objetivar su conocimiento y experiencia en el área, 
+para construir escenarios de aprendizaje significativo en los estudiantes para motivarlos en su 
+formación profesional. 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Instituto Tecnológico de Reunión de Academia de 
+Zacatepec, Zacatepec Morelos, Zacatepec Ingeniería Industrial para el 
+08 al 19 febrero 2021 Diseño de la Especialidad y 
+
+Elaboración de Planes y 
+Programas para el Plan de 
+Estudios IIND-2010-227. 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Analiza, diseña y mejora sistemas logísticos en las empresas de bienes y servicios considerando 
+aspectos de sustentabilidad en un ambiente globalizado. 
+
+5. Competencias previas 
+
+ Conoce el concepto de la cadena de suministro 
+
+ Conoce las propiedades de los diferentes materiales 
+
+ Comprende y aplica el pensamiento sistémico 
+
+ Identifica las normas aplicables vigentes  
+
+ Elabora planes y programas 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Selección, desarrollo y relación con 1.1 Importancia de los proveedores en el 
+proveedores  proceso logístico. 
+
+1.2 Proceso de selección de proveedores 
+     1.2.1 Criterios para la selección 
+ 1.2.2 Identificación de posibles proveedores 
+     1.2.3 Evaluación de proveedores 
+     1.2.4 Selección de proveedores 
+1.3 Desarrollo de proveedores 
+1.4 Estrategia de negociación y alianzas con los 
+proveedores 
+
+2 Diseño del envase y embalaje 2.1 Conceptos y objetivos 
+2.2 Tipos 
+2.3 Materiales 
+2.4 Marco normativo 
+2.5 Metodología de diseño 
+2.6 Criterios de diseño 
+2.7 Caso práctico 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+3 Logística Inversa 3.1 Concepto y definiciones 
+3.2 Análisis del Ciclo de Vida (ACV) del 
+producto 
+3.3 Impulsores principales de la Logística 
+Inversa 
+3.4 Implementación: beneficios y obstáculos 
+3.5 Actividades de la Logística Inversa 
+3.6 Casos de estudio 
+
+4 Logística internacional 4.1 México y sus Tratados de Libre Comercio 
+ 4.2 Empresas internacionales, multinacionales, 
+
+transnacionales y globales  
+4.3 Logística de la comercialización  
+4.4 Logística de la operación aduanera  
+4.5 Barreras arancelarias y no arancelarias  
+4.6 Marco normativo en materia fiscal y 
+recintos fiscalizados 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Selección, desarrollo y relación con proveedores 
+Competencias Actividades de aprendizaje 
+
+Específica(s):   Investigar la relación entre proveedores 
+externos y clientes en el proceso 
+
+ Diseña un programa de evaluación y logístico.  
+selección de proveedores. 
+
+ Identificar métodos para la selección de 
+ Conoce estrategias de alianzas y proveedores que cumplan con un 
+
+exclusividad, así como el grado de sistema de calidad.  
+compromiso con los proveedores con base 
+
+ Elaborar un programa para la 
+a las expectativas de los inversionistas en 
+
+calificación y contratación de 
+un contexto comercial. 
+
+proveedores.  
+
+Genéricas:  Diseñar un programa para el desarrollo 
+de proveedores. 
+
+Competencias instrumentales:  Revisar cómo se llevan a cabo los 
+acuerdos y las alianzas con los 
+
+ Capacidad de análisis y síntesis  
+proveedores. 
+
+ Capacidad de organizar y planificar  
+ Comunicación oral y escrita  
+ Habilidades básicas de manejo de la 
+
+computadora  
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas  
+
+ Toma de decisiones. 
+ 
+
+Competencias interpersonales  
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ Capacidad crítica y autocrítica  
+ Habilidades y capacidades interpersonales 
+
+para el trabajo en equipo  
+ 
+Competencias sistémicas  
+
+ Capacidad de aplicar los conocimientos 
+en la práctica  
+
+ Habilidades de investigación  
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma 
+ Búsqueda de logro 
+ Poseer iniciativa al elaborar y resolver los 
+
+problemas propios de los proyectos. 
+ 
+
+2. Diseño del envase y embalaje 
+ 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   Investigar y reportar diferentes 
+definiciones de envase y embalaje y su 
+
+ Analiza los diversos aspectos considerados relación con el tipo de producto y 
+para diseños de envases y embalajes. transporte. 
+
+ Diseña sistemas de envase y embalaje  Investigar la metodología para el diseño de 
+basándose en las normas nacionales e los envases y embalajes. 
+internacionales vigentes. 
+
+ Diferenciar los diversos criterios de diseño. 
+
+Competencias instrumentales:  Aplicar los criterios de diseño con relación 
+al material a transportar. 
+
+ Capacidad de análisis y síntesis   Realizar el diseño o rediseño para un caso 
+ Capacidad de organizar y planificar  práctico. 
+ Comunicación oral y escrita  
+ Habilidades básicas de manejo de la 
+
+computadora  
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas  
+
+ Toma de decisiones. 
+ 
+
+Competencias interpersonales  
+
+ Capacidad crítica y autocrítica  
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ Habilidades y capacidades interpersonales 
+para el trabajo en equipo  
+
+ 
+Competencias sistémicas  
+
+ Capacidad de aplicar los conocimientos 
+en la práctica  
+
+ Habilidades de investigación  
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma 
+ Búsqueda de logro 
+ Poseer iniciativa al elaborar y resolver los 
+
+problemas propios de los proyectos. 
+3. Logística Inversa 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   Investigar el concepto de Logística 
+Inversa y elaborar su propia definición. 
+
+ Comprende la importancia de la Logística 
+ Realizar un diagrama del ciclo de vida de 
+
+Inversa, la relación existente entre esta y la 
+un producto. 
+
+cadena de suministro y su impacto en el 
+ Elaborar una línea de tiempo de la 
+
+medio desde el punto de vista económico, 
+evolución de la Logística Inversa. 
+
+operativo y de sustentabilidad. 
+ Analizar casos de estudio. 
+
+Competencias instrumentales: 
+
+ Capacidad de análisis y síntesis  
+ Capacidad de organizar y planificar  
+ Comunicación oral y escrita  
+ Habilidades básicas de manejo de la 
+
+computadora  
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas  
+
+ Toma de decisiones. 
+ 
+
+Competencias interpersonales  
+
+ Capacidad crítica y autocrítica  
+ Habilidades y capacidades interpersonales 
+
+para el trabajo en equipo  
+ 
+ 
+ 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+Competencias sistémicas  
+
+ Capacidad de aplicar los conocimientos 
+en la práctica  
+
+ Habilidades de investigación  
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma 
+ Búsqueda de logro 
+ Poseer iniciativa al elaborar y resolver los 
+
+problemas propios de los proyectos. 
+ 
+
+4. Logística internacional 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   Revisar el contexto competitivo de 
+México en el mercado internacional.  
+
+Analiza la normatividad vigente, nacional e 
+ Conocer las principales características, 
+
+internacional, para diseñar estrategias logísticas 
+similitudes y diferencias de las 
+
+internacionales y obtener ventajas competitivas 
+empresas internacionales, 
+
+en la organización. 
+multinacionales, transnacionales y 
+
+Competencias instrumentales: globales.  
+
+ Analizar los requerimientos del 
+ Capacidad de análisis y síntesis  mercado internacional en torno al 
+ Capacidad de organizar y planificar  diseño de estrategias logísticas. 
+ Comunicación oral y escrita   Analizar una estrategia de 
+ Habilidades básicas de manejo de la comercialización para algún producto 
+
+computadora  
+en el mercado internacional. 
+
+ Habilidad para buscar y analizar 
+información proveniente de fuentes 
+diversas  
+
+ Toma de decisiones. 
+ 
+Competencias interpersonales  
+
+ Capacidad crítica y autocrítica  
+ Habilidades y capacidades interpersonales 
+
+para el trabajo en equipo  
+ 
+Competencias sistémicas  
+
+ Capacidad de aplicar los conocimientos 
+en la práctica  
+
+ Habilidades de investigación  
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ Capacidad de generar nuevas ideas 
+(creatividad) 
+
+ Habilidad para trabajar en forma 
+autónoma 
+
+ Búsqueda de logro 
+ Poseer iniciativa al elaborar y resolver los 
+
+problemas propios de los proyectos. 
+ 
+
+8. Práctica(s) 
+
+ Diseñar un envase y embalaje para un caso hipotético y uno real 
+ Visitar las distintas exposiciones de logística, presenciales o virtuales 
+ Analizar casos de estudio 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar el 
+desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual se 
+fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que permite a los 
+estudiantes lograr la comprensión de la realidad o situación objeto de estudio para definir un 
+proceso de intervención o hacer el diseño de un modelo. 
+
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto por parte 
+de los estudiantes con asesoría del docente; implica planificar un proceso: de intervención 
+empresarial, social o comunitaria, el diseño de un modelo, entre otros, según el tipo de 
+proyecto, las actividades a realizar los recursos requeridos y el cronograma de trabajo. 
+
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte de los 
+estudiantes con asesoría del docente, es decir en la intervención (social, empresarial), o 
+construcción del modelo propuesto según el tipo de proyecto, es la fase de mayor duración 
+que implica el desempeño de las competencias genéricas y especificas a desarrollar. 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-profesión, 
+social e investigativo, ésta se debe realizar a través del reconocimiento de logros y aspectos 
+a mejorar se estará promoviendo el concepto de “evaluación para la mejora continua”, la 
+metacognición, el desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+10. Evaluación por competencias  
+
+ Exámenes escritos 
+ Investigación documental 
+ Análisis de casos 
+ Portafolio de evidencias 
+
+ 
+11. Fuentes de información 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+1. Crandall, Richard E. Crandall, William R. Chen, Charlie C. (2015). Principles of Supply 
+Chain Management. Boca Ratón, FL: CRC Press. 
+
+2. Chopra, Sunil. Meindl Peter. (2008). Administración de la Cadena de Suministro. 
+Estrategia, Planeación y Operación. Tercera Edición. Pearson, Prentice Hall. 
+
+3. Bancomext (Comercio Exterior) en: https://www.gob.mx/bancomext  
+4. Guía del Exportador. Bancomext (CERI) en: 
+
+https://www.gob.mx/cms/uploads/attachment/file/63793/GuiaBasicaDelExportador.pdf  
+5. Long, Douglas (2006) Logística internacional; Administración de la cadena de 
+
+suministro global. LIMUSA 
+6. Escriba Mosso J., Saball Gidó V., Martínez García A. (2014) Gestión de compras. Ed. 
+
+McGraw-Hill 
+7. Pierre A. David (2015) Logística Internacional, administración de comercio 
+
+internacional. Ed. Cengage Learning. 
+8. Dorta Gonzalez P. (2013) Transporte y Logística Internacional. Ed. McGraw-Hill. 
+9. Silva Juárez E. (2020) Elementos de Logística Internacional. Publicaciones 
+
+administrativas contables jurídicas 
+10. Castellano Ramírez A. (2015) Logística Comercial Internacional. Ed. Universidad del 
+
+Norte. 
+11. Bancomext. Revista de Comercio Exterior en: http://www.revistacomercioexterior.com/  
+12. Ballou, R. (2010), Logística. Administración de la Cadena de Suministro. Pearson, 
+
+México. 
+13. Heredia Viveros, Nohora Ligia. (2007) Gerencia de Compras: La nueva estrategia 
+
+competitiva, ECOE Ediciones, Colombia.  
+14. ISO 9001:2008, apartado 7.4.2  
+15. Mercado, Salvador (2006). Compras. Principios y aplicaciones. Cuarta Edición, Limusa, 
+
+Grupo Noriega Editores, México D.F., México.  
+16. Sangri Coral A. (2013) Administración de Compras adquisiciones y 
+
+Abastecimiento. México Ed. Grupo Editorial Patria. 
+17. Martinez Moya E.(2007) Gestión de compras. 4ª. Edición. Ed. Fundación Confemetal 
+
+Madrid. 
+18. Dueñas Noguera Juan (2017) Gestión de proveedores. Ed. IC Editorial 
+
+ 
+
+ 
+ 
+ 
+
+Página | 8

@@ -1,0 +1,913 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Biofisicoquímica  
+
+  
+
+  
+
+  
+
+Clave de la asignatura: BAF-2105 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+SATCA1: 3-2-5 
+
+  
+
+  
+
+Carrera: Ingeniería Bioquímica 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+En Biofisicoquímica convergen aspectos  de química, biología y física, lo que la 
+hace una disciplina diversa y extremadamente rica para la investigación. En 
+esta asignatura se consideran aspectos básicos sobre los principios y métodos 
+de la fisicoquímica para caracterizar e identificar moléculas biológicas y sus 
+mezclas. La biofisicoquímica moderna se basa profusamente en métodos  y 
+técnicas instrumentales, por lo que tiene aplicaciones importantes 
+bioquímicas, médicas, farmacéuticas y alimentarias. 
+
+Las técnicas tradicionales en biofisicoquímica difieren según los objetivos que 
+se persigan, los cuales incluyen la determinación de propiedades de las 
+biomoléculas y sus complejos, así como su estructura y función. En este 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+sentido, se abordan algunas técnicas representativas, tales como las de 
+espectroscopia óptica (fluorescencia, dicroísmo circular, etc), espectrometría 
+de masas biológica (MALDI-TOF y ESI-MS), resonancia magnética nuclear, 
+técnicas de molécula única (correlación de fluorescencia, pinzas ópticas), 
+espectroscopia ultrarrápida, difracción de rayos X (cristal único, policristal y 
+SAXS/WAXS), y microscopia electrónica. 
+
+Intención didáctica 
+
+ 
+
+El curso de Biofisicoquímica consta de 7 unidades diseñadas para identificar y 
+caracterizar moléculas de origen biológico. El Tema 1 aborda los principios 
+físicos de óptica en biomoléculas, y su aplicación en técnicas basadas en 
+fluorescencia como anisotropía, FRET y cinética fluorescente. El Tema 2 se 
+enfoca en métodos basados en la espectrometría de masas, abarcando tanto 
+la descripción física, instrumental y aplicación de la espectrometría MALDI 
+(Matrix-Assisted Laser Desorption/Ionization) y ESI (Electron Spray Ionization). 
+La espectroscopia de resonancia magnética nuclear (RMN) para moléculas 
+biológicas es el propósito del Tema 3, haciendo énfasis en la técnica pulsada, 
+pero también incluyendo el Efecto Overhauser y la Resonancia Paramagnética 
+Electrónica (EPR). Las técnicas de detección de molécula única se revisan en el 
+Tema 4; en este tema se analizan los fundamentos y antecedentes, así como  la 
+aplicación y caracterización de correlación óptica y pinzas ópticas. En el Tema 
+5 se analizan y discuten las técnicas y aplicaciones de la espectroscopia 
+ultrarrápida, orientándose al rol que presentan las moléculas biológicas en 
+procesos como la fotosíntesis. Los Tema 6 y 7 considera temas actuales para la 
+determinación de estructura y visualización de proteínas y otras biomoléculas 
+a través de la difracción de rayos X y microscopia electrónica, respectivamente.  
+Este tema comprende los principios básicos de funcionamiento, fenómenos 
+físicos involucrados, aplicaciones, limitaciones, información obtenida e 
+interpretación de los resultados de técnicas de  
+
+Microscopia Electrónica de Barrido (SEM), Transmitancia (TEM), Fuerza 
+Atómica (AFM),  Difracción de Rayos X y de sus dispersiones, tanto en ángulo 
+amplio (WAXS) como pequeño (SAXS).    
+
+ 
+
+ 
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Cinthya Dinorah Arrieta Desarrollo de planes y 
+Zacatepec Morelos, 25 González. programas de nuevas 
+de enero del 2021 especialidades 
+
+ 
+
+J. Guadalupe Jesus 
+Gorostieta Vargas.  
+
+ 
+
+Francisco Javier 
+Hernández Campos  
+
+ 
+
+Blanca Estela Ortiz 
+Aguilar 
+
+ 
+
+Alfredo Quinto 
+Hernández     
+
+ 
+
+Alberto Álvarez Castillo      
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Identifica, comprende, y relaciona los principios de la Biofisicoquímica para la 
+identificación y caracterización de moléculas biológicas, así como, para el 
+análisis cualitativo y cuantitativo, abarcando la espectroscopia óptica, 
+espectrometría de masas, resonancia magnética nuclear, espectroscopia de 
+molécula única, espectroscopia ultrarrápida, difracción de rayos X y 
+microscopia electrónica. 
+
+5. Competencias previas 
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+• Conoce los fundamentos básicos de Fisicoquímica, Bioquímica, Química 
+
+Orgánica y Química Analítica para aplicarlos en la resolución de 
+problemas biofisicoquímicos. 
+
+• Conoce e interpreta las técnicas básicas de Análisis Instrumental. 
+
+• Identifica la estructura de moléculas biológicas y de proteínas. 
+
+• Identifica las propiedades ópticas, eléctricas y magnéticas de 
+biomoléculas. 
+
+• Identifica las biomoléculas para su estudio de acuerdo a su composición, 
+estructura, función y origen. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Espectroscopia óptica de 1.1 Definiciones 
+biomoléculas 
+
+   1.1.1 Biofisicoquímica y alcances 
+
+   1.1.2 Interacción luz-materia 
+
+   1.1.3 Espectroscopia de absorción  
+
+   1.1.4 Principio Franck-Condon 
+
+   1.1.5 Diagrama de Jablonski 
+
+1.2 Propiedades ópticas de 
+biomoléculas  
+
+1.3 Técnicas básicas de fluorescencia 
+
+   1.3.1 Sondas fluorescentes 
+
+   1.3.2 Detección fluorescente 
+
+   1.3.3 Anisotropía fluorescente 
+
+   1.3.4 Transferencia de la energía de 
+
+            Förster Resonacia (FRET) 
+
+   1.3.5 Cinética fluorescente 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+1.4 Técnicas quiroópticas y de 
+dispersión 
+
+   1.4.1 Dicroísmo circular 
+
+   1.4.2 Dispersión óptica rotatoria 
+
+   1.4.3 Técnicas basadas en dispersión      
+
+           de luz 
+
+ Espectrometría de masas para 2.1 Introducción  
+moléculas biológicas 
+
+2.2 MALDI-TOF 
+
+           2.2.1. Ionización y detección 
+
+           2.2.2. Señales e interpretación 
+
+2.3 ESI-MS  
+
+            2.3.1. Ionización y detección 
+
+            2.3.2. Señales e interpretación 
+
+3 Resonancia magnética nuclear 3.1 Principios y marco teórico  
+(RMN) de biomoléculas 
+
+3.2 Espectroscopia RMN pulsada  
+
+3.3 Espectroscopia RMN 
+bidimensional  
+
+3.4 Efecto Overhauser  
+
+3.5 Resonancia Paramagnética 
+Electrónica 
+
+4 Técnicas de molécula única 4.1 Introducción  
+
+4.2 Detección óptica de molécula 
+única  
+
+4.3 Espectroscopia de correlación de 
+fluorescencia 
+
+4.4. Pinzas ópticas 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+5 Espectroscopia ultrarrápida y no 5.1 Introducción  
+
+lineal 
+5.2 Espectroscopia y microscopia no 
+lineal  
+
+      5.2.1 Excitación multifotónica 
+
+      5.2.2 Señales ópticas lineales y no  
+
+      lineales 
+
+      5.2.3 Técnicas de mezclado óptico 
+
+5.3 Espectroscopia ultrarrápida 
+
+      5.3.1 Especroscopia pump-probe 
+
+6 Difracción de rayos X de 6.1 Introducción  
+moléculas biológicas 
+
+6.2 Simetría en cristales  
+
+       6.2.1 Operaciones de simetría 
+
+       6.2.2 Redes cristalinas 
+
+       6.2.3 Grupos espaciales 
+
+6.3 Dispersión y difracción de cristales 
+
+       6.3.1 Fuentes (rayos X, neutrones,   
+
+       radiación sincrotrón) 
+
+       6.3.2 Colección y reducción de 
+datos 
+
+6.4 Métodos experimentales 
+
+       6.4.1 Cristal único 
+
+       6.4.2 Materiales policristalinos 
+
+6.5 Cristalografía de proteínas 
+
+       6.5.1 Macromoléculas biológicas 
+
+       6.5.2 Cristales de proteínas  
+
+       6.5.3 Principios de cristalización de   
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+       proteínas 
+
+       6.5.4 Métodos de cristalización 
+
+6.6 SAXS/WAXS 
+
+6.7 Interpretación de mapas de 
+densidad  
+
+       electrónica y afinamiento del 
+modelo  
+
+       tridimensional  
+
+6.8 Validación de los datos 
+
+7 Microscopia electrónica de 7.1 Principios de microscopia 
+moléculas biológicas electrónica 
+
+            7.1.1 Introducción 
+
+            7.1.2 Obtención de electrones 
+
+            7.1.3 Lentes electrostáticas 
+
+            7.1.4 Formación de imágenes 
+
+            7.1.5 Problemas de formación 
+de  
+
+             imágenes 
+
+7.2 Teoría de la formación de imagen 
+
+7.3 Microscopia electrónica de barrido 
+
+7.4 Microscopia electrónica de  
+
+      transmisión 
+
+7.5 Microscopia de fluorescencia 
+convencional 
+
+7.6 Microscopia de fluorescencia 
+confocal 
+
+7.7 Microscopia de fluorescencia de 
+reflexión total interna 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+7.8 Microscopia de fluorescencia de 
+alta resolución 
+
+7.9 Microscopia de fuerza atómica 
+
+7.10 Criomicroscopia 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Espectroscopia óptica de biomoléculas 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Realizar un análisis comparativo de 
+las diferencias entre los métodos 
+
+• Identifica los fundamentos de la tradicionales en Biofisicoquímica, 
+Biofisicoquímica para la sus métodos instrumentales y sus 
+caracterización de biomoléculas. aplicaciones en la investigación 
+
+• Analiza la conceptualización óptica científica y el desarrollo 
+y las propiedades ópticas de tecnológico. 
+biomoléculas • Evaluar la respuesta de los 
+
+métodos analíticos en base a los 
+• Aplica los conceptos de la parámetros de calidad 
+
+espectroscopia de fluorescencia, cuantitativos (precisión y 
+quiroóptica y de dispersión para la exactitud). 
+identificación y análisis • Describir la calibración y relación 
+cuantitativo de biomoléculas. señal/ruido en el análisis 
+
+instrumental dirigida a 
+• Identifica las partes de biomoléculas. 
+
+instrumentos de espectroscopia • Investigar casos de estudio. 
+óptica (fluorescencia, anisotropía  
+fluorescente, Transferencia de la 
+energía de Förster Resonacia 
+(FRET), Dicroísmo circular y 
+Dispersión óptica rotatoria). 
+
+• Interpreta los resultados derivados 
+de un análisis biofisicoquímico 
+para la resolución de problemas 
+específicos. 
+
+Genéricas: 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+• Capacidad de análisis y síntesis.  
+
+• Capacidad para la solución de 
+Problemas.  
+
+• Habilidad para la búsqueda de 
+información. 
+
+• Capacidad para trabajar en 
+equipo.  
+
+• Habilidad en el uso de 
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico. 
+
+Espectrometría de masas para moléculas biológicas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Exponer la teoría de la 
+espectrometría de masas 
+
+Identifica y conceptualiza las técnicas aplicada a moléculas 
+de  espectrometría de masas estándar biológicas. 
+(MALDI-TOF y ESI-MS) para la • Distingue y relaciona las 
+determinación de la estructura de técnicas MALDI-TOF y ESI-MS. 
+moléculas biológicas. • Identificar las aplicaciones para 
+ la determinación elemental de 
+
+la estructura de moléculas 
+Genéricas:  biológicas y sus mezclas 
+
+complejas. 
+• Capacidad de análisis y síntesis. 
+
+• Conocer los componentes 
+• Capacidad para la solución de básicos de los distintos equipos 
+
+Problemas.  utilizados en las técnicas 
+• Habilidad para búsqueda de MALDI-TOF y ESI-MS. 
+
+información. 
+• Interpretar y diferenciar los 
+
+• Capacidad para trabajar en espectros generados a partir 
+equipo.  del análisis de muestras. 
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+• Habilidad en el uso de  
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico. 
+
+Resonancia magnética nuclear (RMN) de biomoléculas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar e interpretar la teoría 
+de resonancia magnética 
+
+Comprende los conceptos básicos de nuclear (RMN) dirigida a 
+la Espectroscopia de RMN aplicada a biomoléculas y distinguir las 
+la caracterización de biomoléculas diferencias con respecto a esta 
+Genéricas:  técnica aplicada a moléculas de 
+
+menor peso molecular. 
+• Capacidad de análisis y síntesis.  • Realizar la interpretación de los 
+• Capacidad para la solución de espectros de primer orden con 
+
+Problemas.  base a la absorción de los 
+• Habilidad para búsqueda de protones. 
+
+información. • Identificar los componentes 
+• Capacidad para trabajar en básicos de los espectrómetros 
+
+equipo.  de RMN así como su principio 
+• Habilidad en el uso de operacional. 
+
+tecnologías de información y • Establecer las limitaciones y 
+comunicación.  ventajas de la espectroscopia 
+
+• Capacidad de aplicar los de RMN respecto a sus 
+conocimientos en la práctica. aplicaciones y su relación con 
+
+• Uso de lenguaje científico- otros métodos instrumentales 
+tecnológico. análogos a sus principios 
+
+(Efectos Overhauser y 
+Resonancia Paramagnética 
+Electrónica), desde una 
+aproximación distinta 
+(difracción de rayos X y 
+microscopia electrónica) 
+
+Técnicas de molécula única 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+Específica(s): • Describir el experimento de 
+
+molécula única.  
+Aplica los conceptualización de las • Entender y explicar el concepto 
+técnicas de molécula única para de molécula única en el 
+explorar el potencial de aplicación, en movimiento de moléculas 
+contraste con aquellas técnicas de biológicas, conformaciones y de 
+conjuntos moleculares, en que las detalles espectroscópicos de 
+propiedades y conducta individual no ambientes locales. 
+puede ser determinada. • Explorar la aplicación FRET, 
+ microscopia de fuerza atómica 
+
+(AFM) y pinzas ópticas (optical 
+Genéricas:  tweezers) para el estudio de 
+
+proteínas y sus complejos. 
+• Capacidad de análisis y síntesis. 
+• Capacidad para la solución de 
+
+Problemas. 
+• Habilidad para búsqueda de 
+
+información. 
+• Capacidad para trabajar en 
+
+equipo.  
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico 
+
+Espectroscopia ultrarrápida y no lineal 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Describir los principios físicos 
+de la espectroscopia 
+
+Aplica los conceptos de la ultrarrápida y no lineal  
+espectroscopia ultrarrápida y no • Identificar las aplicaciones de 
+lineal para el estudio de fenómenos los sistemas laser ultrarrápidos 
+ultrarrápidos, haciendo énfasis en en la investigación de muestras 
+aquellos relacionados con la biológicas. 
+conversión de energía en la • Exponer la instrumentación de 
+fotosíntesis. técnicas laser ultrarrápidas, en 
+ relación a los fenómenos de 
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+Genéricas:  excitación y mezclado en la 
+
+generación de armónicos. 
+• Capacidad de análisis y síntesis. •  Conocer los alcances y 
+• Capacidad para la solución de limitaciones de la 
+
+Problemas. espectroscopia ultrarrápida y 
+• Habilidad para búsqueda de no lineal. 
+
+información. 
+• Capacidad para trabajar en 
+
+equipo.  
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico. 
+
+Difracción de rayos X de moléculas biológicas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Describir los fundamentos de la 
+difracción de rayos X. 
+
+• Identifica los conceptos de la • Describir la instrumentación 
+difracción de rayos X para el clásica y actualizada de los 
+análisis de moléculas equipos de difracción de rayos 
+biológicas. X aplicados a biomoléculas. 
+
+• Comprende las diferencias • Indicar las diferencias 
+entre las diversas técnicas de existentes entre los distintos 
+difracción de rayos X aplicadas métodos de difracción de rayos 
+a cristalografía de proteínas. X para biomoléculas (cristal 
+
+• Comprende la diferencia entre único, policristal, SAXS, entre 
+los procesos de emisión y otros). 
+absorción para su utilización en • Exponer la cristalografía de 
+la solución de problemas proteínas, incluyendo sus 
+analíticos principios y métodos de 
+
+ cristalización.   
+• Interpretar los difractogramas 
+
+Genéricas:  de rayos X y desarrollar 
+interpretaciones de 
+
+• Capacidad de análisis y síntesis.  biomoléculas y su afinamiento 
+• Capacidad para la solución de para obtener modelos 
+
+Problemas.  tridimensionales. 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+• Habilidad para búsqueda de 
+
+información. 
+• Capacidad para trabajar en 
+
+equipo.  
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico. 
+
+Microscopia electrónica de moléculas biológicas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Describir los fundamentos de la 
+microscopia electrónica y la 
+
+Aplica los conceptos de microscopia teoría de la formación de 
+electrónica para la interpretación de imágenes. 
+imágenes de muestras biológicas. • Identificar la instrumentación 
+ de los equipos de microscopia 
+
+electrónica, inicialmente 
+Genéricas:  enfocándose a la microscopia 
+
+electrónica de barrido y de 
+• Capacidad de análisis y síntesis.  tunelamiento, para evolucionar 
+• Capacidad para la solución de a las de fluorescencia, fuerza 
+
+Problemas.  atómica y criomicroscopia. 
+• Habilidad para búsqueda de • Examinar las ventajas y 
+
+información. limitaciones de las técnicas de 
+• Capacidad para trabajar en microscopia electrónica 
+
+equipo.  aplicadas a biomoléculas. 
+• Habilidad en el uso de • Interpretar imágenes de 
+
+tecnologías de información y microscopia electrónica  a 
+comunicación.  través de  casos de estudio. 
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico. 
+
+ 
+
+• 8. Práctica(s) 
+1. Medición de longitud focal y propiedades de lentes convergentes 
+2. Construcción básica de un microscopio 
+
+Página | 13  
+ 
+
+
+
+ 
+ 
+
+ 
+3. Cristalización de lisozima de huevo 
+4. Aplicaciones de la espectroscopia de RMN 
+5. Difracción de rayos X 
+6. Concentración micelar crítica 
+7. Flujo difusivo entre compartimentos  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Página | 14  
+ 
+
+
+
+ 
+ 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+Portafolio de Evidencias: 
+
+• Participación en clase 
+• Entrega de reportes y tareas 
+• Evaluaciones escritas  
+
+ 
+
+ 
+
+ 
+
+Página | 15  
+ 
+
+
+
+ 
+ 
+
+ 
+11. Fuentes de información 
+
+1. Walla, P. J. (2009). Modern Biophysical Chemistry. Germany: Wiley-VCH. 
+
+ 
+
+2. Giacovazzo, C., Monaco, H. L., Artioli, G., Viterbo, D., Milanesio, M., Gilli, G., Gilli, 
+Pa., Zanotti, G., Ferraris, G., and Catti, M., (2013). Fundamentals of 
+Crystallography. United States: Oxford University Press New York 
+
+ 
+
+3. Rupp, B. (2010). Biomolecular Crystallography: Principles, Practice, and 
+Application to Structural Biology. United States: Francis & Taylor. 
+
+4. Tinoco, Jr., I., Sauer, K., Wang, J. C., Puglisi, J. D., Harbison, G., Rovnyak, D. 
+(2014). Physical Chemistry: Principles and Applications in Biological Sciences. 
+United States: Pearson. 
+
+5. Hammes, Gordon G. (2005) Spectroscopy for the Biological 
+Sciences. Germany: Wiley-VCH. 
+
+6. Sheehan, D. (2009). Physical Biochemistry: Principles and Applications. 
+Germany: Wiley-VCH. 
+
+7. Egerton,  R. F. (2015). Physical Principles of Electron Microscopy: An 
+Introduction to TEM, SEM, and AEM. United States: Springer. 
+
+8. Dykstra, M. J., Reuss, L. E. (2003).  Biological, Electron Microscopy: Theory, 
+Techniques, and Troubleshooting. United States: Kluwer Academic Publishers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 16

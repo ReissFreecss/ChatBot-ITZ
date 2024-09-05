@@ -1,0 +1,551 @@
+﻿1. Datos generales de la asignatura. 
+
+Nombre de la asignatura: Instrumentación y control 
+  
+
+Clave: DSD-2103 
+  
+
+SATCA1: 2-3-5 
+  
+
+Carrera:  Ingeniería Electromecánica 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura aporta al perfil del ingeniero Electromecánico la capacidad de aplicar las 
+técnicas de medición y control de variables involucradas en todo tipo de procesos, 
+mediante el diseño de sistemas electrónicos de medición y control basados en la interfaz 
+hombre-máquina. Ésta asignatura parte de conocimientos en las diferentes áreas de la 
+ingeniería, brindando a los estudiantes un panorama de aplicación práctica de los 
+conocimientos adquiridos a la fecha. 
+ 
+Esta materia permitirá al egresado comprender el funcionamiento de equipos de medición 
+y control utilizados tanto en el ámbito de la investigación como en aplicaciones 
+industriales. 
+Intención didáctica 
+El temario está organizado en cinco unidades, en el primer tema se analizan los 
+conceptos básicos en el campo de la instrumentación, la terminología utilizada en éste 
+ámbito, las características estáticas y dinámicas de los instrumentos de medición, los 
+tipos de errores en las mediciones y la simbología. En el segundo tema se estudian los 
+sensores que se utilizan comúnmente, indicando sus características técnicas y su 
+selección para las diversas variables físicas existentes en los diferentes procesos. En el 
+tercer tema se abordan los conceptos de acondicionamiento de señales, así como las 
+técnicas de acondicionamiento de señal utilizadas y algunos ejemplos de 
+acondicionadores existentes en el mercado. Para el cuarto tema el estudiante desarrollo 
+e integra los conocimientos para el diseño de técnicas de control de variables físicas, en 
+las que utiliza los conocimientos adquiridos en los temas anteriores. El quinto tema 
+contempla el conocimiento y utilización de sistemas de adquisición de datos de tipo 
+comercial, en el que se realiza la automatización de un proceso mediante la elaboración 
+de una interfaz gráfica de usuario utilizando para ello un lenguaje de programación en 
+ambiente visual. 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+ 
+ 
+ 
+
+
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de  
+Participantes Observaciones 
+
+elaboración o revisión 
+19 de abril del 2021. Academia de Ingeniería Convocatoria para la 
+Instituto Tecnológico de Electromecánica elaboración del programa 
+Zacatepec. de especialidad 2021-2024. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+El estudiante será capaz de implementar y/o utilizar sistemas electrónicos de adquisición 
+de variables físicas para atender necesidades específicas de medición tanto a nivel 
+industrial como de pruebas en laboratorio. También generará la habilidad para proponer 
+sistemas electromecánicos de control mediante la implementación de actuadores 
+mecánicos, eléctricos, neumáticos e hidráulicos con fines de automatización de procesos 
+industriales. 
+
+ 
+ 
+5. Competencias previas 
+
+ Conocer y aplicar el uso de instrumentos básicos de medición de parámetros 
+eléctricos y mecánicos (Metrología y normalización). 
+
+ Conocer un lenguaje de programación (Introducción a la programación). 
+ Utilizar software tipo hoja de cálculo para el análisis de datos Análisis de datos y 
+
+determinación de errores. 
+ Conocer y aplicar los principios de la teoría electromagnética. 
+ Analizar y calcular parámetros eléctricos en circuitos eléctricos de CD y CA. 
+ Comprender el funcionamiento de dispositivos electrónicos analógicos y digitales. 
+
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+1 Introducción a la 1.1 Definiciones y conceptos 
+
+instrumentación 1.2 Instrumentos de medición 
+1.2.1 Clasificación de los instrumentos de 
+
+medición 
+1.2.2 Características estáticas y dinámicas 
+
+de los instrumentos de medición 
+1.3 Elementos de control 
+1.3.1 Elementos primarios 
+1.3.2 Elementos secundarios 
+1.3.3 Elementos terciarios o de control final 
+
+2 Instrumentación basada en la 2.1. Sistemas de adquisición de datos. 
+integración hardware-software 2.2. Instrumentación virtual 
+
+2.3. Instrumentación basada en 
+microcontrolador 
+
+
+
+2.3.1. Lenguaje y técnicas de programación 
+de microcontrolador 
+
+2.3.2. Medición de voltaje con 
+microcontrolador. 
+
+2.4. Programación de un Proceso. 
+2.5. Análisis y visualización de Datos. 
+
+3 Sensores para 3.1 Conceptos, principio de funcionamiento y 
+instrumentación características principales. 
+
+3.2 Sensores de temperatura. 
+3.3 Sensores de presión. 
+3.4 Sensores de flujo. 
+3.5 Sensores de nivel. 
+3.6 Sensores ultrasónicos. 
+3.7 Sensores fotoeléctricos. 
+3.8 Sensores de final de carrera. 
+3.9 Sensores de desplazamiento, velocidad y 
+
+aceleración. 
+3.10 Compensación de sensores 
+
+4 Acondicionamiento de señales 4.1 Generalidades y concepto de 
+acondicionamiento de señal. 
+
+4.2 Técnicas de acondicionamiento de señal 
+para diferentes sensores. 
+
+4.2.1 Amplificación y reducción. 
+4.2.2 Suma y resta. 
+4.2.3 Seguidor. 
+4.2.4 Puente de Wheatstone. 
+4.2.5 Filtrado 
+
+4.3 Amplificadores de instrumentación. 
+4.4 Circuitos integrados para 
+
+acondicionamiento de señales. 
+4.5 Sistemas comerciales para 
+
+acondicionamiento de señales 
+5 Aplicaciones de control 5.1. Controladores de Temperatura 
+
+5.2. Controladores de Presión 
+5.3. Controladores Flujo 
+5.4. Controladores de Nivel. 
+5.5. Control de velocidad. 
+5.6. Control de posición. 
+5.7. Implementación en software de análisis 
+
+y/o simulación 
+ 
+ 
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a la instrumentación 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Realizar una investigación bibliográfica 
+sobre los instrumentos de medición y su 
+
+ 
+clasificación. 
+ 
+
+
+
+Comprende los principios de medición de Realiza una exposición sobre las 
+los instrumentos para su correcta características estáticas y dinámicas de 
+selección y utilización. los instrumentos de medición. 
+  
+Conoce las características estáticas y Analiza los diferentes elementos de 
+dinámicas de los instrumentos de control dentro de un proceso. 
+medición.  
+  
+Conoce y aplica los elementos de  
+control. 
+ 
+ 
+Genéricas: 
+
+ Capacidad de comunicación oral y 
+escrita. 
+
+ Habilidades en el uso de las 
+tecnologías de la información y de la 
+comunicación. 
+
+ Capacidad de trabajo en equipo. 
+ Habilidades para buscar, procesar y 
+
+analizar información procedente de 
+fuentes diversas. 
+
+ 
+2. Instrumentación basada en la integración hardware-software 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Experimenta los periféricos de entrada y 
+salida del microcontrolador. 
+
+Conoce las etapas que integran un 
+ 
+
+sistema de adquisición de datos. 
+Realiza la adquisición de voltaje de un 
+
+ 
+potenciómetro mediante el ADC del 
+
+Aplica conceptos de medición y técnicas 
+microcontrolador. 
+
+de programación para la adquisición de 
+ 
+
+parámetros eléctricos.  
+Establece comunicación serie entre el 
+
+ 
+sistema embebido y la computadora. 
+
+Desarrolla interfaz gráfica de usuario 
+ 
+
+mediante software de instrumentación 
+Programa un proceso mediante 
+
+virtual. 
+instrumentación virtual. 
+
+ 
+Comprende y aplica la programación 
+basada en microcontrolador. 
+ 
+
+Genéricas: 
+
+ Capacidad de comunicación oral y 
+escrita. 
+
+ Habilidades en el uso de las 
+tecnologías de la información y de la 
+comunicación. 
+
+ Capacidad de trabajo en equipo. 
+
+
+
+ Habilidades para buscar, procesar y 
+analizar información procedente de 
+fuentes diversas. 
+
+ 
+
+ 
+ 
+
+3. Sensores para instrumentación 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Realiza una investigación sobre los 
+conceptos de funcionamiento y 
+
+Conoce e identifica las características 
+características de los sensores. 
+
+técnicas de los diferentes tipos de 
+ 
+
+sensores utilizados en los sistemas 
+Caracteriza distintos tipos de sensores y 
+
+industriales. 
+compara la información con las hojas de 
+
+ 
+datos. 
+
+Seleccionar y aplicar los diferentes 
+ 
+
+sensores utilizados en los sistemas 
+Realiza la adquisición de datos de 
+
+industriales. 
+distintos sensores, mediante el sistema 
+
+ 
+embebido y el ordenador en tiempo real. 
+
+Genéricas: 
+ 
+
+ Capacidad de comunicación oral y Utiliza y analiza las hojas de datos de 
+escrita. diferentes sensores. 
+
+ Habilidades en el uso de las 
+tecnologías de la información y de la 
+comunicación. 
+
+ Capacidad de trabajo en equipo. 
+ Habilidades para buscar, procesar y 
+
+analizar información procedente de 
+fuentes diversas 
+
+ 
+ 
+
+4. Acondicionamiento de señales 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Realiza investigación documental sobre 
+las diferentes configuraciones de 
+
+Aplica técnicas de acondicionamiento de 
+amplificadores de instrumentación. 
+
+señales utilizadas en los sistemas de 
+ 
+
+adquisición de datos. 
+Experimenta con diferentes métodos de 
+
+ 
+tratamiento de señal mediante el uso de 
+
+Diseña esquemas de acondicionamiento 
+amplificadores operacionales. 
+
+de señales basados en amplificadores de 
+ 
+
+instrumentación. 
+Establece técnicas de adaptación de 
+
+ 
+impedancias para mejorar el proceso de 
+
+Propone dispositivos electrónicos para 
+adquisición de datos. 
+
+mejorar la calidad de las señales. 
+ 
+ 
+Genéricas: 
+
+
+
+ Capacidad de comunicación oral y 
+escrita. 
+
+ Habilidades en el uso de las 
+tecnologías de la información y de la 
+comunicación. 
+
+ Capacidad de trabajo en equipo. 
+ Habilidades para buscar, procesar y 
+
+analizar información procedente de 
+fuentes diversas 
+
+ 
+5. Aplicaciones de control 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Selección e implementa sistemas de 
+medición y control de variables físicas 
+
+Selecciona y aplica estrategias de control 
+mediante la interfaz hombre-máquina. 
+
+de temperatura para procesos diversos. 
+ 
+
+ 
+Utiliza los elementos de control para 
+
+Diseña esquemas de control de variables 
+automatización de un proceso. 
+
+físicas con base al conocimiento de 
+ 
+
+diferentes sensores. 
+Realiza exposición de solución de un 
+
+ 
+proceso de automatización. 
+
+Utiliza herramientas computacionales 
+ 
+
+para la simulación y análisis de sistemas 
+ 
+
+de control de variables físicas. 
+ 
+
+ 
+ 
+
+Establece métodos de adquisición y 
+control utilizando herramientas 
+computacionales. 
+ 
+ 
+Genéricas: 
+
+ Capacidad de comunicación oral y 
+escrita. 
+
+ Habilidades en el uso de las 
+tecnologías de la información y de la 
+comunicación. 
+
+ Capacidad de trabajo en equipo. 
+ Habilidades para buscar, procesar y 
+
+analizar información procedente de 
+fuentes diversas 
+
+ 
+
+8. Práctica(s) 
+
+ Determinación de las características de un equipo de medición. 
+ Manipulación de los puertos de entrada-salida del microcontrolador 
+ Medición de voltaje y comprensión del convertidor analógico - digital (ADC) 
+ Control de actuador por medio de microcontrolador. 
+ Comunicación serie entre microcontrolador y la computadora. 
+
+
+
+ Desarrollo de un sistema de adquisición de datos de varios canales. 
+ Medición de temperatura con ordenador. 
+ Importancia del uso de multiplexores analógicos. 
+ Implementación de un sistema de control de temperatura utilizando 
+
+instrumentación virtual. 
+ Utilización de tarjeta de adquisición de datos comercial para medición y control de 
+
+variables físicas. 
+
+  
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el 
+cual se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo 
+que permite a los estudiantes lograr la comprensión de la realidad o situación 
+objeto de estudio para definir un proceso de intervención o hacer el diseño de un 
+modelo. 
+
+  
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica planificar 
+un proceso: de intervención empresarial, social o comunitario, el diseño de un 
+modelo, entre otros, según el tipo de proyecto, las actividades a realizar los 
+recursos requeridos y el cronograma de trabajo. 
+
+  
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por 
+parte de los estudiantes con asesoría del docente, es decir en la intervención 
+(social, empresarial), o construcción del modelo propuesto según el tipo de 
+proyecto, es la fase de mayor duración que implica el desempeño de las 
+competencias genéricas y especificas a desarrollar. 
+
+  
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+ 
+
+  
+
+
+
+10. Evaluación por competencias  
+
+Instrumentos y herramientas sugeridas para evaluar las actividades de aprendizaje: 
+
+ Examen escrito para evaluación del trabajo en el aula 
+ Desarrollo de prácticas en el laboratorio evaluadas con guía de desempeño 
+ Desarrollo de reporte escrito del trabajo práctico evaluado con lista de cotejo 
+ Evaluación de trabajos de investigación evaluados con una rubrica 
+ Evaluación de solución de problemas evaluados con lista de cotejo y problemario 
+ Reporte de las simulaciones software evaluado con lista de cotejo. 
+
+  
+
+11. Fuentes de información 
+
+1. Instrumentación Industrial. Antonio Creus, Editorial Marcombo. 
+2. Instrumentación Virtual. Adquisición, procesado y análisis de Señales. Antoni 
+
+Manuel, Domingo Biel. Editorial Alfaomega. 
+3. COOPER, William David. Instrumentación Electrónica Moderna y Técnicas de 
+
+medición. 3ª edición. México, Prentice Hall, 1991. 
+4. PALLAS ARENY, RAMON. Sensores y acondicionadores de señal, 3ª edición 
+
+MÉXICO, ED. ALFA OMEGA-MARCOMBO, 2000. 
+5. Creus, Antonio, Instrumentación industrial, Ed. Alfaomega. 
+6. Coisidine, Douglas M., Manual de instrumentación aplicada, Ed. Mc. Graw Hill. 
+7. Sensores y Actuadores aplicaciones con Arduino. Leonel G. Corona Ramírez, 
+
+Griselda S. Abarca Jiménez y Jesús Mares Carreño. 2ª edición, Ed. Patria, 2019 
+8. Sistemas de Control Electrónico en la Ingeniería Mecánica y Eléctrica. W. Bolton. 
+
+5ª edición. Ed. Alfaomega, 2013. 
+9. Instrumentación electrónica. Miguel Ángel Pérez García. 1ª edición. Ed. 
+
+Paraninfo, 2014. 
+10. Instrumentación electrónica aplicada. Christian G. Quintero M., José A. Oñarte 
+
+López y Humberto Arias de la Hoz. 1ª edición, Ed. Universidad del norte, 2011.

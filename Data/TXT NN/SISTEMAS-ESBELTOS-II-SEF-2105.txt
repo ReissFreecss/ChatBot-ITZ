@@ -1,0 +1,877 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Sistemas Esbeltos II 
+  
+  
+  
+
+Clave de la asignatura: SEF- 2105 
+  
+  
+  
+  
+  
+
+SATCA1: 3-2-5 
+  
+  
+
+Carrera: Ingeniería Industrial 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Actualmente, las organizaciones de manufactura y servicios se 
+encuentran inmersas en una intensa dinámica de cambios y 
+competencia, frente a estas situaciones, la administración debe de 
+adoptar nuevas estrategias de optimización de recursos, de 
+eliminación de desperdicios e incremento de la flexibilidad. 
+Surgida de la industria automotriz, Manufactura Esbelta constituye 
+una filosofía de gestión caracterizada por su trabajo en pro del 
+mejoramiento continuo y el desarrollo de una cultura para el logro 
+de una organización eficiente. Identificada como una asignatura de 
+la carrera de ingeniería industrial, esta materia proporciona al 
+perfil del egresado los conocimientos necesarios para el diseño, 
+la mejora y la integración de los sistemas productivos de bienes 
+y servicios en la búsqueda de elevar la eficiencia y la 
+productividad, así mismo, permite la formulación y gestión de 
+proyectos de inversión para el desarrollo regional, nacional e 
+internacional. 
+ 
+La presente se relaciona con las competencias adquiridas en las 
+asignaturas de Administración de las operaciones II, 
+Administración del mantenimiento, Sistemas de manufactura, Higiene 
+y seguridad industrial, Planeación y diseño de instalaciones y da 
+seguimiento a lo establecido en la asignatura de Manufactura 
+Esbelta I permitiendo una integración sistémica de diversas 
+técnicas para el análisis de las problemáticas empresariales; su 
+aplicación, en conjunto con estrategias Seis Sigma y herramientas 
+para la calidad permitirá una visión integral de la misma y el 
+planteamiento de un camino a la competitividad 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+  
+
+Intención didáctica 
+
+De manera particular, el tema 1 aborda los conocimientos básicos 
+para la reducción del desperdicio y el cumplimiento de los 
+distintos objetivos y principios planteados por la filosofía a 
+través de herramientas tales como 5 S y Andon. 
+ 
+En los temas subsecuentes (2 y 3), se desarrollan aspectos 
+puntuales de SMED, Poka Yoke y celdas de manufactura (en atención 
+al segundo gran pilar de la casa del TPS) para finalizar, en el 
+tema 4, con la aplicación de los conocimientos adquiridos en un 
+proyecto de aplicación práctica. 
+ 
+  
+
+Página | 2  
+ 
+
+
+
+ 
+
+  
+
+3. Participantes en el diseño y seguimiento curricular del 
+
+programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+
+elaboración o 
+
+revisión 
+
+Instituto Miembros de la Reunión de Academia 
+
+Tecnológico de Academia de de Ingeniería 
+
+Zacatepec, Ingeniería Industrial para el 
+
+Zacatepec, Morelos, Industrial del Diseño de la 
+
+del 08 al 12 de Instituto Especialidad y 
+
+febrero de 2021. Tecnológico de Elaboración de Planes 
+
+Zacatepec. y Programas para el 
+
+Plan de Estudios 
+ IIND-2010-227. 
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Identifica claramente lo que agrega y no agrega valor al cliente. 
+
+Realiza el análisis y síntesis de la información para el desarrollo 
+
+del sentido crítico en la identificación de herramientas para la 
+
+solución de problemas asociados a la eliminación de desperdicio. 
+
+Desarrolla habilidades para poner en práctica los principios de la 
+
+transformación hacia una cultura esbelta y la flexibilidad de los 
+
+procesos de la organización. 
+
+Fomenta el trabajo en equipo como base de los procesos de mejora.  
+
+Comprende las herramientas tales como 5S, Andon, SMED, Poka Yoke y 
+
+Celdas de Manufactura, mismas que al usarlas y, mediante la 
+
+creatividad, incrementan la eficiencia del uso de recursos de la 
+
+empresa. 
+
+5. Competencias previas 
+
+ 
+
+ Posee conocimientos básicos de manufactura y calidad. 
+
+ Diseña y gestiona proyectos de mejoramiento continuo 
+
+utilizando herramientas para la calidad como el ciclo Deming, 
+
+Kaizen y DMAIC. 
+
+Página | 3  
+ 
+
+
+
+ 
+
+  
+
+ Pone en práctica los principios de Manufactura Esbelta y 
+
+herramientas tales como 9S, Hoshin Kanri, Heijunka, Jidoka y 
+
+mapeo de procesos. 
+
+ Posee conocimiento de los principios para el desarrollo de 
+
+diagramas de flujo, proceso y recorrido. 
+
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 5S y Andon 1.1. Objetivos y fases de 5S. 
+1.2. Auditorías 5S 
+1.3. Conceptos y beneficios 
+
+de Andon 
+1.4. Colores utilizados en 
+
+Andon 
+Variantes de sistemas Andon 
+
+2 SMED y Poka Yoke 2.1. Introducción al SMED 
+2.2. Conveniencia del SMED 
+2.3. Descripción de las 
+
+etapas de SMED 
+2.4. Introducción al Poka 
+
+Yoke 
+2.5. Defectos vs Errores 
+2.6. Tipos de Poka Yoke 
+2.7. Metodología para 
+
+desarrollar un Poka Yoke 
+2.7.1. Integración de 
+
+equipos de trabajo 
+2.7.2. Identificación de 
+
+áreas de oportunidad 
+2.7.3. Diseño, 
+
+implementación, 
+mantenimiento y 
+auditoria de 
+dispositivos Poka 
+Yoke 
+
+Buzón de sugerencias 
+3 Celdas de manufactura 3.1. Definiciones y conceptos 
+
+3.2. Características, 
+ventajas y desventajas 
+
+3.3. Pasos para la 
+distribución de planta 
+celular 
+
+Página | 4  
+ 
+
+
+
+ 
+
+  
+
+3.4. Agrupación e 
+identificación de 
+familias 
+
+3.5. Procedimientos de 
+formación de células 
+
+3.6. Algoritmos de 
+agrupamiento por 
+ordenamiento de rango 
+
+Grupos tecnológicos 
+4 Aplicación de metodología  4.1. Fundamentación y 
+
+diagnóstico 
+4.2. Planeación: Análisis de 
+
+causas y propuestas de 
+mejora 
+
+4.3. Ejecución e 
+Implementación 
+
+4.4. Evaluación 
+ 
+
+  
+
+Página | 5  
+ 
+
+
+
+ 
+
+  
+
+7. Actividades de aprendizaje de los temas 
+
+1. 5 S’s y Andon 
+ 
+
+Competencias  Actividades de aprendizaje 
+Específica(s): identifica y  Diseñar y evaluar un 
+aplica en la práctica los programa de trabajo en 5S 
+elementos de la metodología que permita la puesta en 
+5S. práctica de las 
+ herramientas de 
+Analiza los elementos que manufactura esbelta. 
+estructuran los sistemas  Realizar una investigación 
+Andon. documental de los 
+Define los parámetros que conceptos básicos de Andon 
+sirven para Implementar 
+
+ Investigar los colores 
+adecuadamente los sistemas 
+
+usados en el sistema Andon. 
+Andon para la optimización de 
+
+ Buscar información para 
+la productividad de un sistema 
+
+identificar los beneficios 
+de manufactura. 
+
+que se obtienen al utilizar 
+ 
+
+un sistema Andon. 
+Identifica el tipo de Andon 
+que se requiere en una línea  Conocer los diferentes 
+
+de producción que se desea tipos de sistema Andon 
+
+monitorear para minimizar los  Realizar visitas 
+
+tiempos de solución a un industriales a empresas 
+
+problema. que utilicen sistemas de 
+
+ Genéricas: control Andon para conocer 
+
+ Capacidad de análisis y su aplicación en contextos 
+
+síntesis.  reales. 
+
+  
+Habilidades de gestión de 
+información (habilidad 
+para buscar y analizar 
+información proveniente 
+de fuentes diversas).  
+
+ Comunicación oral y 
+escrita en su propia 
+lengua.  
+
+ Capacidad de aprender.  
+
+ Solución de problemas. 
+
+ Capacidad de generar 
+nuevas ideas 
+(creatividad). 
+
+2. SMED y Poka Yoke 
+ 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 6  
+ 
+
+
+
+ 
+
+  
+
+Específica(s): conoce y  Realizar investigación 
+aplica en la práctica los documental de los conceptos 
+conceptos generales del básicos de SMED, 
+sistema SMED para el cambio presentando la información 
+rápido de utillaje. en plenaria. 
+Identifica las herramientas  Buscar y analizar la 
+de ingeniería apropiadas para información para 
+su aplicación en las cuatro identificar las fases de 
+etapas básicas del SMED implementación del cambio 
+Aplica las etapas del sistema rápido (SMED) 
+SMED a un caso real. 
+
+ Mediante casos reales en 
+Analiza y detecta los puntos 
+
+empresas analizar y evaluar 
+de mejora del proceso para la 
+
+las fases de implementación 
+construcción de un 
+
+del cambio rápido. 
+dispositivo PokaYoke. 
+
+ Realizar visitas 
+ 
+Genéricas: industriales a empresa que 
+
+aplique el SMED 
+ Capacidad de análisis y 
+
+ Investigar la historia 
+síntesis.  
+
+cronológica de los 
+ Habilidades de gestión 
+
+dispositivos Poka Yoke. 
+de información 
+
+ Investigar las ventajas y 
+(habilidad para buscar y 
+
+desventajas de los 
+analizar información 
+
+dispositivos Poka Yoke. 
+proveniente de fuentes 
+diversas).   Analizar un dispositivo 
+
+ Poka Yoke construido para un 
+Comunicación oral y 
+
+sistema en específico. 
+escrita en su propia 
+
+ 
+lengua.  
+
+ Capacidad de aprender.  
+
+ Solución de problemas. 
+
+ Capacidad de generar 
+nuevas ideas 
+(creatividad).  
+
+3. Celdas de Manufactura 
+ 
+
+Competencias  Actividades de aprendizaje 
+Específica(s): identifica el  Definir y conceptualizar 
+tipo de sistema de las celdas de manufactura, 
+manufactura celular que se por medio de gráficos 
+requiere en una línea de mentales haciendo uso de 
+producción para el la investigación 
+mejoramiento de procesos. bibliográfica.  
+Genéricas:  Elaborar cuadros 
+
+ Capacidad de análisis y conceptuales de las 
+síntesis.  características, ventajas 
+
+Página | 7  
+ 
+
+
+
+ 
+
+  
+
+ Habilidades de gestión y desventajas de las 
+
+de información celdas de manufactura 
+
+(habilidad para buscar y  Desarrollar familias de 
+analizar información partes que permitan el 
+proveniente de fuentes diseño de celdas de 
+diversas).  manufactura.  
+
+ Comunicación oral y  Integrar un análisis de 
+escrita en su propia manufactura flexible para 
+lengua.  un proceso automatizado 
+
+ Capacidad de aprender.  dentro de la región.  
+
+ Solución de problemas.  Aplicar Algoritmos de 
+
+ Capacidad de generar agrupamiento por 
+
+nuevas ideas ordenamiento (Rank-Order 
+
+(creatividad).  Cluster). 
+
+ 
+4. Aplicación de metodología 
+
+ 
+Competencias  Actividades de aprendizaje 
+
+Específica(s): planea y  Realizar proyecto en pequeña 
+desarrolla proyectos que o mediana empresa para 
+
+contribuyan a reducir las detectar actividades que no 
+
+actividades que no agregan agregan valor y realizar las 
+
+valor, contribuyendo a mejoras correspondientes que 
+
+mejorar la productividad en contribuyan al incremento de 
+la productividad de la 
+
+las empresas. 
+organización.  
+
+Aplica las herramientas de 
+ Elaborar cartel 
+
+manufactura esbelta, para el 
+describiendo el proyecto 
+
+diagnóstico de los procesos de 
+realizado y exponiéndolo 
+
+elaboración de productos y/o 
+frente a grupo. 
+
+servicios, mejorando la 
+confiabilidad y 
+competitividad en las 
+empresas. 
+ 
+Genéricas: 
+
+ Capacidad de análisis y 
+síntesis.  
+
+ Habilidades de gestión 
+de información 
+(habilidad para buscar y 
+analizar información 
+proveniente de fuentes 
+diversas).  
+
+ Comunicación oral y 
+escrita en su propia 
+lengua.  
+
+Página | 8  
+ 
+
+
+
+ 
+
+  
+
+ Capacidad de aprender.  
+
+ Solución de problemas. 
+
+ Capacidad de generar 
+nuevas ideas 
+(creatividad).  
+
+ Capacidad de aplicar los 
+conocimientos en la 
+práctica.  
+
+ Capacidad para diseñar y 
+gestionar proyectos.  
+
+ Trabajo en equipo.  
+ 
+
+ 
+ 
+
+  
+
+Página | 9  
+ 
+
+
+
+ 
+
+  
+
+ 
+
+8. Práctica(s) 
+
+ 
+Investigar en una empresa de la región cuál es la problemática que 
+enfrenta su sistema de manufactura, realizar el mapeo de un proceso 
+específico en referencia a la situación presente y futura y 
+determinar estrategias de mejora basadas en las distintas 
+herramientas definidas en el curso.    
+ 
+  
+
+Página | 10  
+ 
+
+
+
+ 
+
+  
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta 
+
+asignatura, es demostrar el desarrollo y alcance de la(s) 
+
+competencia(s) de la asignatura, considerando las siguientes 
+
+fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, 
+
+contextual, legal) en el cual se fundamenta el proyecto de 
+
+acuerdo con un diagnóstico realizado, mismo que permite a los 
+
+estudiantes lograr la comprensión de la realidad o situación 
+
+objeto de estudio para definir un proceso de intervención o 
+
+hacer el diseño de un modelo. 
+
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza 
+
+el diseño del proyecto por parte de los estudiantes con asesoría 
+
+del docente; implica planificar un proceso: de intervención 
+
+empresarial, social o comunitario, el diseño de un modelo, entre 
+
+otros, según el tipo de proyecto, las actividades a realizar 
+
+los recursos requeridos y el cronograma de trabajo. 
+
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del 
+
+proyecto realizada por parte de los estudiantes con asesoría 
+
+del docente, es decir en la intervención (social, empresarial), 
+
+o construcción del modelo propuesto según el tipo de proyecto, 
+
+es la fase de mayor duración que implica el desempeño de las 
+
+competencias genéricas y especificas a desarrollar. 
+
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en 
+
+el contexto laboral-profesión, social e investigativo, ésta se 
+
+debe realizar a través del reconocimiento de logros y aspectos 
+
+a mejorar se estará promoviendo el concepto de “evaluación para 
+
+la mejora continua”, la metacognición, el desarrollo del 
+
+pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página | 11  
+ 
+
+
+
+ 
+
+  
+
+ 
+
+10. Evaluación por competencias  
+
+ 
+
+ Participación/Exposiciones en clase  
+
+ Investigaciones bibliográficas 
+
+ Elaboración de presentaciones gráficas (mapas mentales, 
+cuadros sinópticos, mapas conceptuales, cuadros de doble 
+entrada, etc) con información relevante del curso 
+
+ Exámenes escritos  
+
+ Desarrollo y presentación de un proyecto de mejora de procesos 
+ 
+ 
+11. Fuentes de información 
+
+1. Adventures digital agency. (2017). EGEHaina - Energía que 
+potencia el desarrollo. Recuperado 23 July, 2017, from 
+http://egehaina.com/glosario/capacidad-instalada-nominal/ 
+
+2. Arnoletto, E.J.: (2007) Administración de la producción 
+como ventaja competitiva, Edición electrónica gratuita. 
+Texto completo en www.eumed.net/libros/2007b/299/ 
+
+3. Asefeso, A. (2013). Leand Handbook. (1ª ed.). United 
+Kingdom: AA Global Sourcing Ltd. 
+
+4. Blogspotmx. (2017). Blogspotmx. Recuperado 25 March, 2017, 
+de http://mcjidoka.blogspot.mx/ 
+
+5. Cabrera, R.C. (2012). Manual de Manufactura Esbelta: 
+Simplificado para PYMES. (1ª ed.). España: Editorial 
+Académica Española. 
+
+6. Cardona, J.J. (2013). Modelo para la implementación de 
+técnicas Manufactura Esbelta en empresas editoriales. (1ª 
+ed.). Colombia: Universidad Nacional de Colombia. 
+
+7. Eguaras, M. (2014, January 27). Qué tipografía usar para 
+libros impresos y digitales. Recuperado August 23, 2016, 
+de http://marianaeguaras.com/ 
+
+8. Gonzalez, H. Wordpresscom. (2012). Calidad y Gestion. 
+Recuperado 7 February, 2017, de 
+https://calidadgestion.wordpress.com/2012/08/11/innovacio
+n-y-mejora-continua/ 
+
+9. Hill, A. V. (2012). The encyclopedia of operations 
+management: A field manual and glossary of operations 
+
+Página | 12  
+ 
+
+
+
+ 
+
+  
+
+management terms and concepts (1ª ed., Vol. 1). Upper 
+Saddle River, NJ, New Jersey: FT Press. 
+
+10. Hinckley, C. .M. (2007). Combining mistake-proofing and 
+Jidoka to achieve world class quality in clinical 
+chemistry. Accreditation and Quality Assurance, 12(5), 
+223-230. 
+
+11. Hohmann. (2017). Freefr. Recuperado 23 July, 2017, from 
+http://christian.hohmann.free.fr/index.php/lean-
+entreprise/les-basiques-du-lean/156-toyota-production-
+system 
+
+12. Holloway , M & Nwahoa, C. (2013). Dictionary of Industrial 
+Terms. Canada: Scrivener Publishing. 
+
+13. Jiménez, F.J. (2011). Academiaedu. Recuperado 6 March, 
+2017, de: 
+http://www.academia.edu/17480949/_MANUFACTURA_ESBELTA_ES_
+LO_MISMO_QUE_EL_SISTEMA_DE_PRODUCCIÓN_TOYOTA_TOYOTA_PRODU
+CTION_SYSTEM_PARTE_1 
+
+14. Jiménez, F.J. (2011). Academiaedu. Recuperado 6 March, 
+2017, de: 
+http://www.academia.edu/17480949/_MANUFACTURA_ESBELTA_ES_
+LO_MISMO_QUE_EL_SISTEMA_DE_PRODUCCIÓN_TOYOTA_TOYOTA_PRODU
+CTION_SYSTEM_PARTE_2 
+
+15. Leanadvisorscom. (2017). Leanadvisorscom. Recuperado 17 
+April, 2017, de http://www.leanadvisors.com/ 
+
+16. Leansolutionsco. (2017). Leansolutionsco. Recuperado 23 
+July, 2017, from 
+http://www.leansolutions.co/conceptos/desperdicios/ 
+
+17. Madariaga, F. (2013). Manufactura Esbelta. (1ª ed.). 
+España: Bubok Publishing SL. 
+
+18. Magee, D. (2008). How Toyota Became #1: Leadership Lessons 
+from the World's Greatest Car Company. (2ª ed.). Estados 
+Unidos: Penguin. 
+
+19. Maidelyn Rodríguez Almeida. (2016). GestioPolis - 
+Conocimiento en Negocios. Recuperado 7 May, 2017, de 
+https://www.gestiopolis.com/manufactura-celular-hacia-
+una-empresa-clase-mundial/ 
+
+20. Maroto, C. M. (2008). La historia de Toyota. Recuperado 
+August 28, 2016, de http://leansc.blogspot.mx/ 
+
+Página | 13  
+ 
+
+
+
+ 
+
+  
+
+21. Mika, G. (2006). Kaizen event implementation manual. (1ª 
+ed.) Dearborn, Michigan, Estados Unidos: Society of 
+Manufacturing Engineers. 
+
+22. Mukherjee, P. .N. (2006). Total quality management. New 
+Delhi, India: Prentice-Hall of India. 
+
+23. Obara, S. & Wildburn, D. (2012). Toyota by Toyota: 
+Reflections from the inside leaders on the techniques that 
+revolutionized the industry. Florida, Estados Unidos: CRC 
+Press.  
+
+24. Rajadell, M. & Sanchez, J.L. (2010). Manufactura Esbelta: 
+La evidencia de una necesidad. Madrid, España: Ediciones 
+Díaz de Santos. 
+
+25. Rother, M. (2010). Toyota Kata: Managing people for 
+improvement, adaptiveness and superior results. Estados 
+Unidos: McGraw-Hill. 
+
+26. Samson, D. & Daft, R.L. (2014). Management. (5ª ed.). 
+Australia: Cengage Learning Australia. 
+
+27. Sandoval, G. & Vidal, L.R. (2006). “Implantación del método 
+kanban en una industria textil. Avances: Coordinación de 
+Investigación Científica”, Universidad Autónoma de Ciudad 
+Juárez, 1(141), 9-18. 
+
+28. Sarache, W. A., Castrillón O. D., Giraldo, J. A. (2011). 
+Sistemas de Producción: Modelamiento y gestión. (1ª ed.) 
+Colombia: Editorial Universidad Nacional de Colombia. 
+
+29. Shook, J. (2008). Managing to Learn. (1ª ed.). Estados 
+Unidos: The Lean Enterprise Institute, Inc. 
+
+30. Slidesharenet. (2017). Slidesharenet. Recuperado 8 July, 
+2017, from 
+https://es.slideshare.net/JuanManuelCarrionD/sistema-
+kanban-1 
+
+31. Socconini, L. (2008). Manufactura Esbelta paso a paso. 
+(12ª ed.). México: Editorial Norma. 
+
+32. Stewart, J. (2011). The Toyota Kaizen Continuum: A 
+practical guide to implementing Lean. Florida, Estados 
+Unidos: Taylor & Francis Group. 
+
+33. Theleanthinkercom. (2017). The Lean Thinker. Recuperado 25 
+March, 2017, de http://theleanthinker.com/ 
+
+34. Thompson, S. (2017). Http://smallbusinesschroncom/. 
+Recuperado 11 June, 2017, de 
+
+Página | 14  
+ 
+
+
+
+ 
+
+  
+
+http://smallbusiness.chron.com/differences-between-jit-
+lean-manufacturing-75614.html 
+
+35. Toyotadriverseatcom. (2013). Toyota Driver's Seat. 
+Recuperado 9 January, 2017, de 
+http://toyotadriverseat.com/team members/eiji-toyoda-
+dies.htm 
+
+36. Vilana, J. .R. (2010). Fundamentos del Manufactura 
+Esbelta. Madrid, España: Escuela de organización 
+industrial. 
+
+37. Villaseñor, A & Galindo, E. (2008). Conceptos y reglas de 
+Manufactura Esbelta. (2a ed.). México: Limusa. 
+
+38. www.ubedu. (2017). www.ubedu. Recuperado 12 June, 2017, de 
+http://www.ub.edu/web/ub/ca/index.html 
+
+ 
+ 
+ 
+ 
+
+Página | 15

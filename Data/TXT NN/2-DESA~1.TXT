@@ -1,0 +1,661 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Desarrollo de Aplicaciones .NET Core 
+  
+
+Clave de la asignatura: DWB-2102 
+  
+
+SATCA1: (1-4-5) 
+  
+
+Carrera: Ingeniería en Sistemas Computacionales 
+ 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura aporta al perfil del Ingeniero en Sistemas Computacionales, las 
+habilidades y competencias necesarias en el desarrollo de aplicaciones orientadas a web 
+Cloud y Servicios Web basados en el Lenguaje C#; así mismo fomentara competencias 
+como trabajo de equipo, comunicación efectiva y toma de decisiones, que le permitan un 
+desempeño eficiente en su ámbito personal y profesional. 
+
+Esta materia deberá cursarse en el séptimo semestre, en el módulo de especialidad, 
+teniendo como precedente la materia de Programación WEB, donde se proporcionan al 
+alumno las bases para modelar las aplicaciones web. 
+
+La asignatura se relaciona con las materias de Programación, Bases de Datos, Ingeniería 
+de Software, Sistemas Operativos y Redes de Computadoras. 
+ 
+Intención didáctica 
+El temario está organizado en cinco temas: 
+
+• El primer tema se introduce al estudiante en la tecnología C# y se desarrollan las 
+habilidades de programación en dicho lenguaje abarcando aplicaciones de 
+consola usando .NET Core. 
+
+• En el segundo tema se desarrollan aplicaciones de escritorio dando las bases de 
+propiedades y eventos, usando .NET Framework.  
+
+• El tercer tema expone como se realizan las conexiones de las aplicaciones 
+desarrolladas con .NET Core con bases de datos.  
+
+• En el cuarto tema se analizará la forma de desarrollar formularios web con .NET 
+Core para las aplicaciones web. 
+
+• En el quinto tema se analiza la metodología para desarrollo y prueba de 
+aplicaciones RESTful basadas en .NET Core. 
+ 
+
+  
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto tecnológico de • MTI. José Pedro Aragón Programa elaborado por 
+Zacatepec. Hernández 
+
+profesores del 
+ • Ing. Jarek Antonio Tafolla 
+Departamento de sistemas Santana. departamento de Sistemas 
+y Computación • Ing. Hector Guadalupe 
+
+y Computación, presentado 
+ Calderon Hernandez 
+Academia de sistemas  • Ing. José Luis Perez y aprobado en el pleno de 
+computación.  Estudillo 
+
+la Academia. 
+  
+
+Reunión para el desarrollo de Esta materia forma parte de 
+Especialidades de Noviembre la especialidad Desarrollo 
+2020 a Marzo 2021. Web Empresarial, para la 
+
+carrera Ingeniería en 
+Sistemas Computacionales, 
+Plan de estudios 2010 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+El alumno conocerá y aplicará las tecnologías .NET Core para el desarrollo de 
+aplicaciones Web. 
+ 
+
+• Desarrollar Aplicaciones Web con ASP.NET Core. 
+• Plantear la arquitectura y configurar los aspectos de una aplicación .NET Core. 
+• Aumentar la separación del código del contenido y la modularidad de su código. 
+• Usar y definir controles propios. 
+• Manipular y Visualizar información proveniente de bases de datos usando 
+
+ADO.NET y Linq. 
+• Leer, escribir, editar y validar documentos XML, así como convertir y transformar 
+
+datos a XML. 
+• Implementar servicios RESTful con .NET Core 
+
+ 
+
+ 
+5. Competencias previas 
+
+• Programar aplicaciones computacionales en lenguajes de programación 
+orientados a objetos. 
+
+• Implementa sistemas de información siguiendo las metodologías de la Ingeniería 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+de software. 
+
+• Modela de bases de datos para la gestión eficiente de la información. 
+
+• Diseña aplicaciones en múltiples capas basados en los estándares comerciales 
+
+• Comunicación oral y escrita. 
+
+• Trabajo en equipo tradicional o entornos colaborativos de desarrollo. 
+ 
+
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Fundamentos del lenguaje 1.1 Introducción a C# 
+C# 
+
+1.2 Estructura básica de un programa 
+
+1.2.1 Tipos De Datos 
+
+1.2.2 Operadores 
+
+1.3 Toma de decisiones 
+
+1.4 Ciclos 
+
+1.5 Clases y Métodos 
+
+1.5.1 Creación de Clases y Métodos  
+
+1.5.2 Métodos matemáticos 
+
+1.5.3 Métodos de cadenas 
+
+1.6 Arreglos 
+
+1.7 Wrappers, Encapsulamiento y Colecciones 
+
+2 Interfaces gráficas de 2.1 Paradigma: Programación Orientada a 
+usuario con C# EventosWindows Forms BásicosDiseño de la 
+
+interfazManejo de eventosCreación de 
+ControlesControles Personalizados 
+
+3 Conectividad a bases de 3.1 Introducción a ADO.NET 
+datos  
+
+3.2 Componentes de ADO.NET 
+
+3.3 Conjunto de datos (DataSet y DataReader) 
+
+3.4 Proveedores de datos 
+
+3.5 Acceso a bases de datos con ADO .NET y Linq 
+
+3.6 Windows Forms con ADO.NET 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+4 .NET Core y MVC 4.1 Introducción a MVC .NET Core 
+ 
+
+4.2 Formularios Web 
+
+  4.2.1 Controles HTML 
+
+  4.2.2 Controles Web 
+
+4.3 Creación de un proyecto ASP.NET 
+
+4.4 Modelos y Anotaciones 
+
+4.5 Conexiones 
+
+4.6 Razor 
+
+4.7 Scafolding 
+
+5 Aplicaciones RESTful 5.1 Creación de un Service 
+
+5.2 Conexiones a BD 
+
+5.3 RESTful 
+
+5.4 Pruebas de Entrada 
+
+5.5 Consumo 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Fundamentos del lenguaje C# 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Conocer la sintaxis del lenguaje. 
+ 
+Diseñar y desarrollar programas en el • Diseñar soluciones computacionales. 
+
+lenguaje de programación C#. • Desarrollar aplicaciones en C#. 
+ 
+Genéricas:  
+
+• Habilidades para buscar, procesar y 
+analizar información procedente de 
+diversas fuentes. 
+
+• Capacidad de abstracción, análisis 
+y síntesis 
+
+• Capacidad de comunicación oral y 
+escrita. 
+
+• Capacidad de trabajo en equipo 
+• Capacidad de aplicar los 
+
+conocimientos en la práctica 
+ 
+
+Interfaces graficas de usuario con C# 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+Específica(s): • Conocer los controles comunes de las 
+
+Desarrollar interfaces de escritorio y WPF interfaces gráficas de usuario 
+
+en C#  • Diseño de interfaces gráficas de 
+
+usuario.  
+ 
+
+• Diseñar soluciones computacionales. 
+Genéricas: 
+
+ 
+
+• Capacidad de abstracción, análisis y 
+síntesis 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Capacidad para identificar, plantear y 
+resolver problemas 
+
+• Capacidad de trabajo en equipo. 
+• Habilidad de investigación. 
+• Capacidad para aprender. 
+ 
+
+Conectividad a bases de datos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Configurar conexiones a bases de 
+ datos. 
+Manipular y actualizar datos con ADO.NET  
+
+• Crear aplicaciones que muestren y 
+ 
+
+modifiquen datos de una base de datos 
+Genéricas: 
+
+usando ADO.NET 
+
+• Capacidad de abstracción, análisis y 
+síntesis  
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Capacidad para identificar, plantear y 
+resolver problemas 
+
+• Capacidad de trabajo en equipo 
+• Capacidad crítica y autocrítica. 
+• Capacidad para aprender. 
+ 
+
+.NET Core y MVC 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Crear formas Web usando controles 
+
+Diseñar aplicaciones ASP.NET Core Web. 
+
+ • Crear controladores de eventos para 
+Genéricas: 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+• Capacidad de abstracción, análisis y los modelos. 
+síntesis 
+
+ 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Capacidad para identificar, plantear y 
+
+resolver problemas 
+• Capacidad de trabajo en equipo 
+ 
+ 
+
+Web Services 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Crear servicios web para resolver 
+problemas de cálculo o transacción. 
+
+Crear aplicaciones RESTful con ASP.NET 
+Core 
+ 
+Genéricas: 
+• Capacidad de abstracción, análisis y 
+
+síntesis 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Capacidad para identificar, plantear y 
+
+resolver problemas 
+• Capacidad de trabajo en equipo 
+ 
+
+ 
+
+8. Práctica(s) 
+
+• Investigar la tecnología .NET Core y contextualizar las aplicaciones cliente y web 
+
+desarrolladas con esta plataforma. 
+
+• Desarrollar programas ligeros de consola que resuelvan problemas simples de 
+
+programación. 
+
+• Desarrollar programas de escritorio que permitan resolver problemas simples 
+
+propuestos por el profesor como, por ejemplo: Calculo de factorial, cálculos de 
+
+áreas, operaciones entre números, cálculos de impuestos, etc. 
+
+• Desarrollar programas para ilustrar la utilización de los distintos controles en el 
+
+diseño de formas para Windows. 
+
+• Desarrollar programas que permitan realizar conexión con base de datos para 
+
+insertar, borrar, consultar y modificar registros. 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+• Desarrollar aplicaciones que impliquen formularios en Web usando MVC. 
+
+• Desarrollar Web Services los cuales resuelvan el problema de conectividad 
+remota. 
+
+ 
+ 
+
+9. Proyecto de asignatura 
+
+ 
+
+Desarrollar una aplicación Web-Escritorio que resuelva un problema del mundo real. Se 
+sugiere que el producto se constituya como una herramienta de apoyo a las materias de 
+la carrera de Ingeniería en Sistemas Computacionales, o como apoyo a la 
+automatización de algún proceso de la gestión educativa. 
+
+ 
+
+La aplicación deberá cumplir con las siguientes especificaciones: 
+
+1. La filosofía de diseño se basará en .NET Core como complemento a una de 
+Escritorio 
+
+2. La información deberá hacerse persistente en Bases de Datos. 
+3. El proyecto deberá entregarse funcionando y debe fundamentarse a partir de los 
+
+aspectos siguientes: 
+• Base Teórica.  
+• Planeación del Proyecto. 
+• Evidencia de la Ejecución realizada. 
+• Conclusiones y Recomendaciones. 
+
+ 
+
+El objetivo del proyecto (opcional) en esta asignatura, es demostrar el desarrollo y 
+alcance de la(s) competencia(s) de la asignatura, considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial o social, el diseño de un modelo, entre otros, según el 
+tipo de proyecto, las actividades a realizar los recursos requeridos y el cronograma de 
+trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento 
+de logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación 
+para la mejora continua”, la meta cognición, el desarrollo del pensamiento crítico y 
+reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+La evaluación debe ser continua y formativa por lo que se debe considerar el desempeño 
+en cada una de las actividades de aprendizaje, haciendo especial énfasis en: 
+ 
+
+• Evaluar como un proceso continuo, flexible y acordado con el alumno. 
+
+• Realizar evaluación diagnóstica al iniciar el curso y retroalimentar al alumno. 
+
+• Motivar y llevar a cabo la evaluación entre pares. 
+
+• Realizar evaluaciones mediante: exámenes teóricos y prácticos, desarrollo de 
+
+prácticas de laboratorio, tarea y ejercicios. 
+
+• Recopilar evidencias de las evaluaciones realizadas. 
+
+• Diseñar actividades de investigación en fuentes diversas. 
+
+• Propiciar el conocimiento mediante el descubrimiento de la tecnología. 
+
+• Diseñar actividades que permitan la colaboración entre pares para el diseño de 
+
+algoritmos computacionales que permitan codificar programas en C#. 
+
+• Generar casos de estudio que representen las aplicaciones web que necesitan los 
+
+negocios para que los alumnos planteen soluciones mediante proyectos 
+
+desarrollados con .NET Core 
+
+ 
+Tema 1: 
+
+• Cuadro sinóptico. 
+• Rúbrica del trabajo Grupal. 
+
+ 
+Tema 2: 
+
+• Metodología de trabajo. 
+• Rúbrica del trabajo grupal. 
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+• Desenvolvimiento en el desarrollo de la práctica de laboratorio. 
+• Informe de la práctica de laboratorio. 
+
+ 
+Tema 3: 
+
+• Cuestionario. 
+• Rúbrica del trabajo grupal. 
+• Desenvolvimiento en el desarrollo de la práctica de laboratorio. 
+• Informe de la práctica de laboratorio. 
+
+ 
+Tema 4: 
+
+• Tabla comparativa. 
+• Rúbrica del trabajo grupal. 
+• Desenvolvimiento en el desarrollo de la práctica de laboratorio. 
+• Informe de la práctica de laboratorio. 
+
+ 
+Tema 5: 
+
+• Síntesis del procedimiento. 
+• Rúbrica del trabajo grupal. 
+• Desenvolvimiento en el desarrollo del proyecto final. 
+• Informe del proyecto final. 
+
+ 
+ 
+
+11. Fuentes de información 
+
+• Murach's C# 2015: Training & Reference. Joel Murach & Anne Boehm. Mike 
+Murach & Associates Inc; Edición: 2015 ed. (6 de febrero de 2016) 
+ 
+
+• Microsoft Visual C# 2012 Step By Step (Step by Step Developer), John Sharp, 
+Microsoft. 
+ 
+
+• Professional C# 2012 and .NET 4.5, Christian Naguel, Bil Evjen, Jay Glynn Karli 
+Watson, Morgan Skinner, Publisher Wrox 
+ 
+
+• Introducing Microsoft SQL Server 2012, Ross Mistry, Stacia Misner, Microsoft 
+Press 
+ 
+
+• Training Kit (Exam 70-461): Querying Microsoft SQL Server 2012 (Microsoft Press 
+Training Kit), Dejan Sarka, Itzik Ben-Gan, Ron Talmage, Microsoft Press 
+ 
+
+• MCPD Self-Paced Training Kit (Exams 70-536, 70-528, 70-547): Microsoft® .NET 
+Framework Web Developer Core Requirements: Microsoft .Net Framework Web 
+Developer Core Requirements, Tony Northrup, Shawn Wildermuth, Glenn 
+Jhonson, Brian C. Lanhan, Microsoft Press 
+ 
+
+• Expert Service-Oriented Architecture In C#: Using the Web Services 
+Enhancements 2.0 (Books for Professionals by Professionals), Jeffrey Hasan, Ed. 
+Apress 
+ 
+
+Página | 9  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+• Programming .Net Web Services,  Alex Ferrara and Matthew MacDonald, Oreilly & 
+Associates Inc 
+ 
+
+• ASP. NET MVC with Entity Framework and CSS, Lee Naylor, Apress 
+ 
+
+• Professional ASP. NET MVC 5, Jon Galloway, Brad Wilson, K. Scott Applen, 
+David Matson, Wrox ed. 
+ 
+
+• ASP.NET (MVC) 5 CORE: Web Development, jQuery & RESTful API: ASP.NET 
+(CORE ) MVC 5: Web & App Development In C#, jQuery Plugins & RESTful API, 
+Web Services & Entity Framework, Alan Schoenberger, Raw Slate Publications. 
+ 
+
+• ASP.NET Core Identity - Authentication & Authorization: Learn Authentication & 
+Authorization in ASP.NET Core (.NET 5) as we explore Identity Library with MVC 
+and Razor Library, Maribeth Yedwab, Study Manure Publications 
+
+ 
+
+ 
+
+Página | 10

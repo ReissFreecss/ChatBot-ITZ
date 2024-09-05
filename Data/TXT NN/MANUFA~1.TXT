@@ -1,0 +1,499 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+tes1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Manufactura Avanzada 
+  
+  
+  
+
+Clave de la asignatura: DSD-2105 
+  
+  
+
+SATCA1: 2-3-5 
+  
+  
+
+Carrera: Ingeniería Electromecánica  
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura aporta contribuye al perfil de la carrera de ingeniería electromecánica al 
+proponer soluciones con tecnologías de vanguardia y facilitar el diseño de sistemas y 
+dispositivos electromecánicos utilizando herramientas computacionales acordes con la 
+demanda del sector industrial. El curso se desarrolla de manera teórico-práctico dando 
+énfasis en la práctica de manera que permita corroborar la teoría, por lo que se tiene la 
+necesidad de ajustar a pequeños grupos de trabajo que inclusive deberán ser 
+programados en hora extra clase. Dado que esta materia involucra los conocimientos de 
+otras materias cursadas para poder utilizar el control numérico a través un software, y 
+tener la visión global del control numérico que hoy en día se encuentran en el sector 
+industrial y de servicio, la asignatura proporciona los conocimientos necesarios para el 
+análisis y simulación de elementos de máquina mediante el uso del método de elemento 
+finito y el uso de programas de computadora para lograr agilizar el análisis y optimización 
+de los diseño y está programada para ser cursada en los últimos semestres de la carrera.  
+
+ 
+Intención didáctica 
+El contenido temático se organiza en 5 temas, el primero proporcionará una visión de las 
+operaciones de maquinado para la manufactura de una pieza determinada por medio del 
+control numérico y su aplicación en los procesos de manufactura. 
+En el segundo tema se aborda el tema referente a los conceptos fundamentales de 
+CAD/CAE y los diferentes paquetes existentes en la actualidad. El docente debe propiciar 
+el interés de los alumnos en el uso de esta nueva tecnología, y los alumnos realizarán 
+una investigación de los diferentes programas que utilizan las grandes empresas para 
+una discusión en plenaria de clase. 
+En el tercer tema se utiliza un paquete de computadora CAE para analizar elementos 
+mecánicos sometidos a carga estática y dinámica, simulando sus condiciones de carga y 
+las restricciones. En esta parte el docente utilizará un paquete de computadora CAE para 
+desarrollar la unidad y los alumnos aprenderán a utilizarlo para completar su 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+competencia profesional. El maestro debe auxiliar al alumno de manera directa en esta 
+actividad, considerando que se está realizando una simulación computarizada de 
+condiciones reales. 
+En el cuarto tema se abordan las diversas opciones de programación en donde son las 
+bases para poder programar correctamente utilizando con códigos principales que son el 
+G y M.  
+En el quinto tema se usará software de diseño asistido por computadora y de 
+manufactura asistida por computadora para generar programas de control numérico que 
+se apliquen en torno y fresadora. 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+19 de abril del 2021. Academia de Ingeniería Convocatoria para la 
+Instituto Tecnológico de Electromecánica elaboración del programa 
+Zacatepec. de especialidad 2021-2024. 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Diseña, rediseña, analiza, simula y optimiza componentes mecánicos utilizando un 
+programa de computadora CAD-CAM-CAE. 
+
+5. Competencias previas 
+Utiliza apropiadamente el dibujo electromecánico en la interpretación de diferentes 
+componentes mecánicos. Diseña, analiza y utiliza la programación para utilización de 
+códigos de control numérico. Selecciona, aplica y opera los diferentes códigos de 
+programación para la mejora de procesos de manufactura que involucre control 
+numérico. 
+
+ 6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a la manufactura 1.1 Análisis de operación de maquinado. 
+avanzada por control numérico 1.2 Metodología para la manufactura de 
+
+una pieza determinada. 
+1.3 Fundamentos de control numérico. 
+1.4 Ventajas de control numérico (CN).  
+1.5 Punto a punto y contorno. 
+1.6 CN y CNC. 
+1.7 Sistemas incremental y absoluto. 
+1.8 Sistemas de ciclo abierto y ciclo 
+
+cerrado. 
+2 Introducción a sistemas CAD-CAE 2.1 Evolución del diseño. 
+
+Página | 2  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+2.2 Programas CAD actuales.  
+2.3 Programas CAE actuales.  
+2.4 Necesidades de la industria. 
+
+3 Simulación en sistemas CAE 3.1 Materiales en sistemas CAE. 
+3.2 Condiciones de cargas y restricciones 
+
+de las partes.  
+3.3 Mallado del modelo 3D.  
+3.4 Simulación de la pieza. 
+3.5 Interpretación de resultados.  
+3.6 Reporte de resultados. 
+
+4 Programación de Control Numérico 4.1 Programación manual.  
+4.2 Interpretación geométrica.  
+4.3 Modelación del proceso CNC.  
+4.4 Código G y código M.  
+4.5 Intérpretes de código.  
+4.6 Tipos de software para la programación 
+
+asistida por computadora. 
+5 Proyecto final 5.1 Especificaciones y condiciones del 
+
+conjunto a diseñar.  
+5.2 Diseño preliminar. 
+5.3 Simulación de componentes. 
+5.4 Modelado en 3D y dibujos de las partes 
+
+del conjunto. 
+5.5 Reporte final. 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a la manufactura avanzada por control numérico 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):   Investigar los procesos de 
+fabricación que utilizan control 
+
+Comprende la importancia de los procesos 
+numérico. 
+
+para la fabricación de piezas mecánicas 
+ Identificar las partes principales de 
+
+para proponer métodos de fabricación a 
+la máquina herramienta 
+
+dichas piezas aplicando sistemas de 
+convencionales y de control 
+
+control numérico.  
+numérico. 
+
+Genéricas:   Consultar manuales de máquinas 
+herramientas modernas. 
+
+ Capacidad de trabajo en equipo.   Realizar visitas a talleres para la 
+ Capacidad de comunicarse con identificación de las máquinas 
+
+profesionales de otras áreas. herramientas. 
+ Habilidades interpersonales.   Identificar los procesos de 
+ Habilidad para trabajar en forma manufactura en piezas reales 
+
+autónoma.  
+
+Página | 3  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ Comunicación oral y escrita en su cotejando con el dibujo. 
+propia lengua. 
+
+2. Introducción a sistemas CAD-CAE 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   Investigar los diferentes paquetes 
+computacionales que se utilizan en 
+
+Conoce, identifica y distingue los diferentes 
+la simulación de piezas sujetas a 
+
+paquetes computacionales que se utilizan 
+cargas mecánicas. 
+
+en el modelado en 3D y la simulación de 
+ Investiga las ventajas y desventajas 
+
+piezas sujetas a cargas mecánicas.  
+que presentan los diferentes 
+
+Genéricas:  paquetes computacionales que se 
+usan en el proceso de diseño 
+
+ Busca y selecciona información mecánico. 
+proveniente de fuentes diversas  Investiga y define las 
+para comprender los principios especificaciones que deben de 
+fundamentales de los mecanismos. cumplir los equipos 
+
+ Sintetiza de forma independiente computacionales que se utilizan en 
+nuevas ideas.  la simulación de piezas sujetas a 
+
+ Trabaja en equipo. cargas mecánicas. 
+ Investigar cuales son los paquetes 
+
+computacionales que se utilizan en 
+la industria. 
+
+3. Simulación en sistemas CAE 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Simula condiciones de carga  Investigar y definir los diferentes 
+de una pieza mecánica en un paquete de tipos de cargas y restricciones que 
+computadora para calcular esfuerzos, puede presentar una pieza 
+deformaciones y el factor de seguridad que mecánica. 
+soporta.   Investigar y definir los diferentes 
+
+tipos de mallado que se pueden 
+Genéricas:  
+
+aplicar en la simulación de pieza 
+
+ Capacidad de análisis en la mecánicas. 
+
+solución de problemas.  Investigar y definir los requisitos o 
+
+ Aplica los conocimientos en la condiciones que se deben de 
+
+construcción de mecanismos aplicar cuando se utiliza un paquete 
+
+utilizando software y prototipos. de computadora que haga 
+simulación de piezas mecánicas. 
+
+ Interpretar los resultados que ofrece 
+el paquete de computadora cuando 
+
+Página | 4  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+realiza la simulación de una pieza 
+mecánica. 
+
+ Elaborar un reporte documental 
+donde se expresen los resultados 
+obtenidos de la simulación de una 
+pieza mecánica 
+
+4. Programación de Control Numérico 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  · Conocer la programación manual.  
+
+ Identificar la programación manual  Interpretar la parte geométrica de 
+para CN. las diferentes piezas a diseñar. 
+
+ Identificar la modelación del  Interpretar los códigos G y M. 
+proceso del CNC.  Identificar los  Identificar la programación asistida 
+códigos G y M.  por computador. 
+
+ Identificar la programación asistida  Identificar toda la información 
+por computadora general que da el CNC. 
+
+Genéricas: 
+
+ Propiciar el uso de las nuevas 
+tecnologías en el desarrollo de los 
+temas de la asignatura. 
+
+ Llevar a cabo actividades prácticas 
+que promuevan el desarrollo de 
+habilidades para la 
+experimentación, tales como: 
+observación, identificación manejo y 
+control de variables y datos 
+relevantes, planteamiento de 
+hipótesis, de trabajo en equipo. 
+
+ Proponer problemas que permitan 
+al estudiante la integración de 
+contenidos de la asignatura y entre 
+distintas asignaturas, para su 
+análisis y solución. Observar y 
+analizar fenómenos y problemáticas 
+propias del campo ocupacional. 
+
+5. Proyecto Final. 
+
+Página | 5  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+Competencias  Actividades de aprendizaje 
+
+Especifica(s):   Definir las especificaciones y 
+condiciones de conjunto o 
+
+Elabora un proyecto que aplique soluciones 
+ensamble a diseñar. 
+
+a un problema específico de diseño 
+ Elaborar un diseño preliminar donde 
+
+mecánico. 
+se definen el total de piezas 
+
+Genéricas:  mecánicas que forman parte del 
+conjunto o ensamble. 
+
+ Capacidad de análisis y síntesis.   Simular las cargas, esfuerzos y 
+ Capacidad para construir modelos deformaciones de las piezas 
+
+de utilidad. mecánicas que forman el conjunto. 
+ Habilidad en el manejo de software.  Verificar que los componentes que 
+ Capacidad de aplicar conocimientos forman el conjunto cumplan la 
+
+en la elaboración de proyectos. especificación del factor de 
+seguridad. 
+
+ Elaborar dibujos de cada pieza que 
+forma el conjunto, incluyendo 
+dimensiones y tolerancias finales. 
+
+ Elaborar un reporte escrito donde 
+se explique los resultados obtenidos 
+en el proceso de modelado-
+simulación de las piezas mecánicas 
+que forman el conjunto. 
+
+ 
+
+8. Práctica(s) 
+
+ Modelar piezas virtuales en tres dimensiones. 
+ Modelar piezas reales en tres dimensiones con software CAE. 
+ Simular condiciones de cargas y restricciones de piezas mecánicas. 
+ Procedimientos de preparación de máquina (cero máquina, cero pieza y 
+
+compensación de herramientas). 
+ Identificar puntos en el plano cartesiano, en el sistema absoluto e incremental 
+
+(G90 y G91). 
+ Estructurar un programa que incluya subprogramas. (M98 y M99).  
+ Realizar simulaciones por computadoras con el programa de su elección.  
+ Desarrollar dibujos de piezas y generación de programas utilizando las 
+
+herramientas de CAM.  
+ Fabricar piezas desarrolladas en CAD/CAM para torno y fresadora. 
+
+ 
+  
+
+Página | 6  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+9. Proyecto de asignatura 
+
+Realizar una demostración técnica didáctica de la aplicación del Control Numérico en 
+procesos secuenciales en los diferentes ámbitos de automatización, desde el área 
+eléctrica, mecánica, neumática, hidráulica, etc. Hasta el uso y/o implementación de los 
+diferentes tipos de programación con las distintas tecnologías de CNC. Siguiendo y 
+considerando las diferentes fases que debe contener un proyecto:  
+
+Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual se 
+fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que permite a 
+los estudiantes lograr la comprensión de la realidad o situación objeto de estudio para 
+definir un proceso de intervención o hacer el diseño de un modelo.  
+
+Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto por 
+parte de los estudiantes con asesoría del docente; implica planificar un proceso: de 
+intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, según 
+el tipo de proyecto, las actividades a realizar los recursos requeridos y el cronograma de 
+trabajo.  
+
+Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte de 
+los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la fase 
+de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar.  
+
+Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-profesión, 
+social e investigativo, ésta se debe realizar a través del reconocimiento de logros y 
+aspectos a mejorar se estará promoviendo el concepto de “evaluación para la mejora 
+continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo en los 
+estudiantes.  
+
+  
+
+Página | 7  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+10. Evaluación por competencias  
+
+ Reportes de las prácticas desarrolladas, con base al formato establecido.  
+ Reportes de investigación documental.  
+ Resolución de problemas solicitados (tareas). 
+ Reporte de visitas industriales.  
+ Exámenes para comprobar el manejo de aspectos teóricos y declarativos. 
+ Reporte de simulaciones y conclusiones obtenidas en éstas.  
+ Desarrollar ensayos con base en los temas establecidos.  
+ Participación en clase, exposiciones de temas, resolución de problemas 
+
+individuales y por equipo.  
+ Realizar proyecto final con una aplicación industrial. 
+ Utilización de rubricas.  
+ Integrar el portafolio de evidencias (que puede ser abierto, cerrado o mixto). 
+
+ 
+ 
+
+11. Fuentes de información 
+
+ 
+1. González Núñez Juan El Control Numérico En Las Maquinas Herramientas 2ª 
+
+Edición. Ed. Cecsa.  
+2. Gutiérrez Salazar Uriel / Castañeda Nava José Control Numérico Volumen Uno 
+
+1999. Dgeti-Cnad. 
+3. Gutiérrez Salazar Uriel / Castañeda Nava José Torno De Control Numérico 
+
+Volumen Uno 1999. Dgeti Cnad. 
+4. Automatización flexible en la Industria Boon-Mercado Ed. Limusa, México, D.F. 
+
+1990. 5. Los procesos de fabricación y el CN CONACyT. 
+5. Manual de programación EMCOTRONIC TM02 Fresado, Edición 91-5, SP7766. 
+6. Manual and automatic control, Wiley, Kelley C.R. 1983. 
+7. Jensen, Cecil, Helsey Jay D. y Short, Dennos R. (2009). Dibujo y diseño en 
+
+ingeniería. EUA; McGraw-Hill. 
+8. Luzader, Warren J. y Duff, Jon M. (2007). Fundamentos de dibujo en ingeniería. 
+
+México; Ed. Prentice Hall. 
+9. Gómez González, Sergio. (2010). El gran libro de Solid Works. México; Ed. 
+
+Alfaomega. 
+10. Gómez González, Sergio. (2011). Solid Works simulation. México; Ed. Alfaomega. 
+11. Kalameja, Alan J. (2012). SolidWorks 2012 Tutor. EUA, Cencage Learninig. 
+12. Shih, Randy. (2012). Learning Solid Works 2012. EUA; Schroff Development 
+
+Corporation. 
+13. Shih, Randy. (2012). Introduction to finite element analysis using SolidWorks. 
+
+EUA, Schroff Development. 
+14. Steffen, John. (2012). Analysis of machine elements using SolidWorks. EUA, 
+
+Schroff Development. 
+15. Akin, John Edward. (2011). Finite elements analysis concepts, using Solid Works. 
+
+EUA, World scientific Publishing Company. 
+ 
+ 
+ 
+
+Página | 8

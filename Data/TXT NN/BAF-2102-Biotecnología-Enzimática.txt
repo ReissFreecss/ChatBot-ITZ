@@ -1,0 +1,585 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Biotecnología Enzimática 
+
+  
+
+  
+
+  
+
+Clave de la asignatura: BAF-2102 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+SATCA1: (3 – 2 - 5) 
+
+  
+
+  
+
+Carrera: Ingeniería Bioquímica 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Es asignatura permitirá́ al futuro ingeniero bioquímico tener conocimiento de 
+las áreas industriales en las que se hace uso de enzimas para la producción de 
+bienes y servicios como la utilización de enzimas inmovilizadas ha abierto un 
+nuevo campo de aplicación al uso industrial de preparados enzimáticos.  
+
+En la misma el alumno podrá hacer uso integrado de los conocimientos 
+adquiridos, a lo largo de sus estudios, en la conceptualización, diseño, 
+implementación y puesta en marcha de procesos catalizados por enzimas.  
+
+Esto se logrará mediante el análisis de casos reportados en la literatura 
+científica y patentes que protegen procesos enzimáticos. 
+Esta asignatura se relaciona con las materias y temas señalados a continuación, 
+y con que competencias específicas:  
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+Bioquímica I específicamente con los temas Estructura y química de proteínas, 
+Enzimas y coenzimas 
+Bioquímica II específicamente con los temas Traducción de la información 
+genética y Biosíntesis de proteínas.  
+
+Cinética Química y Biológica Cinética enzimática específicamente con la 
+unidad 3 del programa cinética química 
+Intención didáctica 
+
+La asignatura está organizada en 4 unidades, cada una de las cuales agrupa 
+temas similares con el objetivo de facilitar la comprensión para el alumno. 
+Se sugiere el uso de actividades integradoras del conocimiento durante la 
+elaboración de prácticas de laboratorio en las unidades 1 y 2, actividades que 
+involucren cálculos de parámetros cinéticos para evaluar el efecto del proceso 
+de inmovilización sobre las velocidades de reacción catalizadas por enzimas. Lo 
+cual permitirá determinar si la transferencia de masa limita la velocidad de 
+reacción. 
+
+ 
+
+ Así mismo se determinará el grado de ajuste que poseen los datos 
+experimentales obtenidos en las prácticas a los diferentes modelos de 
+isotermas teoricas conocidas (Langmuir , Freundlich, etc) para estudiar el 
+comportamiento de adsorción de enzimas inmovilizadas en diferentes 
+soportes.  
+
+Por lo tanto, por medio de las actividades prácticas se promueve el desarrollo 
+de habilidades para la experimentación, tales como: identificación y operación 
+de equipos para controlar variables y datos relevantes; planteamiento de 
+hipótesis; trabajo en equipo; asimismo, se propician procesos intelectuales 
+como inducción-deducción y análisis-síntesis con la intención de generar una 
+actividad intelectual integradora.  
+
+En las actividades prácticas sugeridas, es conveniente que el profesor busque 
+sólo guiar a sus alumnos para que ellos hagan la elección de los métodos 
+apropiados de selección, diseño y establecimiento de los diversos procesos 
+biotecnológicos a aplicar, de tal modo que desarrollen de manera 
+independiente protocolos pertinentes y elaboren reportes adecuados de los 
+resultados.  
+
+Se propone la formalización de los conceptos a partir de experiencias 
+concretas; y que se diseñen problemas con datos faltantes o sobrantes de 
+manera que el alumno se ejercite en la identificación de datos relevantes y el 
+análisis y presentación de propuestas.  
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+  
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico Leonor Zavaleta Avejar. Definición de los 
+de Zacatepec, 25 de programas de estudio 
+
+ 
+Enero del 2021  de los módulos de 
+
+Wendy Netzy especialidad de la 
+ Hernández Díaz. carrera de Ingeniería 
+
+Bioquímica  
+ 
+
+ 
+Francisco Javier 
+Hernández Campos. 
+
+ 
+
+José Elias Salado Huerta. 
+
+ 
+
+Alberto Álvarez Castillo 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+• Aplica los conocimientos en el área de biotecnología enzimática para el 
+diseño, control y optimización de procesos enzimáticos.  
+
+• Conoce los sectores industriales en los que se hace uso de enzimas.  
+• Comprende e Interpreta la normatividad y legislación vigente 
+
+aplicable, redactando informes comunicándose efectivamente de 
+maneral oral y escrita con terminología técnica 
+
+5. Competencias previas 
+
+• Conoce e identificar la estructura y química de las proteínas así como el 
+efecto que tienen sobre ellas la temperatura, el pH, radiaciones, etc.  
+
+• Evalua los parámetros cinéticos de una enzima, así como identificar el 
+tipo de inhibición que pudiera presentar.  
+
+• Aplica técnicas analíticas e instrumentales para poder monitorear el 
+avance de reacción durante la catálisis enzimática. 
+
+6. Temario 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+No. Temas Subtemas 
+
+1 Fuentes, producción, extracción 1.1. Empresas productoras de enzimas. 
+y purificación de enzimas.  1.2 Mercado mundial de las enzimas. 
+
+1.3 Fuentes de enzimas. 
+1.4 Criterios para la compra de 
+preparaciones enzimáticas.  
+1.5 Selección de enzimas industriales. 
+1.6 Sistemas de ruptura celular. 
+1.7 Procedimiento para la 
+concentración de enzimas. 
+1.8 Procedimientos para la separación 
+de enzimas. 
+1.9 Evaluación de la eficiencia del 
+proceso de purificación.  
+
+2 Modificación e inmovilización de 2.1 Modificación de enzimas. 
+enzimas       2.1.1 Modificación química. 
+
+     2.1.2 Modificación y estabilidad. 
+      2.1.3 Modificaciones selectivas y       
+
+nuevas aproximaciones. 
+2.2 Concepto de enzima inmovilizada.                                                              
+     2.2.1 Métodos de inmovilización 
+         2.2.1.1 Efecto de la resistencia a la 
+transferencia de masa. 
+         2.2.1.2 Isotermas de Adsorción. 
+     2.2.2 Ejemplos de utilización de 
+enzimas inmovilizadas en la industria 
+de los alimentos.  
+     2.2.3 Ejemplo de usos de enzimas 
+inmovilizadas en el sector 
+farmacéutico.  
+     2.2.4 Ejemplos de uso de enzimas 
+inmovilizadas en medicina.  
+     2.2.5 Ejemplos de uso de enzimas 
+inmovilizadas en química analítica.  
+
+3 Aplicación de enzimas a nivel 3.1 Aplicaciones de las enzimas en 
+industrial  medicina.  
+
+     3.1.1 Diagnóstico enzimático; 
+ejemplos  
+representativos y aspectos 
+tecnológicos. 
+     3.1.2 Terapia enzimática; 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+administración de enzimas. 
+     3.1.3 Diseño de inhibidores 
+enzimáticos.  
+3.2 Aplicaciones de las enzimas en la 
+industria farmacéutica.  
+     3.2.1 Resolución de mezclas 
+racémicas.  
+     3.2.2 Modificación de antibióticos.  
+3.3. Enzimas en la industria 
+alimentaria.  
+     3.3.1 Producción de hidrolizados 
+proteicos.  
+     3.3.2 Uso de enzimas en la industria 
+de los lácteos.  
+     3.3.3 Uso de enzimas en la industria 
+de la panificación. 
+3.4 Enzimas en solventes no acuosos.  
+     3.4.1 Biocatalizadores en solventes 
+no acuosos.  
+     3.4.2 Enzimología micelar.  
+     3.4.3 Aplicaciones industriales. 3.5 
+Otras aplicaciones.  
+
+4 Legislación para el uso de 4.1. Normas generales. 
+enzimas.  4.2 Aspectos legislativos del uso de 
+
+enzimas a nivel industrial. 
+4.3 Toxicología y manejo de enzimas.  
+
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Fuentes, producción, extracción y purificación de enzimas. 
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conoce las fuentes de • Elaborar un ensayo acerca de 
+obtención de enzimas, así como los fuentes de enzimas.  
+sistemas de producción, extracción y • Realizar un diagrama de flujo 
+purificación de enzimas.  general para la producción 
+ fermentativa de enzimas.  
+Genéricas:  • Realizar un diagrama de flujo 
+
+• Capacidad para obtener para la recuperación de 
+información de bases de datos enzimas intracelulares y 
+de artículos científicos, extracelulares  
+patentes y normas.  
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+• Comprensión, organización y • Purificar enzimas de fuentes 
+
+manejo de ideas, métodos vegetales.  
+analíticos e instrumentales.  
+
+• Comprensión de textos  
+científicos  
+
+Sistémicas:  
+• Capacidad para aplicar 
+
+conocimientos y resolver 
+problemas mediante el uso de 
+enzimas en el sector industrial.  
+
+• Aplicación de conocimientos 
+conceptuales, procedimentales 
+y actitudinales en el diseño, 
+montaje y puesta en marcha de 
+procesos enzimáticos a nivel 
+industrial.  
+
+Modificación e inmovilización de enzimas 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):Conoce las diferentes • Realizar un mapa conceptual 
+metodologías de modificación de sobre los métodos de 
+enzimas y su aplicación.  modificación de enzimas. 
+Conoce, identifica y aplica diferentes • Elaborar un cuadro 
+técnicas de inmovilización enzimática comparativo de los métodos de 
+
+inmovilización de enzimas 
+y áreas de impacto de las enzimas resaltando sus ventajas y 
+inmovilizadas.  desventajas.  
+
+• Elaborará un ensayo sobre 
+Genéricas:  procesos que usen enzimas 
+
+• Capacidad para obtener inmovilizadas. Determinar la 
+información de bases de datos isoterma que mejor se ajuste a 
+de artículos científicos, los datos experimentales 
+patentes y normas.  obtenidos en las prácticas o 
+
+• Comprensión, organización y artículos  para estudiar el 
+manejo de ideas, métodos comportamiento de adsorción 
+analíticos e instrumentales.  de enzimas inmovilizadas en 
+
+• Comprensión de textos diferentes soportes.  
+científicos  
+
+Sistémicas:  
+• Capacidad para aplicar 
+
+conocimientos y resolver 
+problemas mediante el uso de 
+enzimas en el sector industrial.   
+
+Aplicación de enzimas a nivel industrial 
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Conoce las aplicaciones • Elaborar un ensayo acerca de la 
+de las enzimas en los diferentes importancia de las enzimas en 
+sectores industriales.  medicina. 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+ • Realizar un debate sobre la 
+Genéricas:  aplicación de enzimas en 
+
+• Capacidad para obtener procesos a nivel industrial  
+información de bases de datos • Realizar visitas a empresas en 
+de artículos científicos, cuyos procesos se aplique el 
+patentes y normas.  uso de enzimas.  
+
+• Comprensión, organización y • Conocer la página WEB de 
+manejo de ideas, métodos Novo Nordisk y otras.  
+analíticos e instrumentales.  
+
+• Comprensión de textos  
+científicos  
+
+Sistémicas:  
+• Capacidad para aplicar 
+
+conocimientos y resolver 
+problemas mediante el uso de 
+enzimas en el sector industrial.  
+
+• Aplicación de conocimientos 
+conceptuales, procedimentales 
+y actitudinales en el diseño, 
+montaje y puesta en marcha de 
+procesos enzimáticos a nivel 
+industrial. 
+
+  
+Legislación para el uso de enzimas. 
+
+Competencias  Actividades de aprendizaje 
+Específica(s): Conoce e interpreta las • Elaborará una recopilación de 
+normas leyes y reglamentos las normas nacionales e 
+aplicables a el uso de enzimas.  internacionales más 
+ importantes que regulan el uso 
+Genéricas:  de las enzimas.  
+
+• Capacidad para obtener • Participará en mesa de debates 
+información de bases de datos acerca de casos-ejemplos de 
+de artículos científicos, aplicación de la ley en el uso de 
+patentes y normas.  enzimas.  
+
+• Comprensión, organización y 
+manejo de ideas, métodos  
+analíticos e instrumentales.  
+
+• Comprensión de textos 
+científicos  
+
+Sistémicas:  
+• Capacidad para aplicar 
+
+conocimientos y resolver 
+problemas mediante el uso de 
+enzimas en el sector industrial. 
+
+• Aplicación de conocimientos 
+conceptuales, procedimentales 
+y actitudinales en el diseño, 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+montaje y puesta en marcha de 
+procesos enzimáticos a nivel 
+industrial. 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+• Obtención de la enzima invertasa a partir de la levadura 
+Saccharomyces cerevisiae. 
+
+ 
+
+• Obtención de una proteasa a partir de fuentes vegetales. 
+ 
+
+• Atrapamiento en gel de alginato para inmovilizar la pectinasa. 
+ 
+
+• Obtención y análisis del comportamiento de adsorción de enzimas en 
+diferentes soportes. 
+
+  
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+10. Evaluación por competencias  
+
+ Evaluar las actividades de aprendizaje por medio de: exposiciones, exámenes 
+escritos, presentaciones, mapas conceptuales, portafolio de evidencias, 
+resolución de problemarios, manejo de equipos, materiales y técnicas de 
+laboratorio, informes de prácticas, reportes de prácticas e investigaciones.  
+
+ 
+
+Evaluar el nivel de logro de las competencias mediante: clave analítica, escala 
+estimativa, lista de cotejo o verificación, rúbrica. 
+
+ 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+11. Fuentes de información 
+
+ 
+
+• Lee J.M,. Biochemical Engineering. Prentice-Hall. 1992. 
+• Marongani, A. G. Enzyme Kinetics: a modern approach. Limusa-Wiley. 
+
+John Wiley & Song. 2003.  
+• Nelson, W.H. Lehninger Principles of Biochemistry. Limusa-Wiley. John 
+
+Wiley & Song. 2004 Onorato, J. Medicamentos Biotecnológicos: 
+características diferenciales. INESME. 2006.  
+
+• Illanes A. Enzyme biocatalisis: Principles and Aplications. Springer 
+Science + Busines Media B.V. (2008  
+
+• Colección actualizada de artículos científicos, normas y patentes sobre 
+el uso de enzimas. 
+
+ 
+
+  
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+3.4.3. 
+
+ 
+
+Página | 12

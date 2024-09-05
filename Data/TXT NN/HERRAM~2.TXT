@@ -1,0 +1,494 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura:  Herramientas de mejora continua y 
+ análisis y estadístico 
+
+Clave de la asignatura: GIM-2104 
+  
+
+SATCA1: 2-4-6 
+ 
+
+  
+ 
+
+Carrera: Ingeniería en Gestión Empresarial  
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+ Esta asignatura ofrece al estudiante el estudio y la aplicación de herramientas de 
+mejora continua, así como las bases del análisis estadístico para desarrollar 
+adecuadamente un SGC en la organización. Actualmente, dichos elementos son 
+aplicados en la resolución de problemas y en la instrumentalización para enfrentar 
+la competitividad global en un entorno volátil y hostil. 
+
+Intención didáctica 
+
+En la presente asignatura, el temario se divide en tres unidades que engloban el 
+conocimiento acerca del desarrollo y despliegue de la mejora continua a través 
+de los Sistemas de Gestión de Calidad (SGC) y el análisis estadístico. 
+ 
+La primera unidad, señala lo más relevante en cuanto a los orígenes de los SGC 
+y sus implicaciones. En este sentido, se brinda un panorama sobre los 
+antecedentes de los principales SGC y se recalca en el estudiante la importancia 
+que estos promueven respecto al desarrollo de una cultura, así como sus 
+implicaciones. 
+ 
+Por otra parte, en la segunda unidad, se estudia el control estadístico de procesos. 
+La intención es acercar a los estudiantes al contexto de la estadística aplicada en 
+el análisis y resolución de problemas. Este acercamiento se plasma de manera 
+descriptiva, identificando y señalando las herramientas principales para el control 
+y medición de la varianza en los procesos, así como su interpretación. 
+ 
+Finalmente, la tercera unidad se centra en las aplicaciones y estudios de caso 
+donde se replicarán distintos trabajos con base en el conocimiento adquirido en 
+las dos unidades anteriores y la aplicación de software especializado como Excel 
+y Minitab. La intención es integrar los conocimientos teóricos que ésta y otras 
+materias ofrecen para que el estudiante desarrolle y consolide sus competencias. 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Lic. Jesús Israel Carvajal Grupos colegiados de la 
+Zacatepec, febrero-mayo Ruiz. academia del departamento 
+
+de 2021. M.E. Eduardo Castro de Ciencias Económico-
+
+Rabadán. administrativas, en 
+reuniones de trabajo de 
+
+M.C Antonio Campos 
+academia.   
+
+Fernández. 
+ 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Conocer y aplicar herramientas de mejora continua relacionadas con los SGC y el 
+desarrollo de análisis estadístico, con el fin de identificar las principales fuentes 
+de varianza y optimizar recursos, así como resolver problemas relacionados a 
+todos los procesos de las organizaciones actuales. 
+
+ 
+5. Competencias previas 
+
+• Saber investigar, generar y gestionar información y datos  
+• Capacidad para demostrar el conocimiento y comprensión de los hechos 
+
+esenciales, conceptos, principios y teorías relacionadas con la calidad.  
+• Reconocer y aplicar sistemas de calidad.  
+• Diseñar, implementar, administrar y mejorar sistemas integrados de 
+
+abastecimiento, producción y distribución de bienes y servicios de forma 
+sustentable. 
+
+• Conocer tecnología de vanguardia en su área de competencia.  
+• Diálogo crítico. 
+• Conocimientos esenciales de Excel. 
+• Conocimientos sobre capacitación y entrenamiento del personal. 
+• Capacidad de traducir, leer y entender instrumentos didácticos en otros 
+
+idiomas. 
+• Conocimientos básicos de compras, almacenes y manejo de materiales. 
+• Conocimientos básicos sobre logística y satisfacción del cliente. 
+• Conocer las 7 herramientas básicas de Calidad.  
+• Conocimientos básicos de contabilidad de costos. 
+• Conocimientos básicos de seguridad e higiene. 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Conocimientos básicos de bases de datos.  
+• Conocimiento básico de desarrollo sustentable.  
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Cultura y antecedentes de los 1.1 Antecedentes de los Sistemas de 
+sistemas de gestión de calidad Gestión de calidad. 
+
+1.2 SGC: ISO 9001, EFQM y ONG 
+1.3  La calidad como estrategia 
+
+competitiva. 
+1.4 Precursores y filosofías de la 
+
+calidad 
+1.5 Cultura de calidad 
+1.6 Organización para la gestión de la 
+
+calidad. 
+ 
+
+2 Control estadístico de procesos 2.1 Gráficos de control. 
+2.2 Control estadístico de los procesos 
+
+y mejora continua. 
+2.3 Parámetros Cp y Cpk. 
+2.4 Control y análisis de la varianza 
+2.5 Coeficiente de correlación y 
+
+covarianza.  
+ 
+
+3 Aplicaciones y estudios de caso 3.1 Excel aplicado al control estadístico 
+de procesos 
+3.2 Análisis del control estadístico de 
+proceso con Minitab 
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Cultura y antecedentes de los sistemas de gestión de calidad 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):  • Elaborar un mapa conceptual 
+ buscando en distintas fuentes de 
+Identificar y definir los objetivos de un información el concepto y los 
+SGC con base en el desarrollo objetivos principales del SGC.  
+estratégico y operativo de la  
+organización. 
+ 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Competencias instrumentales: • Investigar la aplicación en un 
+• Capacidad de análisis y síntesis. estudio de caso sobre los beneficios 
+• Solución de problemas. de la cultura de calidad y la 
+• Toma de decisiones. aplicación de un SGC. 
+• Comprensión oral y escrita en una 
+
+segunda lengua. 
+• Uso e interpretación de información 
+
+estadística y gráfica. 
+ 
+Competencias interpersonales: 
+ 
+• Capacidad crítica y autocrítica. 
+• Habilidades interpersonales. 
+• Interdisciplinario (multidisciplinario). 
+• Capacidad de comunicarse con 
+
+profesionales de otras áreas. 
+• Compromiso ético y sustentable 
+ 
+Competencias sistémicas: 
+• Aplicar los conocimientos en la práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas ideas. 
+• Trabajar en forma autónoma (Iniciativa 
+
+y Proactividad personal). 
+2. Control estadístico de procesos 
+
+Competencias  Actividades. de aprendizaje 
+
+Específica(s):  
+• Investiga cuales son las causas 
+
+Conocer que la comunes de variación en un 
+varianza dentro en los procesos es proceso. 
+inevitable y, por tanto, debe desarrollar 
+
+ 
+estrategias y tácticas para  
+medir, analizar, controlar y • Investiga cuales son las causas 
+reducir los factores que influyen en la especiales de variación en un 
+varianza de los procesos. proceso. 
+  
+Competencias instrumentales:  
+
+• Capacidad de análisis y síntesis.  
+
+• Capacidad de organizar y planificar. 
+• Comunicación oral y escrita. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas. 
+
+• Solución de problemas. 
+ 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Competencias interpersonales: 
+• Capacidad crítica y autocrítica. 
+• Trabajo en equipo. 
+• Habilidades interpersonales. 
+• Capacidad de trabajar en equipo. 
+• Interdisciplinario (multidisciplinario). 
+ 
+Competencias sistémicas: 
+• Aplicar los conocimientos en la práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas ideas. 
+• Trabajar en forma autónoma (Iniciativa 
+
+y Proactividad personal). 
+3. Aplicaciones y estudios de caso 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Replicar estudios de caso sobre 
+análisis de varianza con los 
+
+Aplicar los conocimientos teóricos de softwares Minitab y Excel. 
+las unidades pasadas a través de 
+software especializado. 
+ 
+Competencias instrumentales: 
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y planificar. 
+• Solución de problemas. 
+• Toma de decisiones. 
+• Comprensión oral y escrita en una 
+
+segunda lengua. 
+• Uso e interpretación de información 
+
+estadística y gráfica. 
+ 
+Competencias interpersonales: 
+• Capacidad crítica y autocrítica. 
+• Habilidades interpersonales. 
+• Capacidad de trabajar en equipo. 
+• Interdisciplinario (multidisciplinario). 
+• Capacidad de comunicarse con 
+
+profesionales de otras áreas. 
+ 
+Competencias sistémicas: 
+• Aplicar los conocimientos en la práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas ideas. 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+
+8. Práctica(s) 
+
+• Elaborar matrices de covarianza para conocer la relación entre dos 
+variables. 
+
+• Calcular el coeficiente de correlación. 
+• Hacer una investigación sobre como la covarianza y la correlación no 
+
+implican causalidad. 
+• Realizar la descripción e identificación de una variable a partir de su 
+
+varianza. 
+• Realizar un listado de los principales factores que generan varianza en un 
+
+proceso. 
+• Hacer una propuesta de análisis de los factores más importantes en el 
+
+hogar, el trabajo o la escuela que generan más varianza. 
+• Determinar a través de Excel o Minitab los factores de la varianza en un 
+
+proceso. 
+• Realizar un cuadro comparativo de los pros y contras que implica el uso de 
+
+Minitab y Excel. Además, deberá incorporar otros lenguajes de 
+programación de código abierto. 
+
+• Estudiar los orígenes e implicaciones de los Sistemas de Gestión de 
+Calidad. 
+
+• Evaluar el impacto del control estadístico de los procesos en una empresa. 
+• Evaluar el impacto potencial del control estadístico en negocios locales y 
+
+regionales. 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+• Aplicación de un estudio de caso con múltiples situaciones que requiera la 
+aplicación de las distintas herramientas de la mejora continua y el análisis 
+estadístico para resolverlo de la forma más eficiente e integrarlo en una 
+presentación personal ejecutiva.  
+
+• Participación e intervención en las discusiones y dinámicas grupales que el 
+docente organiza. 
+
+• Entrega de reportes y trabajos escritos de las actividades realizadas en clase 
+y fuera de ésta. 
+
+• Aplicación de evaluación formativa al final de cada unidad. 
+• Entrega de un Proyecto integrador con resultados proyectados de la aplicación 
+
+de las herramientas de mejora continua y el análisis estadístico. 
+ 
+Sugerencias didácticas. El docente debe: 
+ 
+• Propiciar la mejora continua en todas las actividades dentro y fuera del aula. 
+• Propiciar actividades de búsqueda, selección y análisis de información en 
+
+distintas fuentes. 
+• Propiciar el uso de las nuevas tecnologías en el desarrollo de los contenidos 
+
+de la asignatura. 
+• Fomentar actividades grupales que propicien la comunicación, el intercambio 
+
+argumentado de ideas, la reflexión, la integración y la colaboración de y entre 
+los estudiantes. 
+
+• Propiciar, en el estudiante, el desarrollo de actividades intelectuales de 
+inducción-deducción y análisis-síntesis. 
+
+• Desarrollar actividades de aprendizaje que propicien la aplicación de los temas 
+que se van aprendiendo en el desarrollo de la asignatura. 
+
+• Relacionar los contenidos de esta asignatura con las demás del plan de 
+estudios para desarrollar una visión interdisciplinaria en el estudiante. 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+
+11. Fuentes de información 
+
+Sánchez Rivero, José Manuel - Enríquez Palomino, Antonio. Herramientas para 
+la mejora continua de los sistemas de gestión de la seguridad y salud en el trabajo 
+Editorial FC ISBN 9788416671694 
+ 
+Ortega, Oswaldo. Mejoramiento continuo de procesos: aspectos conceptuales 
+Ediciones de la U ISBN 9789587627060, 9789587627015 
+ 
+Dudek-Burlikowska, M. (2005). Quality estimation of process with usage control 
+charts type XR and quality capability of process Cp, Cpk. Journal of Materials 
+Processing Technology, 162, 736-743. 
+ 
+Sadeghpour Gildeh, B. (2003, June). Comparison of Cp, Cpk and Cp- tilde process 
+capability indices in the case of measurement error occurrence. In 10th IFSA 
+World Congress. 
+ 
+Chen, M. S., Wu, M. H., & Lin, C. M. (2014). Application of indices Cp and Cpk to 
+improve quality control capability in clinical biochemistry laboratories. Chin J 
+Physiol, 57(2), 63-68. 
+ 
+Carro, R., & González Gómez, D. A. (2012). Control estadístico de procesos. 
+ 
+Grima, P., Marco, L., & Tort-Martorell, X. (2010). Estadística con 
+MINITAB. Aplicaciones para el control y la mejora de la calidad. 
+ 
+Pérez, A. V., Pérez, L. A., Mayor, E. E., Corella, S. M., & Rodríguez, J. E. V. 
+(2009). Análisis de las reclamaciones en atención primaria mediante el control 
+estadístico de procesos. 
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 8

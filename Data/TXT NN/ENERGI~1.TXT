@@ -1,0 +1,507 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Energía y Sustentabilidad 
+  
+  
+  
+
+Clave de la asignatura: DSF-2106 
+  
+  
+  
+  
+  
+
+SATCA1: 3-2-5 
+  
+  
+
+Carrera: Ingeniería Electromecánica 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura aporta al perfil profesional del Ingeniero Electromecánico las 
+herramientas básicas necesarias para la posible implementación de proyectos 
+relacionados con la localización, generación y distribución de energía renovables, con 
+base en la sustentabilidad. 
+
+El programa conforma la comprensión de las fuentes de energías renovables y sus 
+aplicaciones en el campo de la ingeniería, con un enfoque en el origen de la fuente, 
+generación, el uso de la energía y sus aplicaciones. Esta asignatura toma un enfoque en 
+torno a la sustentabilidad. Aporta a las y los estudiantes las bases teóricas, metodológicas 
+y prácticas sobre el origen de las fuentes de energía renovable, gracias a su contenido 
+permite al estudiante conocer la distribución del potencial solar y eólico. 
+
+Intención didáctica 
+Se organiza el temario, en cinco unidades, en el primer tema aporta una introducción al 
+tema de las energías renovables, analizando los conceptos básicos sobre el porqué la 
+utilización de las energías renovables en lugar de las convencionales. En el tema 2 se 
+analizan los fundamentos de la energía solar basados en la radiación. En el tema 3 se 
+revisa la energía eólica, estudiando lo tipos de turbinas, su potencia y eficiencia, así como 
+sus aplicaciones. 
+Para el tema 4, se aborda el estudio de la potencia hidráulica analizando las plantas 
+hidroeléctricas, las turbinas de impulso y de reacción. 
+En el 5 tema se estudia otras fuentes de energía, como: la geotérmica, biomasa, energía 
+de las olas hidrogeno y celdas de combustible. Por último en el tema 6, se analiza la parte 
+sustentable con el medio ambiente aprendiendo los factores que contaminan el aire, 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+como las emisiones de los automóviles, desechos nucleares, etc., así como el efecto 
+invernadero y la capa de ozono. 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+19 de abril del 2021. Academia de Ingeniería Convocatoria para la 
+Instituto Tecnológico de Electromecánica elaboración del programa 
+Zacatepec. de especialidad 2021-2024. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+ Analiza y aplica los diferentes tipos de energías provenientes de fuentes 
+
+renovables con la finalidad de identificar que recurso utilizar en un sitio 
+determinado.   
+
+ Realiza proyectos de investigación, desarrollo e innovación tecnológicos, 
+relacionados con la energía proveniente de fuentes renovables. 
+
+ Demuestra la factibilidad y sustentabilidad de proyectos relacionados con las 
+fuentes renovables de energía, mediante la integración de los conocimientos para 
+su aplicación en las áreas de investigación, ingeniería y administración. 
+
+ Analiza los elementos que integran la empresa particularmente relacionada con 
+las energías renovables, con un enfoque sistémico, a través de los métodos y 
+técnicas idóneos, para gestionar la administración eficiente de los mismos, con el 
+propósito de obtener la productividad requerida por los contextos actuales. 
+
+ 
+5. Competencias previas 
+
+ Conocimientos básicos sobre energía solar. 
+ Conoce y aplica las leyes inherentes a la termodinámica y transferencia de calor 
+
+y mecánica de fluidos en los equipos mecánicos. 
+ Maneja unidades de energía en el ámbito eléctrico y térmico. 
+ Investiga analiza y relaciona nuevas tecnologías. 
+ Diseña y/o evalúa prototipos donde se utilicen algunas fuentes de energía a partir 
+
+del análisis del potencial de las mismas y de las metodologías establecidas para 
+tal efecto, para ser aplicadas en un proyecto. 
+
+ 
+6. Temario 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+No. Temas Subtemas 
+
+1 Introducción a la energía renovable 1.1. ¿Porque la energía renovable? 
+1.2. Consecuencias del consumo de 
+
+energía producida por combustibles 
+fósiles. 
+
+1.3. Fuentes de energía renovable 
+1.4. Energía Nuclear y combustibles fósiles 
+
+2 Fundamentos de energía solar 2.1 Fundamentos de radiación  
+2.2 Propiedades de la radiación  
+2.3 Radiación solar. 
+2.4 Aplicaciones de energía solar 
+
+3 Energía eólica 3.1 Tipos de turbinas de viento 
+3.2 Potencia del viento 
+3.3 Eficiencia de las turbinas de viento 
+3.4 Aplicaciones 
+
+4 Potencia hidráulica 4.1 Análisis de las plantas hidroeléctricas.  
+4.2 Turbinas de impulso 
+4.3 Turbinas de reacción  
+
+5 Otras fuentes de energía 5.1 Energía geotermoeléctrica 
+5.2 Energía de biomasa 
+5.3 Energía de las olas 
+5.4 Hidrogeno y celdas de combustible 
+
+6 Energía y medio ambiente 6.1 Contaminantes del aire 
+6.2 Emisiones de automóviles 
+6.3 Efecto invernadero 
+6.4 Capa de ozono 
+6.5 Desechos nucleares 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a la energía renovable 
+Competencias Actividades de aprendizaje 
+
+Específica(s): Realiza una investigación sobre las 
+consecuencias y efectos en el medio 
+
+Comprende la importancia del uso de las ambiente, con el uso de combustibles 
+energías renovables y el impacto en el fósiles. 
+ambiente del uso de los combustibles 
+fósiles. Elabora un reporte que detalle los 
+
+aspectos antes mencionados. 
+Identifica y comprende el impacto 
+ambiental del uso de esta energía. Expone los tipos o fuentes de energía 
+
+renovables existentes. 
+Genéricas: 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ Habilidad para buscar y analizar Expone un panorama mundial sobre la 
+
+información proveniente de fuentes aplicación de las energías renovables 
+diversas como libros, artículos existentes. 
+científicos, congresos y páginas 
+oficiales.  
+
+ Trabajo e integración en equipo. 
+ Habilidades de investigación y 
+
+documentación. 
+
+ 
+
+2. Fundamentos de energía solar 
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Conoce y estudia la Realizar una investigación sobre los 
+importancia y la magnitud de la radiación de principios de la energía solar. 
+la energía solar. 
+
+Investiga los mapas solares para 
+Maneja los conceptos relativos a la energía conocer la distribución solar en cada 
+solar y sus aplicaciones. región del planeta. 
+
+Identifica y comprende el impacto Investiga sobre los dispositivos capaces 
+ambiental del uso de esta energía. de transformar la energía solar. 
+
+       Elaborar y presentar un prototipo de 
+aplicación de energía fotovoltaica o 
+
+Genéricas: fototérmica. 
+
+ Comunicación oral y escrita. 
+ Habilidades de investigación y 
+
+documentación. 
+
+3. Energía eólica 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Realizar una investigación sobre los 
+principios de la energía eólica.  
+
+Reconoce los parámetros físicos y 
+atmosféricos que intervienen en la Investiga sobre los dispositivos capaces 
+distribución del recurso eólico y analiza de transformar la energía del viento. 
+esta distribución para detectar las zonas 
+con mayor potencial eólico.     Realiza un análisis de los parámetros 
+
+que intervienen en la distribución del 
+Identifica y comprende el impacto recurso eólico. 
+ambiental del uso de esta energía. 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Genéricas: Elaborar y presenta un prototipo de 
+
+aplicación de energía eólica. 
+ Trabajo e integración en equipo. 
+ Habilidades de investigación y  
+
+documentación. 
+ 
+
+4. Potencia hidráulica 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Realizar una investigación sobre los 
+principios de la energía hidráulica.   
+
+Conoce y estudia la importancia y la 
+magnitud de la energía hidroeléctrica. Investiga sobre la operación de las 
+
+instalaciones hidroeléctricas. 
+Comprende el funcionamiento de las 
+turbinas de acción y reacción.     Realiza un análisis de los parámetros 
+
+que intervienen en la generación de este 
+Identifica y comprende el impacto tipo de energía. 
+ambiental del uso de esta energía. 
+
+Elaborar y presenta un prototipo de 
+Genéricas: aplicación de energía hidroeléctrica. 
+
+ Solución de problemas.  
+ Habilidades de investigación y 
+
+documentación.  
+
+5. Otras fuentes de energía 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Investiga y analiza importancia de los 
+principios de otras fuentes de energía, 
+
+Conoce y estudia otras fuentes de energía así como de energías no renovables. 
+(Energía Geotérmica, Energía de la 
+Biomasa, Energía Mareomotriz, Celdas de Compara las energías renovables y no 
+Hidrógeno, etc.), su importancia y la renovables, señalando las ventajas y 
+magnitud de su impacto ambiental y desventajas de su uso y aplicación. 
+sustentabilidad. 
+
+Realiza visitas a distintas instalaciones 
+ de la Comisión Nacional del Agua. 
+
+Genéricas: Elabora y presenta un prototipo de 
+aplicación. 
+
+ Comunicación oral y escrita. 
+ Trabajo e integración en equipo. 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ Capacidad de generar nuevas 
+
+ideas, y proponer modificaciones 
+totalmente radicales. 
+
+6. Energía y medio ambiente 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Realizar una investigación sobre el 
+impacto ambiental del uso de los 
+
+Comprende el impacto ambiental que tiene recursos energéticos.  
+el uso de energías renovables y no 
+renovables. Investiga sobre el daño causado al 
+
+medio ambiente (Efecto invernadero, 
+Analiza los efectos causados en el medio calentamiento global, etc.) 
+ambiente debido al uso de los recursos 
+energéticos. Realiza un análisis de los parámetros 
+
+involucrados en estos procesos. 
+Identifica el potencial de la aplicación de 
+tecnologías limpias que permitan su Investigar el impacto ambiental en 
+aprovechamiento. nuestro entorno. 
+
+Genéricas:  
+
+ Comunicación oral y escrita.  
+
+ Trabajo e integración en equipo. 
+ Capacidad de generar nuevas 
+
+ideas, y proponer modificaciones 
+totalmente radicales. 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+ Realizar mediciones de variables: velocidad de los fluidos, radiación solar, carga 
+térmica de edificios, voltaje, corriente, potencia real, potencia aparente, potencia 
+reactiva y factor de potencia. 
+
+ Elaboración de prototipos de generación de energías renovables. 
+ Elaboración de programas de calidad de la energía.  
+ Elaborar programas de mantenimiento a equipos generadores de energías, con 
+
+el fin de economizar el costo de la producción de dichas energías. 
+ Identificación y análisis de los componentes de un sistema eléctrico y de equipos 
+
+térmicos, con el fin de identificar oportunidades de ahorro de energía. 
+ Análisis y valoración de ejemplos de proyectos de Ahorro de Energía ya 
+
+realizados en otras instalaciones, para detectar mejoras y futuras aplicaciones. 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ Realiza el análisis y diagnóstico de consumos energéticos en instalaciones típicas 
+
+como dependencias, hospitales, industrias, escuelas, centros comerciales, etc.  
+ Realizar y formular un programa de Ahorro de Energía en instalaciones típicas 
+
+como dependencias, hospitales, industrias, escuelas, centros comerciales, etc.  
+ Realizar mediciones en tiempo real de instalaciones eléctricas con analizadores 
+
+de potencia eléctrica, con el propósito de hacer un diagnóstico energético de dicha 
+instalación. 
+
+ Proponer sistemas de control, monitoreo y medición de parámetros eléctricos, con 
+el fin de mejorar la eficiencia energética de edificios e instalaciones eléctricas. 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+  
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+10. Evaluación por competencias  
+
+Observación del desempeño del alumno durante la realización trabajos e investigaciones. 
+Reportes escritos de las observaciones hechas durante las actividades de solución de 
+problemas prácticos, así como, las conclusiones obtenidas Información obtenida durante 
+las investigaciones solicitadas plasmada en documentos escritos.  
+Exámenes escritos para comprobar el manejo de aspectos teóricos y declarativos.  
+Reportes escritos de las prácticas experimentales.  
+Desarrollo de prototipos funcionales donde se muestren los diferentes tipos degeneración 
+de energías renovables.  
+Portafolio de evidencias 
+ 
+
+ 
+
+11. Fuentes de información 
+
+ 
+1. Carta, J. A. (2009). Centrales de energías renovables: Generación eléctrica con 
+
+energías renovables. Madrid: Pearson-UNED. 
+2. Hau, E. (2006). Wind turbines.: New York, USA. Springer.  
+3. Lorenzo, E. (2006). Electricidad solar fotovoltaica, Volumen II: radiación solar y 
+
+dispositivos fotovoltaicos: Progensa.  
+4. Ludevid, M. (1998). El cambio global en el medio ambiente.México D.F.: 
+
+Alfaomega.  
+5. Méndez, J. (2009). Energía solar fotovoltaica. Madrid: Fundación Confemetal.  
+6. Acuña Carmona A., Aguilera Avidal R.C., Aguayo Arias M., Azúcar García G. y 
+
+cols. 2003. Conceptos básicos del medio ambiente y desarrollo sustentable. 
+Colección: Educar para el ambiente-Manual del docente. Publicación financiada 
+por fondos de la cooperación técnica de la República federal Alemana. ISBN: 987-
+20598-8-8. 
+
+7. Canter L.W. 1988. Manual de evaluación de impacto ambiental. Ed. Mc Graw Hill 
+Interamericana. España. 
+
+8. Carabias J. y Tudela F. 1999. El cambio climático. El problema ambiental del 
+próximo siglo. En Desarrollo Sustentable año 1 num 9. México. 
+
+9. Energías Renovables para el Desarrollo Sustentable en México, SENER 2002, 
+México. 
+
+10. Programa de investigación y desarrollo tecnológico del sector energía 2002-2006, 
+SENER 2002, México. 
+
+11. Energía geotérmica ; Anna Carter (IGA),Dr. John Lund, Dr. Gary Huttrer, Dr. 
+Cesare Silvi. 
+
+12. Energía y potencia eólica; Randall Swisher (AWEA), Jim CaIdwell (AWEA), Dan 
+Juhl, Peter Asmus, Paul Gipe. 
+
+13. Generación de energía eléctrica solar térmica; Dr. David Kearney , Dr. Michael 
+Geyer , Dr. Gilbert Cohen (Duke Energy) , Dr. Frederick Morse. 
+
+14. Generación de energía fotovoltaica; Paul Maycock , Steven Strong , Dr. John 
+Byrne (Universidad de Delaware) , Dan Shugar (PowerLight). 
+
+ 
+ 
+
+Página | 8

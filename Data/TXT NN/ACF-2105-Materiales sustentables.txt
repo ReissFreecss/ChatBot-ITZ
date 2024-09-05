@@ -1,0 +1,691 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Materiales Sustentables 
+  
+  
+  
+
+Clave de la asignatura: ACF-2105 
+  
+  
+  
+
+SATCA1: 3-2-5 
+  
+  
+
+Carrera: Ingeniería Química. 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+ 
+Esta asignatura aporta al perfil de egreso del Ingeniero Químico los 
+conocimientos para comprender el concepto de materiales sustentables y las 
+características que deben poseer para su identificación y transformación. 
+ 
+Además, proporciona las bases para que el estudiante incursione en la 
+innovación de nuevos materiales con las propiedades pertinentes para que su 
+uso no genere un impacto negativo en el medio ambiente y sin poner en 
+riesgo los recursos naturales no renovables, buscando siempre incentivar la 
+innovación en los procesos aplicando la metodología científica, con respeto a la 
+propiedad intelectual. 	 	 	
+	  
+Esta asignatura relaciona conocimientos adquiridos en materias que la 
+anteceden como química orgánica I y II, análisis instrumental, ingeniería 
+ambiental, y desarrollo sustentable.  
+ 
+Intención didáctica 
+ 
+El contenido de esta asignatura está organizado de forma que el estudiante 
+adquiera conocimientos básicos y consecutivamente aplicarlos en prácticas de 
+laboratorio. 
+ 
+En el primer tema se abordan los diferentes tipos de materiales, sus 
+propiedades, así como su impacto en el medio ambiente. En el segundo tema 
+se trata acerca de la materia prima y métodos de obtención de materiales 
+sustentables. En el tercer tema se analiza la aplicación de los materiales 
+																																								 																				
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página	|	1		
+	
+
+
+
+	
+ 
+
+	
+sustentables en la actualidad. En el cuarto tema se evalúa el impacto de los 
+materiales sustentables y el análisis de ciclo de vida. Finalmente, en el quinto 
+tema se abordan los retos de la ingeniería en el desarrollo de los materiales 
+sustentables aplicado en los diferentes sectores económicos. 
+ 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+ 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Tecnológico Nacional de Zully Vargas Galarza, Desarrollo de planes y 
+México/Instituto Edgar García Hernández, programas de nuevas 
+Tecnológico de René Salgado Delgado, especialidades. 
+Zacatepec. Jesús Recillas Román. 
+
+25 al 29 de enero de 
+2021. 
+ 
+4. Competencia(s) a desarrollar 
+ 
+
+Competencia(s) específica(s) de la asignatura 
+Interpreta datos de diversa naturaleza en el proceso de formulación, 
+caracterización de los materiales, el impacto en su desarrollo y aplicación en el 
+medio ambiente.	
+
+ 
+5. Competencias previas 
+ 
+Aplica los conocimientos de estructura, fuerzas intermoleculares, grupos 
+funcionales y reacciones de química orgánica e inorgánica. 
+
+Aplica las técnicas de caracterización espectroscópicas y espectrométricas de 
+análisis instrumental. 
+
+Aplica los conocimientos de desarrollo sustentable. 
+
+ 
+ 
+ 
+ 
+ 
+
+Página	|	2		
+	
+
+
+
+	
+ 
+
+	
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Conceptos básicos de ciencia e 1.1. Clasificación de Materiales: 
+ingeniería de materiales.    1.1.1. Metálicos. 
+
+   1.1.2. Cerámicos. 
+   1.1.3. Poliméricos. 
+   1.1.4. Compuestos. 
+   1.1.5. Otros (Semiconductores, 
+aerogeles, Piezoelectricos, 
+metamateriales). 
+1.2. Propiedades de los materiales. 
+   1.2.1. Mecánicas. 
+   1.2.2. Térmicas. 
+   1.2.3. Eléctricas y magnéticas. 
+1.3. Relación entre estructura, 
+propiedad y procesamiento. 
+   1.3.1. Diseño y selección de 
+materiales. 
+1.4. Efectos ecológicos de los 
+materiales 
+1.5. La sustentabilidad y sostenibilidad 
+en los materiales. 
+
+2 Desarrollo de materiales 2.1. Definición y características de 
+sustentables. materiales sustentables. 
+ 2.2. Importancia actual de los 
+
+materiales sustentables. 
+2.3. Formulación 
+   2.3.1. Materia prima. 
+      2.3.1.1. Desechos agroindustriales. 
+      2.3.1.2. Desechos sólidos (orgánicos 
+e inorgánicos). 
+      2.3.1.3. Especies invasoras vegetales. 
+2.4. Métodos de obtención 
+   2.4.1. Síntesis por química verde. 
+   2.4.2. Vaciado. 
+   2.4.3. Materiales compuestos. 
+   2.4.4. Impresión 3D. 
+2.5. Caracterización. 
+ 
+
+3 Aplicación de materiales 3.1. En construcción. 
+sustentables 3.2. En la industria alimentaria. 
+ 3.3. En biomateriales. 
+ 3.4. En nanotecnología. 
+
+3.5. En tratamiento de aguas. 
+ 
+
+4 Análisis de ciclo de vida 4.1. Introducción. 
+
+Página	|	3		
+	
+
+
+
+	
+ 
+
+	
+    4.1.1. Definición y conceptos 
+
+   4.1.2. Fases del ciclo de vida de los 
+materiales. 
+   4.1.3. Importancia del ciclo de vida de 
+los diversos materiales. 
+4.2. Incidencia e impacto de los 
+materiales en el medio ambiente. 
+4.3. Análisis del Inventario (ICV) 
+4.4. Evaluación de Impacto 
+4.5. Interpretación 
+4.6. Etapas del ACV de los materiales. 
+4.7. Normatividad aplicada al ACV 
+4.8. Aplicaciones del ACV 
+4.9. Software para realizar un estudio 
+de ACV 
+
+5 Futuro de los materiales 5.1. Introducción. 
+sustentables. 5.2. Nuevas tendencias en desarrollo 
+
+de productos y aplicaciones en:  
+   5.2.1. Energía 
+   5.2.2. Agroalimentaria 
+   5.2.3. Salud-Medicina 
+   5.2.4. Ambiental. 
+   5.2.5. Construcción 
+   5.2.6. Corrosión 
+5.3. Retos de la ingeniería en el 
+desarrollo de nuevos materiales 
+sustentables. 
+
+  
+
+Página	|	4		
+	
+
+
+
+	
+ 
+
+	
+7. Actividades de aprendizaje de los temas 
+
+Tema 1. Conceptos básicos de ciencia e ingeniería de materiales. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conoce la clasificación Investigar los conceptos 
+de los materiales y sus propiedades, fundamentales de las propiedades 
+así como su impacto ecológico, físicas de los materiales. 
+sostenible y sustentable. 
+
+Identificar las diferencias existentes 
+Genéricas: entre la composición y 
+
+características físicas de los 
+Competencias instrumentales: materiales. 
+
+• Capacidad de análisis y síntesis. Investigar el impacto ambiental que 
+• Capacidad de organizar y general el uso de los distintos 
+
+planificar 	 materiales. 
+• Conocimientos generales 
+
+básicos 	 Analizar en equipo la información 
+• Conocimientos básicos de la encontrada y la contrasta con la 
+
+carrera	 proporcionada por sus compañeros 
+• Comunicación oral y escrita en y el profesor. 
+
+su propia lengua 	  
+ 
+
+• Conocimiento de una segunda 
+lengua 	 	
+
+• Habilidades básicas de manejo 
+de la computadora  
+
+• Habilidades de gestión de 
+información (habilidad para 
+buscar y analizar información 
+proveniente de fuentes 
+diversas)	
+
+• Solución de problemas para la 
+toma de decisiones.  
+
+Competencias interpersonales	
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo  
+
+ 
+
+ 
+
+Página	|	5		
+	
+
+
+
+	
+ 
+
+	
+Tema 2. Desarrollo de materiales sustentables. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar el concepto de 
+sustentabilidad relacionado a los 
+
+Conoce la definición de materiales distintos materiales. 
+sustentables, su importancia y las 
+formas de obtención. Analizar la importancia del uso y 
+ desarrollo de materiales 
+Genéricas: sustentables. 
+
+Competencias instrumentales: Obtener materiales sustentables 
+como posibles sustitutos de 
+
+• Capacidad de análisis y síntesis. materiales de embalajes derivados 
+• Capacidad de organizar y del petróleo. 
+
+Obtener materiales compuestos con 
+planificar 	 matriz inorgánica y refuerzo de 
+
+• Conocimientos generales residuos. 
+básicos 	  
+
+• Conocimientos básicos de la  
+carrera	
+
+• Comunicación oral y escrita en 
+su propia lengua 	  
+
+• Conocimiento de una segunda 
+lengua 	 	
+
+• Habilidades básicas de manejo 
+de la computadora  
+
+• Habilidades de gestión de 
+información (habilidad para 
+buscar y analizar información 
+proveniente de fuentes 
+diversas)	
+
+• Solución de problemas para la 
+toma de decisiones.  
+
+Competencias interpersonales	
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+
+ 
+
+ 
+
+ 
+
+Página	|	6		
+	
+
+
+
+	
+ 
+
+	
+Tema 3. Aplicación de materiales sustentables 
+
+ 
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar las diversas áreas de 
+aplicación de los materiales 
+
+Conoce las diversas áreas de sustentables. 
+aplicación de los materiales 
+sustentables. Investigar las diversas normas (ASTM, 
+
+ISO, otras) para evaluar la 
+Genéricas: sustentabilidad de los materiales 
+Competencias instrumentales: Evaluar el esfuerzo a la compresión 
+
+•  Capacidad de análisis y materiales compuestos con matriz 
+síntesis. inorgánica y refuerzo de residuos.  
+
+• Capacidad de organizar y Comparar y analizar los resultados de 
+planificar 	 esfuerzo a la compresión de los 
+
+• Conocimientos generales diversos materiales generados en el 
+básicos 	 grupo y reportados en la literatura. 
+
+• Conocimientos básicos de la 
+carrera	  
+
+• Comunicación oral y escrita en 
+ 
+
+su propia lengua 	  
+• Conocimiento de una segunda 
+
+lengua 	 	
+• Habilidades básicas de manejo 
+
+de la computadora  
+• Habilidades de gestión de 
+
+información (habilidad para 
+buscar y analizar información 
+proveniente de fuentes 
+diversas)	
+
+• Solución de problemas para la 
+toma de decisiones.  
+
+Competencias interpersonales	
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+
+ 
+
+ 
+
+Página	|	7		
+	
+
+
+
+	
+ 
+
+	
+Tema 4.  Análisis de ciclo de vida 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar las normas ISO utilizadas 
+para realizar un análisis de ciclo de 
+
+Conoce el impacto de los materiales vida de un producto. 
+sustentables, su tiempo de vida y la 
+normatividad aplicada para su uso. Investigar el impacto ecológico del 
+ uso de materiales no sustentables.	
+Genéricas: Realizar un análisis de 
+Competencias instrumentales: biodegradación y fotodegradación de 
+
+biopelículas a base de cascaras de 
+•  Capacidad de análisis y cítricos, polietileno y plásticos 
+
+síntesis. comerciales oxodegradables. 
+• Capacidad de organizar y 
+
+planificar 	 Analizar el ciclo de vida de un 
+• Conocimientos generales material sustentable y un no 
+
+básicos 	 sustentables y compararlos.	
+• Conocimientos básicos de la  
+
+carrera	
+• Comunicación oral y escrita en  
+
+su propia lengua 	  
+• Conocimiento de una segunda 
+
+lengua 	 	
+• Habilidades básicas de manejo 
+
+de la computadora  
+• Habilidades de gestión de 
+
+información (habilidad para 
+buscar y analizar información 
+proveniente de fuentes 
+diversas)	
+
+• Solución de problemas para la 
+toma de decisiones.  
+
+Competencias interpersonales	
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+
+ 
+
+ 
+
+Página	|	8		
+	
+
+
+
+	
+ 
+
+	
+Tema 5. Futuro de los materiales sustentables. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar los avances en relación al 
+desarrollo de nuevos materiales 
+
+Conoce los retos de la ingeniería en el sustentables y sus aplicaciones en 
+desarrollo de los materiales 
+sustentables y las diferentes áreas de áreas como: energía, sector 
+aplicación. agroalimentario, salud, medicina, 
+ ambiental, construcción. 
+
+ 
+Genéricas: Investigar los retos de los ingenieros 
+
+Competencias instrumentales: en el desarrollo y uso de nuevos 
+materiales sustentables.	
+
+• Capacidad de análisis y síntesis.  
+• Capacidad de organizar y Analizar en equipo la información 
+
+planificar 	 encontrada y la contrasta con la 
+• Conocimientos generales proporcionada por sus compañeros 
+
+básicos 	 y el profesor. 
+• Conocimientos básicos de la  
+
+carrera	 Obtener un hidrogel a base de 
+• Comunicación oral y escrita en biopolímeros	
+
+su propia lengua 	  
+• Conocimiento de una segunda 
+
+lengua 	 	
+• Habilidades básicas de manejo 
+
+de la computadora  
+• Habilidades de gestión de 
+
+información (habilidad para 
+buscar y analizar información 
+proveniente de fuentes 
+diversas)	
+
+• Solución de problemas para la 
+toma de decisiones.  
+
+Competencias interpersonales	
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+
+ 
+ 
+
+ 
+
+Página	|	9		
+	
+
+
+
+	
+ 
+
+	
+8. Práctica(s) 
+
+1. “Identificación de los distintos tipos de materiales”. 
+2. Obtener materiales sustentables como posibles sustitutos de materiales 
+
+de embalajes derivados del petróleo. 
+3. Obtener materiales compuestos con matriz inorgánica y refuerzo de 
+
+residuos. 
+4. Evaluar el esfuerzo a la compresión materiales compuestos con matriz 
+
+inorgánica y refuerzo de residuos. 
+5. Comparación de la biodegradación y fotodegradación de biopelículas a 
+
+base de desechos agroalimentarios o agroindustriales, con materiales 
+sintéticos como polietileno y plásticos comerciales oxodegradables. 
+
+6. Obtención un hidrogel a base de biopolímeros. 
+ 
+ 
+
+  
+
+Página	|	10		
+	
+
+
+
+	
+ 
+
+	
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página	|	11		
+	
+
+
+
+	
+ 
+
+	
+10. Evaluación por competencias  
+
+La evaluación de la asignatura se hará́ con base en el siguiente desempeño: 
+• Participación en clase y en el taller de solución de problemas. 
+• Entrega de reportes de investigación. 
+• Asistencia a visitas industriales y/o centros de investigación. 
+• Examen escrito. 
+• Foros de discusión y debate. 
+• Exposición y discusión en clase. 
+• Materiales audiovisuales. 
+• Practicas experimentales. 
+• Reporte de Prácticas. 
+• Resultados de proyectos de investigación. 
+• Desempeño personal en clase 
+
+ 
+ 
+
+11. Fuentes de información 
+
+Callister, William D., Rethwisch, David G. (2013). Materials science and 
+engineering: An introduction (9th ed.). John Wiley and Sons, inc  
+ 
+ Ashby, M. F., & Jones, D. R. H. (2012). Engineering materials 1: an introduction to 
+properties, applications, and design (4th ed.). Amsterdam ; Boston: 
+Butterworth-Heinemann. 
+ 
+Askeland, D. R. (2010). The Science and engineering of materials (6th Ed.). 
+(International Ed. ed.). Mason, OH: Cengage Learning. 
+ 
+Norma ASTM C170-90 
+ 
+Normas ISO 
+ 
+Martinez, G., Hernández, J. B., López, T., Menchaca, C., (2015). Materiales 
+Sustentables y Reciclados en la Construcción 
+(1ra Ed.).  OmniaScience (Omnia Publisher SL) 
+ 
+Ministerio de Vivienda y Urbanismo. Gobierno de Chile (2018). Estándares de 
+Construcción Sustentable para Viviendas, Tomo IV: Materiales y Residuos. 
+Serie 2: Estándares Técnicos para Edificaciones Residenciales. División Técnica 
+de Estudio y Fomento Habitacional - Ditec, Minvu 
+ 
+Camacho Martínez, D. E. (2018). Estudio de las propiedades de especies 
+invasoras vegetales para su aprovechamiento en el desarrollo de materiales 
+sustentables. Instituto Potosino de Investigación 
+Científica y Tecnolócica, A.C. Posgrado en Nanociencias y Materiales 
+ 
+ 
+
+Página	|	12		
+	
+
+
+
+	
+ 
+
+	
+Posadas García, M. F., Arista González, G. (2011). Análisis de ciclo de vida de 
+materiales y tecnologías sustentables para la vivienda. Universidad Autónoma 
+de San Luis Potosí. 
+ 
+
+Página	|	13

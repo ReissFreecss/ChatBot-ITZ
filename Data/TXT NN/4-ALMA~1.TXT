@@ -1,0 +1,491 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Almacenes De Datos 
+  
+  
+
+Clave de la asignatura: CDD-2104 
+
+  
+
+  
+2 - 3 – 5 
+
+SATCA1: 
+ 
+
+  
+  
+
+Carrera: Ingeniería en Sistemas Computacionales 
+2. Presentación 
+
+Caracterización de la asignatura 
+ 
+Esta asignatura aporta al perfil del Ingeniero en Sistemas Computacionales, la capacidad 
+para conocer, diseñar e implementar bases de datos multidimensionales, conocer el 
+proceso de construcción de un almacén de datos así como herramientas de análisis 
+multidimensional, y aplicar las tecnologías asociadas a los sistemas de bases de datos 
+utilizadas para la toma de decisiones en las organizaciones. 
+ 
+Esta materia deberá cursarse en séptimo semestre, teniendo como prerrequisito las 
+materias de Fundamentos de Base de Datos, Taller de Bases de Datos y Administración 
+de Bases de Datos, en la primera se proporciona al alumno los fundamentos del diseño y 
+creación de una base de datos bajo el enfoque relacional; en la segunda materia se 
+complementa los conocimientos de bases de datos con los conceptos  de Integridad, 
+control de concurrencia, manejo de transacciones, seguridad y procedimientos 
+almacenados. La tercera materia le permite al alumno adquirir conocimiento y habilidades 
+para fungir como administrador de una base de datos. También requiere de 
+conocimientos abordados en otras materias como Programación y Redes de 
+Computadoras. 
+ 
+Intención didáctica 
+ 
+El temario se ha diseñado en cuatro unidades; en la primera unidad se introduce a los 
+conceptos básicos sobre la definición y arquitectura de una base de datos 
+multidimensional, comparación entre bases de datos ordinarias contra las bases de datos 
+para toma de decisiones y la aplicación de este tipo de bases de datos en el mundo real. 
+
+En la unidad dos, se abordan temas sobre conceptos de modelado multidimensional y se 
+toma de referencia la metodología de Kimball para el análisis y diseño de almacenes de 
+datos, se analizan las diferentes estrategias para el almacenamiento de datos y se 
+estudian casos reales. 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+    Página | 1 
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+La tercera unidad aporta conocimientos sobre  el proceso de Extracción, Transformación 
+y carga de datos a un almacén de datos, se trata el tema del diseño del diccionario de 
+datos para dicho proceso y sobre tecnologías para la construcción del mismo. 
+
+En la unidad 4 se presenta el tema de las operaciones para llevar a cabo un análisis 
+multidimensional  
+ 
+ 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto tecnológico de Tecnológico Nacional de Programa elaborado por 
+Zacatepec. México campus Instituto 
+
+profesores del 
+Tecnológico de Zactepec 
+
+ 
+DR. Francisco Javier departamento de Sistemas 
+
+Departamento de sistemas Cartujano Escobar  
+y Computación, presentado 
+
+y Computación M.C. Claudia Noguerón 
+González y aprobado en el pleno de 
+
+ 
+Lic. Estela Rodríguez 
+
+Academia de sistemas  la Academia. 
+Zavaleta 
+
+computación.  M.T.I. Laura Villavicencio 
+
+ Gómez  Esta materia forma parte de 
+M.C. Boris Antonio Aranda la especialidad Ciencia de 
+
+Reunión para el desarrollo de Benitez Datos para la Toma de 
+Especialidades de Noviembre M.C. José Francisco Carpio Decisiones, para la carrera 
+2020 a Marzo 2021. Tovilla Ingeniería en Sistemas 
+
+M.C.I.  Misael López Nava 
+Computacionales, Plan de 
+
+M.C. Leticia Santa Olalla 
+Ocampo estudios 2010 
+
+Dra. Ana Celia Campos 
+Hernández 
+MT.I. Claudia Gabriela 
+Bustillos Gaytan 
+ 
+
+ 
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Adquirir conocimiento teórico y práctico relevante para el desarrollo de sistemas que 
+faciliten la toma de decisiones tales como almacenes de datos y cubo de datos. 
+
+ 
+ 
+ 
+ 
+
+    Página | 2 
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+5. Competencias previas 
+Dominar el diseño y desarrollo de  Bases de Datos bajo un enfoque relacional. 
+Dominar el lenguaje estándar SQL para Bases de Datos 
+Dominar programación básica 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1. Introducción a las bases de datos 1.1 Conceptos básicos de almacenes de Datos 
+para la toma de decisiones.  (Data Warehouse). 
+
+1.2 Beneficios de los almacenes de datos. 
+ 1.3 Comparación entre OLTP y Bases de datos 
+
+para la toma de decisiones. 
+1.4 Arquitectura de la base de datos para la 
+
+toma de decisiones. 
+1.5 Casos de éxito en el uso de bases de datos 
+
+para la toma de decisiones. 
+ 
+
+2. Análisis y Diseño de almacenes 2.1 Conceptos de Modelación dimensional 
+de datos 2.2 Metodología de Kimball para el análisis y 
+
+diseño de almacenes de datos 
+ 2.3 Estrategias de almacenamiento para el 
+
+modelo dimensional : Relacional vs 
+Multidimensional 
+
+2.4 Modelos dimensionales aplicados a casos 
+de estudio. (Ventas, Inventarios, Finanzas)  
+
+ 
+3. Construcción de almacenes de 3.1  Proceso general  de ETL (Extraction, 
+
+datos Transformation, Loading) 
+3.2  Extracción  
+
+ 3.3 Transformación de datos 
+3.4 Carga de datos 
+3.5 Diseño del diccionario de datos para apoyar 
+
+el proceso de ETL 
+3.6 Tecnologías y herramientas para la 
+
+construcción de almacenes de datos 
+ 
+
+4. Análisis Multidimensional 4.1 Conceptos de Análisis Multidimensional. 
+4.2 Representación multidimensional por medio 
+
+ de rejilla de cuboides. 
+4.3 Operaciones OLAP. 
+4.4 Análisis multidimensional usando SQL 
+
+estándar (operador group by). 
+
+    Página | 3 
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+4.5 Análisis multidimensional usando 
+
+extensiones a SQL (operador cube by, 
+rollup, etc). 
+
+4.6 Construcción del cubo de datos por MOLAP. 
+4.7 Visualización de datos. 
+4.8  Tecnologías y herramientas para OLAP 
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a las bases de datos para la toma de decisiones. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Identificar los conceptos Mediante un mapa conceptual, identificar 
+básicos, beneficios y arquitectura de bases los conceptos básicos que definen un 
+
+de datos para la toma de decisiones. almacén de datos. 
+Elaborar una tabla comparativa sobre 
+
+Genéricas: búsqueda, selección y análisis Bases de datos operativas y Bases de 
+
+de información en distintas fuentes, uso de datos para toma de decisiones. 
+
+las nuevas tecnologías en el desarrollo de Investigar un caso de éxito en la aplicación 
+
+los temas de la asignatura, capacidad de de Bases de datos para toma de 
+análisis y síntesis, capacidad de organizar  decisiones y exponerlo frente a grupo. 
+información, conocimientos básicos y 
+avanzados del área de base de datos, 
+comunicación oral y escrita. 
+ 
+
+2. Análisis y diseño de almacenes de datos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Analizar y diseñar Mediante un caso dado, elaborar un diseño 
+almacenes de datos según la metodología que represente los conceptos de los 
+
+de Kimball tomando en cuenta las distintos modelos multidimensionales. 
+Diseñar un modelo de almacén de datos 
+
+diferentes estrategias de almacenamiento, 
+basado en la metodología de Kimball 
+
+aplicado a casos reales. 
+aplicado a un caso real. 
+
+Genéricas: planeación y organización, 
+trabajo en equipo, fomentar la 
+investigación, solución de problemas, toma 
+de decisiones, habilidades básicas de 
+manejo de la computadora. 
+ 
+
+3. Construcción de almacenes de datos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Definir la metodología para Mediante una representación gráfica 
+
+    Página | 4 
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+el proceso de Extracción, Transformación y mostrar los componentes y pasos 
+Carga a un almacén de datos. necesarios para realizar el proceso de 
+
+Extracción, Transformación y Carga de un 
+Genéricas: búsqueda, selección y análisis almacén de datos. 
+de información en distintas fuentes, uso de Realizar una investigación sobre las 
+las nuevas tecnologías en el desarrollo de herramientas en el mercado disponibles 
+los temas de la asignatura, capacidad de ETL y exponerlo al grupo. 
+análisis y síntesis, capacidad de organizar  Hacer uso de una herramienta ETL para 
+información, planeación y organización, poblar un almacén de datos. 
+trabajo en equipo, fomentar la  
+investigación, solución de problemas,       
+toma de decisiones, habilidades        
+básicas de manejo de la computadora. 
+ 
+
+4. Análisis Multidimensional 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Implementar consultas Mediante una herramienta OLAP construir 
+multidimensionales mediante herramientas un cubo OLAP. 
+OLAP y SQL que permitan la visualización Realizar una investigación sobre el 
+de datos. funcionamiento de las operaciones 
+
+multidimensionales que ofrece SQL. 
+Genéricas: Capacidad de aplicar los Diseñar operaciones que permitan el 
+conocimientos en la práctica, Habilidades 
+
+análisis multidimensional con SQL estándar 
+de investigación, capacidad de aprender, 
+capacidad de generar nuevas ideas, (operador group by) 
+
+capacidad de análisis y síntesis, capacidad Diseñar e implementar operaciones OLAP. 
+de organizar  información, planeación y 
+organización, trabajo en equipo, fomentar 
+la investigación, solución de problemas. 
+ 
+
+ 
+
+8. Práctica(s) 
+
+• Elaborar la definición y planteamiento de un caso real para construir un almacén de 
+datos (análisis de requisitos). 
+
+• Definición de fuentes de datos de la arquitectura de 3 capas de Dataware House. 
+
+• Construcción del esquema de un almacén de datos a partir de un modelo 
+conceptual E-R. 
+
+• Diseño del modelo multidimensional para el caso de estudio mediante modelo 
+estrella, copo de nieve o constelación de hechos. 
+
+• Instalación y configuración de una herramienta ETL. 
+
+• Estudio y aplicación del proceso ETL del caso de estudio para poblar y refrescar el 
+DWH del caso de estudio. 
+
+• Instalación y configuración de la herramienta OLAP. 
+
+    Página | 5 
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+• Creación y poblado de cubos de datos (data marts). 
+
+• Diseño e implementación de consultas multidimensionales para análisis OLAP. 
+
+ 
+ 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar el 
+desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual se 
+fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que permite a los 
+estudiantes lograr la comprensión de la realidad o situación objeto de estudio para definir un 
+proceso de intervención o hacer el diseño de un modelo. 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto por 
+parte de los estudiantes con asesoría del docente; implica planificar un proceso: de 
+intervención empresarial, social o comunitaria, el diseño de un modelo, entre otros, según el 
+tipo de proyecto, las actividades a realizar los recursos requeridos y el cronograma de 
+trabajo. 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte de los 
+estudiantes con asesoría del docente, es decir en la intervención (social, empresarial), o 
+construcción del modelo propuesto según el tipo de proyecto, es la fase de mayor duración 
+que implica el desempeño de las competencias genéricas y especificas a desarrollar. 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-profesión, 
+social e investigativo, ésta se debe realizar a través del reconocimiento de logros y aspectos 
+a mejorar se estará promoviendo el concepto de “evaluación para la mejora continua”, la 
+metacognición, el desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+La evaluación debe ser continua, formativa, flexible e integral, por lo que se debe 
+considerar el desempeño en cada una de las actividades de aprendizaje, haciendo 
+especial énfasis en lo siguiente: 
+ 
+
+• Realizar una evaluación diagnóstica al inicio del semestre, para partir de saberes 
+previos, expectativas e intereses que tengan los estudiantes. 
+ 
+
+• Durante el desarrollo del curso debe llevarse a cabo una evaluación formativa que 
+permita realimentar el proceso de aprendizaje   y establecer las estrategias  para 
+el logro de los objetivos establecidos. Realizar evaluaciones mediante: exámenes 
+teóricos y prácticos, desarrollo de prácticas de laboratorio, tarea y ejercicios.   
+
+    Página | 6 
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+ 
+
+• Al finalizar el curso debe realizarse una evaluación sumativa que se vincula con 
+aquellas acciones que se orientan a dar cuenta de productos, saberes, 
+desempeños y actitudes  que se deben considerar para la calificación.  
+ 
+
+• Se sugiere utilizar como herramienta de evaluación el portafolio de evidencias, y 
+como instrumento la lista de cotejo y la rúbrica.  
+
+ 
+
+Algunos productos sugeridos  para la evaluación son: 
+
+• Reporte de investigaciones realizadas. 
+• Reporte de prácticas realizadas. 
+• Materiales utilizados en exposiciones. 
+• Proyecto integrador. 
+• Registros de la participación activa en la solución de estudio de casos. 
+• Presentación de información mediante mapas mentales y conceptuales. 
+• Examen escrito de conceptos teóricos y prácticos.  
+
+ 
+11. Fuentes de información 
+
+Kimball R. y  Caserta J., (2004), The Data WarehouseETL Toolkit: Practical Techniques for 
+Extracting, Cleaning, Conforming, and Delivering Data , Editorial  WILEY. 
+
+Kimball R. y Ross M., (2008), The Data Warehouse Lifecycle Toolkit,   Editorial  WILEY. 
+
+Krishnan K.,  (2013), Data Warehousing in the Age of Big Data (The Morgan Kaufmann Series on 
+Business Intelligence),   Star Schema The Complete Reference, Christopher Adamson, 2010, Mc 
+Graw Hill. 
+
+Rainardi V., (2007), Building a Data Warehouse: With Examples in SQL Server (Expert's Voice) ,    
+
+Sarka D y   Lah M.,(2012), Implementing a Data Warehouse with Microsoft SQL Server 2012 
+(MCSA) (Microsoft Press Training Kit) ,   
+
+ Catherine M. Ricardo, (2009), “Bases de datos”,  Mc. Graw Hill, 1ra. Edición. 
+
+Elmasri A. y Navathe S.B.,(2002), “Fundamentos de Sistemas de Bases de Datos”, Ed. Addison 
+Wesley, 3ª Edición. 
+
+Rob Peter y Coronel Carlos, (2004), “Sistemas de bases de datos, diseño, implementación y 
+administración”, Ed. Thomson, 5ª  Edición. 
+
+Silberschatz A., Korth H. y Sudarshan S., (2006) “Fundamentos de bases de datos”, Ed. Mc.Graw 
+Hill, 5ª Edición. 
+ 
+
+    Página | 7

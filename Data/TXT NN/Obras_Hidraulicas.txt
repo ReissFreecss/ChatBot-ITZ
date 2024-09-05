@@ -1,0 +1,514 @@
+﻿1. Datos Generales de la asignatura 
+                          Nombre de la asignatura:  Obras Hidráulicas 
+
+Clave de la asignatura:      P   O   R  - 1  5  0  6                                  
+                               SATCA:  2-1-3 
+
+Carrera: Ingeniería Civil 
+ 
+2. Presentación 
+Caracterización de la asignatura 
+La aportación de la asignatura al perfil del Profesionista le permitirá emplear los 
+conocimientos de Topografía, Maquinaria Pesada y Movimiento de Tierras, 
+Materiales y Procesos Constructivos, Hidráulica básica, Abastecimiento de Agua, 
+Mecánica de Suelos, Hidráulica de Canales e Hidrología Superficial que se 
+imparten en la carrera de Ingeniería Civil, para proporcionarle al alumno los 
+elementos necesarios para diseñar obras de captación de aguas superficiales 
+tanto de almacenamiento como de derivación. Para lograr lo anterior, requiere 
+contar también, con conocimientos adquiridos en disciplinas tan diversas como 
+Topografía, Geología, Mecánica de suelos, Diseño de Estructuras, Economía, 
+entre otras.  
+ 
+El alumno adquirirá los conocimientos necesarios, para diseñar los elementos que 
+constituyen una presa de almacenamiento, como son la cortina, obra de desvío, 
+obra de toma y obra de excedencias, o una presa de derivación, apoyándose en 
+los estudios hidrológicos, geológicos, topográficos y de mecánica de suelos, 
+requeridos para ello.  
+ 
+Esta materia es de suma importancia para el profesionista de Ingeniería Civil, ya 
+que le permitirá obtener conocimientos que le permitan desarrollarse en el ámbito 
+laboral en proyectos de Obras Hidráulicas, donde actualmente la utilización, 
+distribución, uso y necesidad del agua toma cada día mayor relevancia para 
+consumo humano. 
+  
+El programa de la materia de Obras Hidráulicas considera cinco unidades, con  lo 
+que se desarrolla el curso básico para que el alumno quede preparado para su 
+desenvolvimiento Profesional a futuro.  
+ 
+En la primera Unidad, se abordan aspectos introductorios como definiciones, las 
+partes que integran un aprovechamiento hidráulico como obras de captación, 
+obras de conducción, obras de distribución, obras de drenaje, obras de 
+tratamiento y obras de descarga; los elementos que conforman una Presa; los 
+aspectos consideraciones y recomendaciones en la elección del tipo de presa. 
+ 
+En la segunda Unidad, se analizan las técnicas de topografía, hidrología, geología 
+y mecánica de suelos para los estudios básicos de presas; así como los 
+lineamientos para un estudio socioeconómico y la Normatividad de impacto 
+ambiental, para este tipo de obras.  
+ 
+
+
+
+En la tercera Unidad, se analizan los aspectos básicos de las cimentaciones en 
+las presas, tipos de apoyo que se pueden encontrar en el terreno, pruebas de 
+campo para definir la permeabilidad y alternativas de tratamiento para mejorar las 
+condiciones del apoyo.  
+ 
+En la cuarta Unidad, se analizan los métodos y herramientas para el diseño de 
+cortinas de gravedad y tierra, como también sus posibles fallas; además del 
+diseño de las obras de desvío, obra de toma y excedencias.  
+ 
+En la quinta Unidad, se proporcionan métodos y herramientas para el diseño de 
+presas  derivadoras, así como de sus posibles usos. 
+ 
+Intención didáctica 
+
+Se organiza el temario en cinco unidades, agrupando los contenidos 
+conceptuales de la asignatura en las tres primeras unidades; en la unidad cuatro 
+y cinco se desarrolla la aplicación de los conceptos abordados en las tres 
+primeras y en estas mismas.  
+ 
+Se sugiere actividades integradoras, en la cuarta y quinta  unidad, que permita 
+aplicar los conceptos desarrollados. Esto permite dar un cierre a la materia 
+mostrándola como útil por sí misma en el desempeño profesional. 
+ 
+El enfoque sugerido para la materia requiere que las actividades prácticas 
+promuevan el desarrollo de habilidades para la experimentación, tales como: 
+identificación, manejo y control de variables y datos relevantes; planteamiento de 
+hipótesis; capacidad de análisis y síntesis, capacidad de organizar y planificar, el 
+trabajar de manera autónoma y en equipo.  
+ 
+La lista de actividades puede hacerse como actividad extra clase y comenzar el 
+tratamiento en clase a partir de la discusión de los resultados de las 
+investigaciones y observaciones. Se busca partir de experiencias concretas, 
+cotidianas, para que el estudiante se acostumbre a reconocer los fenómenos 
+físicos en su alrededor y no sólo se hable de ellos en el aula.  
+ 
+Durante el transcurso de las actividades programadas es muy importante que el 
+estudiante aprenda a valorar las actividades que lleva a cabo y que actúe de una 
+manera profesional; de igual manera, aprecie la importancia del conocimiento, 
+considere mejorar sus habilidades de investigación, los hábitos de trabajo, la 
+capacidad de generar nuevas ideas, desarrolle la precisión y la curiosidad, la 
+puntualidad, el entusiasmo y el interés, la tenacidad, la flexibilidad y la autonomía; 
+así como la búsqueda del logro. 
+ 
+Es necesario que el profesor ponga atención y cuidado en estos aspectos en el 
+desarrollo de las actividades de aprendizaje y funja como guía para que lo 
+anterior pueda desarrollarse de manera más clara y objetiva. 
+ 
+
+
+
+En las actividades prácticas sugeridas, es conveniente que el profesor busque 
+sólo guiar a sus alumnos para que ellos hagan la elección de las variables a 
+controlar y registrar. Esto con el fin de que aprendan a planificar por sí mismos, el 
+profesor debe involucrarlos en el proceso de planeación.  
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+ 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Academia de Ingeniería Civil Reunión de academia 
+Zacatepec, Mayo 2015 del Instituto Tecnológico de de Ingeniería Civil de 
+
+Zacatepec fecha 28 de mayo de 
+2015 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+ 
+ Conocer la importancia de las Obras Hidráulicas. 
+ Explicar las partes que integran un aprovechamiento hidráulico. 
+ Clasificar las Obras de Captación. 
+ Calcular volúmenes de agua para una presa para abastecimiento a poblaciones o 
+
+para riego. 
+ Determinar el uso de un almacenamiento o una derivación. 
+ Clasificar los tipos de derivación 
+ Aplicar las técnicas de topografía, geología y mecánica de suelos para los 
+
+estudios básicos de presas, lineamientos para un estudio socioeconómico y la 
+normatividad de impacto ambiental, para este tipo de obras.  
+
+ Clasificar los tipos de terreno donde se ubique una presa.  
+ Calcular la resistencia y permeabilidad del terreno.  
+ Conocer los métodos de tratamiento del terreno.  
+ Aplicar la capacidad de juicio, lógico, crítico, deductivo, de modelación, de diseño 
+
+y de cálculo para la toma de decisiones en las propuestas de alternativa de 
+solución para las obras hidráulicas. 
+
+ Aplicar los métodos y herramientas para el diseño de cortinas de gravedad y 
+tierra. 
+
+ Diseñar las obras de desvío,  obra de toma y excedencias.  
+ Aplicar los métodos y herramientas para el diseño de presas derivadoras. 
+
+ 
+ 
+5. Competencias previas 
+ 
+El alumno deberá tener los conocimientos básicos de materias precedentes para 
+comprender de una manera más clara y poder relacionar estas con la presente. 
+Tales conocimientos previos deben enfocarse en las materias principalmente de:  
+ 
+
+
+
+ Dibujo en la Ingeniería Civil. 
+ Topografía. 
+ Mecánica de Suelos. 
+ Maquinaria Pesada y Movimiento de Tierras 
+ Procesos Constructivos 
+ Hidráulica Básica.  
+ Hidráulica de Canales.  
+ Hidrología Superficial. 
+ Abastecimiento de Agua 
+ Formulación y Evaluación de Proyectos.  
+
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 OBRAS HIDRÁULICAS 1.1 Generalidades 
+ 1.2 Antecedentes e importancia de las       
+
+Obras Hidráulicas 
+1.3 Clasificación de las Obras Hidráulicas 
+1.4 Elementos Constitutivos de un 
+
+Aprovechamiento Superficial. 
+1.5 Obras de Captación (Presas) 
+1.6 Partes que integran una presa.  
+1.7 Aspectos, consideraciones y 
+
+recomendaciones en la elección del 
+tipo de presa. 
+
+1.8 Determinación del volumen de agua 
+para una presa de abastecimiento a 
+comunidades, para cultivos e 
+Hidroeléctrica. 
+
+2 ESTUDIOS BÁSICOS PARA EL 2.1  Estudios Topográficos.  
+DISEÑO DE PRESAS. 2.2  Estudios Geológicos.  
+
+ 2.3. Estudios de Bancos de Materiales.  
+2.4  Estudio Socioeconómico.  
+2.5  Estudios Hidrológicos 
+2.6  Estudios de Impacto Ambiental.  
+
+3 CIMENTACIONES DE PRESAS 3.1  Tipos de Terreno para apoyo de    
+         Presas.  
+
+3.2   Resistencia.  
+3.3   Permeabilidad y Pruebas de campo.  
+3.4   Métodos de tratamiento.  
+
+4 PRESAS DE 4.1   Diseño, tipos y construcción de la  
+ALMACENAMIENTO         Cortina de una Presa.  
+
+ 4.1.1  Estabilidad y cortinas de gravedad.  
+4.1.1.1. Fuerzas actuantes  
+4.1.2  Principales causas de falla.  
+
+
+
+4.1.3  Diseño de una Cortina de 
+Materiales Graduados.  
+
+4.2.  Obra de Desvío.  
+4.2.1. Objetivos y Análisis de los tipos de 
+
+desvío.  
+4.3.  Obra de Toma.  
+4.3.1. Objetivos y tipos de la Obra de 
+
+Toma.  
+4.4.  Obra de Excedencias.  
+4.4.1. Objetivos de los vertedores  
+4.4.2. Análisis y tipos de vertedores  
+4.4.3  Compuertas 
+
+  5.1  Generalidades.  
+5 PRESAS DE DERIVACIÓN 5.2  Desarenador.  
+
+ 5.3  Obra de Toma.  
+5.4  Sección vertedora  
+
+ 
+7. Actividades de aprendizaje de los temas 
+
+Unidad 1: Obras Hidráulicas 
+Competencias Actividades de aprendizaje 
+
+Específica(s):   Elaborar un mapa conceptual  o 
+Explicar las partes que integran un cuadro sinóptico acerca de los 
+aprovechamiento hidráulico (obra de elementos que integran una 
+captación, obra de conducción, obras de presa. 
+distribución, obra de drenaje, obra de  Elaborar un mapa conceptual  o 
+tratamiento y obra de descarga). Clasificar cuadro sinóptico acerca de la 
+las obras de captación, identificar las partes clasificación de las obras de 
+de una Presa y determinar el uso de un captación. 
+almacenamiento o una derivación. Obtener  Clasificar los diferentes tipos de 
+los volúmenes necesarios para una Presa presas con base a su 
+Derivadora, o de Abastecimiento a una funcionamiento. 
+población.  Conocer e identificar las partes 
+ que integran una Presa 
+Genéricas:  Consultar en fuentes de 
+ Capacidad de análisis y síntesis. información el desarrollo de los 
+ Capacidad de organizar y planificar. diferentes tipos de presas y 
+ Conocimientos básicos de la carrera. elaborar un resumen para su 
+ Comunicación oral y escrita. discusión grupal. 
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas. 
+
+ Trabajo en equipo. 
+ Capacidad crítica y autocrítica  
+ Habilidad para trabajar con autonomía. 
+
+Unidad 2: Estudios Básicos para el Diseño de Presas 
+Competencias  Actividades de aprendizaje 
+
+
+
+Específica(s):  Elaborar un ensayo sobre los 
+Aplicar las técnicas de topografía, hidrología, estudios básicos necesarios 
+geología y mecánica de suelos para los para el proyecto de presas. 
+estudios básicos de presas, lineamientos  Definir datos básicos para el 
+para un estudio socioeconómico y la desarrollo de un proyecto de 
+normatividad de impacto ambiental, para una presa. 
+este tipo de obras.   Conocer los datos básicos en 
+ materia de topografía, geología, 
+Genéricas: mecánica de suelos e 
+ Capacidad de análisis y síntesis. hidrología. 
+ Capacidad de organizar y planificar.  
+ Conocimientos básicos de la carrera. 
+ Comunicación oral y escrita. 
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas. 
+
+ Trabajo en equipo. 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+
+Unidad 3: Cimentaciones de Presas 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Elaborar una serie de tiempo 
+Clasificar los tipos de terreno donde se sobre la evolución de los tipos 
+ubique una presa. de cimentación y 
+ características de las presas.  
+Calcular la resistencia y permeabilidad del  Calcular la resistencia y 
+terreno y analizar los métodos de tratamiento permeabilidad del terreno para 
+del terreno.  la ubicación de presas. 
+  Elaborar una síntesis sobre la 
+Genéricas: utilización de los métodos de 
+ Trabajo en equipo. tratamiento de terrenos. 
+ Capacidad crítica y autocrítica 
+ Habilidades interpersonales. 
+ Capacidad de aplicar los conocimientos en 
+
+la práctica. 
+ Habilidades de investigación. 
+ Capacidad de aprender. 
+ Habilidad para trabajar con autonomía.  
+
+Unidad 4: Presas de Almacenamiento 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Elaboración de ensayo sobre 
+Conocer el tipo de fallas que regularmente características, componentes 
+
+
+
+pueden presentarse en las Presas y uso de presas de 
+ almacenamiento. 
+Aplicar los métodos y herramientas para el  Aplicar los métodos 
+diseño de cortinas de gravedad y tierra. existentes para el diseño de 
+ cortinas de gravedad y tierra 
+Diseñar las obras de desvío,   obra de toma y  Diseñar el tipo de cortina en 
+excedencias. la elaboración del proyecto 
+ ejecutivo 
+Genéricas:  Diseñar la obra de toma, de 
+ Conocimientos básicos de la carrera. desvío y excedencias en la 
+ Habilidades básicas del manejo de la elaboración del proyecto 
+
+computadora. ejecutivo 
+ Habilidad para buscar y analizar  Analizar las técnicas de 
+
+información proveniente de fuentes diseño sobre obras de toma 
+diversas. de desvío y de excedencias 
+
+ Solución de problemas.  Investigar sobre los diversos 
+ Toma de decisiones. factores de seguridad en el 
+ Trabajo en equipo.  diseño de presas. 
+ Capacidad crítica y autocrítica.  
+ Habilidades interpersonales. 
+ Capacidad de aplicar los conocimientos en 
+
+la práctica. 
+ Capacidad de generar nuevas ideas 
+
+(creatividad). 
+ Habilidad para trabajar con autonomía. 
+ Busca de logro. 
+
+Unidad 5: Presas de Derivación 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Elaboración de ensayo sobre 
+Aplicar los métodos y herramientas para el características, componentes 
+diseño de presas  y uso de presas derivadoras. 
+Derivadoras.  Aplicar los métodos 
+ existentes para el diseño de 
+Genéricas: presas derivadoras. 
+ Toma de decisiones.  Diseñar el Desarenador en la 
+ Trabajo en equipo. elaboración del proyecto 
+ Habilidades básicas del manejo de la ejecutivo. 
+
+computadora.  Diseñar la obra de toma en la 
+ Solución de problemas. elaboración del proyecto 
+ Capacidad crítica y autocrítica. ejecutivo. 
+ Habilidades interpersonales.  Diseñar la sección vertedora 
+ Capacidad de aplicar los conocimientos en en la elaboración del proyecto 
+
+la práctica. ejecutivo. 
+ Capacidad de aprender.  
+
+ Capacidad de generar nuevas ideas 
+
+
+
+(creatividad). 
+ Habilidad para trabajar con autonomía. 
+ Busca de logro. 
+ 
+ 
+8. Práctica(s) 
+ 
+Ninguna. Solo visitas de Campo.  
+ 
+Se recomienda visitar algún Instituto de Modelación Física. 
+ 
+ 
+ 
+9. Proyecto de asignatura 
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en 
+
+el cual se fundamenta el proyecto de acuerdo con un diagnóstico realizado, 
+mismo que permite a los estudiantes lograr la comprensión de la realidad o 
+situación objeto de estudio para definir un proceso de intervención o hacer el 
+diseño de un modelo. 
+
+ 
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades a 
+realizar los recursos requeridos y el cronograma de trabajo. 
+
+ 
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto según 
+el tipo de proyecto, es la fase de mayor duración que implica el desempeño de 
+las competencias genéricas y especificas a desarrollar. 
+
+ 
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+
+
+ 
+ 
+10. Evaluación por competencias  
+ 
+ Actividades de búsqueda, selección y análisis de información en distintas 
+
+fuentes, como la bibliografía establecida o Internet. 
+ Uso de programas de cómputo para la resolución de problemas de Obras 
+
+Hidráulicas. 
+ Que el alumno relacione los contenidos de la asignatura con la preservación 
+
+del medio ambiente. 
+ El Participar en conferencias, congresos y otros eventos académicos 
+
+relacionados con la asignatura. 
+ Comunicación, intercambio y colaboración en la resolución de problemas 
+ Desarrollo, interés, participación e innovación en proyectos de Obras 
+
+Hidráulicas. 
+ Observar y analizar fenómenos y problemáticas propias del campo 
+
+ocupacional. 
+ Entrega y revisión de proyecto. 
+ Entrega de problemas resueltos en clase y extra clase. 
+ Realización de exámenes escritos. 
+ Reportes de trabajos de investigación documental y asistencia a congresos. 
+ Participación en clases, en forma individual y grupal. 
+ Resolución, participación y resultados de los problemas, ejercicios y 
+
+actividades en clase. 
+ 
+ 
+ 
+11. Fuentes de información 
+1. Obras Hidráulicas. Francisco Torres H. Capítulos 1 y 2.  
+2. Diseño de presas pequeñas. United States Departament of Interior.  
+3. Presas de tierra y Enrocamiento Raúl J. Marshall y Daniel Resendiz Núñez.  
+4. Manual de diseño de obras civiles. Comisión Federal de Electricidad. Sección 
+
+B Geotecnia: B1.1, B1.2, B1.3, B1.4, B1.5. B2.4, B3.3, B3.5. Sección A 
+Hidráulica: A2.12, A2.2.  
+
+5. Presas de almacenamiento y derivación. Oscar Vega Roldan y Felipe 
+Arreguin Cortes. Facultad de Ingeniería de la UNAM, D-32.   
+
+6. Diseño hidráulico de estructuras. Gilberto Sotelo Ávila. Facultad de Ingeniería 
+UNAM.  
+
+7. Dimensionamiento de una presa derivadora. Capítulo 4 del Manual de 
+Ingeniería de Ríos. José Luis Sánchez Bribriesca y Oscar Fuentes Mariles. 
+Instituto de Ingeniería UNAM (SERIE AZUL 595)  
+
+8. Mecánica de suelos tomo III, Eulalio Juárez Badillo y Alfonso Rico Rodríguez.  
+9. Apuntes de texto para la materia de obras hidráulicas. Tesis Profesional, 
+
+
+
+María Guadalupe Mendoza Vargas, UAEM 1991, Capitulo 2  
+10. Apuntes de diseño de una obra de desvío con conductos en túnel, Héctor 
+
+García Gutiérrez, facultad de ingeniería UNAM.  
+11. Apuntes de presas derivadoras, José M. Zamudio Morales, Facultad de 
+
+Ingeniería UNAM.  
+12. Sotelo, Ávila Gilberto. Hidráulica General Vol. I Fundamentos. Limusa-
+
+Noriega, Editores. México. 1999.  
+13. Sotelo, Ávila Gilberto. Hidráulica de canales. Facultad de Ingeniería. UNAM.  
+14. Chow Ven Te. Hidráulica de canales abiertos. McGraw Hill. México. 1994.

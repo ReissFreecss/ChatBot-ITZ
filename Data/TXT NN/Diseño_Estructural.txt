@@ -1,0 +1,712 @@
+﻿Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Diseño Estructural. 
+Clave de la asignatura: POC-1505 
+
+SATCA1: 2 – 2 - 4 
+Carrera: Ingeniería Civil. 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+En esta asignatura, el estudiante integra y aplica los conceptos del análisis y diseño de 
+los elementos del concreto y del acero, en las  diferentes obras de la Ingeniería Civil,  
+para que de esa manera,  intervenga en las actividades laborales como un profesional 
+capacitado en el diseño y construcción de  obras, en la carrera del Ingeniero Civil. 
+
+La asignatura de Diseño Estructural,  tiene relación con asignaturas como: Análisis 
+estructural I y II, Diseño de Estructuras de Concreto, Diseño de Estructuras de Acero y 
+Cimentaciones; donde el estudiante aplicará los conceptos bases para proponer y 
+desarrollar aplicaciones eficientes en el área de la ingeniería civil. 
+
+ Respecto de las aportaciones de la asignatura de Diseño Estructural I al perfil 
+profesional, se tienen las siguientes: 
+
+ Desarrollar la habilidad para aplicar las Normas Técnicas Complementarias 
+de Concreto y Acero. 
+
+ Desarrollar la habilidad para diseñar elementos continuos de Concreto y  
+Acero empleando estrategias que aseguren la eficiencia del mismo. 
+
+ Aplicar las nuevas tecnologías a las Normas Técnicas Complementarias de 
+Concreto y Acero. 
+
+ Conocimiento en la integración de una memoria de cálculo estructural. 
+ 
+
+Esta materia se considera básica para la carrera del Ingeniero Civil, debido a que la 
+misma sociedad moderna demanda la construcción de edificaciones necesarias para el 
+desarrollo de la planificación urbana e integración social cada vez más altas, esbeltas y 
+de menor costo; sin disminuir la seguridad de las mismas. 
+
+Los temas de esta asignatura proporcionan al alumno todos los elementos necesarios, 
+además con la supervisión del docente especializado en el Diseño Estructural, para que 
+pueda desarrollar de principio a fin el proyecto estructural adecuado. Finalmente, con los 
+conocimientos adquiridos propondrá un buen diseño a la estructura para su posible 
+construcción. Como se ha mencionado  anteriormente, los fundamentos del Diseño 
+Estructural, están  relacionados con las materias ya mencionadas, y se adapta a las 
+competencias específicas y actualizadas que se demandan actualmente. 
+ 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+Intención didáctica 
+
+El contenido temático está condensado  en siete unidades. La Unidad uno trata acerca 
+de los conceptos generales del diseño, desde la necesidad de un buen diseño estructural, 
+así como los estudios preliminares pertinentes en cada caso, su correcto desarrollo y el 
+impacto que tiene el proyectista en el diseño,  la construcción y el mantenimiento de una 
+edificación u obra. Es importante hacer énfasis en que el proyectista y el constructor de 
+la edificación u obra, tiene la responsabilidad económica y de seguridad de cualquier 
+situación probable a la que se vea sometida del inmueble. 
+
+La Unidad dos aborda los criterios de diseño que se deben de tomar en cuenta  como lo 
+son: esfuerzos de trabajo o esfuerzos permisibles, de resistencia última o diseño plástico, 
+basados en el análisis al límite, probabilísticos y de estado límite, denotando los alcances 
+y limitaciones de cada teoría según sea al caso.  
+
+En la Unidad tres se  considera  la clasificación de las acciones de carga; permanentes, 
+variables y accidentales, las formas de verificar los diseños en contra de ellas, así como 
+el  estado límite de falla  y de servicio, situaciones que se deben de tomar en cuenta para 
+un diseño óptimo. 
+
+También se incluye en la Unidad cuatro,  el uso de sistemas computacionales para  el 
+análisis de los elementos mecánicos que se tomarán en cuenta para el diseño adecuado  
+de una edificación u obra, se utiliza sistemas computacionales con el objeto de facilitar la 
+obtención de dichos elementos mecánicos últimos o de diseño, y de esa manera lograr 
+un diseño estructural eficiente, seguro y funcional. 
+
+La Unidad cinco es el dimensionamiento y el diseño constructivo de los elementos 
+estructurales que se requieran según las características: de los materiales, de sistema 
+constructivo y del sistema de entrepiso. En esta unidad, el profesor deberá revisar y 
+ayudar a optimizar los elementos que los estudiantes generen y propongan para el 
+proyecto, siendo así una guía que acerque a los alumnos a la toma de decisiones  
+aplicando criterios estructurales adecuados. 
+
+ 
+
+En la Unidad seis, elaborarán los alumnos con la guía del maestro, los  planos necesarios 
+de lo realizado en las unidades anteriores: Planos arquitectónicos, estructurales, de 
+cimentación, detalles y secciones de ser necesario; apoyándose en  la simbología propia 
+del diseño estructural en la Ingeniería Civil. Y así por último integrar el proyecto ejecutivo 
+de edificación con todas las partes lo integran desde el punto de vista del diseñador 
+estructural, lo que se considera en la unidad siete.  
+
+Es necesario usar el reglamento de construcciones del Distrito Federal, así como sus 
+normas técnicas complementarias para que el estudiante formule sus propios criterios de 
+diseño, haciendo hincapié en que comprenda e interprete los lineamientos y fórmulas ahí 
+plasmadas, para lograr que su actitud frente a los problemas de diseño estructural sea 
+razonada, reflexiva y asertiva con respecto a las normas. 
+
+Página | 2  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Academia de Ingeniería Reunión de academia de 
+Zacatepec, Mayo 2015 Civil del Instituto Tecnoló- Ingeniería Civil de fecha 28 
+ gico de Zacatepec de mayo de 2015 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+El estudiante integra y aplica los conceptos del análisis y diseño de elementos de concreto 
+y acero, a obras de ingeniería; para que de esa manera intervenga como profesional 
+capacitado en el diseño de obras de edificación. 
+
+ Obtiene los criterios de planeación, diseño de obras civiles así como la 
+construcción de estructuras de mampostería. 
+
+ Aprende a trabajar en equipo para resolver problemas, preocupándose por la 
+calidad y el logro de metas. 
+
+ Respeta en los proyectos (en la medida que sea posible) la preservación y el 
+cuidado del medio ambiente. 
+
+ Investiga las nuevas tecnologías del Diseño Estructural a nivel mundial. 
+ Propone elementos para reducir (en la medida que sea posible) el problema de 
+
+la contaminación atmosférica. 
+ Asume una actitud ética y responsable en los proyectos de Ingeniería en Diseño 
+
+Estructural con la normatividad correspondiente. 
+
+5. Competencias previas 
+
+ Analiza y obtiene los elementos mecánicos de elementos estructurales, marcos 
+planos y armaduras. 
+
+ Diseña de elementos de acero y concreto, tales como vigas, columnas y losas; 
+así como sus conexiones. 
+
+ Comprende del impacto de las características del medio en el diseño estructural 
+tales como: Tipo de suelo, situación topohidráulica del terreno, clima, zona 
+sísmica y eólica, y otros. 
+
+ Diseña diferentes cimentaciones, superficiales y profundas, de mampostería y 
+concreto. 
+
+ Elabora planos básicos con simbología propia de la ingeniería civil. 
+ Comprende y aplica procesos  constructivos eficientes según la problemática 
+
+específica de proyecto según sea el caso. 
+ Conoce el comportamiento de los materiales utilizados en la edificación, sus 
+
+alcances y limitaciones. 
+ Maneja habilidades computacionales básicas. 
+
+ 
+
+Página | 3  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Conceptos Generales de Diseño 1.1 Planteamiento de la necesidad. 
+1.2 Justificación 
+1.3 Configuración 
+1.4 Estudios preliminares 
+1.5 Diseño estructural 
+1.6 Construcción 
+1.7 Mantenimiento 
+
+2 Criterios de Diseño 2.1 Esfuerzo de trabajo o esfuerzos 
+permisibles. (Teoría elástica) 
+2.2 De resistencia última o diseño plástico 
+2.3 Basados en el análisis al límite 
+2.4 Probabilísticos 
+2.5 De estado límite 
+
+3 Análisis de Acciones 3.1 Acciones permanentes 
+3.2 Acciones variables 
+3.3.  Acciones accidentales (sismos y 
+viento) 
+3.4 Combinaciones de Acciones 
+
+4 Uso de Sistemas Computacionales 4.1 Uso de programas de Análisis 
+Estructural 
+
+5 Dimensionamiento 5.1 Trabes 
+5.2 Columnas 
+5.3 Cimentaciones 
+5.4 Sistemas de entrepiso 
+
+6 Planos Estructurales 6.1 De acero (planos de diseño y planos 
+de taller, símbolos normalizados) 
+6.2 De concreto (dibujos de colocación, 
+detalles de varillas de refuerzo, detallado 
+de elementos estructurales) 
+
+7 Proyecto Estructural en Edificación 7.1 Integración de proyecto estructural en 
+edificación 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Nombre de tema 
+Conceptos Generales de Diseño 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):  Investigar diversas soluciones 
+estructurales. 
+
+ Identificar los sistemas  Describir el proceso del diseño 
+estructurales actuales factibles estructural. 
+para el proyecto.   Tener autorizado el proyecto o 
+
+ Determinar el sistema estructural proyectos estructurales a realizar. 
+adecuado que solucione las (Los proyectos se obtendrán de 
+
+libros, revistas, etc.) 
+
+Página | 4  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+necesidades planteadas en los  
+estudios preliminares. 
+
+Genéricas: 
+
+Competencias instrumentales 
+
+• Habilidad para buscar y analizar 
+información proveniente de fuentes 
+diversas 
+ 
+
+Competencias interpersonales 
+
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+
+• Habilidades de investigación 
+Nombre de tema 
+
+Criterios de Diseño 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+ Realizar un trabajo comparativo de 
+
+ Investigar las Normas Técnicas los principios de la teoría plástica y 
+complementarias del RCDF los elástica para aplicarlos al diseño 
+criterios de diseño aplicables al estructural. 
+proyecto.   Redactar un resumen acerca de los 
+
+ Aplicar las hipótesis en las que se criterios tomados en cuenta para el 
+basan los criterios de diseño proyecto estructural a desarrollar, 
+
+aceptados en el reglamento tomando en cuenta los dos estados 
+
+vigente. límite: de falla y de servicio. 
+ 
+
+Genéricas: 
+
+Competencias instrumentales 
+
+• Habilidad para buscar y analizar 
+información proveniente de fuentes 
+diversas 
+ 
+
+Competencias interpersonales 
+
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+
+• Habilidades de investigación 
+
+Página | 5  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+Nombre de tema 
+Análisis de Acciones 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Calcular el peso propio de la 
+estructura de prediseño y otras 
+
+ Determinar las acciones acciones permanentes. 
+permanentes, variables y  Obtener la carga viva máxima, 
+accidentales, a las cuales estará media y accidental que soportará la 
+sometida una estructura, en base a estructura, en base al uso que se le 
+la vida útil y al uso de la misma. dará a la misma. 
+
+ Realizar la bajada de cargas propia  Calcular la magnitud de las 
+del sistema estructural empleado acciones accidentales tales como 
+en su proyecto (sistema de sismo, viento y otras, a las que vaya 
+entrepiso, de la superestructura y a estar sometida la estructura, 
+subestructura). según la ubicación geográfica de la 
+
+misma. 
+Genéricas: 
+
+Competencias instrumentales 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Solución de problemas 
+
+ 
+Competencias interpersonales 
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+ 
+ 
+
+Nombre de tema 
+Uso de Sistemas Computacionales 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Elaborar un modelo computacional de 
+la estructura del proyecto. 
+
+ Determinar los elementos  Introducir los estados y combinaciones 
+mecánicos críticos del proyecto de cargas correspondientes al caso en 
+estructural en estudio. estudio. 
+
+ Comparar los efectos de las cargas 
+en cada combinación de diseño. 
+
+Página | 6  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ Elegir los elementos mecánicos  Introducir las condiciones accidentales 
+críticos para diseñar la estructura. a las que estará expuesta durante la 
+
+simulación. 
+Genéricas:  Obtener los elementos mecánicos de 
+
+cada combinación de cargas. 
+Competencias instrumentales  Elegir los elementos mecánicos 
+• Conocimientos básicos de la carrera. generados para el posterior diseño de 
+• Habilidades básicas del manejo de la los elementos estructurales y su 
+
+computadora. revisión. 
+
+• Solución de problemas  
+
+ 
+Competencias interpersonales 
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+Nombre de tema 
+
+Dimensionamiento 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Diseñar las secciones de concreto 
+y/o acero capaces de resistir los 
+
+ Determinar las secciones de acero elementos mecánicos críticos y 
+y/o concreto reforzado, para resistir acreditarlas en contra del estado 
+las solicitaciones a las que se límite de falla y servicio;  en: 
+somete la estructura del proyecto. - Losas 
+ - Vigas 
+
+Genéricas: - Columnas 
+- Cimientos 
+
+Competencias instrumentales - otros elementos 
+• Conocimientos básicos de la carrera. estructurales según el 
+• Habilidades básicas del manejo de la proyecto 
+
+computadora.  
+
+• Solución de problemas 
+ 
+
+Competencias interpersonales 
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+
+Página | 7  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Capacidad de aprender 
+Capacidad para diseñar y gestionar 
+proyectos 
+
+Nombre de tema 
+Planos Estructurales 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Interpretar la simbología y la aplicará 
+en su proyecto estructural. 
+
+ Elaborar los planos del proyecto:  Aplicar la simbología normalizada, 
+de conjunto, arquitectónico, tanto para elementos de acero y 
+estructural, de cimentación y de concreto, previamente aprendido en 
+detalles. dibujo de ingeniería en la elaboración 
+
+ de los planos: de conjunto, 
+Genéricas: arquitectónico, estructural, de 
+
+cimentación y de detalles, concerniente 
+Competencias instrumentales a un proyecto estructural ejecutivo. 
+• Conocimientos básicos de la carrera.  
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Solución de problemas 
+
+ 
+Competencias interpersonales 
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+
+Capacidad para diseñar y gestionar 
+proyectos. 
+
+ 
+
+Nombre de tema 
+Proyecto Estructural en Edificación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Integrar la memoria de cálculo 
+estructural del proyecto mediante los 
+
+ Integrar el proyecto estructural datos preliminares y cálculos 
+ejecutivo de una edificación. realizados en las unidades anteriores 
+
+ (se inicia a partir del término de la 
+Genéricas: unidad I). 
+
+ Elaborar y detallar los planos 
+Competencias instrumentales estructurales a partir de los datos 
+• Conocimientos básicos de la carrera. 
+
+Página | 8  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Habilidades básicas del manejo de la obtenidos en la memoria de cálculo del 
+computadora. proyecto autorizado. 
+
+• Solución de problemas 
+ 
+
+Competencias interpersonales 
+• Trabajo en equipo 
+• Capacidad de intercambiar información 
+
+ 
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+
+Capacidad para diseñar y gestionar 
+proyectos 
+
+ 
+
+8. Práctica(s) 
+
+ 
+ Práctica de investigación de datos preliminares para la concepción del Proyecto 
+
+de Diseño Estructural. 
+ Práctica de encuestas de factibilidad  para la elaboración del Proyecto de 
+
+Diseño Estructural. 
+ Simulación mediante software especializado de los elementos mecánicos 
+
+producidos por las combinaciones de carga pertinentes en un proyecto de 
+edificación. 
+
+ 
+ 
+
+9. Proyecto de asignatura 
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+
+Página | 9  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+ 
+ Proyecto Propuesto: Proyecto estructural de una edificación de 5 niveles, 
+
+correspondiente al tema 7 de este documento. 
+
+ 
+
+10. Evaluación por competencias  
+ 
+
+ Revisión y entrega de reportes de investigaciones realizadas. 
+ Evaluación del proyecto mediante revisiones periódicas y evaluaciones finales. 
+ Evaluaciones escritas al final de cada unidad. 
+ Trabajo en equipo. 
+ Participación en plenaria. 
+ Entrega de trabajos en equipo. 
+ Participación en clase. 
+ Exposiciones. 
+ Asistencias. 
+ Tareas. 
+
+ 
+ 
+
+11. Fuentes de información 
+
+1. Meli Piralla Roberto, 2004, Diseño Estructural, LIMUSA 
+2. Oscar de Buen y López de Heredia, Apuntes de Diseño Estructural, UNAM 
+3.- González Cuevas y Robles Fernández, 2005, Aspectos Fundamentales del Concreto 
+
+Reforzado, 4ta. Edicion, LIMUSA 
+4. Bowles, J.E. Diseño de Acero Estructural, LIMUSA 
+5. Park y Paulay, 1983, Estructuras de Concreto Reforzado, LIMUSA 
+6.- Charles G. Salmon Y John E. Johnson, 1996, Steel Structures. Design And Behavior, 
+
+Harper Collins College Publishers 
+7. Reglamento de Construcciones para el D.F., Departamento del Distrito Federal. 
+8. Normas Técnicas Complementarias, 2004 , Departamento Del Distrito Federal 
+ 
+
+ 
+
+Página | 10

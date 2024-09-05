@@ -1,0 +1,752 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Taller de Herramientas 
+ Tecnológicas 
+
+Clave de la asignatura:  
+ SEH-2106 
+
+SATCA1:  
+ ( 1 – 3 – 4 ) 
+
+Carrera:  
+Ingeniería Industrial  
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Para la integración de esta asignatura, se han tomado como 
+
+referencia las necesidades identificadas en cuanto al uso de 
+herramientas tecnológicas básicas en el desempeño profesional del 
+
+ingeniero industrial. Para ello, se hizo una revisión de las 
+principales herramientas tecnológicas de mayor uso en la 
+
+actualidad que le permiten al egresado desempeñarse de manera 
+
+efectiva y contribuir en el logro de los objetivos 
+organizacionales. 
+
+Es importante señalar que la relación que tiene esta asignatura 
+con las demás de la retícula, es que le permite al estudiante 
+
+aplicar herramientas tecnológicas a los conocimientos y 
+
+habilidades adquiridos durante su proceso de formación, para 
+realizar su tareas de forma más rápida y eficiente, mejorando su 
+
+presentación y comunicación y con ello, fortalece su participación 
+como parte de un equipo, contribuyendo así, al perfil del 
+
+egresado, permitiéndole integrar el uso de herramientas 
+
+tecnológicas demandadas en las empresas públicas y privadas, a la 
+producción de bienes o servicios y propiciando en el estudiante, 
+
+el interés de actualizarse continuamente en el desarrollo de sus 
+habilidades sobre el uso de nuevas tecnologías. 
+
+ 
+Intención didáctica 
+
+De manera particular, el tema uno aborda los conocimientos básicos 
+para el manejo y uso eficiente de las bases de datos. En el tema 
+subsecuente se imparten aspectos específicos para el desarrollo de 
+hojas de cálculo y su aplicación en la gestión de información. 
+Posteriormente, en el tema tres, se dan a conocer herramientas 
+para presentaciones y reportes ejecutivos, entre las cuales se 
+incluyen Microsoft Word y PowerPoint. Finalmente, el tema cuatro 
+abarca aspectos necesarios para el fortalecimiento del trabajo 
+colaborativo en línea. 
+El enfoque sugerido para la asignatura requiere que las 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+  
+
+actividades a través del docente en su papel de mediador promuevan 
+el desarrollo de competencias como la identificación, comprensión 
+y manipulación de datos, la aplicación del conocimiento en 
+diferentes entornos, la capacidad de resolución de problemas, la 
+toma de decisiones y la comunicación efectiva de ideas y 
+conclusiones en entornos tecnológicos. 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del 
+programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+
+elaboración o 
+revisión 
+
+Instituto Integrantes de la Reunión de Academia de 
+Tecnológico de Academia de Ingeniería Industrial para el 
+Zacatepec, Ingeniería diseño de la especialidad y 
+Zacatepec; Morelos Industrial elaboración de planes y 
+del 8 – 12, 18 y 19 programas para el Plan de 
+de febrero 2021. Estudios IIND-2010-227. 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Aplica las herramientas tecnológicas de la información y 
+
+comunicación para mejorar el desempeño de sus tareas y funciones en 
+
+los procesos de las organizaciones. 
+
+5. Competencias previas 
+
+ Contar con conocimientos básicos de Office (Word, Excel y 
+
+PowerPoint)  
+
+ Formula expresiones algebraicas para resolver problemas.  
+ Aplica operaciones algebraicas para resolver problemas. 
+
+ Posee habilidades en el uso de las tecnologías de la 
+
+información y de la comunicación. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1  Herramientas para el manejo 1.1 Entorno de trabajo del 
+
+de datos  Excel (navegar en los menús) 
+
+1.2 Operaciones básicas con 
+ celdas y hojas (tablas, 
+
+configurar impresión, 
+
+formato, combinar, insertar, 
+
+hipervínculos, exportar, 
+
+Página | 2  
+ 
+
+
+
+ 
+
+  
+
+copiar-insertar hojas, 
+
+referenciar, concatenar, 
+
+extraer) 
+
+1.3 Fórmulas y funciones 
+
+básicas (funciones 
+
+estadísticas, funciones de 
+
+búsqueda, funciones de 
+
+referencia y funciones 
+
+contar) 
+
+1.4 Creación y formato de 
+
+gráficos    
+
+2 Aplicaciones de la hoja de 2.1 Funciones lógicas y anidadas 
+cálculo  (Funciones: SI, Si-Y-O, 
+
+SI.Error, Promedio.SI, Promedio, 
+Si.Conjunto)  
+2.2 Creación y manejo de base de 
+datos 
+2.3 Formato condicional y 
+validación de datos 
+2.4 Tablas dinámicas  
+2.5 Manejo de inventarios y 
+líneas de espera 
+2.6 Programación lineal con 
+SOLVER 
+2.7 Introducción a las MACROS 
+ 
+
+3 Herramientas para 3.1 Características de un 
+presentaciones y reportes reporte y una presentación 
+ejecutivos  ejecutiva 
+
+3.2 Entorno de trabajo de Word 
+
+(explorar menús) 
+
+3.3 Configuración de página 
+
+(menús, diseño, diseño de página 
+
+y archivo) 
+
+3.4 Insertar imágenes, gráficos, 
+
+SmartArt y tablas 
+
+3.5 Referencias, correspondencia 
+
+y plantillas 
+
+3.6 Entorno de trabajo de 
+
+PowerPoint 
+
+3.7 Formato de las 
+
+presentaciones (diseño-colores, 
+
+cantidad de información, 
+
+inserción de imágenes, gráficos 
+
+e hipervínculos) 
+
+3.8 Animación de presentaciones 
+
+(transiciones, insertar video y 
+
+Página | 3  
+ 
+
+
+
+ 
+
+  
+
+audio, tiempos de transición) 
+
+ 
+4 Trabajo colaborativo en 4.1 Entorno de trabajo del 
+
+línea  Outlook y Teams  
+4.1.1 Administración de los 
+mensajes, manejo de los 
+contactos y del calendario 
+4.1.2 Tareas, diario y notas 
+4.1.3 Servicios de colaboración 
+(chat, videoconferencias) 
+4.2 Entorno de trabajo del 
+OneDrive y Google Drive  
+4.2.1 Compartir archivos 
+4.2.2 Edición de archivos en 
+grupo 
+4.3 Creación de formularios 
+(Office y Google). 
+
+7. Actividades de aprendizaje de los temas 
+
+1.- Herramientas básicas de la hoja de cálculo 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Investigar en que consiste los 
+
+elementos de una hoja de 
+Genera las habilidades básicas cálculo, presentando un reporte 
+en el uso y manejo de datos de investigación.  
+utilizando la hoja de cálculo de 
+
+Excel.  Configurar y diseñar la hoja de 
+
+cálculo, para realizar 
+Genéricas:  ejercicios diversos. 
+
+Competencias instrumentales:  Aplicar las fórmulas y funciones 
+ Capacidad de análisis y 
+
+básicas en la hoja de cálculo, a 
+síntesis   
+
+través de una práctica. 
+ Capacidad de organizar y 
+
+planificar   
+Realizar una práctica utilizando 
+
+ Comunicación oral y 
+escrita   los diferentes tipos de gráficos 
+
+ Habilidades básicas de que ofrece Excel. 
+
+manejo de la computadora   
+ Habilidad para buscar y 
+
+analizar información 
+proveniente de fuentes 
+diversas   
+
+ Toma de decisiones.  
+  
+Competencias interpersonales   
+
+ Capacidad crítica y 
+autocrítica   
+
+Página | 4  
+ 
+
+
+
+ 
+
+  
+
+ Habilidades y capacidades 
+interpersonales para el 
+trabajo en equipo   
+ 
+
+Competencias Sistémicas: 
+
+ Habilidades en el uso de 
+
+las tecnologías de la 
+
+información y de la 
+
+comunicación.  
+
+ Habilidad para buscar y 
+
+analizar información.  
+
+ Habilidad para trabajar en 
+
+forma autónoma. 
+
+ 
+
+2.- Aplicaciones de la hoja de cálculo 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Aplicar las funciones lógicas y 
+
+anidadas en la hoja de cálculo, 
+Genera las habilidades para la a través de una práctica. 
+aplicación de funciones de nivel 
+
+intermedio utilizando la hoja de Graficar una base de datos 
+
+cálculo de Excel. estadística considerando 
+
+parámetros específicos. 
+Genéricas: 
+
+Diseñar, alimentar y consultar 
+Competencias instrumentales:  una base de datos. 
+
+ Capacidad de análisis y 
+síntesis    
+
+ Capacidad de organizar y 
+planificar   
+
+ Comunicación oral y 
+escrita   
+
+ Habilidades básicas de 
+manejo de la computadora   
+
+ Habilidad para buscar y 
+analizar información 
+proveniente de fuentes 
+diversas   
+
+ Toma de decisiones.  
+  
+Competencias interpersonales   
+
+ Capacidad crítica y 
+autocrítica   
+
+ Habilidades y capacidades 
+
+Página | 5  
+ 
+
+
+
+ 
+
+  
+
+interpersonales para el 
+trabajo en equipo   
+
+ 
+
+Competencias sistémicas   
+ Capacidad de aplicar los 
+
+conocimientos en la 
+práctica   
+
+ Habilidades de 
+investigación   
+
+ Capacidad de generar nuevas 
+ideas (creatividad)  
+
+ Habilidad para trabajar en 
+forma autónoma  
+
+ Búsqueda de logro  
+
+ Poseer iniciativa al 
+
+elaborar y resolver los 
+
+problemas propios de los 
+
+proyectos.  
+
+3.- Herramientas para presentaciones y reportes ejecutivos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   
+
+Genera las habilidades para la Realizar en equipo un reporte 
+
+creación de reportes ejecutivos ejecutivo, utilizando 
+
+y presentaciones electrónicas, preferentemente el proyecto 
+
+fomentando la comunicación realizado en alguna asignatura 
+
+efectiva. anterior. 
+
+Genéricas: Desarrollar en equipo una 
+
+presentación ejecutiva, 
+Competencias instrumentales:  utilizando preferentemente el 
+
+ Capacidad de análisis y 
+proyecto realizado en alguna 
+
+síntesis   
+asignatura anterior. 
+
+ Capacidad de organizar y 
+planificar   
+
+Presentar en plenaria los 
+ Comunicación oral y 
+
+escrita   productos de las actividades 
+
+ Habilidades básicas de anteriores al concluir el tema 
+
+manejo de la computadora   4. 
+ Habilidad para buscar y 
+
+analizar información 
+proveniente de fuentes 
+diversas   
+
+ Toma de decisiones.  
+  
+Competencias interpersonales   
+
+ Capacidad crítica y 
+
+Página | 6  
+ 
+
+
+
+ 
+
+  
+
+autocrítica   
+ Habilidades y capacidades 
+
+interpersonales para el 
+trabajo en equipo   
+
+ 
+
+Competencias sistémicas   
+ Capacidad de aplicar los 
+
+conocimientos en la 
+práctica   
+
+ Habilidades de 
+investigación   
+
+ Capacidad de generar nuevas 
+ideas (creatividad)  
+
+ Habilidad para trabajar en 
+forma autónoma  
+
+ Búsqueda de logro  
+Poseer iniciativa al elaborar y 
+
+resolver los problemas propios 
+
+de los proyectos.  
+
+4.- Trabajo colaborativo en línea 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+
+Utiliza las principales En equipo los estudiantes 
+
+aplicaciones para el trabajo deberán organizar una 
+
+colaborativo en línea. videoconferencia ejecutiva 
+
+(planeación, tareas, contactos, 
+Genéricas: 
+
+calendario, almacenamiento en 
+
+línea, roles) para presentar los 
+Competencias instrumentales:  
+
+ Capacidad de análisis y productos desarrollados en el 
+
+síntesis   tema anterior. 
+
+ Capacidad de organizar y 
+planificar   Los estudiantes desarrollarán un 
+
+ Comunicación oral y formulario para realizar la 
+escrita   coevaluación entre pares. 
+
+ Habilidades básicas de 
+manejo de la computadora     
+
+ Habilidad para buscar y 
+analizar información 
+proveniente de fuentes 
+diversas   
+
+ Toma de decisiones.  
+  
+Competencias interpersonales   
+
+ Capacidad crítica y 
+autocrítica   
+
+Página | 7  
+ 
+
+
+
+ 
+
+  
+
+ Habilidades y capacidades 
+interpersonales para el 
+trabajo en equipo   
+
+ 
+
+Competencias sistémicas   
+ Capacidad de aplicar los 
+
+conocimientos en la 
+práctica   
+
+ Habilidades de 
+investigación   
+
+ Capacidad de generar nuevas 
+ideas (creatividad)  
+
+ Habilidad para trabajar en 
+forma autónoma  
+
+ Búsqueda de logro  
+Poseer iniciativa al elaborar y 
+
+resolver los problemas propios 
+
+de los proyectos.  
+
+8. Práctica(s) 
+
+ 
+
+ Utilizar Excel para casos de: inventarios, líneas de espera, 
+programación lineal, simulación, planeación de 
+mantenimiento, etc. 
+
+ Elaboración de un informe ejecutivo de un tema relacionado 
+con Ingeniería Industrial. 
+
+ Elaboración de una presentación ejecutiva de un tema 
+relacionado con Ingeniería Industrial. 
+
+ Realizar visitas virtuales o presenciales a congresos 
+relacionados con Ingeniería Industrial. 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta 
+
+asignatura, es demostrar el desarrollo y alcance de la(s) 
+
+competencia(s) de la asignatura, considerando las siguientes 
+
+fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, 
+
+contextual, legal) en el cual se fundamenta el proyecto de 
+
+acuerdo con un diagnóstico realizado, mismo que permite a los 
+
+estudiantes lograr la comprensión de la realidad o situación 
+
+objeto de estudio para definir un proceso de intervención o 
+
+hacer el diseño de un modelo. 
+
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza 
+
+el diseño del proyecto por parte de los estudiantes con 
+
+Página | 8  
+ 
+
+
+
+ 
+
+  
+
+asesoría del docente; implica planificar un proceso: de 
+
+intervención empresarial, social o comunitario, el diseño de un 
+
+modelo, entre otros, según el tipo de proyecto, las actividades 
+
+a realizar los recursos requeridos y el cronograma de trabajo. 
+
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del 
+
+proyecto realizada por parte de los estudiantes con asesoría 
+
+del docente, es decir en la intervención (social, empresarial), 
+
+o construcción del modelo propuesto según el tipo de proyecto, 
+
+es la fase de mayor duración que implica el desempeño de las 
+
+competencias genéricas y especificas a desarrollar. 
+
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en 
+
+el contexto laboral-profesión, social e investigativo, ésta se 
+
+debe realizar a través del reconocimiento de logros y aspectos 
+
+a mejorar se estará promoviendo el concepto de “evaluación para 
+
+la mejora continua”, la metacognición, el desarrollo del 
+
+pensamiento crítico y reflexivo en los estudiantes. 
+
+Página | 9  
+ 
+
+
+
+ 
+
+  
+
+10. Evaluación por competencias  
+
+La evaluación debe ser: diagnóstica, formativa y sumativa. Para 
+fortalecer la parte actitudinal, se recomienda utilizar la 
+autoevaluación y la coevaluación. 
+Para evaluar las actividades de aprendizaje se recomienda emplear 
+estrategias 
+metacognitivas como: reportes de prácticas, exposiciones en clase 
+y/o reportes de visitas. Para verificar el nivel del logro de las 
+competencias del estudiante se recomienda utilizar: el portafolio 
+de evidencias, listas de cotejo, rúbricas, matrices de valoración 
+y guías de observación. 
+11. Fuentes de información 
+
+ 
+1. Bonson Enrique. 2007. Tecnologías Inteligentes para la 
+
+Gestión Empresarial. Editorial, Alfaomega. 
+
+2. Cohen Karen Daniel, Asín Lares Enrique . 2009. Tecnologías 
+de Información en los Negocios, 5ª Edición. Editorial, Mc 
+
+Graw Hill. 
+
+3. Enguita Gasca José. 2015.  Microsoft Excel 2013 CamSo. 
+Editorial, Ministerio de Educación de España. 
+
+4. Kenneth C. Laudon, Jane P. Laudon. 2008. Sistemas de 
+
+Información Gerencial. Editorial, Pearson. 
+
+5. Mauleón Torres Mikel. 2014. Gestión de stock: Excel como 
+herramienta de análisis. Editorial, Ediciones Díaz de 
+
+Santos. 
+
+6. Pascual, F. (2014). Domine Microsoft Office 2013. Editorial, 
+ra-ma.  
+
+ https://elibro.net/es/lc/itzacatepec/titulos/106439. 
+7. Peña, Rosario. 2019.   OFFICE 2019 – OFFICE 365 - Curso 
+
+práctico de novedades. Editorial Alfaomega. 
+8. Gómez Gutiérrez, Juan Antonio. 2017. Excel 2016 avanzado. 
+
+Editorial Ra-Ma.  
+9. Prieto Espinosa Alberto. 2006. Introducción a la 
+
+Informática. Editorial, McGraw Hill.  
+10. Turban Efraim. 2005. Tecnologías de Información para la 
+
+Administración (4ª Edición.). Editorial CECSA. 
+
+ 
+
+Página | 10

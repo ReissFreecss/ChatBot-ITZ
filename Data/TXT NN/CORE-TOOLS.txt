@@ -1,0 +1,614 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Core Tools 
+  
+  
+  
+
+Clave de la asignatura: SEG-2104 
+  
+  
+  
+  
+  
+
+SATCA1:  3-3-6 
+  
+  
+
+Carrera: Ingeniería Industrial 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura está basada en la metodología que propone AIAG en su manual de 
+Planeación Avanzada de la Calidad del Producto (APQP); la cual aporta al perfil del 
+ingeniero industrial la competencia para comprender el enfoque sistémico en la 
+identificación de los elementos que deben considerarse durante el diseño y desarrollo de 
+un producto. Proporciona un marco general para dirigir eficientemente los recursos 
+necesarios para el establecimiento de un plan de calidad del producto, promover la 
+identificación anticipada de los cambios al producto o al proceso, necesarios para proveer 
+un producto de calidad a tiempo y al mejor costo, asimismo, cimentará el conocimiento 
+necesario para aplicarlos en proyectos futuros, en su vida laboral. Cabe mencionar que, 
+aunque esta metodología surge y se aplica en la industria automotriz, no es exclusiva de 
+ella, es decir, es aplicable en cualquier giro empresarial. 
+ 
+Esta asignatura le permitirá al estudiante reflexionar sobre la importancia de la calidad 
+desde las etapas más tempranas del desarrollo de un producto, con el fin de asegurar el 
+desarrollo de un sistema de manufactura efectivo. De igual manera, a partir de los 
+conocimientos previos interpretará las normas internacionales como ISO 9001:2015 y 
+IATF 16949:2016, para que, mediante su análisis, conozca la manera en que las 
+organizaciones compiten de manera global y cómo mejoran la calidad y confiabilidad de 
+sus productos. 
+ 
+Intención didáctica 
+En esta asignatura se pretende que el estudiante conozca las Core Tools (Herramientas 
+Básicas para la industria automotriz) y comprenda como surge la metodología de la 
+planeación Avanzada de la Calidad del Producto (APQP) y el desarrollo de sus 
+actividades en las organizaciones de clase mundial, haciendo énfasis en la calidad como 
+una estrategia que les ha funcionado a empresas exitosas en México y en el mundo. En 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+  
+
+consecuencia, se desarrollarán las de competencias para conocer las etapas de dicha 
+metodología.  
+
+En el Tema 1, se presenta una introducción a las Core Tools; así como la estructura de 
+la norma IATF16949:2016 (Grupo de trabajo de la Industria Automotriz) y la terminología 
+empleada en la industria automotriz. 
+En el Tema 2, se abordarán Lineamientos Generales para AMEFs, así como los pasos 
+necesarios para la elaboración de un AMEF de diseño y de proceso, su relación con el 
+Plan de Control y la importancia de la Matriz de Características Especiales. 
+En el tema 3, se estudia el sistema de medición los estudios R&R y se hace uso del 
+software Minitab para solución de problemas de medición interpretando los resultados 
+obtenidos. 
+En el tema 4, se abordan los gráficos de control por variables y por atributos utilizando 
+las especificaciones del cliente y comparándolos con los estimados por el software 
+Minitab, así como también se calcula el Cp y Ppk y el Ppm´s del proceso. 
+En el tema 5, se incluye la revisión de la aprobación de partes para producción, que es 
+la validación de que los productos hechos con herramentales y procesos de la producción 
+misma cumplen con los requerimientos de ingeniería. Se revisan los 18 requerimientos 
+del manual y cómo se desarrollan. 
+Se hace referencia a la etapa de la planeación avanzada de la calidad que es 
+Retroalimentación, evaluación y acciones correctivas, la cual se aplica a lo largo de toda 
+la planeación del producto y está presente en todas las etapas de la misma. 
+Esta asignatura se relaciona con Metrología y Normalización, Estadística Inferencial I y 
+control estadístico de la calidad. 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Zacatepec, Morelos, del 08 Academia de Ingeniería Reunión de Academia de 
+al 12 de febrero, 18 y 19 de Industrial del Instituto Ingeniería Industrial para el 
+febrero de 2021. Tecnológico de Zacatepec. diseño de la especialidad y 
+
+elaboración de planes y 
+ programas de la misma 
+
+para el Plan de Estudios 
+IIND-2010-227. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+ 
+El estudiante conoce, comprende y desarrolla el proceso de planeación avanzada de la 
+calidad a través de las 5 etapas de la metodología, para dar soporte a la realización de 
+un nuevo producto o servicio, así como de los cambios al mismo. 
+
+El estudiante implementa las Core Tools, la interrelación del AMEF, Plan de Control y la 
+Norma IATF 16949:2016. 
+
+Página | 2  
+ 
+
+
+
+ 
+  
+
+ 
+5. Competencias previas 
+ Conoce, comprende y maneja los sistemas de producción como una secuencia de 
+
+procesos. 
+ Conoce y maneja los instrumentos de medición de mayor aplicación para el manejo 
+
+de tolerancias y especificaciones. 
+ Conoce y maneja el sistema internacional de unidades. 
+ Conoce, comprende y maneja el cálculo de probabilidad, estadística y pruebas de 
+
+hipótesis. 
+ Maneja paquetes computacionales estadísticos. 
+ Conoce y aplica el control estadístico del proceso. 
+ Interpreta y codifica diagramas de proceso de operaciones, de flujo del proceso, etc. 
+ Maneja e Integra las normas y estándares relativos a la norma ISO 9001:2015. 
+ Conoce la estructura de la norma IATF 16949:2016. 
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Planeación Avanzada de la 1.1 Introducción a las Core Tools 
+Calidad del Producto (APQP) / 
+IATF 16949:2016 1.2 Introducción al APQP y su relación con 
+
+IATF 16949:2016 
+
+       1.2.1 Planeación y definición del 
+programa 
+       1.2.2 Diseño y desarrollo del producto 
+       1.2.3 Diseño y desarrollo del proceso 
+       1.2.4 Validación del producto y proceso 
+       1.2.5 Retroalimentación, evaluación y 
+acción correctiva. 
+
+2 Análisis del Modo y Efecto de 2.1 Propósito y descripción 
+Fallas (AMEF) y Plan de Control 
+(CP)       2.1.1 Objetivo y límites del AMEF 
+
+      2.1.2 Estrategia de adopción de la 
+nueva versión 
+
+      2.1.3 AMEF básico (Fundation) y por 
+familia 
+      2.1.4 Metodología de los 7 pasos 
+ 2.2 Ejecución del AMEF de Diseño 
+
+ 2.3 Ejecución del AMEF de Proceso 
+
+Página | 3  
+ 
+
+
+
+ 
+  
+
+       2.3.1 Aplicación de metodología de 
+los 7 pasos 
+
+2.4 El Plan de Control y su relación con el 
+AMEF 
+
+3 Análisis de los Sistemas de 3.1 Conceptos básicos de repetibilidad y 
+Medición (MSA) reproducibilidad 
+
+3.2 Estudio de repetibilidad y 
+reproducibilidad 
+
+      3.2.1 Por variables 
+
+      3.2.2 Por atributos 
+
+3.3 Método analítico y gráfico para 
+estudios Gage R & R 
+
+3.3.1 Método de gráfico de control 
+
+3.3.2 Método de ANOVA 
+
+3.4 Monitoreo del sistema de medición 
+
+3.5 Uso del software estadístico Minitab 
+para estudios R & R. 
+
+4 Control Estadístico de Procesos 4.1 Introducción al SPC y conceptos 
+(SPC) estadísticos básicos 
+
+4.2 Gráficas de control 
+
+      4.2.1 Especificaciones del cliente vs 
+Límites de Control 
+      4.2.2 Gráficas para variables 
+      4.2.3 Gráficas para datos por atributos 
+4.3 Capacidad del proceso 
+      4.3.1 Cp y Cpk en el corto plazo 
+      4.3.2 Pp y Ppk en el largo plazo 
+
+      4.3.3 PPM´S 
+4.4. Uso del software estadístico Minitab 
+para el SPC. 
+
+ 
+
+ 
+
+Página | 4  
+ 
+
+
+
+ 
+  
+
+5 Proceso de Aprobación de Partes 5.1 Introducción al proceso de aprobación 
+de Producción (PPAP) de partes de producción. 
+
+5.2 Relación con la Planeación Avanzada 
+de Calidad (APQP)                                       
+5.3 Los 18 requerimientos del PPAP        
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Nombre de tema 
+
+1. Planeación Avanzada de la Calidad del Producto (APQP) / IATF 16949:2016 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): conoce la problemática que • Hacer una reflexión grupal respecto a la 
+da origen a las Core Tools con la finalidad importancia de la calidad en cualquier 
+de asegurar la satisfacción del cliente. organización. 
+ • Investigar los antecedentes normativos de 
+
+la industria automotriz. 
+Genéricas: • En sesión grupal se aplicará una dinámica 
+
+de identificación que permita realizar un 
+• Comunicación oral y escrita.  diagnóstico de experiencias o contactos 
+• Habilidades básicas de manejo de la previos que el estudiante haya tenido con 
+computadora.  la calidad en las empresas. 
+• Habilidad para buscar y analizar • Proyecto integrador APQP 
+información proveniente de fuentes 
+diversas.  
+• Habilidades interpersonales.  
+• Habilidades de investigación.  
+• Capacidad de generar nuevas ideas 
+(creatividad).  
+• Habilidad para trabajar en forma 
+autónoma.  
+ 
+
+Nombre de tema 
+
+2. Análisis del Modo y Efecto de Fallas (AMEF) y Plan de Control (CP) 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Comprende la metodología  Investigar y determinar las fallas y 
+de los 7 pasos para realizar un AMEF y la los efectos que puede tener un 
+
+importancia de las características producto. 
+
+especiales.  Ejercicios de realización de AMEF 
+de proceso y de diseño de algún 
+
+ producto conocido. 
+ Relacionar el AMEF de proceso y la 
+
+ matriz de características 
+especiales. 
+
+Página | 5  
+ 
+
+
+
+ 
+  
+
+  Relacionar el AMEF de proceso y el 
+Plan de Control. 
+
+Genéricas:  Realizar el Checklist para plan de 
+control. 
+
+• Capacidad de análisis y síntesis  Proyecto integrador AMEF 
+• Capacidad de organizar y planificar 
+• Conocimientos básicos de la carrera 
+• Comunicación oral y escrita 
+• Habilidades básicas de manejo de la 
+computadora y software 
+• Habilidad para buscar y analizar 
+información 
+proveniente de fuentes diversas 
+• Metodología para la prevención y solución 
+de problemas 
+• Toma de decisiones. 
+• Capacidad crítica y autocrítica 
+• Trabajo en equipo 
+• Habilidades interpersonales 
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas Ideas 
+(creatividad) 
+• Habilidad para trabajar en forma 
+autónoma (iniciativa) 
+
+Nombre de tema 
+
+3. Análisis de los Sistemas de Medición (MSA) 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): evalúa un sistema de • Investigación documental acerca de los 
+medición utilizando los estudios R&R para diferentes métodos para hacer estudios de 
+determinar el error de medición. R&R. 
+ • Realizar mediciones sobre piezas de 
+
+ensamble para formar una base de datos 
+Genéricas: con la cual realizar los estudios. 
+
+• Realizar ejercicios de estudios R&R en el 
+ Capacidad de organizar y planificar software Minitab 
+ Conocimientos básicos de la • Preparar un cartel en el que se muestre la 
+
+carrera comprensión del tema y su aplicación. 
+ Comunicación oral y escrita  • Proyecto integrador MSA 
+ Habilidades básicas de manejo de 
+
+la computadora  
+ Habilidad para buscar y analizar 
+ información proveniente de fuentes 
+
+diversas 
+ Trabajo en equipo 
+ Habilidades interpersonales 
+
+Página | 6  
+ 
+
+
+
+ 
+  
+
+ Capacidad de aplicar los 
+conocimientos en la práctica 
+
+ Habilidades de investigación 
+ Habilidad para trabajar en forma 
+
+autónoma 
+ Búsqueda del logro 
+
+Nombre de tema 
+
+4. Control Estadístico de Procesos (SPC) 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Identifica el tipo de variable o  Aplica los conocimientos sobre 
+atributo que representa la característica de variables continuas en los gráficos 
+calidad a controlar en procesos productivos de control. 
+o de servicios 
+
+ Aplica los conocimientos sobre 
+Diseña e Implementa gráficos de control de 
+control de variables o atributos, para variables discretas en los gráficos 
+
+reducir la variabilidad y monitorear los de control. 
+procesos, aplicando las especificaciones  Aplica los conocimientos sobre las 
+del cliente. capacidades de los procesos 
+ industriales con el propósito de 
+
+enfatizar la mejora de la Calidad del 
+Genéricas: proceso. 
+
+ Aplica el software Minitab para el 
+ Capacidad de organizar y planificar control estadístico del proceso. 
+ Conocimientos básicos de la 
+
+ Proyecto integrador SPC 
+carrera 
+
+ Comunicación oral y escrita  
+ Habilidades básicas de manejo de 
+
+la computadora 
+ Habilidad para buscar y analizar 
+ información proveniente de fuentes 
+
+diversas 
+ Trabajo en equipo 
+ Habilidades interpersonales 
+ Capacidad de aplicar los 
+
+conocimientos en la práctica 
+ Habilidades de investigación 
+ Habilidad para trabajar en forma 
+
+autónoma 
+ Búsqueda del logro 
+
+ 
+
+ 
+
+ 
+
+Página | 7  
+ 
+
+
+
+ 
+  
+
+Nombre de tema 
+
+5. Proceso de Aprobación de Partes de Producción (PPAP) 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): define los requerimientos  Conocer el Proceso de Aprobación 
+generales para la aprobación de partes de Partes de Producción (PPAP). 
+para producción, incluyendo materiales  Determinar si todos los 
+para producción y a volumen o granel. requerimientos de especificaciones 
+ y registros de diseño del cliente son 
+Genéricas: entendidos apropiadamente por la 
+
+ Capacidad de organizar y planificar organización 
+ Conocimientos básicos de la  Determinar si el proceso de 
+
+carrera manufactura tiene el potencial de 
+ Comunicación oral y escrita  fabricar productos que cumplan en 
+
+ Habilidades básicas de manejo forma consistente con estos 
+
+de la computadora requerimientos, durante corridas de 
+producción actuales y en la 
+
+ Habilidad para buscar y analizar 
+proporción de producción cotizada. 
+
+información proveniente de 
+ Proyecto integrador PPAP 
+
+fuentes diversas 
+ Trabajo en equipo 
+ Habilidades interpersonales 
+ Capacidad de aplicar los 
+
+conocimientos en la práctica 
+ Habilidades de investigación 
+ Habilidad para trabajar en forma 
+
+autónoma 
+ Búsqueda del logro 
+
+ 
+
+8. Práctica(s) 
+
+ 
+• Diagrama de flujo del proceso preliminar. 
+• Definir características especiales del producto. 
+• Terminología de la IATF 16949:2016. 
+• Análisis del Modo y Efecto de Fallas (AMEF). 
+• Plan de Control (CP). 
+• Estudio R&R (Repetibilidad y Reproducibilidad). 
+• Estudio de Habilidad del Proceso. 
+• Matriz de características especiales de un producto. 
+ 
+
+ 
+
+ 
+
+Página | 8  
+ 
+
+
+
+ 
+  
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página | 9  
+ 
+
+
+
+ 
+  
+
+10. Evaluación por competencias  
+
+• Participación en clases 
+• Exposición de temas 
+• Participación en congresos y concursos académicos 
+• Realización de investigación documental individual y en equipo 
+• Elaboración reportes de visitas industriales 
+• Resolución de exámenes 
+• Coevaluación y autoevaluación 
+• Construcción de AMEF 
+• Construcción de Plan de Control 
+ 
+ 
+
+ 
+
+11. Fuentes de información 
+
+ 
+1. Carot A. V.. (2001). Control Estadístico de la Calidad. México: Alfa Omega. 
+2. James R. E., & William Lindsay. (2005). Administración y Control de la 
+3. Calidad. México: Internacional Thompson. 
+4. Gutiérrez P.  H.. (2010). Calidad Total y Productividad. México. Mc Graw Hill. 
+5. Gutiérrez P. H., & Román de la Vara S. (2009). Control Estadístico de Calidad y 
+
+Seis Sigma. México. Mc Graw Hill. 
+6. IATF, ISO. (2009). ISO-TS 16949 (3rd ed.) Retrieved November 24, 2016, 
+
+recuperado de: www.iso.org/ 
+7. AIAG (2002) Análisis del Sistema de Medición (MSA), manual de referencia (3rd 
+
+ed.). 
+8. AIAG (2005) Control Estadístico del Proceso (SPC) manual de referencia (2nd 
+
+ed.). 
+9. AIAG (2008) Planeación Avanzada de la Calidad del Producto/Plan de Control 
+
+(APQP/CP), manual de referencia (2da. ed.). 
+10. AIAG (2006) Aprobación de Partes de Producción (PPAP), manual de referencia 
+
+(4ta. ed.). 
+11. AIAG & VDA (2019) Análisis del Modo y Efecto de Fallas (AMEF), manual de 
+
+referencia (1ª. ed.). 
+12. Norma ISO 9001:2015 
+13. NMX-CC-9001-IMNC (ISO 9001) 
+
+ 
+ 
+
+Página | 10

@@ -1,0 +1,603 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Gestión ágil de proyectos 
+  
+
+  
+Clave de la asignatura: DWB-2104 
+
+  
+  
+
+  
+SATCA1: (1-4-5) 
+
+  
+  
+
+Carrera: Ingeniería en Sistemas Computacionales 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura aporta al perfil del Ingeniero en Sistemas Computacionales, las habilidades y 
+competencias necesarias en el desarrollo de aplicaciones utilizando metodologías ágiles para el 
+desarrollo de software y plataformas low-code; así mismo fomentara competencias como trabajo 
+de equipo, comunicación y toma de decisiones, que le permitan un desempeño eficiente en su 
+ámbito personal y profesional. 
+
+Esta materia deberá cursarse en el octavo semestre, en el módulo de especialidad, teniendo como 
+
+precedente la materia de Cultura empresarial, Fundamentos de base de datos, Taller de base de 
+
+datos, Programación orientada a objetos y Gestión de proyectos de software. 
+
+La asignatura se relaciona con las materias de Programación Web y Desarrollo de aplicaciones 
+
+Jakarta EE.  
+
+Intención didáctica 
+
+El temario está organizado en cuatro temas: 
+
+• El primer tema se introduce al estudiante en la filosofía de gestión ágil de proyectos y las 
+metodologías que permiten el desarrollo de nuevos proyectos de software 
+
+• En el segundo tema se conoce como aplicar design thinking para el diseño de interfaz de 
+usuario utilizando plataformas agiles 
+
+• El tercer tema expone las plataformas de desarrollo acelerado low code para el desarrollo 
+ágil de proyectos. 
+
+• En el cuarto tema se aborda el desarrollo front-end utilizando REACT.Js 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+Lugar y fecha de 
+Participantes Observaciones 
+
+elaboración o revisión 
+
+Instituto tecnológico de Enrique López Duran Programa elaborado por 
+Zacatepec. 
+
+profesores del 
+ Norma Rocío Gómez 
+Departamento de sistemas departamento de Sistemas 
+
+Rivera. 
+y Computación 
+
+y Computación, presentado 
+ 
+
+Maritza Ciprián Rosario 
+Academia de sistemas  y aprobado en el pleno de 
+
+ 
+computación.  
+
+Tomás Emmanuel la Academia. 
+ 
+
+Higareda Pliego 
+Reunión para el desarrollo de Esta materia forma parte de 
+
+Especialidades de Noviembre  la especialidad Desarrollo 
+
+2020 a Marzo 2021. Web Empresarial, para la 
+
+carrera Ingeniería en 
+
+Sistemas Computacionales, 
+
+Plan de estudios 2010 
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+El estudiante adquirirá las competencias para el desarrollo ágil de proyectos de software.  
+
+ 
+
+5. Competencias previas 
+
+• Programar aplicaciones computacionales en lenguajes de programación orientados a 
+
+objetos. 
+
+• Implementa sistemas de información siguiendo las metodologías de la Ingeniería de 
+
+software. 
+
+• Modela de bases de datos para la gestión eficiente de la información. 
+
+• Liderazgo 
+
+• Espíritu emprendedor 
+
+• Comunicación oral y escrita. 
+
+• Trabajo colaborativo. 
+
+ 
+
+ 
+
+ 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+ 
+
+1.1 Definición de gestión ágil de proyectos. 
+
+1.2 Enfoque del pensamiento ágil 
+
+1.3 Valores y principios del manifiesto ágil 
+
+1.4 Metodologías ágiles para la obtención de 
+
+requisitos 
+
+1.4.1 Lean LaunchPad 
+
+1.4.2 Journey 
+
+1.4.3 Ecosistemas 
+
+1.5 SCRUM 
+Introducción a la gestión 
+
+1.5.1 Proceso de SCRUM 
+
+1 ágil de proyectos 
+1.5.2 Gráfica burn-down 
+
+ 1.5.3 Entregables y sprints 
+
+1.5.4 Evaluaciones grupales, 
+
+individuales, costos y tiempos 
+
+1.5.5 Tareas en equipo con SCRUM 
+
+1.6 Tableros en línea para el trabajo 
+
+colaborativo (clickUp) 
+
+1.7 Herramientas informáticas para el 
+
+desarrollo colaborativo de software, 
+
+administración de versiones, repositorios y 
+
+API´s (Git, SourceTree, gitKraken) 
+
+ 
+
+ 
+
+2.1 Introducción a la experiencia de usuario 
+
+2.2 Diseño de proceso de design thinking 
+Design thinking para 
+
+2 2.3 Aplicando el design thinking en la 
+diseño de UX 
+
+experiencia de usuario 
+
+2.4 Diseño de la interfaz de usuario con 
+
+plataformas ágiles 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+2.5 Criterios y metodologías del diseño Centrado 
+
+en el usuario. 
+
+2.6 Etapas y técnicas UX 
+
+ 
+
+ 
+
+3.1 Plataformas de desarrollo acelerado Low 
+
+code 
+
+3.2 Creación y modelado de base de datos 
+
+Plataformas ágiles Low- 3.3 Creación de usuarios y roles 
+
+3 Code para el desarrollo 3.4 Desarrollo de aplicaciones Web 
+
+del PMV 3.5 Desarrollo de aplicaciones Mobile 
+
+3.6 Creando el Producto mínimo viable 
+
+3.7 Validando la idea PMV 
+
+3.8 Lean Validation 
+
+ 
+
+ 
+
+4.1 Introducción al desarrollo Front-End 
+
+4.2 Inicios con React.js 
+
+4.3 JSX y componentes 
+4 Desarrollo Front-End 
+
+4.4 Estado y ciclo de vida 
+
+4.5 Eventos, renderizado y listas 
+
+4.6 Formularios y peticiones HTTP 
+
+ 
+
+ 
+
+  
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Introducción a la gestión ágil de proyectos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Realiza un mapa mental de el manifiesto 
+
+Conoce e implementa la filosofía de gestión ágil de proyectos 
+
+ágil y conoce plataformas low code para el • Investiga las metodologías agiles. 
+
+desarrollo de software • Elabora un cuadro comparativo de las 
+
+metodologías agiles. 
+Genéricas: 
+
+• Investiga y expone el proceso de scrum 
+
+• Capacidad de análisis y síntesis. • Realiza el proceso de SCRUM para el 
+
+• Comunicación oral y escrita. desarrollo de un caso de estudio. 
+
+• Habilidad para buscar, analizar, • Realiza un tablero en línea para el 
+
+clasificar y sintetizar información trabajo colaborativo 
+
+proveniente de fuentes diversas. 
+
+• Solución de problemas. 
+
+• Capacidad de trabajar en equipo 
+
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+
+• Capacidad de aprender 
+
+Design thinking para diseño de UX 
+
+Competencias  Actividades de aprendizaje 
+
+• Específica(s): • Conoce el diseño de proceso design 
+
+• Aplica design thinking para el diseño de thinking. 
+
+interfaz de usuario • Realiza el design thinking de un artículo 
+
+• Genéricas: común o comercial a modo de 
+
+• Capacidad de análisis y síntesis. introducción al tema. 
+
+• Comunicación oral y escrita. • Elabora un producto de software 
+
+• Habilidad para buscar, analizar, utilizando design thinking. 
+
+clasificar y sintetizar información • Investiga las etapas y técnicas UX 
+
+proveniente de fuentes diversas. • Realiza prácticas de laboratorio para el 
+
+• Solución de problemas. diseño de la interfaz de usuario 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+• Capacidad de trabajar en equipo  
+
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+
+• Capacidad de aprender 
+
+Plataformas ágiles Low-Code para el desarrollo del PMV 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investiga plataformas low-code. 
+
+Conoce diferentes plataformas Low code • Realiza cuadro comparativo de 
+
+para el desarrollo del PMV. plataformas low-code 
+
+• Realiza prácticas que le permitan 
+Genéricas: 
+
+conocer las plataformas low code. 
+
+• Capacidad de análisis y síntesis. • Crea las bases de datos del producto del 
+
+• Comunicación oral y escrita. design thinking 
+
+• Habilidad para buscar, analizar, • Desarrolla la aplicación web 
+
+clasificar y sintetizar información de • Desarrolla la aplicación mobile. 
+
+diversas fuentes. • Valida el PMV a través de lean validation 
+
+• Solución de problemas.  
+
+• Capacidad de trabajar en equipo 
+ 
+
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+
+• Capacidad de aprender 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+ 
+
+Desarrollo Front-End 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar que es el front end y sus 
+
+Desarrollar el front end de aplicaciones características 
+
+Genéricas: • Elabora mapa conceptual considerando 
+
+los conceptos de: JSX, componentes, 
+• Capacidad de análisis y síntesis 
+
+ciclos de vida, propiedades y estado. 
+• Capacidad de organizar información 
+
+• Instalar  react.js 
+• Conocimientos básicos de diseño de 
+
+• Elaborar el cuadro sinóptico donde se 
+aplicaciones. 
+
+muestre los diferentes tipos de eventos. 
+• Comunicación oral y escrita 
+
+• Elaborar practicas utilizando ReactJS, 
+• Habilidad para buscar y analizar 
+
+eventos, renderizado y listas. 
+• información proveniente de fuentes 
+
+• Resolver caso de estudio propuesto 
+• diversas 
+
+donde se utilicen formularios con 
+• Solución de problemas 
+
+peticiones HTTP. 
+• Capacidad de trabajo en equipo 
+
+• Capacidad de aplicar los 
+
+• conocimientos en la práctica 
+
+ 
+
+8. Práctica(s) 
+
+• Desarrollar un caso de estudio en alguna herramienta informática para el desarrollo 
+colaborativo de software y administrar el proceso de desarrollo con SCRUM. 
+
+• Elabora la propuesta de un producto de software utilizando design thinking. 
+
+• Instala una plataforma low-code. 
+
+• Desarrolla un PMV, que contenga una aplicación web y móvil con conexión a base 
+
+de datos utilizando alguna plataforma de desarrollo low-code, para posteriormente 
+
+validar el PMV a través de lean validation. 
+
+• Instalación de REACT.JS 
+•  Resolver caso de estudio propuesto donde se utilicen formularios con peticiones 
+
+HTTP. 
+
+ 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: es el marco de referencia que fundamenta el proyecto  de acuerdo 
+con un diagnóstico realizado, mismo que permite a los estudiantes lograr la 
+comprensión de la realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+ 
+
+• Planeación: una vez que se tiene definido el proyecto se realiza el diseño por  los 
+estudiantes con asesoría del docente; implica planificar un proceso: de intervención 
+empresarial, social o comunitario, el diseño de un modelo, entre otros, según el tipo 
+de proyecto, las actividades a realizar los recursos requeridos y el cronograma de 
+trabajo. 
+ 
+ 
+
+• Ejecución: los estudiantes con asesoría del docente hacen el desarrollo de la 
+planeación del proyecto, es decir en la intervención (social, empresarial), o 
+construcción del modelo propuesto según el tipo de proyecto, es la fase de mayor 
+duración que implica el desempeño de las competencias genéricas y específicas. 
+ 
+ 
+
+• Evaluación:  es la fase final en la que se reconoce el haber alcanzado  las metas, se 
+presentan conclusiones y recomendaciones para mejora del proyecto. Se promueve 
+la “evaluación para la mejora continua”, la metacognición, el desarrollo del 
+pensamiento crítico e introspectivo de  los estudiantes. 
+
+ 
+
+ 
+
+10. Evaluación por competencias  
+
+La evaluación de las actividades de aprendizaje es continua y se puede realizar 
+solicitando a los estudiantes que elaboren: mapas conceptuales, mapas mentales, 
+reportes de prácticas de laboratorio, reportes de investigación, modelos de bases de 
+datos, cuadros comparativos, estudio de casos, exámenes teórico-prácticos. 
+
+Comprobar que los estudiantes logran obtener las competencias requiere de: rúbricas, 
+listas de cotejo, listas de verificación, matrices de valoración. 
+
+ 
+
+ 
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+11. Fuentes de información 
+
+1. Manifesto por el Desarrollo agil de sotware. 
+http://agilemanifesto.org/iso/es/manifesto.html.  
+
+2. Guia practica de agil. Project Management Institute. Ed. Project Management 
+Institute. 
+
+3. Métodos Ágiles. Scrum, Kanban, Lean. Carmen Lasa G&Oacute;Mez; Alonso 
+&Aacute;Lvarez Garc&Iacute;A; Rafael De Las Heras Del Dedo. Anaya 
+Multimedia. 
+
+4. Gestión práctica de proyectos con Scrum: Desarrollo de software ágil para el 
+Scrum Master. Antonio Martel. 
+
+5. Diseño UX: Guía completa. https://attachmedia.com/guia-ux/React. 
+
+6. Diseño de experiencias de usuario. Gavin Allanwood; Peter Beare. ED. 
+Parramon. 
+
+7. Usabilidad. Deja de sufrir. Daniel Torres Burriel. Ed.Anaya Multimedia. 
+
+8. La guia SCRUM. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-
+Guide-Spanish-European.pdf  
+
+9. Welcome to outsystems docs. https://success.outsystems.com/Documentation 
+
+10. React. Una biblioteca de JavaScript para construir interfaces de usuario. 
+https://es.reactjs.org/.  
+
+11. Desarrollo web con React. Altadill Izura, Pello Xabier. Ed. Anaya Multimedia 
+
+ 
+
+ 
+
+Página | 9

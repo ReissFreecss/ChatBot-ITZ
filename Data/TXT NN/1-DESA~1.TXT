@@ -1,0 +1,486 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Desarrollo de Aplicaciones Jakarta EE 
+  
+
+  
+Clave de la asignatura: DWB-2101 
+
+  
+  
+
+  
+SATCA1: 1-4-5 
+
+  
+  
+
+Carrera: Ingeniería en Sistemas Computacionales 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura aporta al perfil de egreso del ingeniero en sistemas computacionales los 
+conocimientos para implementar aplicaciones computacionales para solucionar 
+problemas de diversos contextos, integrando diferentes tecnologías, plataformas o 
+dispositivos. 
+
+La asignatura se relaciona con las materias de Programación, Programación Web, Bases 
+de Datos, Ingeniería de Software. Así mismo, el estudiante al adquirir las competencias 
+de esta asignatura así como las de materias relacionadas podrá realizar proyectos 
+integradores 
+
+Intención didáctica 
+
+La materia se estructura en cuatro temas. En el primer tema se introduce al estudiante en 
+el conocimiento de la tecnología Jakarta EE. En el segundo tema se aborda el proceso 
+de desarrollo de aplicaciones web usando el patrón modelo-vista-controlador usando 
+JSF, Enterprise Beans y persistencia. En el tercer tema conoce y desarrolla aplicaciones 
+de una sola página y servicios web. En el cuarto tema se estudia el framework  Spring 
+para fortalecer el desarrollo de aplicaciones web. 
+
+Es importante resaltar que el planteamiento  de la asignatura requiere que a partir de las 
+actividades de aprendizaje se formen las competencias del estudiante en el desarrollo de 
+aplicaciones web con tecnología basada en Java, que las tecnologías que se utilizan en 
+esta asignatura permiten el desarrollo de aplicaciones con el patrón modelo-vista-
+controlador y que se deben usar las versiones más recientes del software y frameworks 
+de desarrollo. 
+
+ 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+Lugar y fecha de Participantes Observaciones 
+
+elaboración o revisión 
+
+Instituto tecnológico de Instituto Tecnológico de Programa elaborado por 
+Zacatepec. 
+
+Zacatepec  profesores del 
+ 
+Departamento de sistemas departamento de Sistemas 
+
+M.T.I. Enrique Lopez Duran 
+y Computación 
+
+y Computación, presentado 
+ 
+
+M.M.E. Ma. Guadalupe 
+Academia de sistemas  y aprobado en el pleno de 
+computación.  Rojas Vilchis 
+
+la Academia. 
+ 
+
+M.C. Norma Rocio Gomez 
+Reunión para el desarrollo de Esta materia forma parte de 
+
+Rivera 
+Especialidades de Noviembre la especialidad Desarrollo 
+
+2020 a Marzo 2021. Web Empresarial, para la 
+
+carrera Ingeniería en 
+
+Sistemas Computacionales, 
+
+Plan de estudios 2010 
+
+ 
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+El estudiante genera soluciones empresariales a través del desarrollo de aplicaciones y 
+
+servicios web en plataforma Java con tecnologías Jakarta EE. 
+
+ 
+
+ 
+
+5. Competencias previas 
+
+• Analiza los problemas y diseña  algoritmos para la solución de problemas 
+
+empresariales 
+
+• Desarrolla aplicaciones con programación orientada a objetos 
+
+• Modela sistemas de bases de datos para la gestión de la información 
+
+• Instala y configura servidores y herramientas de desarrollo web 
+
+ 
+
+ 
+
+6. Temario 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+ 
+
+No. Temas Subtemas 
+
+1 Introducción a la programación 1.1 Arquitectura Jakarta EE 
+
+web con Jakarta EE 1.2 Instalación y configuración de tecnologías 
+
+y herramientas de desarrollo con Jakarta 
+
+EE  
+
+1.3 Patrón de  MVC 
+
+1.4 Creación de recursos, inyección y 
+
+empaquetamiento 
+
+2 Desarrollo de Aplicaciones con 2.1 Jakarta Server Faces 
+
+MVC 2.2 Lenguaje de expresiones en JSF 
+
+2.3 Biblioteca de etiquetas JSF 
+
+2.4 Enterprise Beans 
+
+2.5 Persistencia con Jakarta EE 
+
+3 Aplicaciones de una sola página 3.1 Introducción a aplicaciones de una sola 
+
+página 
+
+3.2 JSON 
+
+3.3 REST 
+
+4 Framework Spring 4.1 Introducción. 
+
+4.2 Inyección de dependencias 
+
+4.3 Desarrollo de controladores y vistas 
+
+4.4 Integración con Hibernate  
+
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+Introducción a la programación web con Jakarta EE 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Realiza prácticas de laboratorio 
+
+Conoce e implementa la infraestructura de • Instala y configura java, un servidor de 
+
+la plataforma Jakarta EE para el desarrollo aplicaciones web para Jakarta EE, 
+de aplicaciones Web. 
+
+JSF y un IDE. 
+Genéricas: 
+
+• Realiza un esquema para la creación 
+
+• Capacidad de análisis y síntesis. de recursos, inyección y 
+• Comunicación oral y escrita. 
+
+empaquetamiento 
+• Habilidad para buscar, analizar, 
+
+clasificar y sintetizar información • Elabora un cuadro comparativo de 
+proveniente de fuentes diversas. 
+
+servidores de aplicaciones web para 
+• Solución de problemas. 
+• Capacidad de trabajar en equipo Jakarta EE  
+• Capacidad de aplicar los 
+
+ 
+conocimientos en la práctica 
+
+• Capacidad de aprender 
+
+Desarrollo de Aplicaciones con MVC 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Realiza prácticas de laboratorio 
+
+Conoce el patrón de  desarrollo Modelo- • Desarrolla Beans para implementar  
+
+Vista-Controlador y utiliza Jakarta EE  para la lógica del negocio 
+el desarrollo de aplicaciones web.  
+
+• Implementa páginas JSF en el 
+Genéricas: 
+
+desarrollo de aplicaciones 
+
+• Capacidad de análisis y síntesis. empresariales 
+• Comunicación oral y escrita. 
+• Habilidad para buscar, analizar, • Describe en un diagrama el ciclo de 
+
+clasificar y sintetizar información vida de un  JSF. 
+proveniente de fuentes diversas. 
+
+• Solución de problemas.  
+• Capacidad de trabajar en equipo 
+• Capacidad de aplicar los 
+
+conocimientos en la práctica 
+• Capacidad de aprender 
+
+ 
+
+Aplicaciones de una sola página 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+Específica(s): • Realiza prácticas de laboratorio 
+
+Conoce y desarrolla aplicaciones de una • Estructura una aplicación 
+sola página, SPA, utilizando REST y JSON. 
+
+manejando la interacción con el 
+ 
+
+usuario de forma amigable 
+Genéricas: 
+
+• Capacidad de análisis y síntesis.  
+
+• Comunicación oral y escrita. 
+ 
+
+• Habilidad para buscar, analizar, 
+clasificar y sintetizar información de 
+diversas  fuentes. 
+
+• Solución de problemas. 
+• Capacidad de trabajar en equipo 
+• Capacidad de aplicar los 
+
+conocimientos en la práctica 
+• Capacidad de aprender 
+
+ 
+
+Framework Spring 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar los temas y conceptos 
+
+claves sobre Framework Spring 
+Desarrollar aplicaciones bajo el patrón 
+MVC utilizando la tecnología de Spring. • Realizar ejercicios sobre los 
+
+Genéricas: elementos básicos del Framework 
+
+• Capacidad de análisis y síntesis Spring. 
+
+• Capacidad de organizar información • Resolver caso de estudio 
+• Conocimientos básicos de diseño 
+
+propuesto 
+de aplicaciones. 
+
+• Comunicación oral y escrita 
+• Habilidad para buscar y analizar 
+• información proveniente de fuentes 
+• diversas 
+• Solución de problemas 
+• Capacidad de trabajo en equipo 
+• Capacidad de aplicar los 
+• conocimientos en la práctica 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+• Instalación de JDK, Jakarta EE, Spring, IDE, servidor de aplicaciones web,  Servidor 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+de bases de datos 
+ 
+• Desarrollar con Jakarta EE una aplicación que permita insertar y consultar registros 
+
+en una base de datos.  
+ 
+• Diseñar y desarrollar una aplicación web, utilizando un Framework de desarrollo del 
+
+lado del Servidor basado en MVC; involucrando un gestor de base de datos, un 
+CRUD y un proceso de negocio de la aplicación. 
+
+ 
+
+• Desarrollar con Spring  una aplicación que realice un cálculo sencillo a partir de datos 
+de entrada y proporcione un resultado. Implementado el patrón modelo-vista-
+controlador. 
+
+ 
+
+• Desarrollar e implementar un servicio web con REST para el intercambio de 
+información con un servidor 
+
+ 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+
+siguientes fases: 
+
+• Fundamentación: es el marco de referencia que fundamenta el proyecto  de acuerdo 
+
+con un diagnóstico realizado, mismo que permite a los estudiantes lograr la 
+
+comprensión de la realidad o situación objeto de estudio para definir un proceso de 
+
+intervención o hacer el diseño de un modelo. 
+
+ 
+
+• Planeación: una vez que se tiene definido el proyecto se realiza el diseño por  los 
+
+estudiantes con asesoría del docente; implica planificar un proceso: de intervención 
+
+empresarial, social o comunitario, el diseño de un modelo, entre otros, según el tipo 
+
+de proyecto, las actividades a realizar los recursos requeridos y el cronograma de 
+
+trabajo. 
+
+ 
+
+• Ejecución: los estudiantes con asesoría del docente hacen el desarrollo de la 
+
+planeación del proyecto, es decir en la intervención (social, empresarial), o 
+
+construcción del modelo propuesto según el tipo de proyecto, es la fase de mayor 
+
+duración que implica el desempeño de las competencias genéricas y específicas. 
+
+ 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+
+• Evaluación:  es la fase final en la que se reconoce el haber alcanzado  las metas, se 
+
+presentan conclusiones y recomendaciones para mejora del proyecto. Se promueve 
+
+la “evaluación para la mejora continua”, la metacognición, el desarrollo del 
+
+pensamiento crítico e introspectivo de  los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+La evaluación de las actividades de aprendizaje es continua y  se puede realizar 
+
+solicitando a los estudiantes que elaboren: mapas conceptuales, mapas mentales, 
+
+reportes de prácticas de laboratorio, reportes de investigación, modelos de bases de 
+
+datos, cuadros  comparativos, estudio de casos, exámenes teórico-prácticos. 
+
+Comprobar que  los estudiantes logran obtener las  competencias requiere de: rúbricas, 
+
+listas de cotejo, listas de verificación, matrices de valoración. 
+
+ 
+
+11. Fuentes de información 
+
+Davis, A.L. (2020). Spring Quick Reference Guide: A Pocket Handbook for Spring 
+Framework, Spring Boot, and More. USA: Apress. 
+ 
+Pérez, E. (2015). Desarrollo de aplicaciones mediante framework de spring. España: RA-
+MA S.A. 
+ 
+Späth P. (2019). Beginning Jakarta EE. Alemania: Apress. 
+ 
+Jakarta EE Working Group. (mayo 24,2018). Jakarta EE Tutorial. marzo 20,2021, de 
+Jakarta EE Sitio web: https://eclipse-ee4j.github.io/jakartaee-tutorial/ 
+ 
+Spring Team. (2021). Guides. marzo 20,2021, de VMware Sitio web: 
+https://spring.io/guides 
+ 
+ 
+ 
+
+Página | 7

@@ -1,0 +1,528 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Herramientas informáticas para la gestión 
+ de negocios 
+  
+  
+
+Clave de la asignatura: ADB-2102 
+  
+
+  
+SATCA1: 1-4-5 
+
+  
+  
+
+Carrera: Ingeniería en administración IADM-2010-
+ 213 
+  
+
+Especialidad: Administración de negocios 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+La asignatura aporta al perfil del egreso de la especialidad la capacidad para aplicar el 
+sistema administrativo Aspel NOI, Aspel COI y SAE y el diseño de tablas dinámicas para 
+la optimización de los procesos administrativos en PYMES y administración de negocios, 
+es una herramienta informatica que en caso de laborar para una empresa o emprender 
+su propio negocio, hara que su desempeño profesional sea más eficiente. 
+
+La asignatura fortalece su perfil de egreso en el uso de TICS, ya que debe ser eficiente 
+en el uso de las tecnologías de la información y comunicación; la tendencia en el uso de 
+estas herramientas es una constante en la cual todo profesionista debe estar 
+actualizandose de manera continua, de ahí su importancia de fortalecer en la 
+especialidad esta competencia a través de esta asignatura. Fortaleciendo otro elemento 
+del perfil de egreso que es la toma de deciones administrativas y financieras. 
+
+En cada asignatura que cursa durante su carrera el uso de TIC forma parte del desarrollo 
+profesional del ingeniero en administración, por lo que no sólo se circunscribe a las 
+asignaturas que cursó en la carrera genérica que son: Tecnologías de la información, en 
+donde el alumno desarrollo la competencia para el uso del internet, elaboración de 
+documentos en procesadores de texto y hojas de cálculo, en esta asignatura va 
+desarrollar una competencia más avanzada para desarrollar tablas dinámicas, las cuales 
+facilitan el proceso de información para la toma de decisiones, y con relación a la 
+asignatura de TIC´S Aplicadas a la administración, donde desarrollo la competencia para 
+usar diferentes herramientas para la administración de proyectos y  programas para 
+aplicaciones estadísticas, de contabilidad y administración, esta asigntura viene a 
+fortalecer en el conocimiento y uso de una de las herramientas informáticas de mayor 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+uso en la administración de PYMES y de negocios como es el ASPEL, el cual es 
+software o sistema administrativo empresarial, que controla los ciclos de compra y venta, 
+automatización de procesos administrativos y contables, y la aplicación cumple de 
+manera sencilla las disposiciones fiscales vigentes. 
+
+Intención didáctica 
+La asignatura se conforma por cuatro temas, en cada uno de ellos se aborda de manera 
+práctica el uso de los elementos que conforman el  sistema ASPEL y en el último tema se 
+aborda el desarrollo de tablas dinámicas, este último es importante, ya que la 
+competencia que desarrolle facilitara su comprensión y uso complementario en uno de 
+los sistemas informáticos que emplean las empresas Grandes como es el SAP, muy 
+empleado también para la interpretación  y manejo de información, que coadyuvara a la 
+toma de decisiones. 
+
+Herramientas informáticas para la gestión de PYMES propone la ejecución de software 
+especializado en el área contable y fiscal que conlleve a una mejor organización 
+financiera y mejore la toma de decisiones.  
+
+La asignatura está conformada por cuatro temas: el primero proporciona al estudiante las 
+habilidades para automatizar el control de la Nómina Digital. Su fácil manejo y 
+versatilidad ofrecen un cálculo exacto de las percepciones y deducciones de los 
+trabajadores de acuerdo a las disposiciones fiscales y laborales vigentes.  
+
+Mediante el segundo tema, el estudiante adquiere las habilidades para conocer las 
+características básicas de Aspel-COI: Inicio de operaciones, procesos, DIOT, reportes 
+financieros y consultas.  
+
+El tercer tema lleva al estudiante a conocer las funciones y características de Aspel SAE 
+en el que se tratan temas como catálogos del sistema, procesos de inventarios, emisión 
+de reportes del sistema, herramientas para respaldar información, traducir datos de 
+versiones anteriores y el manejo de la bitácora del sistema. 
+
+ El cuarto tema le da al estudiante las habilidades necesarias para conocer elaborar 
+tablas dinámicas en excel, su aplicación y gestión, respectivamente, incluyen funciones y 
+comandos avanzados de los paquetes informáticos de hoja de cálculo y el manejo de la 
+base de datos, se pretende darle continuidad al conocimiento básico de estos. 
+ 
+Se recomienda que él o la docente que imparta esta asignatura tenga un perfil en el área 
+de la administración y/o contabilidad y experiencia en el uso de paquetería ASPEL y 
+manejo de hojas de cálculo y diseño de tablas dinámicas. 
+
+ 
+  
+
+Página | 2  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Representantes de la Propuesta de 
+Zacatepec del 10 al 26 de academia de ingeniería en especialidades para el 
+marzo de 2021 administración del Instituto periodo agosto-diciembre 
+
+Tecnológico de Zacatepec y 2021. 
+representantes del sector 
+productivo del estado de Presentación de propuesta 
+
+Morelos de la especialidad en 
+Administración de Negocios 
+
+Reuniones de trabajo para 
+el Desarrollo de contenidos 
+de la especialidad. 
+
+Reunión de la academia de 
+ingeniería en administración 
+y expertos del sector 
+productivo para definir y 
+validar contenidos de la 
+especialidad 
+
+Reunión informativa sobre 
+los resultados con el grupo 
+de interés. 
+
+Reuniones de trabajo para 
+el desarrollo final de los 
+contenidos de las 
+asignaturas de la 
+especialidad. 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Utiliza el sistema administrativo Aspel para automatizar sus procesos, evaluar y mejorar el 
+desempeño y resultados de la administración de  PYMES y negocios 
+
+5. Competencias previas 
+Conocer y Usar TICS (Uso de TICS,  
+
+Conocer los elementos y procesos de contabilidad (contabilidad aplicada a la ingeniería) 
+
+Página | 3  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+Conocer los elementos que integran una nómina, (Capital humano II) 
+
+Conocer los elementos que integran los elementos de marketing (Mercadotecnia) 
+
+Conocer los elementos del proceso administrativo (Taller de administración II) 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 ASPEL NOI 1.1 Instalación y configuración del sistema 
+1.2 Alta del catálogo de trabajadores, 
+
+departamentos y puestos. 
+1.3 Captura de percepciones y cálculo de 
+
+deducciones 
+1.4 Registrar y actualizar las tablas del 
+
+sistema para el cálculo de deducciones 
+1.5 Elaboración de nómina 
+1.6 Consultas, reportes, gráficas y utilerías. 
+1.7 Caso práctico 
+
+2 ASPEL COI 2.1 Instalación y configuración del sistema 
+2.2 Alta de cuentas  
+2.3 Captura de polizas 
+2.4 Consultas, reportes, gráficas y utilerías 
+2.5 Caso práctico 
+ 
+
+3 ASPEL SAE 3.1 Instalación y configuración del sistema 
+3.2 Control y captura de clientes, 
+proveedores y vendedores. 
+3.3 Control de inventarios, servicios, 
+cuentas por cobrar, cuentas por pagar, 
+compras y ventas 
+3.4 Consultas, reportes, gráficas y utilerías 
+3.5 Caso práctico 
+ 
+
+4 TABLAS DINÁMICAS EN EXCEL 4.1 Elaboración de tablas y base de datos. 
+4.2 Preparación de datos y campos para el 
+tablero de control y gráficos 
+4.3. Aplicación de una tabla dinámica para 
+un negocio pyme 
+ 
+
+.  
+
+Página | 4  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+7. Actividades de aprendizaje de los temas 
+
+Nombre de tema 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Elabora una nómina Investigar las disposiciones fiscales en 
+mediante el sistema de Aspel NOI, así materia de nomina 
+como realizar cálculo de percepciones y 
+deducciones Elaborar el registro de expedientes de 
+
+personal de una PYME o 
+Genéricas: microempresa. 
+
+Capacidad de investigación  Elaborar un reporte de movimientos de 
+nómina 
+
+manejo de información 
+Elaborar un informe de la trayectoría de 
+
+Capacidad analítica, cambios de departamento o puestos. 
+
+   Imprimir una nómina y verificar su 
+cumplimiento en disposiciones 
+administrativas y legales. 
+
+Elaborar un proyecto de nómina para una 
+empresa de la región. 
+
+Nombre de tema 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Procesa, integra y controla Elaborar un reporte de los elementos 
+reportes e informes financieros a través de contables de una PYME. 
+Aspel COI. 
+
+Analiza las funciones y herramientas de 
+Genéricas: Aspel COI 
+
+Capacidad de investigación Aplicar las funciones y herramientas 
+básicas en casos prácticos. 
+
+Manejo de información. 
+Generar reportes e información 
+
+Capacidad analítica financiera acorde a las disposiciones 
+fiscales vigentes 
+
+Nombre de tema 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Utiliza Aspel SAE para el Elaborar un reporte de los elementos 
+
+Página | 5  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+control de las operaciones administrativas administrativos de una PYME. 
+de una PYME 
+
+Analiza las funciones y herramientas de 
+Genéricas: Aspel SAE 
+
+Capacidad de investigación Aplicar las funciones y herramientas 
+básicas en casos prácticos. 
+
+Manejo de información. 
+Generar reportes e información 
+
+Capacidad analítica administrativa acorde a las necesidades 
+de la PYME 
+
+Nombre de tema 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Capacidad para elaborar Aplicar las funciones de tablas 
+tablas dinámicas en Excel acorde a las dinámicas propias de Excel. 
+necesidades de la PYME 
+
+Elaborar tableros de control y gráficos 
+Genéricas: dinámicos de acuerdo a las 
+
+necesidades de la PYME 
+Capacidad de investigación 
+
+Elaborar presupuestos en Excel  
+Manejo de información 
+
+Elaborar tablas y base datos para la 
+Capacidad analítica elaboración 
+
+ 
+
+8. Práctica(s) 
+
+ 
+Usar la herramienta Aspel NOI, elaborando una nómina para una empresa de la región. 
+ 
+Usar la herramienta Aspel COI, elaborando un reporte contable para una empresa de la 
+región, y elaborando una propuesta de solución para el caso de identificar un problema o 
+área de oportunidad. 
+ 
+ 
+Usar la herramienta Aspel SAE, elaborando un reporte contable y administrativo para una 
+empresa de la región, y elaborando una propuesta de solución para el caso de identificar 
+un problema o área de oportunidad. 
+ 
+Diseñar un tabla dinámica para una empresa de la región, documentar el proyecto. 
+ 
+ 
+  
+
+Página | 6  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+  
+
+Página | 7  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+10. Evaluación por competencias  
+
+La evaluación tendrá las características de ser diagnóstica, formativa y sumativa, 
+considerando lo siguiente:  
+Técnicas:  
+Reporte de investigación  
+Practicas Digitales  
+Correo electrónico  
+Foro virtual  
+Herramientas:  
+Rubricas  
+Lista de cotejo  
+Matriz de valoración  
+Lista de observaciones  
+Portafolio de Evidencias 
+11. Fuentes de información 
+
+ 
+Página Web oficial de la Empresa Aspel 
+
+Disponible en: 
+https://www.aspel.com.mx/?gclid=Cj0KCQjwi7yCBhDJARIsAMWFScNyrN3jQml6r05do7O3DcmC8n
+UhSbEAw9BPymN-OI1V0rq3fHzqj5EaAiRhEALw_wcB 
+
+Consultada marzo 2021 
+
+Copyright © Todos los Derechos Reservados Aspel de México, S.A. de C.V. México 2020 
+
+ 
+
+Tutoriales de Aspel NOI, disponibles por temas en descarga PDF. 
+
+https://www.aspel.com.mx/tutoriales-sistema?sistema=NOI 
+
+Soporte Técnico 
+
+Aspel de México, S. A. de C. V. 
+
+Cerrada de Suiza #17 Col. San Jerónimo Aculco 
+
+Del. Magdalena Contreras C.P. 10400 
+
+Copyright © Todos los Derechos Reservados Aspel de México, S.A. de C.V. México 2020 
+
+ 
+
+Tutoriales de Aspel COI, disponibles por temas en descarga PDF. 
+
+https://www.aspel.com.mx/tutoriales-sistema?sistema=COI 
+
+Soporte Técnico 
+
+Aspel de México, S. A. de C. V. 
+
+Página | 8  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+Cerrada de Suiza #17 Col. San Jerónimo Aculco 
+
+Del. Magdalena Contreras C.P. 10400 
+
+Copyright © Todos los Derechos Reservados Aspel de México, S.A. de C.V. México 2020 
+
+ 
+
+Tutoriales de Aspel SAE, disponibles por temas en descarga PDF. 
+
+https://www.aspel.com.mx/tutoriales-sistema?sistema=SAE 
+
+Soporte Técnico 
+
+Aspel de México, S. A. de C. V. 
+
+Cerrada de Suiza #17 Col. San Jerónimo Aculco 
+
+Del. Magdalena Contreras C.P. 10400 
+
+Copyright © Todos los Derechos Reservados Aspel de México, S.A. de C.V. México 2020 
+
+ 
+
+Cuenta Principal oficial Youtube de la Empresa Aspel 
+
+Disponible en: https://www.youtube.com/channel/UCUD_LmEqU1oXd3u0uN7hpOA 
+
+Consultada marzo 2021 
+
+ 
+
+Video de uso y demostración de Aspel NOI versión 9.0 
+
+Demo Aspel NOI 9.0 – Sistema de Nómina Integral, actualizado 8 de mayo 2020 
+
+Disponible en: https://www.youtube.com/watch?v=xMZPMXWVIJE 
+
+Consultada marzo 2021 
+
+ 
+
+Video de uso y demostración de Aspel COI versión 8.0 
+
+Demo Aspel COI 8.0 – Sistema de Contabilidad Integral, actualizado 29 de mayo 2020. 
+
+Disponible en: https://www.youtube.com/watch?v=Z0OhjOzOLbo&t=6s 
+
+Consultada marzo 2021 
+
+ 
+
+Video de uso y demostración de Aspel SAE versión 8.0 
+
+Demo Aspel SAE 8.0 – Sistema Administrativo Empresarial, actualizado 18 de febrero 2021. 
+
+Disponible en: https://www.youtube.com/watch?v=Z0OhjOzOLbo&t=6s 
+
+Página | 9  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+Consultada marzo 2021 
+
+ 
+ 
+ 
+ 
+ 
+
+Página | 10

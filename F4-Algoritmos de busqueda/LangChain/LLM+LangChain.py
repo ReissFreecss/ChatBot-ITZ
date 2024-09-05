@@ -7,11 +7,11 @@ from transformers import AutoTokenizer, pipeline
 import torch
 
 # Cargar el documento PDF
-loader = PyMuPDFLoader("./Data/PDF/4-Gestion_Agil_de_Proyectos.pdf")
+loader = PyMuPDFLoader('C:\Users\Carlos\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT NN\master.txt')
 data_pdf = loader.load()
 
 # Dividir el texto en fragmentos
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=500, length_function=len)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=600, chunk_overlap=0, length_function=len)
 chunks = text_splitter.split_documents(data_pdf)
 
 # Crear embeddings y base de conocimiento
@@ -35,7 +35,6 @@ Si no sabes la respuesta, simplemente di que no la sabes, no intentes inventar u
 Contexto: {context}
 Pregunta: {question}
 
-Solo devuelve la respuesta útil a continuación y nada más.
 Respuesta útil:
 
 """
@@ -68,6 +67,6 @@ def generate_response(question):
     return outputs[0]["generated_text"]
 
 # Ejemplo de uso
-pregunta = "¿Que unidades lleva la gestion de proyectos?"
+pregunta = "Dame el temario que tiene la asignatura de Bases de Datos NoSQL"
 respuesta = generate_response(pregunta)
 print(respuesta)

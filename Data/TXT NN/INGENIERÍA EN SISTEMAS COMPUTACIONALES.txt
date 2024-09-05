@@ -1,0 +1,37 @@
+TecNM | Instituto Tecnológico de Zacatepec
+Página del Tecnológico Nacional de México/Instituto Tecnológico de Zacatepec
+INGENIERÍA EN SISTEMAS COMPUTACIONALES
+Objetivo del Programa Educativo
+Formar profesionistas líderes con visión estratégica y amplio sentido ético; capaz de diseñar, desarrollar, implementar y administrar tecnología computacional paraaportar soluciones innovadoras en beneficio de la sociedad; en un contexto global, multidisciplinario y sostenible.
+Misión del Programa Educativo
+Formar profesionistas en el área de Ingeniería en Sistemas Computacionales competentes en el uso y desarrollo de tecnologías computacionales, conpensamiento crítico y humanista, con habilidades de liderazgo y emprendimiento, con responsabilidad social y ecológica, que constituyan agentes de cambio con trascendencia en el entorno.
+Visión del Programa Educativo
+Ser un programa educativo de Ingeniería en Sistemas Computacionales referente, en la región, en el estado y el país, que se caracterice por su consolidación académica, educativa y su incidencia social y aporte a la sustentabilidad.
+Perfil de Egreso
+1. Implementa aplicaciones computacionales para solucionar problemas de diversos contextos, integrando diferentes tecnologías, plataformas o dispositivos.
+2. Diseña, desarrolla y aplica modelos computacionales para solucionar problemas, mediante la selección y uso de herramientas matemáticas.
+3. Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo del software asociado.
+4. Coordina y participa en equipos multidisciplinarios para la aplicación de soluciones innovadoras en diferentes contextos.
+5. Diseña, implementa y administra bases de datos optimizando los recursos disponibles, conforme alas normas vigentes de manejoy seguridad de la información.
+6. Desarrolla y administra software para apoyar la productividad y competitividad de las organizaciones cumpliendo con estándares de calidad.
+7. Evalúa tecnologías de hardware para soportar aplicaciones de manera efectiva.
+8. Detecta áreas de oportunidad empleando una visión empresarial para crear proyectos aplicando las Tecnologías de la Información y Comunicación.
+9. Diseña, configura y administra redes de computadoras para crear soluciones de conectividad en la organización, aplicando las normas y estándares vigentes.
+Campo de Acción
+Desarrollarse en organizaciones del sector público y privado, de transformación y de servicios, aplicando las Tecnologías de la Información y Comunicación siendo capaz de detectar áreas de oportunidad para formular, diseñar, desarrollar, implementar y administrar tecnología computacional para aportar soluciones innovadoras en beneficio de la sociedad; en un contexto global, multidisciplinario, sostenible, conduciéndose con responsabilidad y ética profesional.
+Atributos de Egreso
+1. Identifica, formula y resuelve problemas de la ingeniería en sistemas computacionales, con enfoque sistémico.
+2. Aplicar fundamentos de ciencias básicas e ingeniería para analizar y desarrollar procesos de diseño que resulten en proyectos que cumplan con los requerimientos indicados.
+3. Evalúa alternativas de solución a problemas de contexto de la ingeniería en sistemas computacionales, mediante el análisis, selección y uso de modelos computacionales, herramientas matemáticas e infraestructura de software y hardware.
+4. Utiliza la comunicación de manera efectiva en la exposición de ideas y soluciones a problemas que impliquen el desarrollo de sistemas computacionales.
+5. Reconoce sus responsabilidades legales, éticas, sociales y de desarrollo sustentable en el contexto de los sistemas computacionales.
+6. Reconocer la necesidad de mantener el conocimiento actualizado de la Ingeniería en Sistemas Computacionales y tener la habilidad para localizar, evaluar, integrar y aplicar este conocimiento.
+7. Trabaja en equipo con liderazgo en un ambiente colaborativo, con la finalidad de lograr los objetivos o metas planteadas por el equipo en cuestión.
+Objetivos Educacionales del PE
+1. Aplicar conocimientos y habilidades de la ingeniería en sistemas computacionales para resolver problemas con altos estándares de calidad.
+2. Utilizar técnicas, herramientas y tecnologías innovadoras de información y comunicaciones para la generación de valor en las organizaciones, realizando su trabajo con ética y responsabilidad.
+3. Ejercer su profesión en un contexto global, multidisciplinario y sostenible con visión estratégica, ética y conciencia social.
+4. Actuar con liderazgo y de manera colaborativa en el desempeño de su profesión.
+Reticula
+Descarga tríptico
+Manuales Programa Educativo ISC

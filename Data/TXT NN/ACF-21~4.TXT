@@ -1,0 +1,876 @@
+﻿1.	 Datos Generales de la asignatura 
+
+Nombre de la asignatura: Energías Sustentables e Impacto 
+ Ambiental 
+
+  
+Clave de la asignatura: ACF-2102 
+
+  
+  
+
+SATCA1: 3– 2 - 5 
+  
+  
+
+Carrera: Ingeniería Química 
+2. Presentación 
+
+Caracterización de la asignatura 
+La diversidad temática del programa conforma la comprensión de las Energías 
+Sustentables e Impacto Ambiental y sus aplicaciones en el campo de la 
+ingeniería, con un enfoque en el origen de la fuente, en la generación y posible 
+uso de la energía, además de los estudios del impacto ambiental en los 
+proyectos de manera general.  
+
+• Esta materia está inmersa en las dimensiones de la sustentabilidad y 
+se articula con las demás áreas del conocimiento de manera tal que 
+le proporciona al egresado herramientas básicas necesarias para la 
+posible implementación de proyectos relacionados con la 
+localización, generación y distribución de energía.  
+
+• La asignatura, aporta al estudiante las bases teóricas, metodológicas 
+y practicas sobre la Energía Alternativa.  
+
+• Además de proporcionar las pautas para conocer el cómo realizar un 
+estudio de impacto ambiental a través de diferentes metodologías, 
+considerando un desarrollo sustentable, además de las directrices y 
+requisitos establecidos en la legislación ambiental mexicana en 
+materia de impacto ambiental.  
+
+• La concurrencia de competencias en esta materia, permite al alumno 
+obtener una visión global de la interacción del desarrollo económico, 
+social y nuestro medio ambiente, consolidando las alternativas de 
+coexistencia de las especies de nuestro planeta.  
+
+Intención didáctica 
+La materia de Energías Sustentables e Impacto Ambiental está compuesta por 
+seis temas, que hacen referencia a los conceptos relacionados con la 
+sustentabilidad y factibilidad de las Energías Sustentables y el Impacto 
+Ambiental en los diferentes proyectos de aplicación de acuerdo a la legislación 
+ambiental en México.  
+
+El tema uno tiene como propósito realizar una introducción al tema de la 
+																																								 																				
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página	|	1		
+	
+
+
+
+	
+ 
+
+	
+Energía sustentable analizando la situación de las mismas en el país, y su 
+relación con la situación ambiental, así como la política energética. 
+
+El segundo tema aborda las formas de conversión de energía que dan lugar a 
+las diversas clasificaciones de las energías sustentables, permitiendo identificar 
+las fuentes de generación y las aplicaciones de cada una.  
+
+El tercer tema llevaría la identificación de las formas de almacenamiento de la 
+energía, permitiéndonos llevar a cabo la clasificación de estos métodos, 
+relacionándolos con las aplicaciones de cada uno. 
+
+El cuarto tema se analiza el concepto de sustentabilidad, lo que permite 
+determinar la factibilidad del uso de las energías sustentables, evaluando el 
+aspecto social, económico, ambiental y tecnológico de cada una.  
+
+En el quinto tema, se revisa el contenido y procedimiento que requiere un 
+estudio de impacto ambiental.  
+
+En el sexto tema se revisan detalladamente las etapas de un estudio de 
+impacto ambiental en el cual se tipifican los impactos dependiendo de la 
+actividad a desarrollarse, prosiguiendo con la estructuración de medidas 
+preventivas y programas de seguimiento que debe contener un estudio de 
+impacto ambiental.  
+  
+
+Página	|	2		
+	
+
+
+
+	
+ 
+
+	
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Tecnológico Nacional de Laura Elena Rueda Mata, Desarrollo de planes y 
+México/Instituto Dimna Edaly Alarcón programas de nuevas 
+Tecnológico de Hernández, Blanca especialidades. 
+Zacatepec. Estela Ortiz Aguilar, 
+
+Leonel Gutiérrez Uribe  
+25 al 29 de enero de 
+2021. 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Identificar y clasificar los diferentes tipos de energía sustentable, de acuerdo a 
+su fuente de generación y/o el método de conversión y almacenamiento, así 
+como determinar la factibilidad del uso de la energía sustentable.  
+
+Colaborar en proyectos de investigación, desarrollo e innovación tecnológicos, 
+relacionados con la energía sustentable.  
+
+Conocer el estudio y evaluación del impacto ambiental, aplicando los diferentes 
+métodos existentes de cuantificación y trámites necesarios hasta su 
+autorización, con un enfoque de desarrollo sustentable.  
+5. Competencias previas 
+
+• Conocer de manera integral su carrera.  
+• Comunicación oral y escrita en su propia lengua y comprender textos en 
+
+otro idioma.  
+• Manejar software básico para procesamiento de datos y elaboración de 
+
+documentos.  
+• Reconocer los elementos del proceso de la investigación.  
+• Conocer conceptos básicos de ciencias naturales y ciencias sociales.  
+• Leer, comprender y redactar ensayos y demás escritos técnico-
+
+científicos.  
+• Manejar y analizar adecuadamente la información proveniente de 
+
+bibliotecas virtuales y de internet.  
+• Identificar y resolver problemas afines a su ámbito profesional, aplicando 
+
+el método inductivo y deductivo, el método de análisis-síntesis y el 
+enfoque sistémico.  
+
+• Poseer iniciativa y espíritu emprendedor.  
+• Asumir actitudes éticas en su entorno.  
+• Sabe identificar y aplicar la legislación ambiental.  
+• Conoce conceptos básicos de ciencias naturales y ciencias sociales.  
+• Comprender la relevancia del Desarrollo Sustentable para mantener el 
+
+Página	|	3		
+	
+
+
+
+	
+ 
+
+	
+equilibrio en los ecosistemas. 
+
+ 
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Generalidades  1.1 Introducción 
+1.2 Energía y Medio Ambiente  
+1.3 Situación Actual en México  
+1.4 Política Energética  
+
+2 Conversión  2.1 Fotovoltaica 
+2.2 Celdas de combustión  
+2.3 Geotermia 
+2.4 Eólica 
+2.5 Bioenergía 
+2.6 Fototérmica 
+2.7 Hidráulica 
+2.8 Nuclear 
+2.9 Emergentes  
+
+3 Almacenamiento  3.1 Químico  
+3.2 Físico  
+3.2.1 Energía Potencial  
+3.2.2 Energía Cinética  
+3.2.3 Energía Térmica  
+3.2.4 Energía Eléctrica  
+
+4 Sustentabilidad  4.1 Factibilidad 
+4.1.1 Factor Económico  
+4.1.2 Factor Social 
+4.1.3 Factor Ambiental  
+4.1.4 Factor Tecnológico  
+
+5 El estudio del impacto ambiental 5.1. Introducción, impacto ambiental y 
+y riesgos.  tipo de impactos. 
+
+5.2. Contenido del estudio del impacto 
+ambiental.  
+5.3. Normatividad para evaluación del 
+impacto ambiental.  
+5.4. Procedimiento administrativo de 
+evaluación del impacto ambiental. 
+5.5 Análisis de riesgo. 
+5.5 .1 Fundamentos legales y guías 
+para la elaboración de estudios de 
+riesgo ambiental.  
+5.6. Proyectos sujetos a evaluación de 
+impactos.  
+
+6 Etapas de un estudio de impacto 6.1. Análisis del proyecto.  
+
+Página	|	4		
+	
+
+
+
+	
+ 
+
+	
+ambiental.  6.2. Inventario ambiental.  
+
+6.3. Identificación y valoración de 
+impactos. 
+6.4. Medidas preventivas y correctivas.  
+6.5. Impactos residuales. 
+6.6. Programas de seguimiento y 
+control.  
+
+  
+
+Página	|	5		
+	
+
+
+
+	
+ 
+
+	
+7. Actividades de aprendizaje de los temas 
+
+1. Generalidades 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Desarrollar un concepto propio 
+de energía sustentable.  
+
+• Conocer la situación actual del uso • Investigar la evolución de la 
+de la energía sustentable, así como las generación de energía en 
+políticas adoptadas en relación a la nuestro país.  
+energía en México. • Investigar la influencia del uso 
+  de energías alternativas en el 
+• Identificar la relación de la energía y medio ambiente.  
+el medio ambiente.  • Discutir sobre la legislación 
+ energética, aplicación e 
+Genéricas: importancia.  
+
+• Reflexionar sobre la 
+COMPETENCIAS INSTRUMENTALES importancia de la asignatura y 
+• Analizar y sintetizar información en los impactos ambientales 
+los tres ámbitos de la sustentabilidad: ocasionados por el uso de 
+económico, social- cultural y ecológico energías convencionales.  
+de la energía sustentable. 
+• Tomar decisiones en su ámbito 
+profesional para valorar la factibilidad 
+de utilizar la energía sustentable de 
+acuerdo a la ubicación del proyecto, y 
+la fuente de generación disponible.  
+
+COMPETENCIAS INTERPERSONALES 
+•Interpretar las leyes, reglamentos, 
+normas y políticas aplicables.  
+
+• Participar en equipos en la 
+organización, planificación o ejecución 
+de proyectos relacionados con la 
+materia.  
+
+• Fomentar con una visión de futuro el 
+manejo adecuado y la conservación 
+de los recursos naturales y 
+transformados.  
+
+COMPETENCIAS SISTÉMICAS  
+
+• • Desarrollar actitudes de liderazgo 
+para la realización de proyectos 
+relacionados con el área.  
+
+Página	|	6		
+	
+
+
+
+	
+ 
+
+	
+• • Generar espacios de oportunidad 
+
+para la creación de empresas y 
+generación de empleos.  
+
+• • Conocer y aplicar la legislación, 
+normatividad, tecnología, educación, 
+ingeniería, ciencia, administración, en 
+el contexto de la sustentabilidad, 
+dentro la aplicación de energías 
+sustentables.  
+
+2. Conversión 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar las diferentes fuentes 
+de energía sustentable.  
+
+• Identificar las diferentes fuentes de • Investigar los métodos de 
+energía para comprender la transformación química de la 
+clasificación de la energía sustentable energía.  
+de acuerdo a la forma de conversión.  • Investigar los métodos de 
+• Conocer las diferentes formas de transformación física de la 
+conversión de energía y relacionarlas energía.  
+con la aplicación que puede tener • Realizar una clasificación propia 
+cada una de ellas.  de la energía sustentable de 
+• Establecer la relación adecuada acuerdo a la forma de 
+fuente- conversión-aplicación, para conversión.  
+facilitar la aplicación de los • Discutir sobre la relevancia de la 
+conocimientos adquiridos en la energía sustentable de acuerdo 
+solución de problemas en el campo a cada una de las formas de 
+laboral y de investigación.  conversión estableciendo una 
+ escala de porcentajes de 
+Genéricas: acuerdo a su uso en el país.  
+
+• Solucionar problemas teóricos 
+COMPETENCIAS INSTRUMENTALES  relacionados con la energía 
+
+fotovoltaica.  
+• Analizar y sintetizar información en • Solucionar problemas teóricos 
+los tres ámbitos de la sustentabilidad: relacionados con las celdas de 
+económico, social- cultural y ecológico combustión.  
+de la energía sustentable.  • Solucionar problemas teóricos 
+
+relacionados con la energía 
+• Tomar decisiones en su ámbito geotérmica.  
+profesional para valorar la factibilidad • Solucionar problemas teóricos 
+de utilizar la energía sustentable de relacionados con la energía 
+acuerdo a la ubicación del proyecto, y eólica.  
+la fuente de generación disponible.  • Solucionar problemas teóricos 
+
+relacionados con la bioenergía.  
+COMPETENCIAS INTERPERSONALES • Solucionar problemas teóricos 
+•Interpretar las leyes, reglamentos,  relacionados con la energía 
+
+Página	|	7		
+	
+
+
+
+	
+ 
+
+	
+normas y políticas aplicables.  fototérmica.  
+
+• Participar en equipos en la 
+organización, planificación o ejecución 
+de proyectos relacionados con la 
+materia.  
+
+• Fomentar con una visión de futuro el 
+manejo adecuado y la conservación 
+de los recursos naturales y 
+transformados.  
+
+COMPETENCIAS SISTÉMICAS  
+
+• Desarrollar actitudes de 
+liderazgo para la realización de 
+proyectos relacionados con el 
+área.  
+
+• Generar espacios de 
+oportunidad para la creación de 
+empresas y generación de 
+empleos.  
+
+• Conocer y aplicar la legislación, 
+normatividad, tecnología, 
+educación, ingeniería, ciencia, 
+administración, en el contexto 
+de la sustentabilidad, dentro la 
+aplicación de energías 
+sustentables.  
+
+3. Almacenamiento 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar el concepto de 
+factibilidad y su importancia en 
+
+• Identificar las diversas formas de la realización de proyectos.  
+almacenamiento de energía.  • Desarrollar un concepto propio 
+
+de sustentabilidad.  
+• Identificar la forma adecuada de • Realizar observaciones de 
+almacenamiento de energía de campo.  
+acuerdo a la aplicación final de la • Elaborar un proyecto de 
+energía.  implementación del uso de 
+
+energía sustentable dentro de 
+Genéricas: un sector determinado de la 
+
+Institución educativa 
+COMPETENCIAS INSTRUMENTALES  (laboratorios, aulas, canchas 
+
+deportivas, etc.). 
+
+Página	|	8		
+	
+
+
+
+	
+ 
+
+	
+• Analizar y sintetizar información en 
+los tres ámbitos de la sustentabilidad: 
+económico, social- cultural y ecológico 
+de la energía sustentable.  
+
+• Tomar decisiones en su ámbito 
+profesional para valorar la factibilidad 
+de utilizar la energía sustentable de 
+acuerdo a la ubicación del proyecto, y 
+la fuente de generación disponible.  
+
+COMPETENCIAS INTERPERSONALES 
+•Interpretar las leyes, reglamentos,  
+
+normas y políticas aplicables.  
+
+• Participar en equipos en la 
+organización, planificación o ejecución 
+de proyectos relacionados con la 
+materia.  
+
+• Fomentar con una visión de futuro el 
+manejo adecuado y la conservación 
+de los recursos naturales y 
+transformados.  
+
+COMPETENCIAS SISTÉMICAS  
+
+• Desarrollar actitudes de liderazgo 
+para la realización de proyectos 
+relacionados con el área.  
+
+• Generar espacios de oportunidad 
+para la creación de empresas y 
+generación de empleos.  
+
+• Conocer y aplicar la legislación, 
+normatividad, tecnología, educación, 
+ingeniería, ciencia, administración, en 
+el contexto de la sustentabilidad, 
+dentro la aplicación de energías 
+sustentables. 
+
+4. Sustentabilidad 
+
+Competencias Actividades de aprendizaje 
+
+Página	|	9		
+	
+
+
+
+	
+ 
+
+	
+Específica(s): • Desarrollar una clasificación 
+
+propia de las formas de 
+• Identificar las diversas formas de almacenamiento de energía.  
+almacenamiento de energía.  • Investigar las formas químicas 
+ de almacenamiento de energía.  
+• Identificar la forma adecuada de • Investigar las formas físicas de 
+almacenamiento de energía de almacenamiento de energía.  
+acuerdo a la aplicación final de la • Realizar observaciones de 
+energía.  campo.  
+ • Elaborar un inventario de los 
+Genéricas: tipos de energía utilizados en la 
+
+institución educativa y sugerir 
+COMPETENCIAS INSTRUMENTALES  el tipo de energía sustentable 
+
+que podría sustituirla.  
+• Analizar y sintetizar información en 
+los tres ámbitos de la sustentabilidad: 
+económico, social- cultural y ecológico 
+de la energía sustentable.  
+
+• Tomar decisiones en su ámbito 
+profesional para valorar la factibilidad 
+de utilizar la energía sustentable de 
+acuerdo a la ubicación del proyecto, y 
+la fuente de generación disponible.  
+
+COMPETENCIAS INTERPERSONALES 
+•Interpretar las leyes, reglamentos,  
+
+normas y políticas aplicables.  
+
+• Participar en equipos en la 
+organización, planificación o ejecución 
+de proyectos relacionados con la 
+materia.  
+
+• Fomentar con una visión de futuro el 
+manejo adecuado y la conservación 
+de los recursos naturales y 
+transformados.  
+
+COMPETENCIAS SISTÉMICAS  
+
+• Desarrollar actitudes de 
+liderazgo para la realización de 
+proyectos relacionados con el 
+área.  
+
+• Generar espacios de 
+
+Página	|	10		
+	
+
+
+
+	
+ 
+
+	
+oportunidad para la creación de 
+empresas y generación de 
+empleos.  
+
+• Conocer y aplicar la legislación, 
+normatividad, tecnología, educación, 
+ingeniería, ciencia, administración, en 
+el contexto de la sustentabilidad, 
+dentro la aplicación de energías 
+sustentables. 
+
+5. El estudio del impacto ambiental y riesgos. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): •Revisar y estructurar un estudio de 
+• Conocer el contenido de un estudio impacto ambiental. 
+de impacto ambiental. • Revisar la aplicación de normatividad 
+• Aplicar la normatividad aplicable a y la diferenciación de los estudios a 
+un estudio de impacto ambiental. presentar dependiendo del tipo de 
+• Identificar el procedimiento a actividad a evaluar. 
+desarrollar para un estudio de • Realizar el análisis de riesgo 
+impacto ambiental. Identificar los dependiendo del tipo de actividad a 
+proyectos sujetos al análisis de riesgo.  evaluar.  
+• Identificar los proyectos sujetos a • Realizar la estructuración de un 
+evaluación de impacto ambiental.  estudio de impacto ambiental.  
+Genéricas:  
+• Competencias instrumentales: 
+ 
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y planificar.  
+• Conocimientos generales básicos. 
+• Conocimientos básicos de la carrera. 
+• Comunicación oral y escrita en su 
+propia lengua. 
+• Habilidades de gestión de 
+información (habilidad para buscar y 
+analizar información proveniente de 
+fuentes diversas. 
+• Solución de problemas. 
+• Toma de decisiones. 
+ 
+Competencias interpersonales: 
+ 
+• Trabajo en equipo. 
+• Habilidades interpersonales. 
+•Capacidad de trabajar en equipo 
+
+Página	|	11		
+	
+
+
+
+	
+ 
+
+	
+interdisciplinario. 
+•Capacidad de comunicarse con 
+profesionales de otras áreas. 
+• Apreciación de la diversidad y 
+multiculturalidad. 
+• Habilidad para trabajar en un 
+ambiente laboral. 
+• Compromiso ético.  
+ 
+Competencias sistémicas:  
+ 
+• Capacidad de aplicar los 
+conocimientos en la práctica.  
+• Habilidades de investigación.  
+• Capacidad de aprender.  
+• Capacidad de adaptarse a nuevas  
+situaciones.  
+• Capacidad de generar nuevas ideas.  
+
+6. Etapas de un estudio de impacto ambiental. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Realizar un análisis de proyecto tipo. 
+• Elaborar un inventario ambiental.  
+
+• Desarrollar las etapas de un estudio • Debatir los tipos de impactos y su 
+de impacto ambiental.  valoración. 
+
+• Proponer y defender en una 
+Genéricas: presentación sobre medidas 
+
+preventivas y correctivas para el 
+•Competencias instrumentales:  proyecto tipo.  
+
+• De manera grupal desarrollar un 
+• Capacidad de análisis y síntesis.  programa de seguimiento y control.  
+• Capacidad de organizar y planificar.  
+• Conocimientos generales básicos.  
+• Conocimientos básicos de la carrera. 
+• Comunicación oral y escrita en su 
+propia lengua.  
+• Habilidades de gestión de 
+información (habilidad para buscar y 
+analizar información proveniente de 
+fuentes diversas.  
+• Solución de problemas.  
+• Toma de decisiones.  
+
+Competencias interpersonales:  
+
+• Trabajo en equipo. 
+
+Página	|	12		
+	
+
+
+
+	
+ 
+
+	
+•Habilidades interpersonales. 
+•Capacidad de trabajar en equipo 
+interdisciplinario.  
+• Capacidad de comunicarse con 
+profesionales de otras áreas. 
+• Apreciación de la diversidad y 
+multiculturalidad.  
+• Habilidad para trabajar en un 
+ambiente laboral. 
+• Compromiso ético.  
+
+Competencias sistémicas:  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de adaptarse a nuevas 
+situaciones. 
+• Capacidad de generar nuevas ideas.  
+ 
+
+8. Práctica(s) 
+
+1. Manipular y caracterizar sistemas fotovoltaicos.  
+2. Mediante el uso de software caracterizar celdas de combustión.  
+3. Elaborar mecanismos para la obtención de biogás, bioetanol o biomasa.  
+4. Realizar un prototipo para el uso de energía fototérmica o en su defecto 
+evaluar los sistemas actuales existentes en el mercado.   
+5. Evaluar la eficiencia en los dispositivos de almacenamiento de energía 
+existentes en el mercado.  
+6. Elaborar el inventario ambiental del entorno de su proyecto de desarrollo. 
+7. Realizar el análisis cualitativo y cuantitativo de los impactos detectados.  
+8. Elaborar el estudio de impacto ambiental que elaboró conjuntamente con su 
+equipo. 
+  
+
+Página	|	13		
+	
+
+
+
+	
+ 
+
+	
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página	|	14		
+	
+
+
+
+	
+ 
+
+	
+10. Evaluación por competencias  
+
+La evaluación debe ser continua y formativa, mediante técnicas, instrumentos 
+y herramientas sugeridas para constatar los desempeños académicos de las 
+actividades de aprendizaje. 
+ 
+Trabajos de investigación documental; exposición en forma individual y grupal; 
+discusión grupal de casos de estudio; reporte de conclusiones; programa de 
+capacitación; bitácoras y/o reporte del protocolo de validación; rúbricas; lista de 
+cotejo; coevaluación; guía de evaluación.  
+ 
+
+11. Fuentes de información 
+
+Estrategia Nacional de Energía.  
+
+Domínguez Gómez, J. A. (2008). Energías alternativas (3a.ed.). Equipo Sirius. 
+https://elibro.net/es/lc/itzacatepec/titulos/60129 
+
+Marulanda Rendón, J. E. (2020). Sistemas alternativos de energía. El Cid Editor. 
+https://elibro.net/es/lc/itzacatepec/titulos/127176 
+
+González Velasco, J. (2015). Energías renovables. Editorial Reverté. 
+https://elibro.net/es/lc/itzacatepec/titulos/46748 
+
+Reforma energética en México 
+
+Federico Velázquez de Castro (2001).  El Ozono, primera edición McGraw Hill, 
+España. 
+
+IEA, (2009). Renewables Information, OECD, IEA.  
+
+Institute for Aerospace Survey and Earth Sciences. Netherlands. 232  
+
+Janssen. L. Huurneman G, (Comp) (2001). Principles of Remote Sensing. 
+International Institute for Aerospace Survey and Earth Sciences. Enschede. 
+Netherlands.  
+
+Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la 
+Transición Energética.  
+
+Michel Rosengaus M. (2002). Efectos destructivos de ciclones tropicales, 
+segunda edición, MAPFRE. S.A. México D.F. 
+ 
+Navarro-Pedreño, J. y J. Mataix-Solera. (2000). Sistemas de información 
+geográfica y el medio ambiente: Introducción a los SIG y Teledetección. 
+Editorial Universidad Miguel Hernández. 2da Edición.126 p.p. España.  
+ 
+
+Página	|	15		
+	
+
+
+
+	
+ 
+
+	
+Peña-Llopis, J. (2007). Sistemas de Información Geográfica Aplicados a la 
+Gestión del Territorio. Editorial Club Universitario. 2da edición. 310 p.p. España  
+ 
+Plan Nacional del Desarrollo  
+ 
+SENER, (2009). Balance Nacional de Energía 2009, Secretaría de Energía 
+(www.sener.gob.mx).  
+ 
+Taylor, A., Parish, J.R., (2008). Career Opportunities in the Energy Industry. Ed. 
+Ferguson. 
+ 
+Grijalbo Fernández, L. (2017). Prevención de riesgos ambientales. MF1974. 
+Editorial Tutor Formación. https://elibro.net/es/lc/itzacatepec/titulos/44240 
+ 
+Crespo Sánchez, C. y Salvador Alcaide, A. (2005). Evaluación de impacto 
+ambiental. Pearson Educación. https://elibro.net/es/lc/itzacatepec/titulos/45334 
+ 
+Darío Sbarato, R. Emilio Ortega, J. y María Sbarato, V. (2016). Los estudios de 
+impacto ambiental. Editorial Brujas. 
+https://elibro.net/es/lc/itzacatepec/titulos/77039  
+ 
+Vidal López, R. (2014). Evaluación del impacto ambiental. Ministerio de 
+Educación de España. https://elibro.net/es/lc/itzacatepec/titulos/114113 
+ 
+Paredes Ceballos, M. Y. Uribe Villamil, L. F. y Rosales Paredes, V. F. (2019). 
+Manual de impacto ambiental. Ediciones de la U. 
+https://elibro.net/es/lc/itzacatepec/titulos/127100 
+ 
+Español Echániz, I. (2016). Evaluación del impacto ambiental: fundamentos. 
+Dextra Editorial. https://elibro.net/es/lc/itzacatepec/titulos/130768 
+ 
+March, J. M. (2005). Criterios de racionalidad e indicadores de impacto 
+ambiental.Editor - Universitas. https://elibro.net/es/lc/itzacatepec/titulos/104755 
+ 
+Bernache Pérez, G. (2006). Cuando la basura nos alcance: el impacto de la 
+degradación ambiental. CIESAS - Centro de Investigaciones y Estudios 
+Superiores en Antropología Social. 
+https://elibro.net/es/lc/itzacatepec/titulos/72474 
+
+ 
+Páginas web:  
+
+www.sener.gob.mx  
+www.inegi.gob.mx 
+www.juridicas.unam.mx  
+www.inecc.gob.mx    
+www.nhc.noaa.gov/goes/east  
+www.ssd.noaa.gov/goes/east.  
+www.ghcc.msfc.nasa.gov/GOES   
+
+ 
+
+Página	|	16

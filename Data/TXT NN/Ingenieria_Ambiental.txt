@@ -1,0 +1,846 @@
+﻿Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Ingeniería Ambiental. 
+Clave de la asignatura: POE-1502 
+
+SATCA1: 3-1-4 
+Carrera: Ingeniería Civil 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+La materia ofrece una introducción práctica y certera al tema de la Ingeniería Ambiental 
+en Obras de Ingeniería Civil. El curso está diseñado para los estudiantes de Ingeniería 
+Civil;  adaptándose al perfil de ellos, quienes toman un solo curso de química (inorgánica, 
+principalmente) en el primero o segundo semestre y de Desarrollo Sustentable en sexto 
+semestre.  
+ 
+Esta asignatura aporta al perfil del Ingeniero Civil, la capacidad para proponer soluciones 
+a la problemática ocasionada por la generación de Aguas Residuales y Desechos sólidos, 
+así como planear, proyectar, diseñar,  construir y operar una Planta de Tratamiento y un 
+Relleno sanitario. 
+ 
+Para este curso, los alumnos han llevado previamente los fundamentos de la hidráulica; 
+han cursado hidráulica básica y de canales. Por otra parte, en la rama de Ingeniería 
+Ambiental generalmente anteceden al curso de tratamiento los de desarrollo sustentable, 
+abastecimiento de agua potable y alcantarillado. 
+ 
+Intención didáctica 
+
+Conocer y aplicar adecuadamente  la Legislación Nacional en materia Ambiental. 
+Además, las Normas Oficiales Mexicanas en materia de descarga y re-uso de  las Aguas 
+Residuales. 
+ 
+Identificar los sistemas utilizados para el Tratamiento de las Aguas Residuales. 
+Orientar los conocimientos adquiridos anteriormente para el diseño de los componentes 
+de un sistema de tratamiento de Aguas Residuales. 
+ 
+La materia Ingeniería Ambiental, se desarrolla a través de siete unidades  
+adecuadamente diseñadas, para una mejor  comprensión por parte del alumno, con la 
+guía del maestro, lo cual permite el mejor desarrollo de la clase. 
+
+ 
+  
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de 
+Participantes Observaciones 
+
+elaboración o revisión 
+
+Instituto Tecnológico de Academia de Ingeniería Reunión de academia de 
+Zacatepec, Mayo 2015 Civil del Instituto Tecnoló- Ingeniería Civil de fecha 28 
+ gico de Zacatepec de mayo de 2015 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Formular Proyectos de solución a los problemas que surgen por la generación de  los 
+desechos sólidos, así como analizar la construcción de rellenos sanitarios como una   
+opción para la disposición final. 
+ 
+ Elaborar propuestas técnicas y económicas para el desarrollo de Proyectos de 
+
+Ingeniería. 
+ Realizar la planeación, programación y ejecución de Proyectos de Ingeniería de 
+
+acuerdo a la normatividad correspondiente, a la magnitud del Proyecto, al lugar 
+geográfico y a las condiciones políticas y económicas donde se desarrolle. 
+
+ Identificar la normatividad vigente para el tratamiento, disposición y re-uso de las 
+aguas residuales. 
+
+ Identificar los niveles de tratamiento de las aguas residuales en sus diferentes etapas. 
+ Elaborar propuestas técnicas y económicas para el desarrollo de Proyectos de 
+
+Ingeniería. 
+ Realizar la planeación, programación y ejecución de Proyectos de Ingeniería de 
+
+acuerdo a la normatividad correspondiente, a la magnitud del Proyecto, al lugar 
+geográfico y a las condiciones políticas y económicas donde se desarrolle. 
+
+ 
+
+5. Competencias previas 
+
+   Manejar adecuadamente la información proveniente de bibliotecas virtuales y de 
+internet. 
+ 
+
+ Conocer los fundamentos de desarrollo sustentable, maquinaria y movimiento 
+de tierras. 
+ 
+
+   Conocer los fundamentos de química, hidráulica básica, hidráulica de canales, 
+desarrollo sustentable, abastecimiento de agua potable y alcantarillado. 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a la ciencia e Ingeniería 1.1 Ecología y ecosistemas 
+Ambiental  Legislación, Gestión 1.2 Recursos naturales; exploración, 
+Ambiental e Impacto ambiental. explotación, producción, distribución, 
+
+consumo y disposición. 
+1.3 Energía Fuentes naturales y 
+
+alternativas 
+
+Página | 2  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+1.4 Contaminación del medio ambiente; 
+prevención y control (agua, suelos y 
+aire). 
+
+1.5 Objetivo y fundamento de la legislación 
+ambiental. 
+1.6 Normas Oficiales Mexicanas en 
+Materia Ambiental. 
+1.7 Impacto ambiental, generalidades y 
+clasificación. 
+1.8 Estudio y Evaluación de Impacto 
+Ambiental y Evaluación de proyectos. 
+
+ 
+2 Manejo integral del recurso hídrico y 2.1 Historia, Características de las aguas 
+
+Fundamentos del tratamiento de las residuales, aforo, muestreo y análisis 
+aguas  residuales. de laboratorio 
+
+2.2  Legislación nacional en materia de 
+control de la calidad del agua. Normas 
+Oficiales Mexicanas en materia de 
+descarga y re-uso de aguas 
+residuales. 
+
+2.3 Clasificación de los contaminantes y  
+Contaminantes habituales en las 
+aguas residuales. 
+
+2.4 Recorrido del agua residual hasta 
+las plantas. 
+2.5 Qué es y como funciona  Planta de 
+tratamiento de Agua Residual - PTAR - 
+2.6. Funcionamiento de una PTAR físico-
+química. 
+       y Funcionamiento de una PTAR 
+biológica. 
+2.7 Qué es y como funciona Estación 
+de tratamiento de Agua Potable - ETAP - 
+ 
+
+3 Procesos de tratamiento de una 3.1 Cribado, Desarenadores, Medición de 
+PTAR: Primario, Secundario y caudales y Tanques de igualación o 
+Avanzando. regulación. 
+
+3.2 Sedimentación primaria. 
+3.3 Principales actividades de la operación 
+
+y mantenimiento de los elementos del 
+subsistema primario. 
+
+3.4 Metabolismo, crecimiento y utilización 
+del sustrato. 
+3.5 Sistemas de cultivo suspendido y 
+Sistemas de cultivo adherido. 
+3.6 Filtros Percoladores y Discos 
+Biológicos Rotativos 
+3.7 Sedimentación secundaria. 
+3.8 Lagunas de estabilización 
+3.9 Desinfección de efluentes. 
+3.10 Perfiles hidráulicos. 
+
+Página | 3  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+4 Tratamiento y disposición de lodos. 4.1 Características de los lodos. Norma 
+oficial mexicana en materia de lodos 
+residuales.  
+4.2 Espesamiento y Digestión. 
+4.3 Acondicionamiento, deshidratado y 
+reducción. 
+4.4 Disposición. 
+4.5 Línea de gas de una depuradora. 
+4.6 Cogeneración. 
+4.7 Tratamiento térmico. 
+        4.7.1 Secado térmico. 
+        4.7.2 Incineración. 
+4.8 Compostaje. 
+ 
+
+5 Manejo Integral de los desechos 5.1 Generalidades. 
+solidos. 5.2 Disposición inicial. 
+ 5.3 Problemas de salud pública. 
+Generación,  Composición, Manejo, 5.4 Clasificación de los residuos sólidos, 
+Separación Recolección, Materiales recuperables y Alternativas para 
+Procesamiento y Transformación. la separación. 
+
+5.5 Manipulación, transporte y 
+      Almacenamiento - Centros de acopio. 
+5.6. Métodos, Equipos y Frecuencia de 
+recolección. 
+5.7. Procesamiento y transformación. 
+5.8. Conversión Térmica, Biológica y 
+química. 
+5.9. Análisis de impacto ambiental. 
+ 
+
+6 Relleno Sanitario 6.1. Principios básicos de un relleno 
+sanitario. 
+6.2. Tipos de relleno sanitario. 
+6.3. Normas y especificaciones. 
+6.4. Análisis de impacto ambiental. 
+6.5. Operación y conservación. 
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Nombre de tema 
+
+Introducción a la ciencia e Ingeniería Ambiental  Legislación, Gestión Ambiental e 
+Impacto ambiental 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Comprender  la Ingeniería  Elaborar línea de tiempo con 
+ambienta, la legislación e impactos que referencia a la ciencia e ingeniería 
+genera la obra civil y como mitigarlos ambiental 
+
+Página | 4  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+  Conocer la legislación en materia 
+Ambiental 
+
+Genéricas:   Identificar los diferentes impactos 
+ambientales. 
+
+Competencias instrumentales  Identificar los problemas generados 
+por no preservar el ambiente. 
+
+ Capacidad de análisis.   Elaborar un cuadro sinóptico de las 
+ Conocimientos básicos de la carrera. características del medio. 
+ Comunicación oral y escrita.  
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas. 
+
+ 
+Competencias interpersonales 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+
+ 
+Competencias sistémicas 
+ Capacidad de aplicar los conocimientos 
+
+en la práctica 
+ Habilidades de investigación 
+ Capacidad de aprender 
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma. 
+ 
+ 
+
+ 
+
+Nombre de tema 
+
+Manejo integral del recurso hídrico y Fundamentos del tratamiento de las aguas  
+residuales. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Determinar las  Identificar las características de las 
+características de las aguas residuales en aguas residuales. Físicas, 
+
+cuanto a su origen y composición. químicas. 
+
+Asimismo, analizar la legislación en  Analizar las leyes en materia de 
+control de calidad así como las 
+
+materia de control de la calidad del agua y 
+Normas vigentes de descarga y 
+
+distinguirá las actividades que incluyen las reúso. 
+fases de Ingeniería básica y de Ingeniería  Identificar las características y los 
+de detalle. procesos de una PTAR y de una 
+
+ETAP. 
+Genéricas:   Identificar los elementos de la 
+
+legislación para su aplicación en la  
+
+Página | 5  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+Competencias instrumentales Elaboración del Proyecto de la 
+materia. 
+
+ Capacidad de análisis. 
+ Conocimientos básicos de la carrera. 
+ Comunicación oral y escrita. 
+ Habilidades básicas de manejo de la 
+
+computadora. 
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas. 
+
+ Solución de problemas. 
+ 
+Competencias interpersonales 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+
+ 
+Competencias sistémicas 
+ Capacidad de aplicar los conocimientos 
+
+en la práctica 
+ Habilidades de investigación 
+ Capacidad de aprender 
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre de tema 
+
+Procesos de tratamiento de una PTAR: Primario, Secundario y Avanzando. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Determinar los elementos de  Clasificar en un mapa conceptual o 
+un tren típico de tratamiento primario. cuadro sinóptico los elementos del 
+
+Asimismo, distinguirá las actividades de subsistema de tratamiento primario, 
+
+operación y mantenimiento de los secundario y avanzado. 
+ Analizar las características del cribado y 
+
+elementos del subsistema. 
+de los desarenadores. 
+
+Comprender los procesos biológicos  Identificará los tipos de sistemas para 
+medir los caudales. 
+
+aerobios, anaerobios y anóxicos, los 
+ Identificar los elementos de un tanque de 
+
+elementos de un sistema aerobio típico de igualación. 
+biomasa suspendida y los de un sistema  Analizar las características de los tipos 
+aerobio típico de biomasa adherida. de sedimentadores 
+Asimismo, determinar los problemas de  Identificar las principales actividades de 
+funcionamiento de los procesos y de las la operación del subsistema primario. 
+
+actividades de operación y mantenimiento  Clasificar en un mapa conceptual o 
+cuadro sinóptico los elementos del 
+subsistema de tratamiento secundario. 
+
+Página | 6  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+de los elementos del subsistema  Realizar una presentación  acerca del 
+secundario.  metabolismo, crecimiento y utilización del 
+
+sustrato. 
+Genéricas:   Analizar las características del  sistema 
+
+de cultivo suspendido y del  sistema de 
+Competencias instrumentales cultivo adherido y  
+
+ Analizar las características de la 
+ Capacidad de análisis. sedimentación secundaria. 
+ Capacidad de organizar y planificar.  Analizar las características de la 
+ Comunicación oral y escrita. desinfección de efluentes. 
+ Habilidad para buscar y analizar  Analizar las características de los perfiles 
+
+información proveniente de fuentes hidráulicos y la pérdida de energía. 
+diversas.  Relacionar y Valorar los elementos 
+
+ Solución de problemas. necesarios para su aplicación en la  
+ Elaboración del Proyecto de la materia. 
+Competencias interpersonales 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+
+ 
+Competencias sistémicas 
+ Capacidad de aplicar los conocimientos 
+
+en la práctica 
+ Habilidades de investigación 
+ Capacidad de aprender 
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre de tema 
+
+Tratamiento y disposición de lodos. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Comprender los métodos de  Realizar un resumen donde se 
+tratamiento y disposición final de los lodos clasifiquen los tipos y características de 
+
+producidos en los procesos de los lodos. 
+
+tratamiento, y aplicará la norma oficial  
+ Analizar las normas mexicanas en 
+
+mexicana en la materia. 
+materia de tratamiento de lodos 
+residuales. 
+
+Genéricas:  
+ 
+
+Competencias instrumentales  Determinar las características de los 
+sistemas de tratamiento de lodos. 
+
+ Capacidad de análisis.  
+
+ Capacidad de organizar y planificar. 
+ Conocimientos básicos de la carrera. 
+ Habilidades básicas de manejo de la 
+
+computadora. 
+
+Página | 7  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ Habilidad para buscar y analizar 
+información proveniente de fuentes 
+diversas. 
+
+ Solución de problemas. 
+ Toma de decisiones. 
+
+ 
+Competencias interpersonales 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+
+ 
+Competencias sistémicas 
+ Capacidad de aplicar los conocimientos 
+
+en la práctica 
+ Habilidades de investigación 
+ Capacidad de aprender 
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre del tema 
+
+Manejo Integral de los desechos solidos. 
+Generación,  Composición, Manejo, Separación Recolección, Procesamiento y 
+
+Transformación. 
+
+Competencias Actividades de aprendizaje 
+
+Específica (s): Comprender  como se  Identificar los diferentes tipos de 
+generan los desechos sólidos y los desechos, sus propiedades y 
+
+problemas que genera la mala disposición características. 
+
+de los mismos.   Identificar los problemas generados 
+por la mala disposición de los 
+
+Analizar y comprender los beneficios que desechos. 
+
+se obtienen al separar los desechos   Elaborar un cuadro sinóptico de las 
+sólidos. características del medio. 
+  Realizar un dictamen de un sistema de 
+Comprender la importancia que tiene la recolección municipal. 
+planeación de un sistema de recolección.  Elaborar un muestreo aleatorio en un 
+ sistema de recolección municipal. 
+Comprender e identificar los diferentes  Presupuestar los diferentes tipos de 
+procesos de transformación de materiales vehículos recolectores. 
+recuperados así como  la disposición final  Diseñar un sistema de recolección 
+de los desechos sólidos en general.  municipal. 
+  Aplicar la separación de los desechos 
+
+en un muestreo  
+Genéricas:   Cuantificar los diferentes materiales 
+
+recuperados. 
+Competencias instrumentales 
+
+Página | 8  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ Capacidad de análisis.  Investigar los procesos de 
+ Capacidad de organizar y planificar. transformación de materiales 
+ Conocimientos básicos de la carrera. recuperables. 
+ Comunicación oral y escrita.  Realizar algún proceso para la 
+ Habilidades básicas de manejo de la transformación de papel, plástico o 
+
+computadora. materia orgánica. 
+
+ Habilidad para buscar y analizar 
+información proveniente de fuentes 
+diversas. 
+
+ Solución de problemas. 
+ Toma de decisiones. 
+
+ 
+Competencias interpersonales 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+
+ 
+Competencias sistémicas 
+ Capacidad de aplicar los conocimientos 
+
+en la práctica 
+ Habilidades de investigación 
+ Capacidad de aprender 
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma. 
+Nombre del tema 
+
+Relleno Sanitario 
+
+Competencias Actividades de aprendizaje 
+
+Específica (s): Aplicar los conocimientos  Determinar los principios básicos y 
+adquiridos en el diseño de un relleno las variables que intervienen en el 
+
+sanitario. diseño del relleno sanitario. 
+ Aplicar las normas y 
+
+Genéricas:  especificaciones  para el diseño del 
+relleno sanitario. 
+
+Competencias instrumentales  
+
+ Capacidad de análisis. 
+ Capacidad de organizar y planificar. 
+ Conocimientos básicos de la carrera. 
+ Comunicación oral y escrita. 
+ Habilidades básicas de manejo de la 
+
+computadora. 
+ Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas. 
+
+Página | 9  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ Solución de problemas. 
+ Toma de decisiones. 
+
+ 
+Competencias interpersonales 
+ Capacidad crítica y autocrítica. 
+ Trabajo en equipo. 
+ Habilidades interpersonales. 
+
+ 
+Competencias sistémicas 
+ Capacidad de aplicar los conocimientos 
+
+en la práctica 
+ Habilidades de investigación 
+ Capacidad de aprender 
+ Capacidad de generar nuevas ideas 
+
+(creatividad) 
+ Habilidad para trabajar en forma 
+
+autónoma. 
+ 
+
+8. Práctica(s) 
+
+ 
+ 
+No hay elaboración de prácticas 
+ 
+ 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+
+Página | 10  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+ Exámenes de diagnóstico. 
+ Exámenes escritos. 
+ Reportes de conferencias, congresos y otros eventos académicos. 
+ Revisión de reportes de visitas a plantas tratadoras 
+ Tareas extra-clase. 
+ Revisión de trabajos de consulta. 
+ Elaboración de Proyecto. 
+ Participación en clase. 
+
+ 
+ 
+
+11. Fuentes de información 
+
+1. LEY DE AGUAS NACIONALES. 
+ 
+2. REGLAMENTO DE LA LEY DE AGUAS NACIONALES. 
+
+ 
+3. LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE . 
+
+ 
+4. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA  
+
+PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO 
+AMBIENTAL. 
+ 
+
+5. NOM-001-SEMARNAT-1996 (NOM-001-ECOL-1996). 
+ 
+
+6. NOM-002-SEMARNAT-1996 (NOM-002-ECOL-1996). 
+ 
+
+7. NOM-003-SEMARNAT-1997 (NOM-003-ECOL-1997). 
+ 
+
+8. NOM-004-SEMARNAT-2002. 
+ 
+
+9. Manual de Agua potable Alcantarillado y Saneamiento MAPAS. 
+ Comisión Nacional del Agua. Instituto Mexicano de Tecnología del Agua. 
+
+ 
+10.  Ingeniería Sanitaria Aplicada a Saneamiento y Salud Publica. 
+
+Autor: Francisco Unda  Opazo, Sergio M. Salinas Cordero Editorial: Limusa. 
+ 
+
+11. Saneamiento Urbano y Rural. 
+Autor: Victor M. Ehlers, Ernest W. Steel, Editorial: Interamericana.. 
+
+Página | 11  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ 
+12. Evaluación del Impacto Ambiental. Un Instrumento Preventivo para la Gestión 
+
+Ambiental. 
+Autor: Domingo Gómez Orea. Editorial: Mundi-Prensa. 
+ 
+
+13.  Alternativas de tratamiento de aguas residuales. 
+Tecnologías para el saneamiento de las aguas residuales de tipo doméstico. 
+
+Autor: Alberto Noyola Robles, Eduardo Vega González, Judith G. Ramos Hernández, 
+César Calderón Mólgora. Editorial: Instituto Mexicano de Tecnología del Agua. 
+
+ 
+ 
+14. Ingeniería de los sistemas de tratamiento y disposición de aguas residuales.  
+
+Autor: Enrique César Valdez, Alba B.Vázquez González. Editorial: Fundación ICA, A.C. 
+ 
+
+Página | 12

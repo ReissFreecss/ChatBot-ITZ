@@ -1,0 +1,660 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Sistemas Esbeltos I 
+  
+  
+  
+
+Clave de la asignatura: SEC-2104 
+  
+  
+  
+  
+  
+
+SATCA1: 2-2-4 
+  
+  
+
+Carrera: Ingeniería Industrial 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+ 
+Esta asignatura promueve en el estudiante, las adopciones del 
+pensamiento lean, el cual analiza todas las actividades que 
+conforman la cadena de valor y mediante la utilización de 
+diferentes herramientas, identifica aquellas actividades que no 
+agregan valor al producto y trata de reducirlas o eliminarlas a 
+fin de disminuir los costos de producción para generar ventajas 
+competitivas a la empresa. Se relaciona con las asignaturas de 
+Administración de Operaciones I, Higiene y Seguridad Industrial, 
+Planeación y Diseño de Instalaciones, Sistemas de Manufactura, 
+Estudio del Trabajo y Procesos de Fabricación. 
+ 
+Intención didáctica 
+
+ 
+Esta asignatura está estructurada en cuatro unidades, mismas 
+donde se aborda la evolución de los sistemas de manufactura, la 
+introducción al pensamiento lean, la clasificación de las mudas 
+(desperdicios) y la aplicación de metodologías como Mapeo de 
+Procesos, Heijunka, Kanban y Jidoka. La asignatura, al formar 
+parte del módulo de especialidad y colocarse en los últimos 
+semestres, debe abordarse con enfoque de aplicación, donde el 
+estudiante, analizará situaciones de su entorno (industrial, 
+escolar, social, etc.) donde pueda identificar mudas 
+(desperdicios) que mediante la aplicación de las metodologías y 
+enfoques estudiados en la asignatura, puedan ser reducidos o 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+  
+
+eliminados. El profesor desarrollará los contenidos temáticos 
+de la asignatura de manera teórica, así como también las 
+actividades que permitan la transición de los conocimientos 
+teóricos a la aplicación de los mismos, para posteriormente 
+asesorar a los estudiantes en el desarrollo de los proyectos de 
+aplicación encomendados. En el transcurso de esta materia, el 
+estudiante desarrollará la capacidad de analizar, organizar y 
+planificar, así como también se fomentará el trabajo en equipo, 
+el desarrollo de habilidades interpersonales y de investigación 
+y la aplicación de los conocimientos específicos de la carrera 
+para la solución de problemas. 
+ 
+
+  
+
+Página | 2  
+ 
+
+
+
+ 
+
+  
+
+3. Participantes en el diseño y seguimiento curricular del 
+
+programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+
+elaboración o 
+
+revisión 
+
+Instituto Miembros de la Reunión de Academia 
+
+Tecnológico de Academia de de Ingeniería 
+
+Zacatepec, Ingeniería Industrial para el 
+
+Zacatepec, Morelos, Industrial del diseño de la 
+
+del 08  al 12 de Instituto especialidad y 
+
+febrero  del 2021 Tecnológico de elaboración de planes 
+
+ Zacatepec y programas para el 
+
+plan de estudios IIND 
+
+– 2010 – 227. 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+ 
+
+Conoce, comprende y aplica la filosofía de Manufactura Esbelta, 
+
+describiendo el flujo de un proceso productivo a través de un mapeo 
+
+del proceso, logrando Identificar y eliminar los diferentes 
+
+desperdicios existentes en un sistema mediante la aplicación de 
+
+herramientas Lean Manufacturing. 
+
+5. Competencias previas 
+
+• Aplica los diagramas de proceso.  
+
+• Conoce los diferentes tipos de procesos de fabricación. 
+
+• Conoce los distintos tipos de materiales.  
+
+• Analiza las operaciones de trabajo. 
+
+• Determina el tiempo estándar.  
+
+• Conoce los métodos para distribución de planta.  
+
+• Aplica reglas de economía de movimientos.  
+
+• Analiza y mejora métodos para la reducción de tiempos. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a Lean 1.1Filosofía de Lean 
+Manufacturing Manufacturing.  
+
+1.2Los pilares de Lean 
+Manufacturing.  
+
+Página | 3  
+ 
+
+
+
+ 
+
+  
+
+1.3Los desperdicios o mudas 
+(7+1)  
+1.4Las once grandes pérdidas en 
+plantas de procesos.  
+1.5 Hoshin Kanri (conceptual) 
+1.6 KPIs estratégicos y 
+operativos 
+
+2 Mapeo de Procesos 2.1 PFD (Process Flow Diagram), 
+diagrama de flujo de proceso. 
+     2.1.1 Simbología del PFD. 
+     2.1.2 Versiones del PFD 
+(Macro y Micro) 
+     2.1.3 Hojas de datos de 
+proceso. 
+ 
+2.2 Objetivo y generalidades del 
+VSM.(Value Stream Mapping). 
+     2.2.1 Simbología 
+     2.2.2 Diseño del flujo de 
+valor 
+          2.2.2.1 Conocimiento 
+del proceso 
+          2.2.2.2 
+Identificación de las 
+                       
+relaciones del proceso 
+     2.2.3 Selección del 
+producto o servicio 
+     2.2.4 Identificación de las 
+mejoras 
+
+3 Heijunka 3.1 Conceptos generales  
+3.2 Organización del flujo 
+continuo. 
+ 3.3 Caja Heijunka.  
+3.4 Takt Time. 
+
+4 Kanban 4.1 Orígenes y objetivos 
+4.2 Descripción y definiciones 
+generales 
+4.3 Implantación  
+4.4 Caso practico 
+
+5 Jidoka  5.1. Conceptos básicos  
+5.2. Automatización y calidad  
+5.3. Automatización con sentido 
+humano  
+5.4. La matriz de autocalidad  
+5.5. Fases para el desarrollo de 
+Jidoka 
+
+  
+
+Página | 4  
+ 
+
+
+
+ 
+
+  
+
+7. Actividades de aprendizaje de los temas 
+
+ 1. Introducción a Lean Manufacturing 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): • Realizar investigación sobre 
+
+la filosofía de Lean 
+Conoce los principios básicos de Manufacturing. 
+Lean Manufacturing Identifica • Investigar las 8 mudas y las 
+las 8 mudas y las 11 pérdidas en 11 pérdidas en un proceso.  
+un proceso. 
+
+ Realizar una búsqueda 
+
+ bibliográfica sobre Hoshin 
+
+Kanri y KPIs 
+
+ Genéricas:   
+
+• Capacidad de organizar y 
+
+planificar 
+
+ • Comunicación oral y escrita  
+
+• Habilidades básicas de manejo 
+
+de la computadora  
+
+• Habilidad para buscar y 
+
+analizar información proveniente 
+
+de fuentes diversas  
+
+• Solución de problemas y toma 
+
+de decisiones. • Capacidad 
+
+crítica y autocrítica  
+
+• Trabajo en equipo  
+
+• Capacidad de aplicar los 
+
+conocimientos en la práctica 
+
+ • Capacidad de aprender 
+
+2.  Mapeo de Procesos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Realizar investigación sobre 
+
+el PFD, para eliminación de 
+Analiza el flujo de actividades actividades que no agregan 
+en el desarrollo de un proceso valor a un producto.  
+productivo o servicio para • Realizar el VSM de una 
+detectar áreas de oportunidad y cadena de suministro, para 
+mejora. 
+
+detectar las áreas de 
+
+oportunidad e incrementar la 
+ Evalúa y mejora los procesos 
+
+eficiencia del proceso.  
+utilizados para la generación de 
+
+productos tangibles e 
+
+Página | 5  
+ 
+
+
+
+ 
+
+  
+
+intangibles, mediante el uso de • Presentar un informe sobre 
+
+tecnologías blandas y duras de el mapeo del proceso 
+
+aplicación actual.  analizado. 
+
+Genéricas:  
+
+• Capacidad de organizar y 
+
+planificar 
+
+ • Comunicación oral y escrita.  
+
+• Solución de problemas y toma 
+
+de decisiones. • Habilidades 
+
+básicas de manejo de la 
+
+computadora.  
+
+• Habilidad para buscar y 
+
+analizar información proveniente 
+
+de fuentes diversas. 
+
+ • Solución de problemas y toma 
+
+de decisiones.  
+
+• Trabajo en equipo.  
+
+• Capacidad de aplicar los 
+
+conocimientos en la práctica. 
+
+3. Heijunka 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Realizar investigación 
+
+documental de los conceptos 
+Identifica las características 
+
+y orígenes de Heijunka, 
+generales del método Heijunka.  
+
+presentando la información 
+
+Conoce y aplica las principales en plenaria.  
+
+herramientas para la nivelación  Buscar y analizar 
+
+de los sistemas de manufactura. información para 
+
+identificar los beneficios 
+Genéricas:  que se obtienen al utilizar 
+
+el Heijunka desarrollando 
+• Capacidad de comunicación oral 
+
+un cuadro comparativo de 
+y escrita.  
+
+ventajas y desventajas.  
+• Habilidad para solucionar 
+
+ Mediante el análisis de 
+problemas y conducir a metas 
+
+casos reales comprender y 
+comunes  
+
+verificar la utilización de 
+• Toma de decisiones 
+
+la metodología Heijunka. 
+ • Trabajo en equipo  
+
+• Aplicar los conocimientos en 
+
+la práctica  
+
+• Capacidad de aprender 
+
+Página | 6  
+ 
+
+
+
+ 
+
+  
+
+4. Kanban 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   Realizar investigación 
+
+documental de los 
+Conoce y aplica en la práctica 
+
+conceptos, orígenes y 
+los conceptos generales del 
+
+objetivos del Kanban, 
+sistema Kanban.  
+
+presentando la información 
+
+Comprende el mecanismo para en plenaria.  
+
+comunicar: que piezas deben  Buscar y analizar 
+
+producirse, cuando iniciar la información para 
+
+producción, cuando finalizar la identificar el proceso de 
+
+producción, cuantas piezas es implantación del sistema 
+
+necesario producir y donde Kanban.  
+
+entregarlas.  Mediante el análisis de 
+
+casos prácticos comprende y 
+Genéricas:  
+
+aplica el uso del sistema 
+
+Kanban. 
+• Capacidad de análisis y 
+
+síntesis.  
+
+ • Habilidades de gestión de 
+
+información (habilidad para 
+
+buscar y analizar información 
+
+proveniente de fuentes 
+
+diversas).  
+
+• Comunicación oral y escrita 
+
+en su propia lengua.  
+
+• Capacidad de aprender. 
+
+ • Solución de problemas.  
+
+• Capacidad de generar nuevas 
+
+ideas (creatividad). 
+
+5.Jidoka 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  • Realizar investigación 
+
+documental de los conceptos 
+
+básicos de Jidoka, presentando 
+
+la información en plenaria.  
+
+Página | 7  
+ 
+
+
+
+ 
+
+  
+
+Conoce y aplica en la práctica • Buscar y analizar la 
+
+los conceptos generales del información para identificar 
+
+sistema Jidoka.  las fases de implementación de 
+
+Jidoka exponiendo sus 
+Identifica las herramientas y conclusiones. 
+estrategias de ingeniería 
+
+apropiadas para la detección y  • Mediante casos reales en 
+
+corrección de los defectos de empresas, analizar y evaluar 
+
+producción.  las fases de implementación 
+
+del Jidoka. 
+Identifica la importancia de 
+
+los sistemas Poka Yoke como 
+
+elemento integral del Jidoka.  
+
+Genéricas:  
+
+• Capacidad de análisis y 
+
+síntesis. 
+
+ • Habilidades de gestión de 
+
+información (habilidad para 
+
+buscar y analizar información 
+
+proveniente de fuentes 
+
+diversas).  
+
+• Comunicación oral y escrita 
+
+en su propia lengua.  
+
+• Capacidad de aprender. 
+
+ • Solución de problemas.  
+
+• Capacidad de generar nuevas 
+
+ideas (creatividad). 
+
+ 
+
+ 
+
+  
+
+Página | 8  
+ 
+
+
+
+ 
+
+  
+
+ 
+
+8. Práctica(s) 
+
+ 
+ 
+Investigar en una empresa de la región cuál es la problemática que 
+enfrenta su sistema de manufactura, realizar el mapeo de un proceso 
+específico en referencia a la situación presente y futura y 
+determinar estrategias de mejora basadas en las distintas 
+herramientas definidas en el curso. 
+ 
+ 
+  
+
+Página | 9  
+ 
+
+
+
+ 
+
+  
+
+ 
+
+9. Proyecto de asignatura 
+
+Se omite este punto por considerar que es más conveniente aplicarlo 
+
+al final de  Sistemas Esbeltos II, debido a que en ese punto, ya 
+
+se analizaron el total de las herramientas consideradas en Sistemas 
+
+Esbeltos I y Sistemas Esbeltos II. 
+
+  
+
+Página | 10  
+ 
+
+
+
+ 
+
+  
+
+ 
+
+10. Evaluación por competencias  
+
+• Exámenes escritos y orales de los contenidos temáticos 
+ • Resolución de problemas prácticos.  
+• Reportes de prácticas y visitas industriales.  
+• Elaboración de prototipos.  
+• Participación.  
+ 
+ 
+11. Fuentes de información 
+
+1. Cruelles R. J. (2013). Ingeniería Industrial. (1ª. ed.). 
+Alfaomega/Marcombo. 
+
+2. Villaseñor C. A. / Galindo C. E. (2008). Conceptos y reglas 
+de lean manufacturing. Limusa.  
+
+3. Villaseñor C. A. / Galindo C. E. (2008). Manual de Lean 
+manufacturing. Limusa.  
+
+4. Chase R., Aquílano N. J., Jacobs F. R. (2007). Administración 
+de la producción y operaciones para una ventaja competitiva. 
+(10ª. ed.). México. Mc.Graw. Hill. 
+
+5. Liker J.K., Meier D. (2006). The Toyota Way Field book. 
+Estados Unidos: Mc.Graw Hill.  
+
+6. Krieg, G.N., (2005). Kanban-Controlled Manufacturing Systems. 
+New York: Springer. 
+
+7. Villaseñor Contreras, A. (2009). Manual de Lean 
+Manufacturing: Guía básica (2ª. ed.). Mexico. Limusa. 
+
+8. Rajadell M., Sanchez, J.L. (2010). Lean Manufacturing: La 
+evidencia de una necesidad. Madrid. Díaz de Santos. 
+
+9. Socconini, L. V. (2019). Lean Manufacturing: paso a paso. 
+Marge Books. 
+https://elibro.net/es/lc/itzacatepec/titulos/117567 
+
+ 
+ 
+ 
+ 
+ 
+
+Página | 11

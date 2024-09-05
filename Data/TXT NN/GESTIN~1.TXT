@@ -1,0 +1,718 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Gestión de la Innovación  
+   
+
+Clave de la asignatura: GIG-2103 
+  
+
+SATCA1: 3-3-6 
+ 
+
+  
+ 
+
+Carrera: Ingeniería en Gestión Empresarial  
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+La presente asignatura aporta al Perfil del (la) Ingeniero(a) en Gestión 
+Empresarial, la capacidad de diseñar procesos organizacionales para la toma de 
+decisiones en la mejora continua desde la perspectiva de Gestión de la 
+Innovación.  
+
+A partir de la identificación de oportunidades y riesgos de escenarios en el entorno 
+de la organización el/la profesionista bajo el entendimiento de la Gestión de la 
+Innovación como un proceso sistemático diseña y propone iniciativas 
+transformadoras de innovación desde un carácter viable y pertinente. Dotado (a) 
+del contexto y herramientas vigentes de la Innovación, la organización gestiona 
+de forma efectiva y eficiente la estructura organizativa, la planificación de 
+actividades, recursos y responsabilidades, prácticas, procesos y procedimientos 
+que impacta en la mejora continua de I+D+i (Investigación, desarrollo e 
+innovación). 
+
+En el tema I. Aborda la conceptualización de la gestión de la innovación, su 
+evolución, los tipos de innovación, las fases y ciclo de vida; resaltando su 
+preponderante valor en la economía circular de una nación.  
+
+En el tema II. Reconoce la gestión de la innovación como un proceso sistémico, 
+identifica a una organización como un sistema con la capacidad de gestionar la 
+innovación; se estudian los estándares de normalización y modelos [procesos 
+sustantivos, secundarios y funciones] de un sistema de gestión de la innovación 
+para el desempeño eficiente de la mejora continua.  
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+En el tema III. Se analiza la taxonomía de las herramientas de la gestión de la 
+innovación, y su aplicación en la organización. Obedeciendo a la clasificación por 
+su naturaleza, funcionalidad, grado de originalidad, origen de la innovación.  
+
+En el tema IV. Se realiza el análisis crítico de estudios de casos, de forma que el 
+estudiante consolide y presente una propuesta sistémica de un modelo de gestión 
+de la innovación pertinente a partir de la distinción de criterios rectores para la 
+mejora continua del estudio organizacional propuesto.  
+
+Intención didáctica 
+
+El docente de la asignatura debe haber desarrollado, dirigido o participado en 
+proyectos de Gestión de la Innovación para la mejora continua organizacional.  
+ 
+El/la académico (a) de la asignatura deberá tener habilidad para vincular el saber, 
+con el saber hacer y con el saber ser para que el proceso formativo sea integral. 
+ 
+El docente a través de actividades de aprendizaje promueve procesos cognitivos 
+para identificar oportunidades de Gestión de la Innovación guiando el análisis de 
+los múltiples escenarios y variables del contexto organizacional de forma que la 
+mejora continua en el I+D+i sea viable y pertinente.  
+ 
+Por medio de análisis de las mejores prácticas en el estudio casos se genera el 
+diseño de la propuesta para la Innovación acorde a la necesidad organizacional. 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Academia del Grupos colegiados de la 
+Zacatepec, febrero-mayo Departamento de Ciencias academia del departamento 
+
+de 2021. Económico- Administrativas de Ciencias Económico-
+M.A.R.H. Diana Ramírez administrativas, en 
+Domínguez reuniones de trabajo de 
+Lic. Denisse Brenda academia.   
+Hernández Barba  
+M.E. Diana Ivonne Romero 
+Mendoza 
+Lic. Michelle Chanes Martini 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Identifica escenarios, analiza la probabilidad de afectación a los procesos de 
+innovación y mejora continua para la toma de decisiones sistémicas. 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+5. Competencias previas 
+
+• Capacidad de desarrollar un dialogo crítico para la toma de decisiones.  
+• Capacidad creativa y espíritu empresarial. 
+• Diseña estructuras organizacionales bajo un enfoque holístico que le permita 
+
+responder a los cambios del entorno global, considerando las características 
+propias de cada organización para su correcto funcionamiento. 
+
+• Aplica los elementos de la ingeniería de procesos, favoreciendo la 
+productividad en un ambiente organizacional, con una orientación sistémica 
+y sustentable. 
+
+• Capacidad para diseñar, innovar e implementar las dinámicas financieras de 
+las organizaciones. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Fundamentos de Gestión de la 1.1 Conceptos de Gestión de la 
+Innovación Innovación 
+
+ 
+1.1.1 Gestión del conocimiento, 
+
+tecnología e innovación 
+1.1.2 Evolución teórica del concepto: 
+
+Innovación, I+D, I+D+i/CTI 
+1.1.3 Tipos de Innovación 
+  1.1.3.1 Innovación de productos o 
+servicios 
+  1.1.3.2 Innovación de procesos 
+  1.1.3.3 Innovación de marketing 
+  1.1.3.4 Innovación organizacional 
+1.1.4 Importancia de la gestión de la 
+
+innovación y economía circular.  
+ 
+
+1.2 Gestión de la Innovación: Fases y 
+ciclo de vida 
+ 
+
+1.2.1 Fases en Gestión de la Innovación 
+1.2.2 Postulado del ciclo de vida de 
+adopción de la innovación.  
+ 1.2.2.1Innovadores 
+ 1.2.2.2 Pioneros 
+ 1.2.2.3 Madurez temprana 
+ 1.2.2.4 Madurez tardía 
+ 1.2.2.5 Rezagados  
+
+2 Estándares y Modelos de un 2.1 Estándares de un Sistema de 
+Sistema de Gestión de la Gestión de la Innovación. 
+Innovación  
+
+2.1.1 Sistema de Gestión de la 
+Innovación 
+
+2.1.2 Serie ISO56000 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+2.1.3 Serie NMX-GT 
+ 2.1.3.1 NMX-GT-001-IMNC-2007: 
+Terminología. 
+ 2.1.3.2 NMX-GT-002-IMNC-2008: 
+Proyectos tecnológicos-requisitos 
+ 2.1.3.3 NMX-GT-003-IMNC-2008: 
+Sistema de Gestión Tecnológica-
+Requisitos 
+ 
+2.2 Modelos de Gestión de Innovación 
+ 
+2.2.1 Modelo COTEC  
+2.2.2 Modelo AENOR   
+2.2.3 Modelo STAGE-GATE  
+2.2.4 Modelo de Gestión Integral de la 
+Innovación de productos.  
+2.2.5 Modelos de Innovación abierta  
+2.2.6 Modelo de Gestión de Tecnología del 
+PNTi 
+
+3 Taxonomía de las herramientas de 3.1 Clasificación de las herramientas de 
+la gestión de la innovación (HGI).  gestión de la innovación. 
+  
+
+3.1.1 Atendiendo a su naturaleza 
+3.1.2 Atendiendo a la funcionalidad 
+3.1.3 En función del grado de originalidad 
+3.1.4 Atendiendo al grado de innovación 
+3.1.5 A la aplicación que la empresa da a 
+la innovación 
+ 
+3.2 Métodos, técnicas y herramientas de 
+Innovación. 
+ 
+3.2.1 Benchmarking 
+3.2.2 Análisis FODA 
+3.2.3 Cross- Functional Team  
+3.2.4 Lean Startup 
+ 3.2.4.1 Design thinking 
+ 3.2.4.2 Lean UX 
+ 3.2.4.3 Agile 
+   3.2.4.3.1 Scrum [metodología]  
+3.2.5 Seis sigma 
+3.2.6 Calidad total (TQM) 
+3.2.7 Kaizen 
+3.2.8 Blue ocean 
+3.2.9 Canvas 
+3.2.10 Otros 
+
+4 Gestión de la Innovación  4.1 Estudio de casos en gestión de la 
+innovación.  
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+4.2 Desarrollo de caso prácticos de 
+gestión de la innovación. 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Fundamentos de gestión de la Innovación 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):  • Realiza una línea del tiempo de la 
+ evolución del concepto de 
+Conoce, identifica y analiza los innovación.  
+fundamentos de gestión de la innovación, • Demuestra las características de 
+desde su conceptualización, su impacto 
+
+los diferentes tipos de innovación. 
+en la economía y operacionalización 
+como un sistema organizacional. • Analiza el ciclo de vida de la 
+
+ adopción de la innovación. 
+
+Genéricas:  
+● Capacidad de análisis y síntesis.   
+
+● Capacidad para planificar y organizar el 
+tiempo.  
+● Habilidades en el uso de las 
+tecnologías de la información y la 
+comunicación oral y escrita.  
+● Habilidad para buscar, procesar y 
+analizar información de diversas fuentes.  
+● Habilidad para la solución de 
+problemas.  
+● Capacidad para la toma de decisiones.  
+● Capacidad para trabajar en equipo 
+interdisciplinario.  
+● Compromiso ético.  
+● Compromiso con la preservación del 
+medio ambiente.  
+● Capacidad para identificar, plantear, y 
+resolver problemas.  
+● Habilidades de investigación.  
+● Liderazgo.  
+● Creatividad.  
+
+2. Estándares y Modelos de un Sistema de Gestión de la Innovación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+• Identifica en al menos tres fuentes el 
+
+concepto e importancia de un sistema 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Define, identifica y diferencia y modelo de gestión de la innovación, 
+estándares, las funciones y procesos de determinando sus conceptos propios. 
+
+modelos de gestión de la innovación  
+
+para el desempeño eficiente de mejora • Establece las diferencias y similitudes 
+
+continua en una organización pública o sustantivas entre el estándar 
+internacional ISO5600 y la NMX-GT 
+
+privada, internacional o nacional.  
+de forma que se entienda el enfoque 
+
+ 
+sistémico y normalización de la 
+
+Genéricas: 
+gestión de la innovación.  
+
+● Capacidad de análisis y síntesis.   
+● Capacidad para planificar y organizar el 
+
+• Analiza y reconoce los elementos 
+tiempo.  
+
+sustantivos y su operacionalización 
+● Habilidades en el uso de las 
+
+de un modelo de Gestión de 
+tecnologías de la información y la Innovación.  
+comunicación oral y escrita.   
+● Habilidad para buscar, procesar y 
+analizar información de diversas fuentes.   
+● Habilidad para la solución de  
+problemas.   
+● Capacidad para la toma de decisiones.  
+● Capacidad para trabajar en equipo 
+interdisciplinario.  
+● Compromiso ético.  
+● Compromiso con la preservación del 
+medio ambiente.  
+● Capacidad para identificar, plantear, y 
+resolver problemas.  
+● Habilidades de investigación.  
+● Liderazgo.  
+● Creatividad. 
+
+3. Taxonomía de las herramientas de la gestión de la innovación. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Elabora una matriz en la cual 
+presente los objetivos estratégicos y 
+
+Reconoce y emplea la taxonomía de las operativos, de las herramientas de la 
+herramientas de la gestión de la gestión de la innovación. 
+innovación, para la optimización de • Realiza un cuadro, describiendo, el 
+resultados. nombre de la herramienta, su 
+ 
+
+característica principal, la 
+Genéricas: 
+
+característica de ésta que brinda 
+● Capacidad de análisis y síntesis.  
+
+mejores resultados, los elementos 
+● Capacidad para planificar y organizar el 
+tiempo.  complejos que deben ser cuidados 
+
+en su práctica, ¿cómo innova al 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+● Habilidades en el uso de las producto?, y ¿cómo innova al 
+tecnologías de la información y la proceso? 
+comunicación oral y escrita.  
+● Habilidad para buscar, procesar y 
+analizar información de diversas fuentes.  
+● Habilidad para la solución de 
+problemas.  
+● Capacidad para la toma de decisiones.  
+● Capacidad para trabajar en equipo 
+interdisciplinario.  
+● Compromiso ético.  
+● Compromiso con la preservación del 
+medio ambiente.  
+● Capacidad para identificar, plantear, y 
+resolver problemas.  
+● Habilidades de investigación.  
+● Liderazgo.  
+● Creatividad. 
+
+4. Gestión de la Innovación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Define y fundamenta a partir de un 
+diagnóstico y marco referencial el 
+
+Analiza casos prácticos distinguiendo propósito de la propuesta de estudio del 
+criterios rectores y funcionales en las modelo de gestión. 
+organizaciones para el desarrollo de una • Diseña y planea el proyecto de 
+propuesta de estudio de un modelo 
+
+gestión de innovación declarando 
+sistémico de Gestión de la Innovación. 
+ los objetivos de alcance y propuesta 
+
+de fases de desarrollo. 
+Genéricas: • Desarrolla el diseño del proceso de 
+● Capacidad de análisis y síntesis.  gestión de la innovación bajo un 
+● Capacidad para planificar y organizar el modelo sistémico que integre el 
+tiempo.  conjunto de herramientas para la 
+● Habilidades en el uso de las mejora continua de la innovación.  
+tecnologías de la información y la • Presenta y expone conclusiones de 
+comunicación oral y escrita.  carácter crítico, que refleje el 
+● Habilidad para buscar, procesar y análisis de las debilidades y 
+analizar información de diversas fuentes.  amenazas de la propuesta de 
+● Habilidad para la solución de estudio, la optimización de las 
+problemas.  
+
+fortalezas y oportunidades en la 
+● Capacidad para la toma de decisiones.  
+
+gestión de la innovación como un 
+● Capacidad para trabajar en equipo 
+
+proceso sistémico de mejora 
+interdisciplinario.  
+
+continua para la toma de decisiones 
+● Compromiso ético.  
+
+efectivas. 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+● Compromiso con la preservación del  
+medio ambiente.   
+● Capacidad para identificar, plantear, y 
+resolver problemas.  
+● Habilidades de investigación.  
+● Liderazgo.  
+● Creatividad. 
+
+ 
+
+8. Práctica(s) 
+
+Tema 1. Fundamentos de gestión de la Innovación. 
+ 
+Práctica 1.1 Conceptos de Gestión de la Innovación 
+ 
+Objetivo: Muestra la evolución de la Innovación en la organización y su impacto en la 
+economía circular.  
+Descripción general: En plenaria expone la evolución de la innovación y su impacto 
+micro/macroeconómico.   
+Especificaciones: 
+* Realiza línea de tiempo de la evolución de la innovación. 
+* Identifica las características de los diferentes tipos de innovación. 
+ 
+Tema 2. Estándares y modelos de un sistema de Gestión de la Innovación. 
+ 
+Práctica 2.2 Encuadre de un modelo de Gestión de Innovación a partir de un caso 
+de éxito 
+ 
+Objetivo: Reconoce los elementos sustantivos y operacionalización de un modelo de 
+Gestión de Innovación efectivo bajo el marco referencial de un caso de éxito.    
+Descripción general: Formar equipos de tres a cuatro integrantes como máximo, 
+seleccionar un modelo de los expuestos en el tema 2 e identificar un caso de éxito que 
+haya implementado el modelo seleccionado.  
+Especificaciones: [de encuadre teórico y práctico] 
+* Objetivo 
+* Funciones/procesos sustantivos de la gestión de la Innovación  
+* Procesos secundarios 
+* Beneficios 
+* Limitaciones 
+*Otros, sí la/el estudiante considere pertinente. 
+ 
+Tema 3. Métodos, técnicas y herramientas de mejora continua para la gestión de 
+la Innovación 
+ 
+Objetivo. Realiza el análisis de un diagnóstico organizacional respecto al nivel innovación 
+que se efectúa en la empresa; con la finalidad de identificar las herramientas para la 
+gestión de la innovación que se emplea de cuerdo a su taxonomía (HGI).  
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Descripción general. Mapea las diferentes y vastas alternativas de métodos y técnicas 
+para la gestión de la innovación, siendo el reconocimiento de estas la clave para la toma 
+de decisiones asertiva y eficiente de la mejora continua.  
+Especificaciones: 
+* Elabora una matriz en la cual presente los objetivos estratégicos y operativos, de las 
+herramientas de la gestión de la innovación. 
+* Realiza un cuadro, describiendo, el nombre de la herramienta, su característica 
+principal, la característica de ésta que brinda mejores resultados, los elementos 
+complejos que deben ser cuidados en su práctica, ¿cómo innova al producto?, y ¿cómo 
+innova al proceso? 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+Se propone desarrollar un caso práctico de gestión de la innovación del área de 
+especialidad, considerando los siguientes apartados: 
+ 
+I. Nombre de la Gestión de la Innovación 
+
+Página | 9  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+II. Fundamentación.  
+  II.1 Diagnóstico en el cual se fundamenta el proyecto. 
+  II.2 Marco referencial (teórico, conceptual, histórico, legal), integrando citas de al menos 
+cinco lecturas.  
+ 
+III. Planeación. Con base en el diagnóstico y marco referencial, se diseña el proyecto 
+con asesoría del docente. 
+  III.1 Justificación del tipo de Gestión de la Innovación.  
+  III.2 Planificación del proceso. Declaración de Objetivos, programa de trabajo con fases 
+y actividades a realizar, instrumentos, herramientas y/o recursos de seguimiento y 
+control.  
+ 
+IV. Desarrollo de caso práctico. Donde involucre los siguientes temas:  
+  IV.1 Diseño del modelo de gestión de innovación, con los procesos sustantivos y 
+secundarios [bajo el estado de la cuestión/contexto] 
+      IV.1.1 Herramientas de Gestión de la innovación propuestos en cada proceso.  
+   IV.2 Beneficios esperados  
+ 
+ V. Conclusiones [a partir de la definición del escenario de la organización; que se refleje 
+el análisis de las debilidades y amenazas, la optimización de las fortalezas y 
+oportunidades en la gestión de la innovación como un proceso sistémico de mejora 
+continua para la toma de decisiones efectivas.] 
+VI. Fuentes de información en APA 
+
+ 
+
+10. Evaluación por competencias  
+
+La evaluación es diagnóstica, formativa y sumativa. Con el propósito de fortalecer 
+el carácter actitudinal se sugiere una evaluación del estudiante en lo particular y 
+de trabajo de equipo, este último que promueva la cooperación intergrupal.   
+ 
+Para evaluar las actividades de aprendizaje se sugiere actividades y estrategias 
+didácticas que promuevan la metacognición constructivista del estudiante: 
+ 
+• Mapa conceptual, mental  
+• Cuadro comparativo, sinóptico 
+• Gráficos y/o diagramas visuales: Línea de tiempo, infografía 
+• Ensayo, reporte, reseña, monografía  
+• Casos prácticos  
+• Evaluación escrita  
+• Presentación y/o exposición de prácticas y/o proyectos. 
+  
+Para verificar el nivel del logro de las competencias del estudiante es importante 
+el desarrollo de instrumentos de evaluación en paralelo con las actividades de 
+aprendizaje, tales como listas de cotejo, listas de observación, rúbricas, matrices 
+de valoración.  
+
+Página | 10  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+Todas las evidencias deberán integrarse en un portafolio electrónico. 
+ 
+
+ 
+
+11. Fuentes de información 
+
+ 
+Beau, K. (2013). La Empresa Lean Total. Mapeo del Flujo de Valor Para Procesos 
+Administrativos. Ed. Trillas. 
+ 
+Fresno Chávez, C. (2018). ¿Qué es la gestión del conocimiento? El Cid Editor.  
+ 
+González, A. (2000). La Innovación: un factor clave para la competitividad de las 
+empresas (Libro 9 Innovatec). Ed. Dirección General de Investigación, Consejería 
+de Educación de la Comunidad de Madrid. 
+ 
+Gothelf J., Seiden J. (2014). Lean UX. Cómo aplicar los principios Lean a la mejora 
+de la experiencia de usuario. Ed. UNIR 
+ 
+Hidalgo Nuchera, A. y Pavón Morote, J. (2015). La gestión de la innovación y la 
+tecnología en las organizaciones. Difusora Larousse - Ediciones Pirámide.  
+ 
+Las Heras del Dedo, R. D. y Álvarez García, A. (2017). Métodos ágiles: Scrum, 
+Kanban, Lean. Difusora Larousse - Anaya Multimedia.  
+ 
+OECD/Eurostat (2018), Oslo Manual (2018). Guidelines for Collecting, Reporting 
+and Using Data on Innovation, 4th Edition, The Measurement of Scientific, 
+Technological and Innovation Activities, OECD Publishing, Paris/Eurostat, 
+Luxembourg. 
+ 
+Pérez, J.A. (2012). Gestión por Procesos. Ed. Esic 
+ 
+Ries, E. (2012). El método Lean Startup: Cómo crear empresas de éxito utilizando 
+la innovación continua. Ed. Deusto. 
+ 
+Socconini, L. y Reato, C. (2019). Lean Six Sigma Management System for 
+Leaders. Marge Books.  
+ 
+Suárez, D., Erbes, A. y Barletta, F. (2020). Teoría de la innovación: evolución, 
+tendencias y desafíos. Herramientas conceptuales para la enseñanza y el 
+aprendizaje. Ediciones UNGS. 
+ 
+Solleiro, J., Terán, A. (2013). Buenas prácticas de Gestión de la Innovación en 
+centros de investigación tecnológica. Ed. Impresoria Profesional. 
+
+Página | 11  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+Martínez, V. (2014). Manuales para la administración de organizaciones. 
+Procedimientos, procesos y calidad. Ed. Trillas 
+ 
+Medellín, E. (2013) Construir la Innovación. Gestión de Tecnología en la empresa. 
+Ed. Siglo Veintinuo Editores.   
+ 
+Mootee, I. (2014). Design Thinking para la innovación estratégica. Ed. Empresa 
+Activa. 
+ 
+Chesbrough,H. (2011). Innovación abierta. Ed. Plataforma. 
+ 
+González, C., Arciniega, L., Ruiz, D. (2013). Un camino a la innovación 
+tecnológica en México: 15 casos de éxito. Ed. Cengage Learning 
+ 
+Osterwalder, A., Pigneur, Y. (2011). Generación de Modelos de Negocio. Ed. 
+Deusto. 
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 12

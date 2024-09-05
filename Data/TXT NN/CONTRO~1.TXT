@@ -1,0 +1,634 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Controladores Programables  
+  
+  
+  
+
+Clave de la asignatura: DSB-2104 
+ 
+  
+
+SATCA1: 1 – 4 - 5 
+  
+  
+
+Carrera: Ingeniería Electromecánica 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura aporta al perfil del ingeniero electromecánico los conocimientos y 
+habilidades suficientes para controlar, monitorear e interconectar los autómatas que le 
+permitan proyectar, innovar y mantener equipos productivos en el sector industrial y de 
+servicios.  
+ 
+El curso se desarrolla de manera teórico-práctico dando énfasis en la práctica de manera 
+que permita corroborar la teoría, por lo que se tiene la necesidad de ajustar a pequeños 
+grupos de trabajo que inclusive deberán ser programados en hora extra clase.  
+ 
+Dado que esta materia involucra los conocimientos de otras materias cursadas para 
+poder utilizar el control a través de los autómatas programables y tener la visión global 
+de los automatismos que hoy en día se encuentran en el sector industrial y de servicio, 
+esta asignatura es programada para ser cursada en los últimos semestres de la carrera. 
+
+Intención didáctica 
+
+ 
+Se organiza el contenido temático en cinco unidades, iniciando en la primera unidad 
+con los conceptos básicos asociados con los controladores programables haciendo 
+una revisión de las diferentes tecnologías empleadas para automatizar procesos. 
+En la segunda unidad se abordan los conceptos necesarios para comprender la 
+estructura interna y externa de los controladores, sus aplicaciones, ventajas y 
+desventajas, así como los cuidados que deben tenerse en cuenta para una correcta 
+instalación. 
+En la tercera unidad se abordan las diversas opciones que existen en las familias de 
+los Controladores Lógicos Programables y se induce al estudiante a la programación 
+mediante el lenguaje más común de programación utilizando las herramientas que 
+estos elementos poseen para una programación más sencilla, pero a la vez de nivel 
+avanzado. 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+La cuarta unidad ha sido estructurada de tal manera, que se capacite al estudiante en 
+la programación de instrucciones simples y complejas existentes en la actualidad en 
+diversos controladores lógicos.   
+En la quinta unidad se interpretan las formas de programación lineal, estructurada y 
+multitarea.   
+  
+El enfoque sugerido para la materia requiere que las actividades prácticas promuevan 
+el desarrollo de habilidades para la experimentación, tales como: identificación, 
+manejo, diseño y control de dispositivos; se fomenta el trabajo en equipo; asimismo, 
+propicien procesos intelectuales como inducción-deducción y análisis-síntesis con la 
+intención de generar una actividad intelectual compleja; por 
+esta razón varias de las actividades prácticas se han descrito como actividades previas 
+al tratamiento teórico de los temas, de manera que no sean una mera corroboración 
+de lo visto previamente en clase, sino una oportunidad para conceptualizar a partir de 
+lo observado. En las actividades prácticas sugeridas, es conveniente que el profesor 
+busque sólo guiar a sus alumnos para que ellos hagan la elección de los elementos a 
+utilizar para el desarrollo de las prácticas, para que aprendan a planificar.  
+ 
+Las actividades de aprendizaje están diseñadas para hacer más significativo y efectivo 
+el aprendizaje. Se busca partir de experiencias concretas, cotidianas, para que el 
+estudiante reconozca la utilidad de estas técnicas. Es importante ofrecer escenarios 
+distintos, ya sean construidos, artificiales, virtuales o naturales.  
+ 
+En las actividades de aprendizaje sugeridas, generalmente se propone la formalización 
+de los conceptos a partir de experiencias concretas, y sea a través de la observación, 
+la reflexión y la discusión que se dé la formalización; la resolución de problemas se 
+hará después de este proceso. Se sugiere que se diseñen problemas con datos 
+faltantes o innecesarios de manera que el alumno se ejercite en la identificación de 
+datos relevantes y en la elaboración de supuestos.  
+ 
+Durante el desarrollo de las actividades programadas en la asignatura es muy 
+importante que el estudiante aprenda a valorar las actividades que lleva 
+particularmente a cabo y entienda que está construyendo su conocimiento, aprecie 
+la importancia del mismo y los hábitos de trabajo; desarrolle la precisión y la curiosidad, 
+la puntualidad, el entusiasmo y el interés, la tenacidad, la flexibilidad y la autonomía y 
+en consecuencia actúe de manera profesional. 
+ 
+
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+ 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+19 de abril del 2021. Academia de Ingeniería Convocatoria para la 
+Instituto Tecnológico de Electromecánica elaboración del programa 
+Zacatepec. de especialidad 2021-2024. 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+ 
+ Adquiere los conocimientos necesarios para una adecuada selección de los 
+
+instrumentos de medición en los procesos industriales. 
+ Realiza sistemas de instrumentación virtual, con base a la configuración que le 
+
+ corresponde, usando las tecnologías para la adquisición de datos.  
+ Comprende y aplica las técnicas para la manipulación y procesamiento de 
+
+datos, a través de software especializado para la generación de reportes.  
+ Realiza la integración de instrumentos virtuales para los sistemas de medición 
+
+y control, de variables de proceso y acceso remoto.  
+  
+
+ 
+
+ 
+5. Competencias previas 
+
+ Utiliza apropiadamente los instrumentos de medición y prueba, para la medición 
+e interpretación de variables eléctricas en componentes y circuitos eléctricos.   
+
+ Analiza y diseña sistemas digitales combinacionales y secuenciales, así como el 
+uso de dispositivos lógicos programables.   
+
+ Analiza, diseña y simula circuitos eléctricos y electrónicos, para interpretar las 
+formas de ondas y el funcionamiento de los dispositivos semiconductores de 
+potencia para la implementación de convertidores para aplicaciones industriales.  
+
+ Identifica, selecciona y aplica los dispositivos electromagnéticos, electrónicos y 
+equipos programables para el control de las máquinas eléctricas.  
+
+ Diseña los lazos de control de variables físicas de procesos industriales continuos.   
+ Selecciona, aplica, calibra y opera los instrumentos de medición empleados en 
+
+procesos industriales continuos. 
+ Conoce el funcionamiento de los sistemas de control automático, semiautomático 
+
+y manual, utilizando diagramas para identificar los diversos tipos de circuitos, 
+sabiendo manejar el software para la elaboración de ellos (haber cursado la 
+materia de controles eléctricos). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a los autómatas 1.1 Definiciones  
+programables 1.2 Antecedentes e historia de los 
+
+      Autómatas programables. 
+1.3 Principios de un sistema  
+      automático. 
+1.4 Fases de estudio en la elaboración 
+      de un automatismo. 
+1.5 Opciones tecnológicas. 
+
+2 Arquitectura de los   2.1 Bloques esenciales de un autómata.  
+controladores  2.2 La CPU.  
+programables y su ciclo  2.3 Memorias del Controlador.  
+de funcionamiento.  2.4 Interfaces de entrada - salida.  
+
+ 2.5 Fuentes.  
+ 2.6 Modos de operación.  
+ 2.7 Ciclo de funcionamiento.  
+ 2.8 Tiempo de ejecución y control en 
+        tiempo real.   
+ 2.9 Elementos de proceso rápido.  
+2.10 Dispositivos periféricos y de 
+programación. 
+
+3 Formas de representar 3.1 Introducción.  
+automatismos. 3.2 Ejecución de programas.  
+
+3.3 Descripciones literales.  
+3.4 Funciones algebraicas.  
+3.5 Esquema de relevadores.  
+3.6 Diagramas lógicos.  
+3.7 Representación GRAFCET.  
+3.8 Lenguajes de programación. 
+
+4 Lenguajes de Programación 4.1 Bloques funcionales básicos.   
+4.2 Bloques funcionales de expansión.  
+4.3 Diagramas de escalera. 
+4.4 Listado de instrucciones. 
+4.5 Instrucciones especiales.  
+4.6 Documentación del sistema de PLC. 
+
+5 Estructura de programación. 5.1 Programación lineal.   
+5.2 Programación estructurada.  
+5.3 Programación multitarea.  
+5.4 Parametrización de módulos 
+funcionales.  
+5.5 Aplicaciones(proyecto). 
+
+ 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a los autómatas programables 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):  1.1 Recolectar datos técnicos (de placa, 
+Entender el principio de funcionamiento de catálogo u otro medio) de elementos 
+los elementos convencionales utilizados eléctricos de control existentes en los 
+en el desarrollo de automatismos talleres de la institución.  
+ 
+
+1.2 Identificar los elementos de control y 
+Genéricas:  
+
+trabajos ubicados en los tableros de 
+ Habilidad para buscar y analizar 
+
+prácticas.  
+información proveniente de fuentes 
+diversas como libros, artículos 1.3 Diseñar circuitos eléctricos de control 
+
+científicos, congresos y páginas y de potencia a través de relevación.  
+
+oficiales. 1.4 Conectar los circuitos eléctricos de 
+
+ Trabajo e integración en equipo. control y de potencia a través de 
+relevación 
+
+ Habilidades de investigación y 
+ 
+
+documentación.  
+
+2. Arquitectura de los controladores programables y su ciclo de funcionamiento 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  2.1. Investigar la clasificación de los PLC 
+en    función del tamaño y   
+
+Identificar la arquitectura externa e interna presentar un cuadro comparativo. 
+y modos de operación de un PLC para su 2.2. Investigar la clasificación de los PLC 
+uso adecuado.  en    función del tamaño y   
+
+presentar un cuadro comparativo 
+ 
+
+2.3. Describir las partes que conforman   
+Genéricas: un PLC. 
+
+2.4. Comparar la manera en la que 
+ Trabajo e integración en equipo. funciona el CPU del PLC con   
+ Habilidades de investigación y respecto al de una computadora       
+
+documentación. 
+personal 
+
+ Capacidad de aplicar los 
+2.5. Investigar las funciones para las que 
+
+conocimientos en la práctica 
+ se emplean las memorias en un   
+
+PLC 
+2.6. Investigar las funciones para las que 
+
+se emplean las memorias en un   
+PLC 
+
+2.7. Identificar las partes de un PLC 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+2.8. Utilizar los diferentes modos de   
+
+operación de un PLC 
+2.9. Investigar el ciclo de operación de   
+
+PLC.  
+2.10. Interpretar la forma en que 
+
+normalmente opera un PLC y la   
+operación en tiempo real 
+
+2.11. Utilizar adecuadamente los   
+elementos periféricos del 
+Controlador lógico. 
+
+ 
+
+3. Formas de representar automatismos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): 3.1 Conocer y aplicar software de      
+programación para los autómatas 
+
+Utilizar las diferentes formas que existen programables  
+para la representación de automatismos.  3.2 Desarrollar diagramas de escalera 
+Realizar la conversión entre los diversos       combinatorios y secuenciales híbridos.   
+lenguajes de programación para su 
+implementación en los controladores 3.3 Utilizar los elementos básicos para 
+lógicos programables.        monitorear procesos.  
+Genéricas: 
+
+3.4 Realizar conexión de los elementos de 
+ Capacidad de aplicar los 
+
+campo con el autómata. 
+conocimientos en la práctica. 
+
+ Habilidades para el manejo de la 
+computadora. 
+
+ Solución de problemas. 
+4. Lenguajes de Programación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): 4.1 Investigar las características, 
+      nomenclaturas y formatos a utilizar  
+
+Utilizar los diversos tipos de       en la programación del PLC.   
+programación de instrucciones simples 4.2 Utilizar la programación de bloques 
+para la automatización de un sistema de       empleando un bit monoestable, un 
+control electromecánico.  bit biestable, temporizadores, 
+
+ contadores, desplazamiento de    
+registros, secuenciadores, para una    
+
+Genéricas: aplicación determinada.  
+4.3 Utilizar bloques de carga, 
+
+ Capacidad de aplicar los transferencia y comparación de   
+conocimientos en la práctica. 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ Habilidades para el manejo de la datos, instrucciones lógicas entre     
+
+computadora. palabras, funciones aritméticas y  
+ Solución de problemas. funciones de conmutación, en    
+
+aplicaciones de automatización. 
+4.4 Utilizar las funciones especiales con   
+
+las que cuenta el PLC para una   
+aplicación en particular.  
+
+4.5 Describir ventajas y desventajas de 
+      programación con instrucciones   
+
+simples y con instrucciones      
+estructuradas.  
+
+4.6 Elaborar la identificación de 
+instrucciones del PLC empleado.     
+
+ 
+
+5. Estructura de programación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): 5.1 Investigar las diferentes maneras en      
+las que se pueden desarrollar 
+
+Aplicar la programación lineal y programas.  
+estructurada en los controladores 5.2 Identificar ventajas y desventajas 
+lógicos programables para la entre la programación lineal y la 
+implementación de automatismo programación estructurada.  
+
+ 
+5.3 Utilizar la programación lineal en un 
+
+Genéricas:       automatismo.  
+5.4 Utilizar la programación   
+
+ Capacidad de aplicar los estructurada en un automatismo. 
+conocimientos en la práctica. 5.5 Usar la parametrización de los  
+
+ Habilidades para el manejo de la       Módulos que se utilizan en los 
+computadora. PLC´s. 
+
+ Solución de problemas. 
+5.6 Investigar, empleando la   
+
+ Capacidad para diseñar y gestionar 
+proyectos. información del fabricante, cuales   
+
+ familias emplean programación      
+estructurada y analizar su   
+factibilidad para una aplicación en 
+particular. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+8. Práctica(s) 
+
+ Identificación física de los componentes de un PLC.  
+ Aplicación a sistemas combinacionales utilizando funciones básicas del PLC.  
+ Uso de funciones básicas del PLC en sistemas secuenciales.   
+ Uso de relevadores, temporizadores y contadores en alguna automatización.   
+ Sistema de arranque alternativo de 2 bombas 
+ Generador de impulsos 
+ Aplicación del PLC en combinación con secuencias con cilindros.   
+ Entradas y salidas analógicas 
+ Programación estructurada  
+ Empleo del GRAFCET 
+ Aplicación del PLC para el arranque y frenado de motores eléctricos.  
+ Aplicación del PLC para circuitos hidráulicos y neumáticos.  
+
+ 
+  
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+  
+
+Página | 9  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+10. Evaluación por competencias  
+
+Instrumentos y herramientas sugeridas para evaluar las actividades de aprendizaje: 
+ 
+
+ Examen escrito para evaluación del trabajo en el aula 
+ Desarrollo de prácticas en el laboratorio evaluadas con guía de desempeño 
+ Desarrollo de reporte escrito del trabajo práctico evaluado con lista de cotejo 
+ Evaluación de trabajos de investigación evaluados con una rubrica 
+ Evaluación de solución de problemas evaluados con lista de cotejo y 
+
+problemario 
+ Reporte de las simulaciones software evaluado con lista de cotejo 
+
+ 
+ 
+
+11. Fuentes de información 
+
+1. Porras, A., Montanero, A. P., Autómatas programables, Ed. Mc Graw-Hill,1996. 
+2. Piedrafita Moreno, Ramón, Ingeniería de la automatización industrial, Segunda 
+
+edición, Ed. Alfaomega RAMA, 2004.  
+3. Enríquez Harper, Gilberto, Fundamentos de control de motores eléctricos en la 
+
+industria, Ed. Limusa, 2004.  
+4. Balcells, Joseph, Romeral, José Luis, Autómatas programables, Ed.Alfaomega 
+
+Marcombo, 1997.   
+5. Mandado Pérez, Enrique, Acevedo, Jorge Marcos, López, Serafín Alfonso, 
+
+Controladores lógicos y autómatas programables, Ed. Alfaomega Marcombo, 
+2004.  
+
+6. Milán, Salvador, Automatización neumática y electroneumática, Ed. Alfaomega 
+Marcombo.  
+
+7. García Moreno, Emilio, Automatización de procesos industriales, Ed.  Alfaomega, 
+1999.  
+
+8. Manual de mecánica industrial, Volumen III, Autómatas y robótica, Ed. CulturalS., 
+2005.  
+
+9. Jones, C. T., Bryan, L. A., Programmable Controllers Concepts & Applications, 
+Ed. IPC/ASTEC, 1987. 
+
+10. Batten, George L., Programmable Controllers, Ed. TAB PRB, 1994. 
+11. Webb  John, Programmable Logic Controllers, Principles and applications, 
+     Quinta edición, Ed. Prentice Hall, 2003. 
+12. Joan Domingo Peña, Juan Gámiz Caro, Antoni Grau i Saldes, Herminio  
+
+Martínez García, Introducción a los autómatas programables, Ed. UOC, 2003 
+13. Joan Domingo Peña, Juan Gámiz Caro, Antoni Grau i Saldes,  
+
+Herminio Martínez García, Diseño y aplicaciones con autómatas programables, 
+Ed. UOC, 2003  
+
+14. Andrés García Higuera, El control automático en la industria, Ed. Servicio de 
+Publicaciones de la Universidad de Castilla-La Mancha, 2005  
+
+15. André Simón, Autómatas programables: programación, automatismo y lógica 
+programada, Tercera edición, Ed. Thomson,1988  
+
+16. Manuales de los controladores lógicos programables como:  PLC  SIMATIC 
+
+Página | 10  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+S7-200 SIEMENS, PLC MICROLOGIX 1000 ALLEN BRADLEY, ZELIO 
+LOGIC,TELEMECANIQUE, GENERAL ELECTRIC, OMRON, FANUC, DIRECT, 
+entre otros. 
+
+ 
+ 
+
+ 
+
+Página | 11

@@ -1,0 +1,571 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Análisis Numérico 
+  
+  
+  
+
+Clave de la asignatura: DSD-2101 
+ 
+  
+  
+  
+  
+
+SATCA1: 2 – 3 - 5 
+  
+  
+
+Carrera: Ingeniería Electromecánica 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura aporta al perfil del ingeniero Electromecánico la capacidad de aplicar los 
+métodos numéricos en la resolución de problemas de la ingeniería y la ciencia, 
+auxiliándose del uso de computadoras. Su integración se ha hecho con base en un 
+análisis de las técnicas mediante las cuales es posible formular problemas de tal forma 
+que pueden resolverse usando operaciones aritméticas. Esta materia dará soporte como 
+una herramienta a nivel ingeniería para la aplicación de conocimientos para resolver 
+problemas en la industria o como plataforma para un posgrado. 
+ 
+De manera particular, lo trabajado en esta asignatura se aplica para la solución del 
+estudio de modelos matemáticos y control, validación de un simulador, métodos para 
+generar variables aleatorias, entre otros. 
+Intención didáctica 
+
+ 
+El programa se organiza en cinco temas. Al término de cada uno de los temas se 
+deben resolver problemas orientados a mostrar las aplicaciones en el área de la 
+ingeniería eléctrica, electrónica, mecánica, térmica, fluidos y mecatrónica. 
+ 
+Se comienza con una introducción a los métodos numéricos, donde se dan 
+definiciones y conceptos relacionados con la asignatura además se abordan la 
+solución de raíces de ecuaciones donde se estudian los métodos de intervalos, los 
+métodos abiertos y métodos para raíces múltiples. 
+ 
+En el segundo tema se tratan los métodos numéricos usados para resolver los 
+sistemas de ecuaciones lineales algebraicas, como son el Método de eliminación 
+Gaussiana, Método de Gauss-Jordan, Estrategias de pivoteo, Método de 
+descomposición LU, Método de Gauss-Seidel, Método de Krylov, Obtención de 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+Eigenvalores y Eigenvectores. 
+ 
+El tercer tema comienza abordando interpolación lineal y cuadrática, polinomios de 
+interpolación con diferencias divididas de Newton, polinomios de Lagrange y finalmente 
+se estudia regresión por mínimos cuadrados lineales y cuadráticos. 
+ 
+El cuarto tema hace un estudio de los principales métodos para derivación e 
+integración numérica. 
+ 
+En el quinto tema se presentan fundamentos de ecuaciones diferenciales ordinarias y 
+los métodos numéricos básicos de solución: Métodos de un solo paso (Euler, Euler 
+mejorado, RungeKutta) y los métodos de pasos múltiples. Se sugiere que para cada 
+tema el alumno diseñe los algoritmos y elabore los programas en lenguajes de 
+programación en los que haya programado en la asignatura de Algoritmos y 
+Programación. 
+ 
+Es importante que el alumno desarrolle estos programas y sean orientados por los 
+docentes. En cada tema se propondrán actividades sugeridas por el docente y 
+desarrolladas por los estudiantes. Se requiere que el docente guie al estudiante 
+resolviendo primeramente problemas modelo y que luego el estudiante 
+resuelva por cuenta propia problemas de manera que adquiera confianza y dominio en 
+la resolución de este tipo de ejercicios. 
+ 
+ 
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+19 de abril del 2021. Academia de Ingeniería Convocatoria para la 
+Instituto Tecnológico de Electromecánica elaboración del programa 
+Zacatepec. de especialidad 2021-2024. 
+
+ 4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Utiliza algoritmos numéricos que proporcionen el mínimo de error para obtener 
+soluciones aproximadas de modelos matemáticos de aplicación en ingeniería como 
+alternativa aplicada o que no puedan resolverse por métodos analíticos utilizando un 
+lenguaje de programación como herramienta 
+ 
+
+ 
+
+ 
+5. Competencias previas 
+
+ Reconoce las bases para programar, mantener y depurar un programa, utilizando 
+un lenguaje de programación. 
+
+ Resuelve y grafica funciones algebraicas para interpretar su comportamiento. 
+
+Página | 2  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ Emplea el concepto de derivada como la herramienta que estudia y analiza la 
+variación de una variable con respecto a otra 
+
+ Identifica el método de integración más adecuado para resolver una integral dada, 
+calcula integrales definidas para determinar áreas bajo la curva. 
+
+ Resuelve problemas de aplicación en ingeniería sobre sistemas de ecuaciones 
+lineales para interpretar las soluciones y tomar decisiones en base a ellas, 
+utilizando los métodos de Gauss, Gauss-Jordan, matriz inversa y regla de Cramer 
+
+ Modela la relación existente entre una función desconocida y una variable 
+independiente mediante una ecuación diferencial para describir algún proceso 
+dinámico.  
+
+ Identifica los diferentes tipos de diferenciales para establecer soluciones 
+generales, particulares y singulares. 
+ 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción y raíces. 1.1 Conceptos básicos: Algoritmos,   
+programación y aproximaciones 
+(Clasificación de los tipos de lenguajes 
+de programación, Diseño de algoritmos, 
+Diagramas de flujo, Programación). 
+
+1.2 Exactitud, precisión y tipos de errores: 
+Error absoluto, error relativo, error 
+porcentual, errores de redondeo, 
+truncamiento y cifras significativas. 
+
+1.3 Series de Taylor, Mc Laurin y 
+Convergencia. 
+
+1.4 Métodos de intervalo cerrado: Gráfico, 
+Bisección y falsa posición. 
+
+1.5 Métodos abiertos: Iteración punto fijo, 
+Método de Newton Raphson y Método 
+de la secante. Métodos para raíces 
+múltiples. 
+
+1.7 Aplicaciones a la ingeniería 
+Electromecánica con herramientas 
+
+computacionales (Determinación de 
+raíces). 
+
+ 
+2 Sistemas de ecuaciones lineales 2.1 Operaciones con matrices 
+
+algebraicas. (multiplicación, determinante, 
+transpuesta, adjunta e inversa de una 
+matriz). 
+
+2.2 Eliminación Gaussiana. 
+2.3 Método de Gauss-Jordan. 
+2.4 Método de Gauss-Seidel. 
+2.5 Método de Cramer. 
+2.6 Aplicación a la ingeniería 
+
+Electromecánica con herramientas 
+
+Página | 3  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+computacionales (programación en 
+solución de operaciones con matrices y 
+solución de sistemas de ecuaciones). 
+ 
+
+3 Interpolación y Ajuste de curvas. 3.1 Interpolación lineal y cuadrática. 
+3.2 Polinomios de interpolación diferencias 
+
+divididas de Newton y de Lagrange. 
+3.3 Regresión por mínimos cuadrados 
+
+(lineal, cuadrática, polinomial). 
+3.4 Aplicación a la ingeniería 
+
+Electromecánica con herramientas 
+computacionales (programación en 
+solución de interpolaciones y 
+regresiones). 
+ 
+
+4 Derivación e integración numérica. 4.1 Derivación numérica. 
+4.2 Integración numérica: Trapecio, 
+
+Simpson 1/3 y Simpson 3/8 (simples y 
+múltiples con intervalos iguales y 
+diferentes). 
+
+4.3 Aplicación a la ingeniería 
+Electromecánica con herramientas 
+computacionales (programación en 
+solución de derivación e integración 
+numérica). 
+
+5 Ecuaciones diferenciales ordinarias. 5.1 Introducción a la solución numérica de 
+modelos matemáticos diferenciales. 
+
+5.2 Métodos de un paso: Método de Euler, 
+Método de Euler mejorado y Método 
+de Runge-Kutta. 
+
+5.3 Métodos de pasos múltiples. 
+5.4 Aplicación a la ingeniería 
+
+Electromecánica con herramientas 
+computacionales (programación en 
+solución de ecuaciones diferenciales 
+ordinarias). 
+
+ 
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1 Introducción y raíces. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):   Investigar los conceptos de 
+ algoritmos y aproximación para su 
+
+ Reconoce los conceptos básicos discusión y análisis en grupo. 
+que se emplean en los métodos  Investigar los conceptos de errores 
+numéricos para resolver problemas. y los distintos tipos de errores. 
+
+Página | 4  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ Aplica los distintos métodos  Investigar y analizar las condiciones 
+numéricos para la búsqueda de para que un método numérico tenga 
+raíces de ecuaciones en la solución convergencia. 
+de problemas de ingeniería  Buscar los valores iniciales y 
+electromecánica realizar tabulación y graficación. 
+
+  Interpretar los métodos de bisección 
+Genéricas:  y regla falsa. 
+  Interpretar los métodos de Newton 
+
+ Capacidad de análisis y síntesis. Raphson y de la secante. 
+ Solución de Problemas.  Desarrollar los métodos analizados 
+ Habilidad para búsqueda de empleando software de 
+
+información. programación. 
+ Capacidad para trabajar en equipo  
+
+  
+ 
+
+ 
+
+2 Sistemas de ecuaciones lineales algebraicas. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):   Investigar en que situaciones en 
+donde se emplean los métodos de 
+
+Aplica los distintos métodos numéricos solución de ecuaciones lineales 
+para la búsqueda de solución de sistemas algebraicas. 
+de ecuaciones lineales algebraicas en la  Resolver ejercicios donde se 
+
+resolución de problemas de ingeniería utilicen los distintos métodos de 
+solución de ecuaciones lineales 
+
+electromecánica. 
+algebraicas sin el uso de software. 
+
+  Elaborar pseudocódigos de los 
+distintos algoritmos de búsqueda 
+
+Genéricas: sobre soluciones de las ecuaciones 
+lineales algebraicas. 
+
+ Capacidad de análisis y síntesis.  Elaborar diagramas de flujo de los 
+
+ Solución de Problemas. distintos algoritmos de búsqueda 
+
+ Habilidad para búsqueda de las ecuaciones lineales algebraicas. 
+
+información.  Elaborar los programas en un 
+
+ Capacidad para trabajar en equipo lenguaje de programación o 
+
+y comunicación oral y escrita software de aplicación. 
+
+  Resolver problemas de aplicación a 
+la ingeniería para emplear los 
+programas. 
+
+ 
+
+3 Interpolación y Ajuste de curvas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Buscar información sobre los 
+principales 
+
+Selecciona a partir de un conjunto de datos conceptos relacionados con datos 
+
+Página | 5  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+experimentales la curva que mejor se experimentales (muestra, media, 
+ajuste para su representación gráfica y etc.). 
+obtener una estimación  Investigar los distintos métodos 
+
+para ajustar un conjunto de datos y 
+ cuáles son sus ventajas y 
+Genéricas: desventajas. 
+  Buscar información sobre los 
+
+ Capacidad de aplicar los principales métodos de 
+conocimientos en la práctica. interpolación. 
+
+ Capacidad de abstracción, análisis  Resolver problemas de ajuste de 
+y síntesis. curvas. 
+
+ Capacidad para identificar, plantear  Elaborar algoritmos para ajustar 
+y resolver problemas. datos con su respectivo diagrama 
+
+ de flujo. 
+ Programar los algoritmos vistos el 
+
+tema utilizando un lenguaje de 
+programación o software de 
+aplicación 
+
+ 
+4 Derivación e integración numérica 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Buscar una lista de integrales que 
+no 
+
+Emplea los métodos numéricos en la puedan resolverse por métodos 
+diferenciación e integración para resolver analíticos. 
+problemas de ingeniería electromecánica  Buscar información sobre cuáles 
+ son las aplicaciones de las 
+
+Genéricas: derivadas que se 
+calculan de forma numérica. 
+
+ Capacidad de análisis y síntesis.  Elaborar pseudocódigos y 
+Solución de Problemas. diagramas de flujo de los 
+
+ Habilidad para búsqueda de principales métodos de derivación 
+información. e integración numérica. 
+
+ Capacidad para trabajar en equipo.  Programar los distintos algoritmos 
+ Comunicación oral y escrita para calcular derivadas e 
+
+ integrales numéricas. 
+ Resolver problemas de aplicación 
+
+ 
+ 
+
+5 Ecuaciones diferenciales ordinarias 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Buscar información sobre los 
+conceptos 
+
+Utiliza los métodos numéricos para básicos de ecuaciones diferenciales 
+resolver ecuaciones diferenciales  Solución de ejercicios donde se 
+ordinarias de primer orden. 
+
+Página | 6  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ utilicen distintos métodos de 
+solución de ecuaciones 
+
+Genéricas: diferenciales. 
+ Elaborar pseudocódigos de los 
+
+ Capacidad de análisis y síntesis. distintos 
+ Solución de Problemas. algoritmos de búsqueda de solución 
+ Habilidad para búsqueda de de ecuaciones diferenciales. 
+
+información.  Elaborar diagramas de flujo de los 
+ Capacidad para trabajar en equipo. distintos algoritmos de solución de 
+ Comunicación oral y escrita. ecuaciones diferenciales. 
+
+ Elaborar los programas en un 
+lenguaje de programación o 
+software de aplicación. 
+
+ Resolver problemas de aplicación a 
+la 
+ingeniería para emplear los 
+programas 
+realizados Utilizar software de 
+aplicación para comprobar 
+resultados. 
+
+ 
+
+8. Práctica(s) 
+
+ Elaboración de diagramas de flujo y desarrollo de programas de cómputo que 
+utilicen los diferentes algoritmos para encontrar raíces de ecuaciones lineales. 
+
+ Desarrollo de programas de cómputo que ajusten una función a partir de un 
+conjunto de datos de entrada. 
+
+ Elaboración diagramas de flujo y desarrollo de programas de cómputo para 
+obtener derivadas e integrales numéricas. 
+
+ Elaboración de una función para derivar numéricamente por diferencias finitas 
+centrales, hacia adelante y hacia atrás 
+
+ Crear programas donde se utilicen funciones propias del lenguaje de 
+programación o software de aplicación para métodos numéricos 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+
+Página | 7  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+ 
+La evaluación de la asignatura debe ser formativa y sumativa, por lo que debe 
+considerarse el desempeño en cada una de las actividades de aprendizaje, poniendo 
+articular énfasis en: 
+ 
+
+ Examen de diagnóstico. 
+ Revisión y exposición de ejercicios extra clase 
+ Análisis y revisión de las actividades de investigación. 
+ Solución e interpretación de problemas resueltos con apoyo del software. 
+ Exposición de temas relacionados con la materia. 
+ Entrega de trabajos de investigación en equipo. 
+ Elaboración de programas de cómputo. 
+ Resolución de problemas prácticos en dinámicas grupales. 
+ Compilación de apuntes. 
+ Cumplimiento en tiempo y forma con las actividades encomendadas 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 8  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+11. Fuentes de información 
+
+1. Chapra, Steven C. et. al., Métodos Numéricos para ingenieros, Mc. Graw Hill. 
+2. Chandrupatla, T., Introducción al Estudio del Elementos Finito en Ingeniería, 2da 
+
+Ed., Editorial Pearson-Prentice Hall, Mexico, 1999. 
+3. Numerical recipes in C: the art of scientific computing.W. H. Press, S. A. 
+
+Teukolsky, W. T. Vetterling, B. P. Flannery. Cambridge University Press. 
+4. Burden, R. L. y Faires D. J. Análisis numérico. Editorial Iberoamérica. 
+5. Nieves Hurtado, A. Métodos numéricos aplicados a la ingeniería. Editorial 
+
+CECSA, 2a. Ed.México, 2002. 
+6. Quarteroni A., Sacco R. and Saleri F.( 2000) Numerical Mathematics. New York 
+
+Springer-Verlag 
+
+ 
+
+Página | 9

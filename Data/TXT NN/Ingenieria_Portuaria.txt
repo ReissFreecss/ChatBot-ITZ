@@ -1,0 +1,665 @@
+﻿1. Datos Generales de la asignatura 
+ 
+Nombre de la asignatura : Ingeniería Portuaria 
+
+Clave de la asignatura :  POE-1507 
+SATCA: 3-1-4 
+
+Carrera :  Ingeniería Civil 
+ 
+ 
+
+2. Presentación 
+ 
+Caracterización de la asignatura 
+
+La aportación de la asignatura al perfil del Profesionista, proporciona los 
+conocimientos fundamentales de Hidráulica Marítima, Ingeniería de costas e 
+Ingeniería Portuaria asociados al desarrollo costero y portuario, para participar en 
+los estudios, diseños y proyectos  de  obras portuarias y costeras, tales como: 
+obras de protección costera,  rompeolas, muelles, cálculo de áreas de agua y 
+superficies terrestres del puerto; así como los elementos principales de este. 
+ 
+Además de proporcionar al alumno del conocimiento necesario para comprender 
+e interpretar los fenómenos físicos que se producen en el litoral, así como de las 
+herramientas y técnicas básicas que requerirá en el ejercicio de la ingeniería 
+marítima, portuaria y costera. 
+ 
+La presente asignatura, es de suma importancia para el profesionista de 
+Ingeniería Civil,  debido a que los Puertos son fundamentales para el apoyo del 
+crecimiento de cualquier nación, pues en ellos se realizan actividades de 
+comercio marítimo, industrial, pesquero y turístico, convirtiéndose así en 
+importantes polos de desarrollo; teniendo como requerimiento que sean 
+eficientes; además de que México forma parte de una de las mayores zonas 
+comerciales del mundo, y tiene una excepcional ubicación geográfica que lo 
+convierte en un vínculo natural entre América del Norte, Centro y Sudamérica, así 
+como entre las Cuencas del Pacífico y del Atlántico, teniendo con esto, que en 
+México se realicen actividades de intercambio comercial que se desarrollan 
+principalmente por la vía marítima a través de los puertos, los cuales deben 
+brindar instalaciones y servicios de calidad; por lo que es necesario la 
+infraestructura portuaria. 
+ 
+Para llevar a cabo lo anterior, la asignatura se desarrolla en cinco unidades que 
+de manera general consisten en conocer la importancia y características del 
+medio marino, la hidrodinámica (vientos, mareas, corrientes, oleaje y transporte 
+de sedimentos), el dimensionamiento portuario, las obras de protección y atraque; 
+así como las obras de dragado. 
+ 
+Se relaciona con las asignaturas precedentes de Dibujo en la Ingeniería Civil, 
+Topografía, Estática, Dinámica, Mecánica de Suelos, Sistemas de Transporte 
+Fundamento de Mecánica de los Medios Continuos, Maquinaria Pesada y 
+
+
+
+Movimiento de Tierras, Materiales y Procesos Constructivos, Hidráulica básica e 
+Hidrología Superficial principalmente; debido a que estas materias son básicas y 
+se relacionan en temas asociados con: cálculo de centros de gravedad, 
+momentos de inercia, las leyes de la mecánica del medio continuo, los métodos 
+de derivación e integración de funciones escalares y vectoriales, los principios 
+conservativos de la masa y energía, principios de las ecuaciones de la hidráulica, 
+la medición e importancia de los fenómenos naturales, levantamientos 
+topográficos, los medios y tipos de transportes, Maquinaria y equipos utilizados 
+en las obras; así como el movimiento de tierras, etc. 
+ 
+Esta materia dará apoyo de conocimiento general en la planeación y diseño de un 
+puerto como opción fundamental del ingeniero civil que participara  en proyectos 
+de construcción, rehabilitación y conservación de las obras marítimas y 
+portuarias. 
+ 
+Intención didáctica 
+ 
+Se organiza el temario en cinco unidades, agrupando los contenidos 
+conceptuales de la asignatura en las tres primeras unidades; en la unidad cuatro 
+y cinco se desarrolla la aplicación de los conceptos abordados en las tres 
+primeras.  
+ 
+Se sugiere actividades integradoras, en la cuarta y quinta  unidad, que permita 
+aplicar los conceptos desarrollados. Esto permite dar un cierre a la materia 
+mostrándola como útil por sí misma en el desempeño profesional. 
+ 
+El enfoque sugerido para la materia requiere que las actividades prácticas 
+promuevan el desarrollo de habilidades para la experimentación, tales como: 
+identificación, manejo y control de variables y datos relevantes; planteamiento de 
+hipótesis; trabajo en equipo; asimismo, propicien procesos intelectuales como 
+inducción-deducción y análisis-síntesis con la intención de generar una actividad 
+intelectual compleja. En las actividades prácticas sugeridas, es conveniente que 
+el profesor busque sólo guiar a sus alumnos para que ellos hagan la elección de 
+las variables a controlar y registrar. Esto con el fin de que aprendan a planificar 
+por sí mismos, el profesor debe involucrarlos en el proceso de planeación. 
+ 
+La lista de actividades de aprendizaje sugeridas, se considera que son las 
+necesarias para hacer más significativo el aprendizaje. Algunas de ellas pueden 
+hacerse como actividad extra clase y comenzar el tratamiento en clase a partir de 
+la discusión de los resultados de las observaciones. Se busca partir de 
+experiencias concretas, cotidianas, para que el estudiante se acostumbre a 
+reconocer los fenómenos físicos en su alrededor y no sólo se hable de ellos en el 
+aula. Es importante ofrecer escenarios distintos, ya sean construidos, artificiales, 
+virtuales o naturales 
+ 
+En las actividades de aprendizaje sugeridas, generalmente se propone la 
+formalización de los conceptos a partir de experiencias concretas; se busca que 
+
+
+
+el alumno tenga el primer contacto con el concepto en forma concreta y sea a 
+través de la observación, la reflexión y la discusión que se dé la formalización. 
+ 
+En el transcurso de las actividades programadas es muy importante que el 
+estudiante aprenda a valorar las actividades que lleva a cabo y entienda que está 
+construyendo su futuro y en consecuencia actúe de una manera profesional; de 
+igual manera, aprecie la importancia del conocimiento y los hábitos de trabajo; 
+desarrolle la precisión y la curiosidad, la puntualidad, el entusiasmo y el interés, la 
+tenacidad, la flexibilidad y la autonomía. 
+ 
+Es necesario que el profesor ponga atención y cuidado en estos aspectos en el 
+desarrollo de las actividades de aprendizaje y funja como guía para que lo 
+anterior pueda desarrollarse de manera más clara y objetiva. 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+ 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Academia de Ingeniería Reunión de academia de 
+Zacatepec, Mayo 2015 Civil del Instituto Tecnoló- Ingeniería Civil de fecha 
+
+gico de Zacatepec 28 de mayo de 2015. 
+ 
+
+ 
+4. Competencia(s) a desarrollar 
+ 
+
+Competencia(s) específica(s) de la asignatura 
+ 
+Comprender los fundamentos de la hidráulica marítima así como los principios 
+básicos del puerto su desarrollo y su relación con la zona costera para ser 
+aplicados en proyectos y obras de Ingeniería de costas e Ingeniería portuaria. 
+Considerando las siguientes competencias específicas del programa:  
+ 
+ Conocer los distintos modos de transporte y realizar una comparativa sobre 
+
+estos. 
+ Elaborar una adecuada planeación del Transporte marítimo actual, 
+
+proyectándolo a futuro. 
+ Analizar los diferentes modos de Transporte que concurren al puerto y 
+
+coordinarlos a través de un transporte multimodal. 
+ Reconocer los diferentes tipos de buques, sus avances, tipos y características. 
+ Reconocer los estudios básicos de Ingeniería previos que se requieren para 
+
+planeación y diseño del proyecto de una terminal marítima. 
+ Interpretar la información para definir la zona de influencia regional y mundial 
+
+más adecuado al tipo de puerto. 
+ Reconocer y analizar los fenómenos oceanográficos que intervienen en la 
+
+
+
+localización de un puerto. 
+ Analizar el transporte de sedimentos que se presenta en la zona costera. 
+ Determinar el volumen de dragado dentro de un puerto. 
+ Reconocer las formas de señalamiento marítimo y su importancia en la 
+
+navegación de barcos en aguas de aproximación de un puerto. 
+ Conocer las obres de protección portuaria y costera. 
+ Elaborar proyecto de un rompeolas  de enrocamiento. 
+ Elaborar diseño de obras de atraque. 
+ Elaborar un proyecto de una terminal portuaria. 
+
+ 
+ 
+
+5. Competencias previas 
+Adquirir los conocimientos fundamentales básicos de asignaturas precedentes 
+para comprender la presente asignatura de una manera más clara y de esta 
+manera poder llevar a cabo la información y conocimientos obtenidos. Alguna 
+competencias previas son:  
+ 
+ Utilizar el Sistema Internacional de Unidades y su interrelación con otros 
+
+sistemas. 
+ Resolver ecuaciones diferenciales de primer orden. 
+ Calcular áreas, centros de gravedad y momentos de inercia de diversos 
+
+cuerpos y figuras geométricas. 
+ Establecer las condiciones de equilibrio de cuerpos en reposo o movimiento 
+
+bajo la acción de fuerzas. 
+ Conocer las leyes de la mecánica del medio continuo que dan origen a los 
+
+principios conservativos. 
+ Comprender los principios básicos de la hidráulica. 
+ Entender los eventos meteorológicos presentados en la naturaleza y 
+
+distinguirlos. 
+ Conocer la importancia de los levantamientos topográficos. 
+ Entender la importancia de los equipos y maquinaria para las diferentes 
+
+obras. 
+ Conocer la importancia de los medios y sistemas de transporte. 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1. Generalidades 1.1 Introducción 
+1.2 Importancia y actividades del medio marino. 
+1.3 Características físicas de nuestros litorales. 
+1.4 Participación del Ingeniero Civil en el medio 
+
+marino. 
+2. Vientos, mareas y 2.1 Vientos 
+
+corrientes. 2.1.1 Origen, Importancia y Clasificación del viento. 
+ 2.1.2 Características de interés del viento y su 
+
+
+
+medición. 
+2.2 Mareas 
+2.2.1 Origen, Importancia y Descripción de las 
+
+mareas. 
+2.2.2 Clasificación de las mareas y su medición. 
+2.3 Corrientes 
+2.3.1 Origen y Descripción de corrientes. 
+2.3.2 Generación de corrientes. 
+2.3.3.  Clasificación y medición de corrientes.    
+
+3. Oleaje y 3.1 Oleaje 
+transporte de 3.1.1 Descripción y Origen del oleaje. 
+litoral 3.1.2 Teorías del oleaje y su clasificación. 
+
+ 3.1.3 Fuentes de información del oleaje. 
+3.1.4 Oleaje estadístico. 
+3.1.5 Altura de ola significante (oleaje normal). 
+3.1.6 Cartas del Sea and Swell 
+3.1.7 Estadísticas del Ocean Wave. 
+3.1.8  Predicción de oleaje. 
+3.1.9 Altura de ola significante (oleaje ciclónico). 
+3.1.10 Estimación del oleaje ciclónico. 
+3.1.11 Fenómenos que modifican el oleaje 
+
+(Refracción, Difracción y Reflexión) 
+3.1.12 Rompiente del oleaje. 
+3.2 Transporte litoral 
+3.2.1 Morfología costera  
+3.2.2 Perfiles de equilibrio playero. 
+3.2.3 Estimación del transporte litoral. 
+3.2.4 Obras de protección costera.       
+
+4. El Puerto 4.1 Generalidades y origen de los Puertos en México 
+ 4.1.1 Definición e importancia de los puertos. 
+
+4.1.2 Clasificación de puertos. 
+4.1.3 Elementos constitutivos de los puertos. 
+4.2 Dimensionamiento portuario 
+4.2.1 Nociones sobre buques. 
+4.2.2 Maniobrabilidad de buques 
+4.2.3 Dimensionamiento portuario. 
+4.2.3.1 Dimensionamiento de áreas de agua. 
+4.2.3.2 Dimensionamiento de áreas de tierra. 
+
+5.  Obras portuarias 5.1 Obras de protección 
+ 5.1.1 Definición y clasificación de rompeolas. 
+
+5.1.2 Consideraciones de diseño. 
+5.1.3 Fallas comunes en rompeolas. 
+5.1.4 Diseño de rompeolas y/o escolleras. 
+5.2 Obras de atraque 
+5.2.1 Definición y tipos de Muelles 
+5.2.2 Consideraciones de diseño. 
+5.2.3 Elementos y diseño de las obras de atraque y 
+
+
+
+amarre. 
+5.3 Obras de dragado 
+5.3.1 Generalidades 
+5.3.2 Tipos de dragas 
+5.3.3 Planeación de obras de dragado. 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Unidad 1: Generalidades 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Comprender la importancia Consultar y elaborar un mapa 
+de las actividades del medio marino, sus conceptual o cuadro sinóptico de 
+características y la participación de la las actividades y características del 
+ingeniería civil en el mismo. medio marino. 
+   
+Genéricas: Representar  las actividades y 
+• Capacidad de análisis y síntesis. características del medio marino  
+• Capacidad de organizar y planificar. utilizando  medios audiovisuales y 
+• Conocimientos básicos de la   carrera. 
+
+presentaciones gráficas; así como 
+• Comunicación oral y escrita. 
+• Capacidad crítica y autocrítica la importancia del Ingeniero Civil 
+
+• Trabajo en equipo en esta materia. 
+
+• Habilidades de investigación 
+Unidad 2: Vientos, mareas y corrientes. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Comprender el origen,  Definir conceptos de Vientos, 
+características e importancia del proceso Mareas y corrientes que se 
+de generación de los Vientos, Mareas y presentan en el medio marino. 
+Corrientes en el mar.  Identificar los tipos y 
+ características del viento 
+Conocer las diferentes formas de medir  Identificar los tipos Mareas y sus 
+los Vientos, Mareas y corrientes y sus características, 
+respectivas aplicaciones.   Identificar los tipos de corrientes y  
+ sus características. 
+Obtener datos de medición de vientos,  Interpretar el análisis del origen de  
+mareas y corrientes para aplicarlos en la viento. 
+solución de problemas de ingeniería  Comprender mediante el estudio 
+marítima y portuaria; así como conocer y del viento como elemento 
+diferenciar las obras de protección fundamental de generación del  
+costera. oleaje. 
+ 
+
+ Analizar del origen de  la Marea 
+Genéricas:  astronómica. 
+• Capacidad de análisis y síntesis. 
+
+
+
+• Capacidad de organizar y planificar.  Análisis del origen de la marea de 
+• Conocimientos básicos de la   carrera. tormenta. 
+• Solución de problemas.  Analizar de las corrientes costeras. 
+• Capacidad crítica y autocrítica  Identificar las obras de protección 
+• Trabajo en equipo costera. 
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+• Capacidad de aprender 
+
+Unidad 3: Oleaje y transporte de litoral 
+ 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Comprender el origen, las  Investigar las características del 
+características y la importancia del oleaje oleaje. 
+
+en los procesos costeros.  Construir un mapa conceptual 
+acerca de los tipos de ondas. 
+
+Comprender el proceso de generación y  Comprender el funcionamiento de 
+propagación del oleaje; así como el los instrumentos de medición del 
+equipo de medición del mismo. oleaje. 
+  Comprender el proceso de 
+Comprender y analizar los fenómenos generación y propagación del oleaje. 
+que modifican el oleaje al llegar a la  Comprende el fenómeno de 
+costa. refracción del oleaje. 
+  Comprender el fenómeno de 
+Interpretar las fuentes de información del difracción del oleaje. 
+oleaje (cartas del sea and swell,  Comprende el fenómeno de 
+estadísticas del ocean wave) para reflexión del oleaje. 
+aplicarlas en el diseño de obras  Comprender los tipos de rompiente 
+portuarias. del oleaje. 
+  Resolver ejercicios de cálculo de la 
+Identificar las distintas formaciones altura de ola de diseño. 
+costeras que se pueden encontrar y 
+
+ Consultar en revistas de ingeniería 
+comprender la importancia del acarreo 
+
+de costas o en Internet resúmenes 
+litoral así como las formas utilizadas para 
+
+de artículos relacionados con los 
+cuantificarlo.  
+
+fenómenos que modifican el oleaje. 
+ 
+
+ Resolver ejercicios de cálculo de la 
+Genéricas: 
+
+altura de ola significante. 
+• Capacidad crítica y autocrítica 
+
+ Identificar las diferentes formaciones 
+• Trabajo en equipo 
+
+costeras. 
+• Habilidades interpersonales 
+• Capacidad de aplicar los conocimientos  Resolver ejercicios para cuantificar 
+
+en la práctica el transporte de sedimentos 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y planificar. 
+• Solución de problemas. 
+
+
+
+• Toma de decisiones. 
+Unidad 4: El  Puerto 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Comprender el origen,  Elaborar un cuadro sinóptico 
+importancia, clasificación, esquema acerca de la clasificación de los 
+
+básico y las funciones del puerto, así puertos. 
+
+como los elementos constitutivos de las  Elaborar un cuadro sinóptico sobre 
+la clasificación de los distintos tipos 
+
+terminales marítimas. 
+de buques. 
+
+  Comprender los elementos 
+
+Comprender y aplicar los factores y constitutivos del puerto. 
+
+elementos que intervienen en el  Comprender la importancia de las 
+áreas de agua del puerto. 
+
+Dimensionamiento Portuario. 
+ Comprender la importancia de las 
+
+Identificar los tipos e importancia de los áreas de tierra del puerto. 
+ Aplicar los diferentes criterios de 
+
+buques; así como el tipo de mercancías 
+Dimensionamiento Portuario. 
+
+que transportan. 
+ Calcular y dimensionar las áreas 
+
+Genéricas: de un puerto 
+
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y planificar. 
+• Habilidades básicas de manejo de la       
+  Computadora. 
+• Solución de problemas. 
+• Toma de decisiones. 
+• Capacidad crítica y autocrítica 
+• Trabajo en equipo 
+• Capacidad de aplicar los conocimientos 
+en la   
+  práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas   
+• Habilidad para trabajar en forma  
+autónoma 
+• Búsqueda del logro. 
+
+Unidad 5: Obras Portuarias 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Identificar y comprender la  Elaborar un cuadro sinóptico 
+importancia y las consideraciones  acerca de la clasificación de los 
+
+puertos. 
+
+
+
+generales de proyecto para el diseño de  Elaborar un cuadro sinóptico sobre 
+obras de protección y obras de atraque y la clasificación de los distintos 
+
+amarre. tipos de buques. 
+ Comprender los elementos 
+
+  constitutivos del puerto. 
+Aplicar expresiones para el diseño de  Comprender la importancia de las 
+rompeolas y/o escolleras. áreas de agua del puerto. 
+Diseñar las obras de atraque y/o amarre  Comprender la importancia de las 
+
+áreas de tierra del puerto. 
+Genéricas:  Aplicar los diferentes criterios de 
+• Capacidad de análisis y síntesis. Dimensionamiento Portuario. 
+• Capacidad de organizar y planificar.  Definir los conceptos de 
+• Solución de problemas. Rompeolas, escolleras y 
+• Toma de decisiones. espigones. 
+• Capacidad crítica y autocrítica  Organizar en una tabla las 
+• Trabajo en equipo fórmulas para el diseño de 
+• Habilidades de investigación Rompeolas y Escolleras. 
+• Capacidad de aprender 
+
+ Resolver ejercicios de diseño de 
+• Capacidad de generar nuevas ideas  
+
+Rompeolas. 
+(creatividad) 
+
+ Resolver ejercicios de diseño de 
+• Habilidad para trabajar en forma  
+
+Muelles. 
+autónoma 
+
+ En caso probable, realizar Visitas 
+• Búsqueda del logro. 
+
+a obras en construcción de 
+Rompeolas y/o Muelles. 
+
+ 
+
+8. Práctica(s) 
+
+ 
+Ninguna. Solo visitas de campo 
+ 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en 
+el cual se fundamenta el proyecto de acuerdo con un diagnóstico realizado, 
+mismo que permite a los estudiantes lograr la comprensión de la realidad o 
+situación objeto de estudio para definir un proceso de intervención o hacer el 
+diseño de un modelo. 
+
+ Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+
+
+
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades a 
+realizar los recursos requeridos y el cronograma de trabajo. 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto según 
+el tipo de proyecto, es la fase de mayor duración que implica el desempeño de 
+las competencias genéricas y especificas a desarrollar. 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+Para la evaluación por competencias es necesario tomar en consideración lo 
+siguiente: 
+ 
+ Actividades de búsqueda, selección y análisis de información en distintas 
+
+fuentes, como la bibliografía establecida o Internet. 
+ Uso de programas de cómputo para la resolución de problemas de Hidráulica 
+
+marítima, así como hojas de cálculo. 
+ Que el alumno relacione los contenidos de la asignatura con la preservación 
+
+del medio ambiente. 
+ El Participar en conferencias, congresos y otros eventos académicos 
+
+relacionados con la asignatura. 
+ Comunicación, intercambio y colaboración en la resolución de problemas 
+ Desarrollo, interés, participación e innovación en proyectos de ingeniería 
+
+marítima y portuaria 
+ Observar y analizar fenómenos y problemáticas propias del campo 
+
+ocupacional. 
+ Entrega y revisión de proyecto. 
+ Entrega de problemas resueltos en clase y extra clase. 
+ Realización de exámenes escritos. 
+ Reportes de trabajos de investigación documental y asistencia a congresos. 
+ Participación en clases, en forma individual y grupal. 
+ 
+
+ 
+
+
+
+11. Fuentes de información 
+
+1. Yashimi Goda 
+
+    Waves and Waves Actions 
+    Volumen IV, 1978 
+ 
+2. U.S. Army Engineering Research Center, U.S. Corps of Engineering 
+    Shore Protection Manual, Coastal engineering Research Center CERC. 
+    Volumen I, II y III  
+ 
+3. Comisión Federal de Electricidad, Instituto de investigaciones Eléctricas 
+    Manual de Diseño de Obras Civiles 
+    Hidrotecnia, A.R.13 Hidráulica Marítima 
+ 
+4. Roberto Bustamante Ahumada 
+    Ingeniería Marítima 
+    Ediciones Temas marinos S. de R.L. 
+ 
+5. Quinn De F. Alonso 
+    Desing and Construction of Ports  and Marine structures 
+ 
+6. Brunn Per 
+    Port Engineering 
+    2ª. Edición. Gulf Publishing CPC Houston, Texas 
+ 
+7. Delft University of Technology 
+    Coastal engiennering 
+    Volumen I y III Breakwater Desing, The Netherland 
+ 
+8. Zuñiga Malpica David 
+    Puertos. Tesis Profesional, Ingeniería Civil 
+    ESIA-IPN, México D.F. 1983 
+ 
+9 Vergara Sánchez M. Ángel 
+    Técnicas Experimentales. 
+
+10 MACDONEL, Guillermo; PINDTER, Julio; HERREJÓN, Luis; PIZÁ, Juan. 
+
+     Ingeniería Marítima y Portuaria  
+     Coedición: Alfaomega-UNAM 
+ 
+11 Federico Ortiz 
+     Los puertos mexicanos  
+     editorial: Fondo de cultura económica (fce) 
+
+ 
+
+
+
+12 Bonnefille René.  
+Cours D’Hydraulique Maritime NASSON, MASSON,  
+1976 
+ 
+
+13 El Moral C.R. y Escutia C.R. Diseño óptimo de un dique  
+Laboratorio de Puertos Ramón Irribarren, M.O.P.U., 1980. 
+
+ 
+
+14 Ingeniería de costa  
+Armando Frisa Valdez 
+Gonzalo Moreno Cervantes 
+Asociación Mexicana de Ingeniería Costera 
+Ed. Limusa 
+ 
+REFERENCIAS 
+www.clubdelamar.org 
+www.wldelft.nl 
+www.natgeo.tv 
+www.discovery.com

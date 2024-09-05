@@ -1,0 +1,747 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Marketing Digital 
+  
+
+Clave de la asignatura: TSD-2207 
+  
+
+SATCA1: 2-3-5 
+  
+
+Programa educativo: Licenciatura en Turismo 
+  
+
+Especialidad: Turismo Sostenible y Promoción Turística 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+ 
+La asignatura aporta al perfil de egreso del Licenciado en Turismo la capacidad de utilizar 
+de manera adecuada las TIC para diseñar e implementar procesos de difusión y 
+comercialización de los servicios turísticos, mediante diferentes herramientas digitales 
+que ayuden a generar estrategias de promoción. 
+ 
+Dicha asignatura se imparte como materia de especialidad y se estructura en cuatro 
+temas esenciales: Introducción al Marketing Digital, Social Media Marketing, E-turismo y 
+Blended Marketing. 
+ 
+Intención didáctica 
+ 
+Se recomienda dar un enfoque práctico y adecuado a las empresas de servicios turísticos 
+que promocionen sus productos y/o servicios por medio del Marketing Digital, logrando 
+expandir su mercado en el contexto local, nacional e internacional. 
+ 
+El docente de Marketing Digital debe propiciar actividades relacionadas a la promoción, 
+análisis y creación de estrategias mediante el uso eficaz de las TIC para lograr que los 
+estudiantes comprendan y apliquen el Marketing en un entorno digital. 
+ 
+En el encuadre se informará al estudiante que se llevará a cabo un proyecto turístico 
+durante el semestre, aplicando las diferentes técnicas y herramientas de Marketing Digital 
+aprendidas en cada uno de los temas del curso. 
+ 
+El primer tema aborda la Introducción al Marketing Digital, pues tiene como propósito que 
+el estudiante sea capaz de identificar las diferencias entre el marketing tradicional con el 
+marketing digital, así mismo ayuda a comprender las generalidades de los medios 
+digitales. 
+
+ 
+ 1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+El segundo tema se basa en el conocimiento del Social Media Marketing, en dónde se 
+conocen y analizan las diferentes redes sociales, su origen e importancia de éstas, así 
+como la aplicación de estrategias digitales y difusión de contenidos. 
+ 
+Por otra parte, en el tema tres se enfoca en la evolución del comercio electrónico dirigido 
+al turismo (E-turismo). En el cual se analizan por medio de casos prácticos las estrategias 
+y modalidades que las empresas del sector turístico implementan para satisfacer las 
+necesidades de los clientes, en un entorno globalizado. 
+ 
+Para finalizar, en el tema cuatro el estudiante conocerá la diferencia, ventajas y 
+características del marketing offline y online. Así mismo, será capaz de planear, 
+desarrollar y proponer una campaña turística. 
+ 
+Se sugiere que el perfil del docente que esté a cargo de este programa cuente con la 
+Licenciatura en Mercadotecnia y/o especialidad en Herramientas Digitales. 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Representantes de la Propuesta de especialidades 
+Zacatepec, abril de 2022. academia de Licenciatura para el periodo agosto-
+
+en Turismo.  diciembre 2022.  
+
+Presentación de propuesta 
+de la especialidad: Turismo 
+sostenible y promoción 
+turística.  
+
+Reuniones de trabajo para el 
+Desarrollo de contenidos de 
+la especialidad.  
+
+Reunión de la academia de 
+Licenciatura en Turismo, 
+egresados de la carrera y 
+expertos del sector 
+productivo y prestadores de 
+servicio para definir y validar 
+contenidos de la especialidad  
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Reunión informativa sobre 
+los resultados con el grupo de 
+interés.  
+
+Reuniones de trabajo para el 
+desarrollo final de los 
+contenidos de las 
+asignaturas de la 
+especialidad. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Planea, diseña, desarrolla e implementa a través del Marketing Digital la comercialización 
+de servicios turísticos a nivel local, nacional e internacional. 
+
+ 
+5. Competencias previas 
+ 
+
+• Desarrolla planes de mercadotecnia turística considerando la satisfacción del 
+
+turismo nacional e internacional para la comercialización del producto turístico. 
+
+ 
+
+• Diseñar, desarrollar y dirigir un programa promocional para el posicionamiento de 
+
+una organización turística utilizando herramientas: publicitarias, de venta personal, 
+
+de promoción de ventas y relaciones públicas. 
+
+ 
+ 
+
+• Conoce la importancia e influencia de los medios de comunicación en la 
+
+organización para su proyección local, nacional e internacional. 
+
+ 
+
+• Desarrollar el potencial creativo y emprendedor en el diseño de un anteproyecto 
+
+sostenible e innovador enfocado al sector turístico, tomando en consideración las 
+
+condiciones, tendencias y necesidades del entorno. 
+
+ 
+ 
+
+• Aplica los conocimientos, métodos, técnicas y herramientas para la toma 
+
+decisiones en el sector turístico. 
+
+ 
+ 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción al Marketing Digital 1.1 Antecedentes del Marketing Digital 
+        1.1.1 Definición 
+        1.1.2 Evolución 
+1.2 Entorno digital  
+  1.2.1 Generalidades de los medios digitales 
+        1.2.2 Inbound marketing 
+        1.2.3 Digitivy 
+        1.2.4 Lovemark 
+        1.2.5 Influencers 
+1.3 Consumidor digital (actual) 
+        1.3.1 Prosumidor 
+        1.3.2 Buyer persona  
+        1.3.3 AIDA 
+        1.3.4 Remarketing 
+ 
+
+2 Social Media Marketing 2.1 Redes sociales 
+         2.1.1 Origen e importancia 
+
+        2.1.2 Consumidor y contenido en RRSS 
+        2.1.3 Community Manager 
+  2.1.4 Adquisición, Interacción y Conversión 
+  2.1.5 Facebook, Twitter, Instagram, Pinterest, 
+Blogs y Podcast 
+               2.1.5.1 Social Selling  
+               2.1.5.2 Social Branding 
+2.2 Vinculación de plataformas 
+        2.2.1 Difusión de contenido (storytelling) 
+        2.2.2 Planificación de contenidos 
+                2.2.2.1 Calendarización 
+   2.2.3 Estrategias de publicación de contenidos 
+         2.2.4 Fases de la estrategia digital 
+         2.2.5 Diseño básico de contenido 
+2.3 Métricas en RRSS 
+2.4 Inversión en campañas digitales 
+         2.4.1 Análisis de inversión 
+         2.4.2 KPI´S 
+         2.4.3 ROI 
+         2.4.4 ROAS 
+
+3 E- turismo 3.1 Evolución del comercio electrónico  
+3.2 Negocios electrónicos 
+         3.2.1 Etailers o tiendas virtuales 
+         3.2.2 Bricks & clicks 
+         3.2.3 Marketplace 
+         3.2.4 Sharing economy 
+         3.2.5 Afiliados 
+3.3 Modalidades del comercio electrónico 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+3.4 Motores de búsqueda 
+         3.4.1 Google mi negocio 
+         3.4.2 Pago electrónico 
+
+4 Blended Marketing 4.1 Marketing offline 
+4.2 Marketing online 
+4.3 Planeación y desarrollo de campaña turística 
+4.3.1 Propuesta offline 
+         4.3.2 Propuesta online 
+         4.3.3 Desarrollo de campaña 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1.  Introducción al Marketing Digital 
+
+Competencias Actividades de aprendizaje 
+
+Específica:   
+• Realizar una infografía que parta de la 
+
+• Identificar la evolución del historia del marketing tradicional, 
+marketing tradicional, hasta la hasta la llegada del marketing digital. 
+llegada del marketing digital.  
+ • Ejecutar una lluvia de ideas que 
+
+• Reconocer los conceptos básicos contenga 20 palabras que tengan que 
+del marketing digital. ver con medios digitales; 
+
+posteriormente, en equipos de 
+Genéricas: 
+
+trabajo, elaborar un glosario 
+asistiendo a diversas fuentes de 
+
+• Capacidad de abstracción, análisis 
+y síntesis. información. 
+
+  
+• Capacidad de comunicación oral y • Investigar una “lovemark” y llevar a 
+
+escrita. cabo un análisis justificando el por qué 
+ se considera como tal. 
+  
+
+• Habilidades para buscar, procesar 
+• Realizar un mapa mental sobre un 
+
+y analizar información procedente 
+de fuentes diversas. influencer, destacando su trayectoria. 
+
+  
+
+• Trabajo en equipo. • Realizar un buyer persona sobre su 
+• Habilidad para trabajar en forma negocio turístico. 
+
+autónoma. 
+ 
+
+2. Social Media Marketing 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Específica(s): • Abrir dos páginas en las plataformas 
+
+seleccionadas, de acuerdo con el 
+• Conocer, analizar e implementar proyecto turístico de inicio. 
+
+las diferentes redes sociales,  
+
+aunado a su contenido y • Planear un storytelling del proyecto 
+
+estrategias, dentro de un proyecto turístico seleccionado (e manera 
+textual). 
+
+turístico. 
+ 
+
+Genéricas: • Planear los contenidos de un mes, 
+dentro de las dos redes sociales 
+seleccionadas, realizando 
+
+• Habilidades para buscar, procesar 
+posteriormente, la calendarización de 
+
+y analizar información procedente 
+los contenidos (ambas plataformas). 
+
+de fuentes diversas.  
+ • Realizar un customer journey de su 
+
+• Habilidades en el uso de las proyecto turístico, además de 
+Tecnologías de la Información y de recapitular su buyer persona; 
+
+la comunicación. acompañando lo anterior de un FODA 
+digital, análisis de la competencia y 
+
+ 
+objetivos dentro del entorno digital (a 
+
+ cumplirse con lo antes planeado). 
+• Capacidad de trabajo en equipo.  
+
+ • Llevar a cabo 4 post (planeados 
+• Capacidad de comunicación oral y anteriormente), dos de cada 
+
+escrita. plataforma seleccionada, a través de 
+la plataforma CANVA. 
+
+ 
+ 
+
+ 
+• Hacer una propuesta de inversión, de 
+
+• Capacidad de abstracción, análisis acuerdo con el tipo de proyecto y el 
+y síntesis. alcance de este, realizando el ROI y el 
+ ROAS de su proyecto turístico. 
+  
+
+3. E- turismo 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+• En equipos de trabajo identificar los 
+
+• Reconocer los aspectos y objetivo diferentes negocios electrónicos y 
+del e-turismo, e implementar las elaborar un cuadro comparativo, en 
+
+herramientas pertinentes para el donde se plasmen las características, 
+accesibilidad como proveedor, así 
+
+negocio turístico. 
+como usuario, ventajas y desventajas. 
+
+  
+
+Genéricas: • Investigar un ejemplo de cada 
+modalidad de comercio electrónico, y 
+comentarlo en plenaria. 
+ 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Habilidades para buscar, procesar • Abrir su página Google mi negocio 
+
+y analizar información procedente (proyecto turístico). 
+
+de fuentes diversas.  
+
+ 
+• Habilidades en el uso de las 
+
+Tecnologías de la Información y de 
+la comunicación. 
+ 
+ 
+
+• Capacidad de trabajo en equipo. 
+ 
+
+• Capacidad de comunicación oral y 
+escrita. 
+ 
+ 
+
+• Capacidad de abstracción, análisis 
+y síntesis. 
+ 
+
+4. Blended Marketing 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):     
+• Realizar la propuesta de las 
+
+• Ejecutar una campaña herramientas a utilizar en la campaña 
+promocional offline y online dentro turística offline. 
+
+de un proyecto turístico.  
+
+ • Realizar la propuesta de las 
+herramientas a utilizar en la campaña 
+
+Genéricas: online. 
+ 
+
+• Capacidad de aplicar los • Desarrollar la campaña del proyecto 
+
+conocimientos en la práctica. turístico, implementando los 
+conocimientos adquiridos en los 
+
+ 
+temas anteriores. 
+
+• Habilidades en el uso de las  
+Tecnologías de la Información y de 
+la comunicación. 
+
+• Capacidad de trabajo en equipo. 
+ 
+
+• Capacidad de comunicación oral y 
+escrita. 
+ 
+ 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Habilidades interpersonales. 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+1. Visitas a MiPymes de su localidad para diagnosticar si existe o no la aplicación 
+del marketing digital y el e-turismo. 
+ 
+
+2. Análisis de una empresa turística, desde las dos vertientes fundamentales: offline 
+y online (prosumidores, redes sociales, comercio electrónico, espectaculares, 
+promoción de ventas, etc.) 
+ 
+
+3. Investigar en Google los diferentes giros de negocio, además de la cantidad de 
+cada uno de ellos con presencia online.  
+ 
+
+4. Diseño e implementación de una campaña promocional online y offline de su 
+proyecto turístico abarcando mercados locales, nacionales e internacionales. 
+ 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10. Evaluación por competencias 
+
+Página | 9  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Son las técnicas, instrumentos y herramientas sugeridas para constatar los desempeños 
+académicos de las actividades de aprendizaje. 
+
+Para verificar el avance en las competencias específicas y genéricas del estudiante 
+debemos solicitar: 
+
+EVIDENCIAS DE APRENDIZAJE: 
+
+• Argumentación 
+
+• Buyer 
+
+• Calendarización 
+
+• Campaña publicitaria  
+
+• Cuadro comparativo 
+
+• FODA digital 
+
+• Glosario 
+
+• Infografía 
+
+• Lluvia de ideas 
+
+• Mapa mental 
+
+• Post 
+
+• Propuesta  
+
+• Storytelling 
+
+ 
+
+INSTRUMENTOS: 
+
+• Rúbrica  
+
+• Lista de cotejo 
+
+• Matriz de valoración  
+
+• Guía de observación  
+
+• Portafolio de evidencias 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 10  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+11. Fuentes de información 
+
+ 
+
+1. Diaz-Aroca, E. (2017). Social selling: la nueva herramienta de ventas.  
+
+2. Estrade Nieto, J. M. Jordán Soro, D. & Hernández Dauder, M. Á. (2015). 
+
+Marketing digital: marketing móvil, SEO y analítica web. Difusora Larousse 
+
+- Ediciones Pirámide. https://elibro.net/es/lc/itzacatepec/titulos/49491 
+
+3. Godin, S. (1999). Permission Marketing: Turning Strangers Into Friends 
+
+and Friends Into Customers. Simon & Schuster. 
+
+4. Godin, S. (2019). La vaca púrpura. Ediciones culturales Paidos. 
+
+5. Handley, A. (2014). Everybody writes. Wiley. 
+
+6. Holiday, R. (2014). Growth Hacker Marketing: El Futuro Del Social Media 
+
+Y La Publicidad. Social Business.  
+
+7. Kaushik, A. (2009). Web analytics 2.0: The Art of Online Accountability and 
+
+Science of Customer Centricity. Sybex. 
+
+8. Koomen, P. (2015). A/B Testing: the most powerful way to turn clicks into 
+
+custumers. 
+
+9. Kotler, P. (2016). Marketing 4.0 moving fron traditional to digital. Wiley. 
+
+10. Level Communications, H. Maciá, F. (Dir.) & Santoja, M. (Dir.). (2018). 
+
+Marketing en redes sociales. Difusora Larousse - Anaya Multimedia. 
+
+https://elibro.net/es/lc/itzacatepec/titulos/122932 
+
+11. Paico, L. (2020). Hackeando el cerebro de tus compradores: 
+
+PsychoGrowth. Kindle. 
+
+12. Pollit, C. (2014). 51 things your mother taught you about inbound 
+
+marketing: a marketing primer for the social age. Kindle. 
+
+13. Rodríguez, I. (2021). Marketing Digital Y Comercio Electrónico. Ediciones 
+
+Pirámide. 
+
+14. Rosales, P. (2010). Estrategia Digital: Cómo usar las nuevas tecnologías 
+
+mejor que la competencia. Deusto 
+
+15. Vaynerchuk, G. (2013). Jab, jab,  jab, right hook, how to tell your story in a 
+
+noisy social world. Harper Business. 
+
+16. Weinberg, G. (2015). Traction. Portfolio. 
+
+Página | 11  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+17. Wunker, S. (2016). Jobs to be done a roadmap for custumer-centered 
+
+innovation. Amacom. 
+
+  
+ 
+REVISTAS 
+ 
+Varios, A. (2017). Revista Observatorio Ecommerce (10). Observatorio eCommerce. 
+
+https://elibro.net/es/lc/itzacatepec/titulos/121980 
+
+ 
+ 
+
+ 
+
+Página | 12

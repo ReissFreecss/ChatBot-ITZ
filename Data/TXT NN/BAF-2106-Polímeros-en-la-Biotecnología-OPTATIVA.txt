@@ -1,0 +1,670 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura:  Polímeros en la Biotecnología 
+
+   
+
+Clave de la asignatura: BAF-2106 
+
+  
+
+SATCA[1]: 3-2-5 
+
+  
+
+Carrera: Ingeniería Bioquímica 
+
+  
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Los polímeros son moléculas utilizadas en todos los aspectos de la vida; desde 
+alimentación, farmacia y medicina, hasta nuevas tecnologías de materiales; por 
+lo cual la demanda de éstos se encuentra en aumento, debido a estas 
+necesidades, es indispensable buscar alternativas de polímeros de origen 
+natural, que tengan efectos menos dañinos sobre el medio, teniendo en 
+consideración que la biotecnología es una herramienta que utiliza a los 
+organismos vivos o sus partes para la producción de bienes y/o servicios, ésta 
+puede ofrecer soluciones a los retos que se presentan en el conocimiento, 
+demanda, producción y mejora de los biopolímeros 
+
+El proceso educativo en la materia de los polímeros en la biotecnología 
+contribuye a la formación de la personalidad del alumno, el desarrollo de sus 
+habilidades intelectuales y la evolución de sus formas de pensamiento 
+mediante la adquisición de conocimientos, valores y actitudes, entre otros: 
+lectura y comprensión de textos diversos, particularmente científicos, escolares 
+o de divulgación; incorporación de nuevas formas de expresión química e 
+incremento de su lenguaje técnico y modos de argumentación habituales en 
+los que respecta a los polímeros en la biotecnología. 
+
+La asignatura proporciona al estudiante, los conocimientos básicos para la 
+identificación, caracterización y fabricación de materiales poliméricos que 
+pueden ser aplicados en la biotecnología, así como el tipo de reacciones que 
+intervienen para su obtención. Forma parte de la etapa de énfasis de su 
+formación académica, siendo una asignatura optativa que se relaciona con las 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+asignaturas a lo largo de su formación como lo son Química Orgánica, Análisis 
+Instrumental, Microbiología, así como las Operaciones Unitarias, desarrollando 
+los conocimientos y aplicaciones específicos enfocados en los polímeros que 
+pueden ser utilizados para la biotecnología y sustentando en la independencia 
+del petróleo.  
+
+Intención didáctica 
+
+El curso de Polímeros en la Biotecnología consta de 5 unidades temáticas, 
+haciendo énfasis en la importancia de los Polímeros involucrados en la 
+biotecnología en donde las diferentes áreas de la ciencia, industria, alimentos, 
+salud, entre otros intervienen. En el primer tema se analizan conocimientos 
+generales de los polímeros para poder abordar los biopolímeros microbianos 
+mencionando sus características, función, métodos de extracción y sus 
+aplicaciones en la biotecnología. En el segundo tema se abordan los 
+biopolímeros de plantas y algas, su clasificación, características, métodos de 
+extracción y aplicaciones en la biotecnología. En el tercer tema se analiza lo 
+relacionado con los biopolímeros de animales en la biotecnología analizando la 
+estructura, características, función biológica y aplicaciones. El tema 4 se 
+plantea analizar la caracterización de Biopolímeros. Culminando con el tema 5, 
+con las aplicaciones de biopolímeros en la biotecnología relacionados con 
+diferentes ramas como lo son la industria alimentaria, farmacéutica, 
+cosméticos, ciencia de los materiales y tratamiento de aguas y ciencias 
+ambientales. Los temas están desarrollados de tal forma que fomenten el 
+desarrollo de habilidades de análisis, investigación y trabajo en equipo. Es 
+conveniente que se procure que en las investigaciones se utilice las fuentes 
+confiables, a fin de vincular los conocimientos adquiridos en el aula con lo que 
+se está llevando a cabo en la práctica. La lista de actividades de aprendizaje no 
+es exhaustiva, se sugieren sólo las necesarias para hacer el aprendizaje más 
+significativo. Las investigaciones deberán realizarse como una actividad 
+extraclase y al comenzar la actividad en el aula, se mostrarán los resultados 
+obtenidos. La finalidad es que el estudiante aprenda a buscar e interpretar la 
+relación que tienen los polímeros en la biotecnología, además, también se debe 
+procurar que el estudiante analice su entorno y reconozca la aplicación que 
+estos tienen y su importancia. En las actividades de aprendizaje sugeridas, se 
+propone la formalización de los conceptos a partir de experiencias concretas; 
+se busca que el alumno investigue los conceptos, los analice y a partir de ello, 
+formule los propios. Se propone que se diseñen casos prácticos. En el 
+transcurso de las actividades programadas es muy importante que los 
+estudiantes aprendan a valorar las actividades que llevan a cabo y comprendan 
+que están construyendo su futuro y en consecuencia actúe de manera 
+profesional; de igual manera, la importancia del conocimiento y los hábitos de 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+trabajo; desarrolle la capacidad de relacionar los temas abordados con la 
+importancia que tienen en diferentes ramas de la industria e investigación, así 
+como desarrollar la curiosidad, puntualidad, entusiasmo, el interés, la 
+flexibilidad y la autonomía. 
+
+ 
+ 3. Participantes en el diseño y seguimiento curricular del programa 
+
+      
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Areli Marlen Salgado Desarrollo de planes y 
+Zacatepec 25 de enero Delgado programas del módulo 
+2021   de especialidad de la 
+
+ carrera de Ingeniería 
+Cinthya Dinorah Arrieta Bioquímica. 
+González.  
+ 
+
+Alberto Álvarez Castillo 
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Comprender el origen de los biopolímeros que se involucran en la 
+biotecnología, así como sus características y propiedades más importantes, lo 
+cual facilitará el entendimiento del uso de éstos en las diversas industrias, así 
+como entender la producción y mejora mediante herramientas 
+biotecnológicas y sus aplicaciones. 
+
+5. Competencias previas 
+
+Conoce la estructura y composición química de carbohidratos, lípidos, 
+aminoácidos y proteínas, ácidos nucleicos, enzimas, vitaminas y minerales, 
+pigmentos 
+
+Conoce conceptos básicos de química y bioquímica 
+
+Analiza de manera crítica y reflexiva el actuar ético en su entorno inmediato y 
+contexto social y profesional.  
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+Aplica herramientas metodológicas de investigación en la elaboración de 
+escritos académicos.  
+
+Adquiere y construye conocimientos que fortalezcan su desarrollo profesional. 
+
+Comprende la organización bioquímica de la célula  
+
+Conoce y aplica conocimientos de procesos de separación 
+
+Conoce conceptos del espectro electromagnético, absorción y emisión de luz 
+aplicados a técnicas analíticas de caracterización. 
+
+Aplica conocimiento relacionados con la organización estructural de los 
+microorganismos 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Biopolímeros 1.1 Polímeros y biopolímeros, su 
+microbianos clasificación. 
+
+1.2 Biopolímeros intracelulares y 
+extracelulares de microorganismos 
+
+1.3 Estructura, características, función 
+biológica.  
+
+1.4 Producción y métodos de extracción.  
+
+1.5 Aplicaciones biotecnológicas.  
+
+1.6 Polisacáridos 
+
+1.7 Enzimas 
+
+1.8 Otros biopolímeros microbianos 
+
+2 Biopolímeros de 2.1. Biopolímeros en plantas.  
+Plantas y Algas. 
+
+2.1.1. Estructura, características y 
+función biológica.  
+
+2.1.2. Producción y métodos de 
+extracción.  
+
+2.1.3. Almidón. 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+2.1.4 Celulosa. 
+
+2.1.5 Hemicelulosa. 
+
+2.1.6 Pectina. 
+
+2.1.7 Lectinas. 
+
+2.1.8 Lignina. 
+
+2.1.9 Goma guar. 
+
+2.1.10. Aplicaciones biotecnológicas.  
+
+2.2. Biopolímeros en algas.  
+
+2.2.1. Estructura, características y 
+función biológica.  
+
+2.2.2. Producción y métodos de 
+extracción.  
+
+2.2.3. Carragenano. 
+
+2.2.4. Agarosa. 
+
+2.2.5 Goma arábica. 
+
+2.2.6 Alginato. 
+
+2.2.7 Aplicaciones biotecnológicas.  
+
+3 Biopolímeros 3.1. Estructura, características, función 
+Animales. biológica, y aplicaciones biotecnológicas.  
+
+3.1.1. Quitina, quitosano.  
+
+3.1.2. Queratina.  
+
+3.1.3. Colágeno.  
+
+3.1.4. Ácido hialurónico  
+
+3.1.5. Caseínas.  
+
+3.1.6. Gelatina, miosina, actomisina. 
+
+4 Caracterización de 4.1. Microscopia electrónica de barrido. 
+Biopolímeros 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+4.2. Espectroscopia de Infrarrojo con 
+Transformada de Fourier 
+
+4.3. Análisis Térmico. 
+
+4.3.1. Calorimetría Diferencial de 
+Barrido. 
+
+4.3.2. Termogravimetría. 
+
+4.4. Degradación 
+
+ 4.4.1. Química. 
+
+4.4.2. Biológica. 
+
+4.5. Permeabilidad. 
+
+4.5.1. Al vapor de agua 
+
+4.5.2. Al CO2 
+
+5 Aplicaciones 5.1. Industria alimentaria.  
+Biotecnológicas 
+
+5.2. Industria farmacéutica.  
+
+5.3. Cosméticos.  
+
+5.4. Ciencia de los materiales. 
+
+5.5. Medicina 
+
+5.6. Tratamiento de aguas y ciencias 
+ambientales. 
+
+  
+
+7. Actividades de aprendizaje de los temas 
+
+Biopolímeros microbianos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conoce y determina los Evaluar métodos de producción de 
+métodos de aplicación de los diferentes biopolímeros microbianos 
+microorganismos para la producción útiles en la industria.  
+de biopolímeros de interés práctico. 
+
+Revisar los conceptos más 
+importantes y de relevancia de los 
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+Genéricas:  polímeros en la biotecnología a través 
+
+del análisis de artículos científicos y/o 
+• Capacidad de análisis y síntesis. libros de texto 
+• Habilidad para búsqueda de 
+
+información. 
+• Capacidad para trabajar en 
+
+equipo.  
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico. 
+
+Biopolímeros de Plantas y Algas. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Identifica las diferencias Estructurar un cuadro sinóptico con 
+de biopolímeros de algas y plantas.  las características de cada división que 
+Conoce las principales características, componen los biopolímeros de las 
+estructura y su función biológica. algas y plantas. Elaborar un listado 
+Conoce las diferentes aplicaciones sobre las diferentes aplicaciones en la 
+biotecnológicas. biotecnología.  
+
+Genéricas:  Elaborar un reporte sobre un 
+problema de la región o nacional 
+
+• Capacidad de análisis y síntesis. haciendo su análisis y recomendando 
+• Habilidad para búsqueda de las soluciones fundamentadas bajo los 
+
+información. conceptos que se vean en el tema. 
+• Capacidad para trabajar en 
+
+equipo.  
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico 
+
+Biopolímeros Animales. 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Identifica las diferencias Estructurar un cuadro sinóptico con 
+de biopolímeros de animales.  Conoce las características de cada división que 
+las principales características, componen los biopolímeros de 
+estructura y su función biológica. animales. Elaborar un listado sobre las 
+Conoce las diferentes aplicaciones diferentes aplicaciones en la 
+biotecnológicas. biotecnología.  
+
+Genéricas:  Elaborar un reporte sobre un 
+problema de la región o nacional 
+
+• Capacidad de análisis y síntesis. haciendo su análisis y recomendando 
+• Habilidad para búsqueda de las soluciones fundamentadas bajo los 
+
+información. conceptos que se vean en el tema. 
+• Capacidad para trabajar en 
+
+equipo.  
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico 
+
+Caracterización de Biopolímeros 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Conoce las principales Investigar los fundamentos de las 
+técnicas de caracterización de los técnicas de microscopia electrónica 
+biopolímeros, sus bases, sus alcances y de barrido, espectroscopia de 
+sus limitaciones. Así como el tipo de Infrarrojo con Transformada de 
+información que le proporcionan Fourier, Análisis Térmico, estudios de 
+éstas. degradación e Impacto ambiental 
+
+para los biopolímeros. 
+Genéricas:  
+
+Investigar y analizar las normas 
+• Capacidad de análisis y síntesis. empleadas para los estudios de 
+• Habilidad para búsqueda de degradación e Impacto ambiental 
+
+información. 
+• Capacidad para trabajar en 
+
+equipo.  
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico 
+
+Aplicaciones Biotecnológicas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Conoce las aplicaciones Realizar una investigación sobre las 
+más importantes de los biopolímeros diferentes aplicaciones que tienen los 
+en el desarrollo de la biotecnología en biopolímeros en la biotecnología en la 
+las áreas de la Industria alimentaria, industria. Discutir y formalizar 
+industria farmacéutica, cosméticos, grupalmente lo investigado. Realizar 
+ciencia de los materiales, tratamiento un debate en clase de sus 
+de aguas y ciencias ambientales. implicaciones socioeconómicas y 
+
+efectos en la vida diaria basados en 
+Genéricas:  información obtenida de artículos 
+
+• Capacidad de análisis y síntesis. científicos. 
+• Habilidad para búsqueda de Analizar cuáles son los biopolímeros 
+
+información. más utilizados en estas áreas. 
+• Capacidad para trabajar en 
+
+equipo.   
+• Habilidad en el uso de 
+
+tecnologías de información y 
+comunicación.  
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Uso de lenguaje científico-
+tecnológico 
+
+  
+
+8. Práctica(s) 
+
+1. Extracción de productos biológicos de diferentes tipos de materiales. 
+2. Obtención comparativa de productos biológicos utilizando diferentes 
+
+técnicas. 
+3.  Análisis de proteínas utilizando los métodos espectroscópicos de Bradford 
+
+y Lowry, en el visible. 
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+4. Análisis espectroscópico de biopolímeros utilizando la región ultravioleta 
+
+del espectro. 
+5. Cromatografía de diferentes tipos de biopolímeros o muestras biológicas.  
+
+  
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, 
+legal) en el cual se fundamenta el proyecto de acuerdo con un 
+diagnóstico realizado, mismo que permite a los estudiantes lograr la 
+comprensión de la realidad o situación objeto de estudio para definir 
+un proceso de intervención o hacer el diseño de un modelo. 
+
+  
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño 
+del proyecto por parte de los estudiantes con asesoría del docente; 
+implica planificar un proceso: de intervención empresarial, social o 
+comunitario, el diseño de un modelo, entre otros, según el tipo de 
+proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+
+  
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto 
+realizada por parte de los estudiantes con asesoría del docente, es decir 
+en la intervención (social, empresarial), o construcción del modelo 
+propuesto según el tipo de proyecto, es la fase de mayor duración que 
+implica el desempeño de las competencias genéricas y especificas a 
+desarrollar. 
+
+  
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo 
+el concepto de “evaluación para la mejora continua”, la metacognición, 
+el desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+10. Evaluación por competencias  
+
+• Exposiciones en forma individual y grupal de las investigaciones 
+documentales realizadas 
+
+• Elaboración de mapas conceptuales de los temas vistos  
+• Participación en clase y actitud  
+• Entrega de tareas  
+• Exámenes escritos 
+• Resolución de problemas  
+• Reporte escrito de las prácticas de laboratorio  
+• Se sugiere la elaboración de un Proyecto 
+
+ 
+
+ 
+
+11. Fuentes de información 
+
+• Chiellini, E., Gil, H., Braunegg G. 2001. Biomedical polymers: sustainable 
+polymer science and technology. International Conference on Biopolymer 
+Technology. Estados Unidos de América.  
+
+• Clark, J., Kraus, G. 2011. A Handbook of Applied Biopolymer Technology 
+Synthesis, Degradation and Applications. Royal Society of Chemistry. 
+Cambridge, Reino Unido.  
+
+• Elnashar M. 2011. Biotechnology of biopolymers. InTech. Rijeka, Croacia.  
+• Ebnesajjad, S. 2013. Handbook of Biopolymers and biodegradable plastics 
+
+Properties, processing, and aplications. Elsevier. Estados Unidos.  
+• Hollander, A., Hatton. Biopolymer Methods in Tissue Engineering. Volume 
+
+238.  
+• Kasapis, S., Norton, I., Ubbinink, J. 2009. Modern Biopolymer Science. 
+
+Bridging the divide between Fundamental Treatise and Industrrial 
+Application Elsevier. Estados unidos de América.  
+
+• New, N. 2015. Biopolymers Based Micro- and Nano- Materials. The American 
+Society of Mechanical Engineers, Nueva York, Estados Unidos de América.  
+
+• Renard, D., Della Valle, G., Popineau, Y. 2001. Plant Biopolymer Science Food 
+and Non-food Applications. Royal Society of Chemistry. Cambridge, Reino 
+Unido.  
+
+• Richard F. Grossman and Domasius Nwabunma, Series Editors. Biopolymer 
+nanocomposites processing, properties, and applications. 2013 by John 
+Wiley & Sons, Inc, Nueva Jersy, Estados Unidos.  
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+• Sabu T., Durand D., Chassenieux C., Jyotishkumar, P. 2013. Handbook of 
+
+Biopolymer-Based Materials. Wiley-VCH Verlag GmbH & Co. Weinheim, 
+Germany. 
+
+• Tamas S. 2007. Biopolymer Research Trends. Nemeth Publisher: Nova 
+Science Publishers.  
+
+• Tiwari, A., Ravi B. 2012. Srivastava Biotechnology in Biopolymers 
+Developments, Applications & Challenging Areas. Smithers Group 
+Company. Reino Unido.  
+
+• Wahlund, K., Nilsson L. Kim. 2102. Field-Flow Fractionation in Biopolymer 
+Analysis Author SpringerVerlag Wien 
+
+  
+
+ 
+ 
+ 
+
+Página | 12

@@ -1,0 +1,977 @@
+﻿Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+1. Datos Generales de la asignatura 
+Nombre de la asignatura: Mecánica de rocas 
+
+Clave de la asignatura: POR-1503 
+SATCA1: 2-1-3 
+Carrera: Ingeniería civil 
+
+ 
+
+2. Presentación 
+Caracterización de la asignatura 
+Aportación al perfil de egreso 
+Esta asignatura aporta al perfil del Ingeniero Civil los conocimientos complementarios 
+para el análisis de las propiedades mecánicas de rocas. 
+ 
+Importancia de la asignatura 
+La importancia de esta asignatura radica en que todas las obras de Ingeniería Civil 
+requieren obras de infraestructura, por lo cual es importante en la malla curricular de un 
+Ingeniero Civil. 
+ 
+Puesto que esta materia es la aplicación con desempeños profesionales; se inserta en 
+los últimos semestres de la carrera; después de cursar las materias de mecánica de 
+suelos aplicada y cimentaciones. De manera particular, lo trabajado en esta asignatura 
+se aplica en el campo de la Ingeniería Civil, en la solución de problemas de geotecnia, 
+contribuyendo así al desarrollo del conocimiento científico y tecnológico. 
+ 
+Contenido 
+Se organiza el temario, en siete unidades,  que contemplan los contenidos conceptuales 
+de la asignatura, que aplican las teorías en la solución de problemas geotécnicos. 
+ 
+En la primera unidad se introduce a la mecánica de rocas su campo de aplicación y 
+naturaleza de las mismas 
+ 
+En la segunda unidad se estudian los fundamentos de la mecánica de rocas, su 
+variabilidad, fracturas, cavernas, túneles y refracción sísmica. 
+ 
+En la unidad tres se analizan los estudios de campo y laboratorio de la mecánica de 
+rocas. 
+ 
+En la unidad cuatro se estudian las Propiedades índice y mecánicas de la roca, así como 
+su permeabilidad hidráulica y conductividad, resistencia a la compresión, desgaste y 
+durabilidad, la y otras propiedades físicas 
+ 
+En la unidad cinco se estudian la clasificación geomecánica de los macizos rocosos, sus 
+discontinuidades y caracterización de los macizos rocosos. 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ 
+En la unidad seis se estudian las propiedades mecánicas de los macizos rocosos, su 
+resistencia, deformabilidad y permeabilidad. 
+ 
+En la unidad siete se estudian la aplicación de la mecánica de rocas a las obras civiles, 
+la estabilidad de taludes y las excavaciones subterráneas para las cimentaciones 
+ 
+Para integrarla se ha hecho un análisis del campo de la aplicación de la Mecánica de 
+rocas, identificando los temas que tienen una mayor importancia para aplicar las teorías 
+en la solución de problemas de geotecnia. 
+ 
+Relación con otras asignaturas. 
+Esta materia retoma las competencias desarrolladas en varias materias de la carrera de 
+ingeniería civil siendo las más directamente relacionadas: Mecánica de Suelos, Mecánica 
+de Suelos Aplicada. 
+ 
+Competencias específicas retomadas de materias anteriores 
+• Aplicar los conocimientos de las propiedades índices de un suelo. 
+• Identificar y clasificar un suelo. 
+• Calcular el coeficiente de permeabilidad de un suelo. 
+• Calcular el peso específico seco máximo y humedad óptima en el laboratorio y el 
+
+campo de una muestra de suelo. 
+• Calcular el grado de compactación de un suelo y su comportamiento mecánico. 
+• Capacidad de abstracción, análisis y síntesis para resolver problemas Interpretar los 
+
+fenómenos de consolidación. 
+• Aplicar la teoría existente para determinar la teoría de la resistencia al esfuerzo 
+
+cortante en suelos. 
+• Determinar los esfuerzos principales, esfuerzo desviador de suelo aplicando el 
+
+círculo de Mohr y la teoría de polo. 
+• Identificar las propiedades de los suelos que definen su comportamiento mecánico. 
+• Identificar las los principio básicos de la Geología. 
+• Identificar los tipos de rocas que intervienen en la formación de los suelos y su 
+
+origen. 
+• Identificar el ciclo geológico y las Heras geológicas. 
+
+ 
+En las actividades de aprendizaje sugeridas, generalmente se propone la formalización 
+de los conceptos a partir de problemas reales; se busca que el alumno tenga contacto 
+con el concepto en forma concreta y sea a través de la observación, la reflexión y la 
+aplicación que se dé la formalización; la resolución de problemas que se hará después 
+de este proceso. 
+ 
+En el transcurso de las actividades programadas es muy importante que el estudiante 
+aprenda a valorar las actividades que lleva a cabo y entienda que está construyendo su 
+hacer futuro y en consecuencia actúe de una manera profesional; de igual manera, 
+aprecie la importancia del conocimiento y los hábitos de trabajo; desarrolle la precisión y 
+la curiosidad, la puntualidad, el entusiasmo y el interés, la tenacidad, la flexibilidad y la 
+
+Página | 2  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+autonomía.  Es necesario que el profesor ponga atención y cuidado en estos aspectos 
+en el desarrollo de las actividades de aprendizaje de esta asignatura. 
+ 
+Respecto a la extensión y profundidad de los temas, se analiza lo básico y se le permite 
+al estudiante extenderse y profundizarse en algunos temas de su inquietud. Lo anterior, 
+promueve el desarrollo de sus competencias genéricas como son: capacidad de análisis 
+y síntesis, capacidad de organización y planificación, el desarrollo de su comunicación 
+oral y escrita, la solución de problemas y la toma de decisiones; estas competencias 
+genéricas, se están desarrollando en el tratamiento de los contenidos de esta asignatura.   
+ 
+Intención didáctica 
+
+Forma de abordar los contenidos. 
+El desarrollo de cada unidad de aprendizaje se realizara mediante el análisis de 
+situaciones reales que se presenta en la construcción de obras de infraestructura.  
+ 
+Enfoque. 
+El enfoque sugerido para la materia, requiere que las actividades posteriores al 
+tratamiento teórico de los temas promuevan el desarrollo de habilidades para la solución 
+de problemas reales: identificación, manejo y control de variables y datos relevantes; 
+planteamiento de hipótesis, propicien procesos intelectuales como inducción-deducción 
+y análisis-síntesis con la intención de generar una actividad intelectual compleja; por esta 
+razón las actividades teóricas se han descrito de manera que no sean una mera 
+corroboración de lo visto previamente en clase, sino una oportunidad para su aplicación 
+en la solución de problemas geotécnicos. Para que el alumno aprenda a razonar los 
+problemas, y que no razone el profesor por ellos, sino involucrarlos en el proceso de 
+solución de problemas. 
+ 
+Extensión y profundidad 
+Respecto a la extensión y profundidad de los temas, se analiza lo básico y se le permite 
+al estudiante extenderse y profundizarse en algunos temas de su inquietud. Lo anterior, 
+promueve el desarrollo de sus competencias genéricas como son: capacidad de análisis 
+y síntesis, capacidad de organización y planificación, el desarrollo de su comunicación 
+oral y escrita, la solución de problemas y la toma de decisiones; estas competencias 
+genéricas, se están desarrollando en el tratamiento de los contenidos de esta asignatura.   
+ 
+Actividades a desarrollar por el estudiante. 
+En las actividades de aprendizaje sugeridas, generalmente se propone la formalización 
+de los conceptos a partir de problemas reales; se busca que el alumno tenga contacto 
+con el concepto en forma concreta y sea a través de la observación, la reflexión y la 
+aplicación que se dé la formalización; la resolución de problemas que se hará después 
+de este proceso. 
+Actividades propuestas; Búsquedas bibliográficas, elaboración de síntesis, exposiciones 
+orales, solución de casos de aprendizaje, visitas a obras de en proceso de construcción 
+y en operación  
+
+Página | 3  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ 
+En el transcurso de las actividades programadas es muy importante que el estudiante 
+aprenda a valorar las actividades que lleva a cabo y entienda que está construyendo su 
+hacer futuro y en consecuencia actúe de una manera profesional; de igual manera, 
+aprecie la importancia del conocimiento y los hábitos de trabajo; desarrolle la precisión y 
+la curiosidad, la puntualidad, el entusiasmo y el interés, la tenacidad, la flexibilidad y la 
+autonomía. 
+ 
+Competencias genéricas: 
+Competencias instrumentales 
+
+• Capacidad de análisis y síntesis 
+• Conocimientos generales básicos 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la computadora. 
+• Habilidad para buscar y analizar información proveniente de fuentes diversas 
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas (creatividad) 
+• Habilidad para trabajar en forma autónoma 
+• Capacidad para diseñar y gestionar proyectos 
+• Iniciativa y espíritu emprendedor 
+• Preocupación por la calidad y el medio ambiente. 
+
+ 
+Papel de docente. 
+Formación Académica: Ingeniero civil o Ingeniero Geólogo 
+ 
+Experiencia profesional: Práctica profesional en el área de la geotecnia, en docencia e 
+investigación vinculada con la geotecnia. 
+ 
+Aptitudes y Actitudes: Que el profesor mantenga actualizados sus conocimientos del área 
+además de que mantenga una formación contante desde el punto de vista docente. Tener 
+una actitud de apertura y escucha que facilite el aprendizaje de los alumnos.  
+      
+Es necesario que el profesor ponga atención y cuidado en estos aspectos en el desarrollo 
+de las actividades de aprendizaje de esta asignatura. 
+
+Página | 4  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ 
+El profesor deberá remarcar el enfoque interdisciplinario que tiene el diseño de obras de 
+infraestructura. 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Academia de Ingeniería Reunión de academia de 
+Zacatepec, Mayo 2015 Civil del Instituto Tecnoló- Ingeniería Civil de fecha 28 
+ gico de Zacatepec de mayo de 2015 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+ Aplicar los conceptos básicos del comportamiento mecánico e hidráulico de los 
+
+macizos rocosos. 
+ Describir las técnicas de análisis de los macizos rocosos 
+ Identificación de las propiedades índice y mecánicas de rocas 
+ Diseño  de obras civiles en roca.   
+
+ 
+5. Competencias previas 
+
+• Aplicar los conocimientos de las propiedades índices de un suelo. 
+• Identificar y clasificar un suelo. 
+• Calcular el coeficiente de permeabilidad de un suelo. 
+• Calcular el peso específico seco máximo y humedad óptima en el laboratorio y el 
+
+campo de una muestra de suelo. 
+• Calcular el grado de compactación de un suelo y su comportamiento mecánico. 
+• Capacidad de abstracción, análisis y síntesis para resolver problemas Interpretar los 
+
+fenómenos de consolidación. 
+• Aplicar la teoría existente para determinar la teoría de la resistencia al esfuerzo 
+
+cortante en suelos. 
+• Determinar los esfuerzos principales, esfuerzo desviador de suelo aplicando el 
+
+círculo de Mohr y la teoría de polo. 
+• Identificar las propiedades de los suelos que definen su comportamiento mecánico. 
+• Identificar las los principio básicos de la Geología. 
+• Identificar los tipos de rocas que intervienen en la formación de los suelos y su 
+
+origen. 
+• Identificar el ciclo geológico y las Heras geológicas. 
+
+ 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a la mecánica de 1. Introducción a la mecánica de rocas. 
+rocas 1.1. Conceptos generales 
+
+Página | 5  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+1.2. Aplicaciones de la mecánica de 
+rocas 
+
+2 Propiedades mecánicas de las 2. Propiedades mecánicas de las rocas 
+rocas 2.1. Clasificación geomecánica de las 
+
+rocas 
+2.2. Características de las rocas. 
+2.3. Rotura frágil de las rocas 
+2.4. Comportamiento de las rocas a 
+
+compresión 
+2.5. Propiedades físicas y mecánicas 
+
+de alguna rocas. 
+3 Propiedades mecánicas de las 3. Propiedades mecánicas de las 
+
+discontinuidades discontinuidades 
+3.1. Discontinuidades lisas 
+3.2. Discontinuidades rugosas sin 
+
+relleno 
+3.3. Influencia de la presión del agua 
+
+4 Comportamiento y caracterización 4. Comportamiento y caracterización de 
+de los macizos rocosos  los macizos rocosos 
+
+4.1. Introducción. 
+ 4.2. Caracterización de las 
+
+propiedades resistentes de pico 
+de los macizos. 
+
+4.3. Caracterización de las 
+propiedades de deformabilidad de 
+los macizos rocosos 
+
+5 Clasificación geomecánica de los 5. Clasificación geomecánica de los 
+macizos rocosos  macizos rocosos 
+
+5.1. Introducción 
+5.2. Utilidad, limitaciones y 
+
+condiciones de aplicación de las 
+clasificaciones geomecánicas 
+
+5.3. Clasificaciónes mas importantes 
+RMR-Bieniawski, Q-barton, GSI-
+Hoek  
+
+ 6 Caracterización geomecánica de 6. Caracterización geomecánica de los 
+los macizos rocosos macizos rocosos 
+
+6.1. Introducción 
+6.2. Meteorización de las rocas 
+6.3. Resistencia de las rocas 
+6.4. Estructura del macizo rocoso 
+6.5. Caracteres geomecánicos de las 
+
+discontinuidades 
+6.6. Agua en las discontinuidades 
+
+7 Tensiones naturales 7. Tensiones naturales 
+7.1. Introducción 
+7.2. El estado de tensión natural 
+7.3. Medida del campo natural de 
+
+tensiones 
+ 
+
+Página | 6  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+Nombre de tema 
+
+1 Introducción a la mecánica de rocas 
+Competencias Actividades de aprendizaje 
+
+Específica(s):  Búsqueda bibliográfica 
+ Identificación del campo de aplicación  Exposiciones orales y análisis de la 
+
+de la mecánica de rocas información. 
+Genéricas:  Elaboración de Mapa Didáctico 
+
+Competencias instrumentales  
+
+• Capacidad de análisis y síntesis 
+• Conocimientos generales básicos 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+• Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+2 Propiedades mecánicas de las rocas 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Identificación de las propiedades  Búsqueda bibliográfica 
+
+mecánicas de las rocas  Exposiciones orales y análisis de la 
+
+Genéricas: información. 
+
+Página | 7  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+Competencias instrumentales  Elaboración de Mapa Didáctico 
+• Capacidad de análisis y síntesis  Solución de casos de aplicación 
+• Conocimientos generales básicos  Ejercicios resueltos 
+• Conocimientos básicos de la carrera.  
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+3 Propiedades mecánicas de las discontinuidades 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Identificar las propiedades de las  Búsqueda bibliográfica 
+
+discontinuidades.  Exposiciones orales y análisis de la 
+
+Genéricas: información. 
+Competencias instrumentales  Elaboración de Mapa Didáctico 
+
+• Capacidad de análisis y síntesis  Solución de casos de aplicación 
+• Conocimientos generales básicos  Ejercicios resueltos 
+• Conocimientos básicos de la carrera.  
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+Página | 8  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+4 Comportamiento y caracterización de los macizos rocosos 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+ Identificar y caracterizar los macizos  Búsqueda bibliográfica 
+
+rocosos.    Exposiciones orales y análisis de la 
+
+Genéricas: información. 
+
+Competencias instrumentales  Elaboración de Mapa Didáctico 
+
+• Capacidad de análisis y síntesis  Solución de casos de aplicación 
+
+• Conocimientos generales básicos  Ejercicios resueltos 
+• Conocimientos básicos de la carrera.  
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+Página | 9  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+5 Clasificación geomecánica de los macizos rocosos 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Identificación y clasificación de los  Búsqueda bibliográfica 
+
+macizos  rocosos.   Exposiciones orales y análisis de la 
+Genéricas: información. 
+Competencias instrumentales  Elaboración de Mapa Didáctico 
+• Capacidad de análisis y síntesis  Solución de casos de aplicación 
+• Conocimientos generales básicos  Ejercicios resueltos 
+• Conocimientos básicos de la carrera.  
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+
+Página | 10  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Capacidad para diseñar y gestionar 
+proyectos 
+
+• Iniciativa y espíritu emprendedor 
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+6 Caracterización geomecánica de los macizos rocosos  
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Identificación y caracterización de los  Búsqueda bibliográfica 
+
+macizos  rocosos.   Exposiciones orales y análisis de la 
+Genéricas: información. 
+Competencias instrumentales  Elaboración de Mapa Didáctico 
+• Capacidad de análisis y síntesis  Solución de casos de aplicación 
+• Conocimientos generales básicos 
+
+ Ejercicios resueltos 
+• Conocimientos básicos de la carrera.  
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+7 Tensiones naturales 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  Búsqueda bibliográfica  
+
+Página | 11  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ Identificar las tensiones en los macizos  Exposiciones orales  
+rocosos   Elaboración de Mapa Didáctico 
+
+  Solución de casos de aplicación 
+Genéricas:  Ejercicios resueltos 
+Competencias instrumentales  Reporte visitas a obras 
+• Capacidad de análisis y síntesis  Reporte de visitas de campo. 
+• Conocimientos generales básicos  
+• Conocimientos básicos de la carrera.  Proyecto final 
+• Habilidades básicas del manejo de la  Visita de estudio al cuarto de 
+
+computadora. 
+máquinas de la presa la Yesca. 
+
+• Habilidad para buscar y analizar 
+información proveniente de fuentes 
+
+ Visita a túneles  o excavaciones 
+diversas 
+
+profundas 
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+ 
+8. Práctica(s) 
+
+ Resistencia a compresión simple de roca 
+ Ensayo de carga puntual 
+ Ensayo traxial 
+ Resistencia a tracción 
+ Visita para evaluación de un macizo rocoso  
+ Visita para evaluación de una obra de infraestructura relevante en un macizo 
+
+rocoso. 
+ 
+ 
+
+Página | 12  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+9. Proyecto de asignatura 
+Proyecto final de la materia. 
+El objetivo de este es demostrar el desarrollo y alcance de las competencias aprendidas 
+en la asignatura a una situación real. La estructura del proyecto será: 
+   
+Contenido. 
+
+ Título. 
+ Descripción del problema a atender. 
+ Alcance. 
+ Fundamentación. marco referencial (teórico, conceptual, contextual, legal) en el 
+
+cual se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo 
+que permite a los estudiantes lograr la comprensión de la realidad o situación 
+objeto de estudio para definir un proceso de intervención o hacer el diseño de un 
+modelo. 
+
+ Planeación. Con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica planificar 
+un proceso: de intervención empresarial, social o comunitario, el diseño de un 
+modelo, entre otros, según el tipo de proyecto, las actividades a realizar los 
+recursos requeridos y el cronograma de trabajo 
+
+ Ejecución. Consiste en el desarrollo de la planeación del proyecto realizada por 
+parte de los estudiantes con asesoría del docente, es decir en la intervención 
+(social, empresarial), o construcción del modelo propuesto según el tipo de 
+proyecto, es la fase de mayor duración que implica el desempeño de las 
+competencias genéricas y especificas a desarrollar.  
+
+ Evaluación. Es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento 
+de logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación 
+para la mejora continua”, la metacognición, el desarrollo del pensamiento crítico 
+y reflexivo en los estudiantes. 
+
+ 
+Proyecto propuestos. 
+
+ Evaluación de la estabilidad de taludes en zonas que represente riesgo para la 
+población. 
+
+ Diseño de obras protección para la estabilidad de taludes en zonas de riesgo 
+ 
+10. Evaluación por competencias  
+Técnicas: Autoevaluación, Co-evaluación, Hetero-evaluación. 
+Instrumentos: Listas de cotejo, Guías de observación, Matriz de evaluación. Exámenes 
+ 
+
+ 
+11. Fuentes de información 
+ 
+
+1. Ramirez Oyanguren, Alejano Monge, Mecánica de rocas: fundamentos e 
+ingeniería de taludes, Red DESIR, 2004  
+
+Página | 13  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+2. Bieniawski, Z. T. “Rock mechanics principles desing in mining and tunnneling”, 
+Balkema. 1984. 
+
+3. Goodman, Richard E. “Introduction to rock mechanics” , John Wiley and Sons. 
+1989. 
+
+4. Hoek. E. “Rock engineering”, Course notes. 
+www.rockeng.utoronto.cal/Hoekcorner.html , 2010 
+
+5. Institute of Mining and metallurgy. “Underground excavations in rock” London 
+UK. 1980 
+
+6. Jaeger, J.C. “Rock mechanics and engineering”, Cambrige University Press. UK. 
+1980. 
+
+7.  Jaeger, J.C. and Cook N.G.W., “Fundamentals of rock mechanics”, Methven, 
+London. 1969. 
+
+8. Pande, G.N., Beer. G., and Williams J.R., “Numerical methods in the rock 
+Mechanics”, John Wiley and Sons. 1990. 
+
+9. Tom Freedman. “Geocience laboratory”, John Wiley and Sons, New York. 2002 
+10. Gonzalez Vallejo L. I. “Ingeniería Geológica”, Ed. Pearson, Prentice Hall, ISBN 
+
+10:84-205-3104-9, Madrid. 2006  
+ 
+
+ 
+ 
+
+Página | 14

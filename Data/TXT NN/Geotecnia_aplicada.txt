@@ -1,0 +1,782 @@
+﻿Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+1. Datos Generales de la asignatura 
+Nombre de la asignatura: Geotecnia aplicada 
+
+Clave de la asignatura: POC-1501 
+SATCA1: 2-2-4 
+Carrera: Ingeniería Civil 
+
+ 
+
+2. Presentación 
+Caracterización de la asignatura 
+Aportación al perfil de egreso  
+Esta asignatura aporta al perfil del Ingeniero Civil los conocimientos complementarios 
+para el análisis de las propiedades hidráulicas de los suelos, diseño de cimentaciones 
+profundas, excavaciones, instrumentación y control del  comportamiento de las 
+cimentaciones.   
+ 
+Importancia de la signatura 
+La importancia de esta asignatura radica en que todas las obras de Ingeniería Civil 
+requieren obras de infraestructura, por lo cual es importante en la malla curricular de un 
+Ingeniero Civil. 
+ 
+Puesto que esta materia es la aplicación con desempeños profesionales; se inserta en 
+los últimos semestres de la carrera; después de cursar las materias de mecánica de 
+suelos aplicada y cimentaciones. De manera particular, lo trabajado en esta asignatura 
+se, aplica en el campo de la Ingeniería Civil, en la solución de problemas de geotecnia, 
+contribuyendo así al desarrollo del conocimiento científico y tecnológico. 
+ 
+Contenido 
+Se organiza el temario, en cuatro unidades, en las cuales todas ellas, contemplan los 
+contenidos conceptuales de la asignatura, los cuales son la aplicación de teorías en la 
+solución de problemas geotécnicos. 
+ 
+En la primera unidad se analizan las redes de flujo del agua a través del suelo, el 
+fenómeno de capilaridad y los sistemas para el abatimiento del nivel de aguas freáticas 
+en las excavaciones.  
+ 
+En la segunda unidad se estudian diferentes métodos para el diseño de cimentaciones 
+profundas basadas en el uso de pilotes, pilas perforadas y cajones de cimentación. 
+ 
+En la unidad tres se estudian procedimientos para realizar excavaciones, y los problemas 
+asociados como lo son las fallas de fondo y excavaciones en presencia de agua. 
+ 
+En la unidad cuatro se estudian los tipos de instrumentos para monitorear el 
+comportamiento de las cimentaciones así como la planeación para su uso. 
+
+                                                             
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ 
+Para integrarla se ha hecho un análisis del campo de la aplicación de la Mecánica de 
+Suelos, identificando los temas que tienen una mayor importancia para aplicar las teorías 
+de la Mecánica de Suelos en la solución de problemas de geotecnia. 
+ 
+Relación con otras asignaturas. 
+Esta materia retoma las competencias desarrolladas en varias materias de la carrera de 
+ingeniería civil siendo las más directamente relacionadas: Mecánica de Suelos, Mecánica 
+de Suelos Aplicada, y Diseño Estructural de Cimentaciones. 
+ 
+Competencias específicas retomadas de materias anteriores. 
+Mecánica de Suelos: 
+
+ Clasificación de suelos 
+ Determinación de la permeabilidad de los suelos 
+ Evaluación de la consolidación de los suelos 
+ Evaluación de la resistencia al esfuerzo cortante de los suelos 
+ Análisis de los factores que intervienen en el proceso de compactación de los 
+
+suelos 
+ Evaluación del grado de compactación de los suelos 
+
+Mecánica de suelos Aplicada 
+ Análisis de la distribución de presiones en el subsuelo 
+ Calculo de asentamientos 
+ Análisis de la capacidad de carga de los suelos en cimentaciones 
+ Identificar la interacción cimentación-suelo 
+ Calculo del empuje de tierras 
+ Dimensionamiento de elementos de retención 
+ Calculo de la estabilidad de taludes 
+
+Diseño Estructural de Cimentaciones 
+ Diseño de zapatas aisladas 
+ Diseño de zapatas corridas 
+ Diseño de losas de cimentación 
+
+ 
+Intención didáctica 
+Forma de abordar los contenidos 
+El desarrollo de cada unidad de aprendizaje se realizara mediante el análisis de 
+situaciones reales que se presenta en la construcción de obras de infraestructura.  
+ 
+Enfoque. 
+El enfoque sugerido para la materia, requiere que las actividades posteriores al 
+tratamiento teórico de los temas promuevan el desarrollo de habilidades para la solución 
+de problemas reales: identificación, manejo y control de variables y datos relevantes; 
+planteamiento de hipótesis, propicien procesos intelectuales como inducción-deducción 
+y análisis-síntesis con la intención de generar una actividad intelectual compleja; por esta 
+razón las actividades teóricas se han descrito de manera que no sean una mera 
+corroboración de lo visto previamente en clase, sino una oportunidad para su aplicación 
+en la solución de problemas geotécnicos. Para que el alumno aprenda a razonar los 
+
+Página | 2  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+problemas, y que no razone el profesor por ellos, sino involucrarlos en el proceso de 
+solución de problemas. 
+ 
+Extensión y profundidad 
+Respecto a la extensión y profundidad de los temas, se analiza lo básico y se le permite 
+al estudiante extenderse y profundizarse en algunos temas de su inquietud. Lo anterior, 
+promueve el desarrollo de sus competencias genéricas como son: capacidad de análisis 
+y síntesis, capacidad de organización y planificación, el desarrollo de su comunicación 
+oral y escrita, la solución de problemas y la toma de decisiones; estas competencias 
+genéricas, se están desarrollando en el tratamiento de los contenidos de esta asignatura.   
+ 
+Actividades a desarrollar por el estudiante. 
+En las actividades de aprendizaje sugeridas, generalmente se propone la formalización 
+de los conceptos a partir de problemas reales; se busca que el alumno tenga contacto 
+con el concepto en forma concreta y sea a través de la observación, la reflexión y la 
+aplicación que se dé la formalización; la resolución de problemas que se hará después 
+de este proceso. 
+Actividades propuestas; Búsquedas bibliográficas, elaboración de síntesis, exposiciones 
+orales, solución de casos de aprendizaje, visitas a obras de en proceso de construcción 
+y en operación  
+ 
+En el transcurso de las actividades programadas es muy importante que el estudiante 
+aprenda a valorar las actividades que lleva a cabo y entienda que está construyendo su 
+hacer futuro y en consecuencia actúe de una manera profesional; de igual manera, 
+aprecie la importancia del conocimiento y los hábitos de trabajo; desarrolle la precisión y 
+la curiosidad, la puntualidad, el entusiasmo y el interés, la tenacidad, la flexibilidad y la 
+autonomía. 
+ 
+Competencias genéricas: 
+Competencias instrumentales 
+
+• Capacidad de análisis y síntesis 
+• Conocimientos generales básicos 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la computadora. 
+• Habilidad para buscar y analizar información proveniente de fuentes diversas 
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos en la práctica 
+
+Página | 3  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas (creatividad) 
+• Habilidad para trabajar en forma autónoma 
+• Capacidad para diseñar y gestionar proyectos 
+• Iniciativa y espíritu emprendedor 
+• Preocupación por la calidad y el medio ambiente. 
+
+ 
+Papel de docente. 
+Formación Académica: Ingeniero civil 
+ 
+Experiencia profesional: Práctica profesional en el área de la geotecnia, en docencia e 
+investigación vinculada con la geotecnia. 
+ 
+Aptitudes y Actitudes: Que el profesor mantenga actualizados sus conocimientos del área 
+además de que mantenga una formación contante desde el punto de vista docente. Tener 
+una actitud de apertura y escucha que facilite el aprendizaje de los alumnos.  
+      
+Es necesario que el profesor ponga atención y cuidado en estos aspectos en el desarrollo 
+de las actividades de aprendizaje de esta asignatura. 
+ 
+El profesor deberá remarcar el enfoque interdisciplinario que tiene el diseño de obras de 
+infraestructura. 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Academia de Ingeniería Reunión de academia de 
+Zacatepec, Mayo 2015 Civil del Instituto Tecnoló- Ingeniería Civil de fecha 28 
+ gico de Zacatepec de mayo de 2015 
+
+ 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+ Evaluar los efectos de la presencia de  agua en el suelo de cimentación de las obras 
+
+de ingeniería.  
+ Diseñar cimentaciones profundas a base de pilotes, pilas y cajones de cimentación.   
+ Diseño  y planeación de excavaciones. 
+ Utilización de instrumentos para el monitoreo del comportamiento de las 
+
+cimentaciones. 
+ 
+
+ 
+ 
+ 
+
+Página | 4  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+5. Competencias previas 
+
+• Aplicar los conocimientos a la solución de problemas acerca de las relaciones 
+volumétricas y gravimétricas de los suelos. 
+
+• Leer e interpretar instructivos de laboratorio. 
+• Capacidad para tomar decisiones. 
+• Compromiso ético. 
+• Trabajar en equipo 
+• Capacidad de investigación 
+• Aplicar los conocimientos de las propiedades índices de un suelo. 
+• Identificar y clasificar un suelo. 
+• Calcular el coeficiente de permeabilidad de un suelo. 
+• Calcular el peso específico seco máximo y humedad óptima en el laboratorio y el 
+
+campo de una muestra de suelo. 
+• Calcular el grado de compactación de un suelo y su comportamiento mecánico. 
+• Capacidad de abstracción, análisis y síntesis para resolver problemas Interpretar los 
+
+fenómenos de consolidación. 
+• Realizar la prueba de consolidación unidimensional a una muestra inalterada de 
+
+suelo. 
+• Obtener a partir de una prueba de consolidación los parámetros de consolidación 
+
+primaria. 
+• Conocer el fenómeno de consolidación secundaria. 
+• Conocer e interpretar la teoría de la resistencia al esfuerzo cortante en suelos. 
+• Realizar las pruebas de corte directo, triaxial y compresión simple a diferentes 
+
+muestras de suelos para obtener los parámetros de resistencia. 
+• Obtener los esfuerzos principales, esfuerzo desviador de suelo aplicando el círculo 
+
+de Mohr y la teoría de polo. 
+• Realizar las pruebas de campo para determinar la resistencia in situ. 
+• Conocer las propiedades de los suelos que definen su comportamiento mecánico. 
+• Calcular asentamientos, capacidad de carga, distribución de esfuerzos. 
+• Conocer las características de los materiales que intervienen en elementos de 
+
+concreto reforzado. 
+• Diseñar vigas proporcionando el área de acero de refuerzo, peralte por flexión y 
+
+refuerzo transversal por cortante, así como el cálculo de las longitudes de anclaje y 
+desarrollo conforme a los reglamentos de construcción vigentes. 
+
+• Diseñar columnas considerando las especificaciones establecidas en los 
+reglamentos 
+
+• de construcción vigentes. 
+• Diseñar losas sólidas en una y dos direcciones conforme a los reglamentos de 
+
+construcción vigentes. 
+• Desarrollar memoria descriptiva de diseño de vigas, columnas y losas. 
+• Interpretar y dibujar detalles constructivos de elementos de concreto reforzado. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Página | 5  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Propiedades hidráulicas de los suelos 1.1. Flujo de agua en suelos. 
+1.1.1. Redes de flujo 
+1.1.2. Sub-presiones 
+1.2. Ascensión capilar. 
+1.3. Abatimiento de nivel freático y control 
+
+de filtraciones en excavaciones 
+1.3.1. Métodos de bombeo 
+1.3.2. Tipos de bombas utilizadas 
+Métodos para el abatimiento de agua en 
+suelos por medio de pozos de bombeo 
+
+2 Cimentaciones profundas 2.1. Pilotes 
+2.1.1. Capacidad de carga de pilotes 
+
+individuales de punta y fricción 
+2.1.2. Capacidad de carga de pilotes en 
+
+grupo 
+2.2. Pilas perforadas 
+Cajones de cimentación 
+
+3 Excavaciones 3.1 Tipos de excavaciones 
+3.2 Elementos de soporte. 
+3.3 Técnicas de excavación, 
+
+apuntalamiento y anclaje. 
+3.4 Procedimiento constructivo de algunos 
+
+muros. 
+3.5 Análisis y verificación de la seguridad 
+
+4 Instrumentación y  control del 4.1 Objetivos de la instrumentación. 
+comportamiento de las 4.2 Instrumentos empleados 
+cimentaciones. 4.3 Programación de la instrumentación de 
+ las cimentaciones y su entorno para 
+
+conocer el efecto de los procesos 
+constructivos 
+
+ 
+ 
+
+7. Actividades de aprendizaje de los temas 
+Nombre de tema 
+
+1 Propiedades Hidráulicas de los suelos 
+Competencias Actividades de aprendizaje 
+
+Específica(s):  
+ Evaluar y trazar la red de flujo del agua Búsqueda bibliográfica 
+
+y cálculo de sub-presiones que genera Elaboración de Mapa Didáctico 
+el agua bajo el suelo. Solución de casos de aplicación 
+
+ Diseño de abatimiento de nivel freático Ejercicios resueltos 
+Genéricas: 
+Competencias instrumentales 
+
+• Capacidad de análisis y síntesis 
+
+Página | 6  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Conocimientos generales básicos 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+• Preocupación por la calidad y el medio 
+
+ambiente. 
+Nombre de tema 
+
+2 Cimentaciones profundas 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+Diseño geotécnico de cimentaciones a Búsqueda bibliográfica 
+base de pilotes, pilas peroradas y cajones Elaboración de Mapa Didáctico 
+de cimentación. Solución de casos de aplicación 
+
+Ejercicios resueltos 
+Genéricas: 
+Competencias instrumentales 
+
+• Capacidad de análisis y síntesis 
+• Conocimientos generales básicos 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+Página | 7  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+3 Excavaciones 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Diseño de excavaciones profundas Búsqueda bibliográfica 
+
+para cimentaciones Elaboración de Mapa Didáctico 
+Solución de casos de aplicación 
+
+Genéricas: Ejercicios resueltos 
+Competencias instrumentales 
+
+• Capacidad de análisis y síntesis 
+• Conocimientos generales básicos 
+• Conocimientos básicos de la carrera. 
+• Habilidades básicas del manejo de la 
+
+computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+
+Página | 8  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Habilidad para trazar estrategias. 
+Competencias sistémicas 
+• Capacidad de aplicar los conocimientos 
+
+en la práctica 
+• Habilidades de investigación 
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+Nombre de tema 
+4 Instrumentación de las cimentaciones 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  
+ Identificación de los instrumentos de Búsqueda bibliográfica 
+
+para el monitoreo de cimentaciones Elaboración de Mapa Didáctico 
+ Planeación de la instrumentación del Solución de casos de aplicación 
+
+monitoreo de cimentaciones  Ejercicios resueltos 
+ 
+Genéricas:  
+Competencias instrumentales 
+• Capacidad de análisis y síntesis Proyecto final 
+
+• Conocimientos generales básicos 
+Visita de estudio al cuarto de máquinas 
+
+• Conocimientos básicos de la carrera. 
+• de la presa la Yesca. 
+
+Habilidades básicas del manejo de la 
+computadora. 
+
+Visita a túneles  o excavaciones 
+• Habilidad para buscar y analizar 
+
+profundas 
+información proveniente de fuentes 
+diversas 
+
+• Solución de problemas 
+• Toma de decisiones. 
+
+Competencias interpersonales 
+• Capacidad crítica y autocritica 
+• Trabajo en equipo 
+• Capacidad de comunicación. 
+• Capacidad de intercambiar información 
+• Habilidad para trazar estrategias. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los conocimientos 
+en la práctica 
+
+• Habilidades de investigación 
+
+Página | 9  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+• Capacidad de aprender 
+• Capacidad de generar nuevas ideas 
+
+(creatividad) 
+• Habilidad para trabajar en forma 
+
+autónoma 
+• Capacidad para diseñar y gestionar 
+
+proyectos 
+• Iniciativa y espíritu emprendedor 
+
+Preocupación por la calidad y el medio 
+ambiente. 
+
+ 
+8. Práctica(s) 
+
+ Exploración y muestreo 
+ Clasificación de suelos 
+ Triaxial sin consolidación, sin drenaje (UU) 
+ Penetración estándar 
+ Consolidación unidimensional 
+
+ 
+9. Proyecto de asignatura 
+Proyecto final de la materia. 
+El objetivo de este es demostrar el desarrollo y alcance de las competencias aprendidas 
+en la asignatura a una situación real. La estructura del proyecto será: 
+   
+Contenido. 
+
+ Título. 
+ Descripción del problema a atender. 
+ Alcance. 
+ Fundamentación. marco referencial (teórico, conceptual, contextual, legal) en el 
+
+cual se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo 
+que permite a los estudiantes lograr la comprensión de la realidad o situación 
+objeto de estudio para definir un proceso de intervención o hacer el diseño de un 
+modelo. 
+
+ Planeación. Con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica planificar 
+un proceso: de intervención empresarial, social o comunitario, el diseño de un 
+modelo, entre otros, según el tipo de proyecto, las actividades a realizar los 
+recursos requeridos y el cronograma de trabajo 
+
+ Ejecución. Consiste en el desarrollo de la planeación del proyecto realizada por 
+parte de los estudiantes con asesoría del docente, es decir en la intervención 
+(social, empresarial), o construcción del modelo propuesto según el tipo de 
+proyecto, es la fase de mayor duración que implica el desempeño de las 
+competencias genéricas y especificas a desarrollar.  
+
+Página | 10  
+ 
+
+
+
+ 
+
+Dirección General de Educación Superior Tecnológica 
+ 
+
+ 
+
+ Evaluación. Es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento 
+de logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación 
+para la mejora continua”, la metacognición, el desarrollo del pensamiento crítico 
+y reflexivo en los estudiantes. 
+
+ 
+Proyecto propuestos. 
+
+ Evaluación de la estabilidad de taludes en zonas que represente riesgo para la 
+población. 
+
+ Diseño de obras protección para la estabilidad de taludes en zonas de riesgo 
+ Propuesta de instrumentación para el monitoreo de un talud   
+
+ 
+ 
+10. Evaluación por competencias  
+
+Técnicas: Autoevaluación, Co-evaluación, Hetero-evaluación. 
+Instrumentos: Listas de cotejo, Guías de observación, Matriz de evaluación. Exámenes 
+ 
+
+ 
+
+11. Fuentes de información 
+ 
+
+1. Braja, M. Das, Fundamentos de ingeniería de Cimentaciones, 7ª Edición, 
+Cengage Laerning, 2012,  geotécnica. Thomson Learning. 
+
+2. Braja, M. Das, Fundamentos de ingeniería de Geotecnica, 4ª Edición, Cengage 
+Laerning, 2012,  geotécnica. Thomson Learning. 
+
+3. Juárez Badillo, Rico Rodríguez, Mecánica de suelos Tomo 2 Teoría y 
+Aplicaciones de la Mecánica de Suelos, Limusa Noriega. 
+
+4. Juárez Badillo, Rico Rodríguez, Mecánica de suelos Tomo 1 Fundamentos de la 
+Mecánica de Suelos, Limusa Noriega. 
+
+5. Crespo Villalaz Carlos, Mecánica de suelos y cimentaciones, 6ª Edición. Limusa 
+Noriega, 2007. 
+
+6. Tomlinson Michael John, Cimentaciones Diseño y Construcción, Trillas   
+7. Lambe, T.W. y Witman R., Mecánica de suelos. 2ª Edición, Limusa Noriega. 
+8. Peck, Ralph, Ingeniería de Cimentaciones. 1ª Edición, Limusa Noriega 
+9. Bowles, J., Foundation Analysis and Design. 5a Edición, Mc. Graw Hill, 1997. 
+10. Zaevaert, W.L., Foundation Engineering in Difficult Subsoils Conditions. Van 
+
+Nostrand-Reinhold company, 1972. 
+11. Meli Piralla Roberto. Diseño estructural, 2ª Edición, Limusa Noriega. 
+12. Diseño y Construcción de Estructuras de Concreto, NTC del RCDF. UNAM 
+
+instituto de Ingeniería, 2002. 
+13. Arnald Simon Luis Betancourt Suarez, Reglamento de Construcciones para el 
+
+Distrito Federal 6ª Edición, Trillas 
+14. Reglamento para las Construcciones de Concreto Estructural y Comentarios. 
+
+ACI 318-2002. Instituto Mexicano del Cemento y del Concreto, A.C. 
+15. Sociedad mexicana de Mecánica de Suelos, Manual de cimentaciones 
+
+profundas, México 2001 
+
+ 
+
+Página | 11

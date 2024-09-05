@@ -1,0 +1,841 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Biología Molecular 
+
+  
+
+  
+
+Clave de la asignatura: BAF-2101 
+
+  
+
+  
+
+SATCA1: 3-2-5 
+
+  
+
+  
+
+Carrera: Ingeniería Bioquímica 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura aporta al perfil profesional del Ingeniero Bioquímico el 
+conocimiento de las bases moleculares necesarias (organización del 
+material genético, regulación de la expresión genética, principales 
+técnicas de ADN recombinante y para el estudio de los microorganismos 
+a nivel molecular) que permitirán diseñar y seleccionar estrategias de 
+estudio en sistemas biológicos para adaptar, controlar y mejorar 
+genéticamente células productoras de metabolitos de interés industrial. 
+Se hará énfasis en las tecnologías actuales que le permitan poseer un 
+amplio bagaje de estrategias metodológicas para el desarrollo de 
+proyectos de investigación científica y tecnológica. 
+
+ 
+
+Intención didáctica 
+
+La estructura de los temas de la asignatura está diseñada en cuatro 
+temas de tal forma que el estudiante pueda abordar los contenidos 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+desde un punto de vista integral teniendo un panorama completo de 
+cómo aplicar diferentes estrategias. El programa de la asignatura de 
+Biología Molecular se organiza en cuatro temas en los cuales se incluyen 
+aspectos teóricos y de aplicación. 
+
+En el primer tema la y el estudiante conoce aspectos históricos y 
+fundamentos de la Biología Molecular. En el segundo tema se aborda 
+información sobre la regulación de la expresión genética. En el tercer y 
+cuarto tema se abordan las principales técnicas de la biología molecular, 
+lo cual le permitirá extraer y manipular los llamados ácidos nucleicos, 
+conocer las técnicas de ADN recombinante y conocer las diferentes 
+estrategias genómicas. 
+
+Las competencias genéricas que deberán desarrollarse en este curso 
+por las y los estudiantes, incluyen el poder enfrentar las dificultades que 
+se le presentan siendo consciente de sus valores, fortalezas y 
+debilidades, analizar críticamente los factores que influyen en su toma 
+de decisiones, expresar ideas y conceptos mediante representaciones 
+lingüísticas, matemáticas o gráficas, identificar las ideas clave en un 
+texto o discurso oral e infiere conclusiones a partir de ellas, manejar las 
+tecnologías de la información y la comunicación para obtener 
+información y expresar ideas, identificar los sistemas y reglas o principios 
+medulares que subyacen a una serie de fenómenos, construir hipótesis 
+y diseñar y aplicar modelos para probar su validez, sintetizar evidencias 
+obtenidas mediante la experimentación para producir conclusiones y 
+formular nuevas preguntas, utilizar las tecnologías de la información y 
+comunicación para procesar e interpretar información, elegir las fuentes 
+de información más relevantes para un propósito específico y 
+discriminar entre ellas de acuerdo a su relevancia y confiabilidad. 
+
+La o el docente deberá ser conocedor de actividades de investigación, 
+desarrollo tecnológico, innovación, gestión, y vinculación de la 
+institución y de otros actores con los sectores industriales, académicos y 
+sociales del entorno para promover la adquisición y refuerzo de las 
+competencias. 
+
+  
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o 
+
+revisión 
+
+Instituto Karen Jhoana Flores Desarrollo de planes y 
+Tecnológico de Sánchez   programas de estudio 
+Zacatepec, 25 de  del 
+Enero del 2021  Erika Darnely Rojas módulo de especialidad 
+
+Ayala  de la carrera de 
+  Ingeniería Bioquímica.  
+
+Abel Flores Moreno  
+  
+
+Manuel Jesus 
+Granados Baeza 
+ 
+Marlla Dubravka 
+Gutiérrez Botello 
+ 
+Alberto Álvarez Castillo 
+ 
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+ 
+
+Competencia(s) específica(s) de la asignatura 
+
+Desarrolla conocimientos sobre la estructura de los genomas y regulación de 
+la información genética que posee todo organismo vivo; conoce el fundamento 
+de las técnicas empleadas en un laboratorio de Biología Molecular y las aplica 
+en los distintos ámbitos del ejercicio de la profesión. 
+
+ 
+
+5. Competencias previas 
+
+ 
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+Que la o él estudiante posea conocimientos de química orgánica, química 
+inorgánica, técnicas básicas de análisis instrumental, química analítica, 
+conceptos básicos de Biología, Bioquímica, Bioquímica del Nitrógeno y 
+Regulación Genética, cultivo de microorganismos, así como manejo de 
+herramientas y técnicas de expresión escrita para que escriban y reporten 
+resultados y comprendan textos científicos en inglés.  
+
+ 
+
+6. Temario 
+
+ 
+
+No. Temas Subtemas 
+
+1 Introducción a la biología 1.1. Conceptos básicos  
+molecular 
+
+1.1.1. Campo de estudio de la biología 
+molecular 
+
+1.1.2. Alcances de la biología molecular. 
+
+1.2. Características del material 
+genético 
+
+1.2.1. ADN y apareamiento de bases.  
+
+1.2.2. Forma B, forma A, forma Z y 
+forma H del ADN. 
+
+1.2.3. Característica y estructura de los 
+genes. 
+
+1.2.4. Contenido de los genomas, 
+secuencia de genomas y cantidad de 
+genes. 
+
+1.3. Organización del material genético 
+en eucariotas. 
+
+1.3.1. Empaquetamiento del ADN en 
+eucariotas.  
+
+1.3.2. Estructura y morfología de los 
+cromosomas  
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+1.3.3. Propiedades de las histonas  
+
+1.3.4. Características del nucleosoma 
+
+1.3.5. Estructura de la cromatina. 
+
+1.3.6. Proteínas no histonas.  
+
+1.3.7. Empaquetamiento del ADN en 
+procariotas. 
+
+ 
+
+2 Regulación de la expresión 2.1 RNAs  
+génica 
+
+2.1.1 Tipos o clases de RNA y sus 
+funciones: mRNA, rRNA, tRNA, RNAs 
+nucleares pequeños (snRNA), RNAs 
+nucleolares pequeños (snoRNA), RNAs 
+de caja pequeños (scaRNA), RNAs 
+activadores de mecanismos de 
+transferencia, MicroRNAs (miRNA), 
+RNAs de interferencia (siRNA).  
+
+2.2 La regulación de la transcripción.   
+
+2.2.1. Elementos reguladores de los 
+genes: Promotores. Elementos en cis y 
+en trans. Enhancers, Silenciadores. 
+Elementos Respuesta.   
+
+2.2.2. Regulación de la Transcripción 
+del Operon lac. 
+
+2.2.3. Activación de la transcripción de 
+gln4 por NTCR.   
+
+2.2.4. Regulación de los genes: Lenta y 
+fina. Regulación de la actividad de la 
+ARN polimerasa.  Unión de proteínas 
+al promotor. 
+
+2.2.5. Estructura de los motivos de los 
+Factores de transcripción: Dedo de 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+Zinc. Hélice-vuelta-hélice. Cierre de 
+leucina. Hélice-asa-hélice.   
+
+2.2.6. Acetilación, Fosforilación y 
+metilación de Histonas: Proteína que 
+se une a CREB y p300. 
+
+2.2.7. Regulación transcripcional por 
+acetilación y desacetilación de 
+histonas.   
+
+ 2.2.8. Regulación de Factores de 
+transcripción: Regulación del represor 
+lac. Regulación de represor. 
+
+3 Técnicas del ADN recombinante 3.1 Aislamiento de moléculas de ADN 
+
+3.1.1. Aislamiento de ADN plásmido 
+utilizando el método de lysis alcalina 
+de las células E. coli DH5 
+
+3.1.2. Extracción de ADN genómico de 
+las hojas de plantas utilizando el 
+método CTAB 
+
+3.1.3. Extracción genómica de ADN de 
+gusano de seda utilizando el método 
+modificado fenol: cloroformo 
+
+3.1.4. Extracción de ADN genómico de 
+micelio fúngico 
+
+3.2. Electroforesis. 
+
+3.2.1. Electroforesis de gel de agarosa 
+
+3.2.2. Electroforesis de gel SDS-
+poliacrylamida 
+
+3.2.3. Inmunoelectroforesis 
+
+3.3 Hibridación de ácidos nucleicos. 
+
+3.3.1 Transferencia Northern y 
+Southern. 
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+3.3.2 Polimorfismo de longitud de los 
+fragmentos de restricción (RFLP). 
+
+3.3.3 Hibridación in situ. 
+
+3.4. Tecnología del ADN 
+recombinante. 
+
+3.4.1 Enzimas usadas en la tecnología 
+de ADN recombinante. 
+
+3.4.1.1 Enzimas de restricción 
+
+3.4.1.2. Mapas de restricción 
+
+3.4.1.3. DNA ligasas 
+
+3.4.2 Vectores de clonación 
+
+3.4.2.1. Plásmidos usados para la 
+clonación 
+
+3.4.2.2. Otros vectores de clonación 
+
+3.4.3. Transformación 
+
+3.4.3.1. Obtención de células 
+competentes de Escherichia coli con 
+CaCl2 y transformación. 
+
+3.4.3.2. Electroporación 
+
+3.4.3.3. Selección positiva de insertos 
+de ADN 
+
+3.5. Situaciones en que se aplica la 
+clonación molecular. 
+
+3.5.1. Aplicaciones de la clonación 
+molecular. 
+
+4 Otras técnicas importantes en 4.1. Reacción en cadena de la 
+biología molecular. polimerasa (PCR). 
+
+4.1.1 PCR estándar. 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+4.1.2 Componentes de la mezcla de 
+reacción. 
+
+4.1.3 Ciclo del PCR en un 
+termociclador. 
+
+4.1.4 Número de ciclos y rendimiento. 
+
+4.1.5 Variantes de la PCR estándar. 
+
+4.1.6 PCR en tiempo real. 
+
+4.1.7 Aplicaciones de la PCR. 
+
+4.2. Transcriptoma 
+
+4.2.1. Análisis de la expresión génica a 
+nivel de transcrito. 
+
+4.2.2 Procesado y anotación masiva de 
+secuencias. 
+
+4.2.3 Análisis mediante microarrays. 
+
+4.3 Proteómica. 
+
+4.3.1 Interacciones proteína-proteína. 
+
+4.3.2 Ensayos de doble híbrido en 
+levadura y coinmuniprecipitación (Co-
+IP). 
+
+4.4 Purificación y separación de 
+complejos proteícos. 
+
+4.4.1 Cromatografía de afinidad. 
+
+4.4.2 Exclusión molecular 
+
+4.4.3 Intercambio iónico. 
+
+4.4.4 Western blot. 
+
+4.4.5 Isoelectroenfoque. 
+
+4.4.6 Microarreglos de proteína 
+(protein chip). 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+4.4.7 Identificación de proteínas en 
+geles bidimensionales. 
+
+4.4.8 Microsecuenciación de 
+proteínas: método de Edman. 
+
+4.5 Análisis de proteomas por 
+espectrometría de masas. 
+
+4.5.1 Preparación de proteínas. 
+
+4.5.2 Tipos de análisis por 
+espectrometría de masas: 
+
+4.5.3 MALDI-TOF MS. 
+
+4.5.4 Por ionización de electrospray. 
+
+  
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+7. Actividades de aprendizaje de los temas 
+
+Tema 1. Introducción a la biología molecular. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conoce los fundamentos • Elaborar un mapa conceptual 
+básicos de la biología molecular y sobre campo de estudio, 
+adquiere las bases moleculares de la importancia y alcances de la 
+estructura del ADN. biología molecular. 
+
+• Elaborar una tabla comparativa 
+Genéricas: sobre las características, 
+• Capacidad de análisis y síntesis. componentes e importancia de 
+• Capacidad de trabajar en equipo. las formas B, A, Z y H del ADN. 
+• Habilidad en el uso de tecnologías • Elaborar un ensayo sobre las 
+
+de información y comunicación. características del material 
+• Capacidad de expresión oral. genético y el apareamiento de 
+• Habilidad para busqueda de bases. 
+
+información. • Investigar y discute en foro las 
+• Capacidad de aplicar los características, estructura, 
+
+conocimientos en la práctica de secuencia y cantidad de genes. 
+laboratorio. • Elaborar un resumen sobre la 
+
+• Capacidad de análisis en otro organización del material 
+idioma. genético en eucariotas. 
+
+• Elaborar un mapa conceptual 
+sobre los componentes y sus 
+funciones en el 
+empaquetamiento del ADN en 
+eucariotas. 
+
+• Redactar un resumen sobre la 
+estructura y morfología de los 
+cromosomas. 
+
+• Elaborar un ensayo sobre la 
+importancia de las proteínas 
+histonicas y no histonicas en el 
+empaquetamiento del ADN. 
+
+• Elaborar una tabla comparativa 
+sobre las diferencias del 
+empaquetamiento del ADN en 
+procariotas y eucariotas. 
+
+• Investigar y discutir en foro las 
+mutaciones de los cromosomas. 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+• Aplicar las buenas prácticas de 
+
+laboratorio en el desarrollo de 
+prácticas. 
+
+• Discutir artículos científicos sobre 
+la importancia y las aplicaciones 
+de la biología molecular. 
+
+Tema 2. Regulación de la expresión génica. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Comprende de forma • Realizar un mapa mental o 
+amplia e integral la regulación de la conceptual mencionando los 
+expresión génica, tipos y aplicaciones diferentes tipos de RNA y sus 
+en biología molecular funciones. 
+
+• En equipos realizar un cuadro 
+Genéricas: sinóptico mencionen la 
+Competencias instrumentales: regulación de la transcripción, 
+
+haciendo incapié la 
+• Capacidad de análisis y síntesis. importancia clave que tiene 
+• Capacidad de organizar y para muchos genes. 
+
+planificar. • Exponer en equipo el 
+• Comunicación oral y escrita mecanismo de la regulación de 
+• Habilidades básicas de manejo genes, la regulación de la 
+
+de la computadora. actividad del ARN, dar ejemplos 
+• Habilidad para buscar y analizar reales y prácticos. 
+
+información proveniente de • Investigar y entender los tipos 
+fuentes diversas. de reacciones como:   
+
+• Solución de problemas Acetilación, Fosforilación y 
+• Toma de decisiones. metilación de Histonas. 
+
+• Interpretar los factores que 
+ Competencias interpersonales: intervienen en la regulación del 
+
+• Capacidad crítica y autocrítica. represor. 
+• Trabajo en equipo. 
+• Habilidades interpersonales. 
+
+Competencias sistémicas: 
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+• Capacidad de generar nuevas 
+
+ideas (creatividad) 
+• Habilidad para trabajar en 
+
+forma autónoma 
+
+ 
+
+Tema 3. Técnicas del ADN recombinante. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Generar un mapa conceptual sobre 
+las técnicas de aislamiento y 
+
+Conoce las diferentes técnicas extracción de ADN plasmídico y 
+metodológicas que se emplean en la genómico. 
+tecnología de ADN recombinante, así 
+como sus aplicaciones prácticas en los Consultar fuentes de información 
+diferentes ámbitos de la ciencia. sobre electroforesis en geles de 
+
+agarosa y poliacrilamida. 
+Genéricas: 
+
+Realizar una investigación sobre la 
+Capacidad de organización y hibridación de ácidos nucleicos y sus 
+planificación. aplicaciones. 
+Comunicación oral y escrita. 
+Capacidad de aplicar los Enlistar, clasificar y describir las 
+conocimientos teóricos en la práctica funciones de las enzimas de 
+Trabajo en equipo restricción. 
+Manejo de un segundo idioma 
+
+Tema 4. Otras técnicas importantes en biología molecular. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Conoce y comprende Investigar las aplicaciones de la PCR 
+diferentes técnicas empleadas en el en diferentes ámbitos (alimentos, 
+estudio de genes, proteínas y diagnóstico clínico) 
+genomas. 
+
+ 
+• Genéricas: Capacidad de análisis y 
+
+síntesis. Comentar en grupo (foro) sobre los 
+
+• Capacidad de trabajar en equipo. fundamentos del transcriptoma y sus 
+
+• Habilidad en el uso de tecnologías aplicaciones 
+
+de información y comunicación.  
+• Capacidad de expresión oral. 
+• Habilidad para busqueda de 
+
+información. 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+• Capacidad de aplicar los Presentar en equipo artículos 
+
+conocimientos en la práctica de científicos relacionados con 
+laboratorio. proteómica 
+
+• Capacidad de análisis en otro 
+idioma.  
+
+Discutir en plenaria las diferentes 
+estrategias para identificar las 
+funciones de genes y proteínas 
+
+ 
+
+8. Práctica(s) 
+
+Extracción de DNA a partir de material vegetal empleando un método 
+casero 
+
+Extracción de DNA plasmídico 
+
+Electroforesis de DNA 
+
+Extracción de DNA vegetal 
+
+Extracción de RNA de tejidos vegetales, animales y de hongos 
+
+Purificación de proteínas 
+
+Electroforesis de proteínas de Escherichia coli  
+
+Clonación de fragmentos de ADN 
+
+Transformación de células de Escherichia coli 
+
+Diseño de oligonucleótidos para PCR 
+
+Reacción en cadena de la polimerasa 
+
+Uso de herramientas bioinformáticas para el análisis de secuencias 
+
+Predicción de dominios/estructura de proteínas 
+
+ 
+
+  
+
+Página | 13  
+ 
+
+
+
+ 
+ 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página | 14  
+ 
+
+
+
+ 
+ 
+
+ 
+10. Evaluación por competencias  
+
+Son las técnicas, instrumentos y herramientas sugeridas para constatar los 
+desempeños académicos de las actividades de aprendizaje. 
+
+ 
+
+ 
+
+11. Fuentes de información 
+
+ 
+
+ 
+
+• Alberts B., Johnson A., Lewis J., Raff M., Roberts K., Walter P. Control of 
+gene expression. Molecular biology of the cell, 4ª ed. Nueva York: Garland 
+Science, 2002:365-465.  
+
+• Clark D. P. (2005). Molecular Biology. Understanding the genetic 
+revolution. Elsevier Academic Press. 
+
+• Cooper, G. M, Hausman R. E. (2009). The cell. A molecular approach. 5a 
+edición. Sinauer Associates, Inc., Publishers. 
+
+• Karp G. El núcleo celular y el control de la expresión génica. Biología 
+celular y molecular, 6ª ed. México: McGraw-Hill, 2011:455-532.  
+
+• Lewin B. Regulation of transcription: factors that activate the basal 
+apparatus. Genes IX, 7ª ed. Nueva York: Oxford University Press, 649-684.  
+
+• Lodish H., Berk A., Zipursky S.L., Matsudaira P., Baltimore D., Darnell J. 
+Regulation of transcription initiation. Molecular cell biology, 4ª ed. WH 
+Freeman and Company, 2000:341-403. 
+
+• Mardigan, M. (2015). Biología de los microorganismos (10ª ed.). Madrid: 
+Editorial Pearson. 
+
+• Pabo C.T., Sauer R.T. Transcription factors: structural families and 
+principles of DNA recognition. Ann Rev Biochem, 1992;61:1053- 1095. 
+
+• Thieman, W. (2010). Introducción a la biotecnología (2ª ed.). Madrid: 
+Editorial Pearson. 
+
+• Twyman, R. M. (2004). Principles of proteomics. 1a edición. Garland 
+science/BIOS Scientific Publishers. 
+
+• Watson J., Baker T., Bell S., Gann A., Levine M., Losick R. Regulación. 
+Biología molecular del gen, 5ª ed. México, DF: Editorial Médica 
+Panamericana, 2005:370-491, 513-613.  
+
+ 
+
+ 
+
+ 
+
+Página | 15  
+ 
+
+
+
+ 
+ 
+
+ 
+  
+
+Página | 16  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+Página | 17

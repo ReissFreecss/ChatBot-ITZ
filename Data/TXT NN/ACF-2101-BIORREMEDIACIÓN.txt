@@ -1,0 +1,728 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Biorremediación 
+  
+  
+  
+
+Clave de la asignatura: ACF-2101 
+  
+  
+
+SATCA1: 3-2-5 
+  
+  
+
+Carrera: Ingeniería Química 
+	
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+La biorremediación es la aplicación de organismos vivos (por ejemplo, 
+plantas y microorganismos) para remediar suelos y aguas 
+contaminados. En la naturaleza existen muchos microorganismos que 
+poseen la capacidad metabólica para degradar los compuestos tóxicos a 
+compuestos menos tóxicos o no tóxicos o inclusive mineralizarlos; las 
+plantas pueden captar o inmovilizar contaminantes tóxicos para evitar 
+que éstos entren en áreas no contaminadas. Además, el 
+microorganismo y las plantas pueden interactuar entre sí para mejorar 
+la eficiencia de la biorremediación. 
+ 
+El curso de Biorremediación incluye una visión general del proceso de 
+biorremediación, presentando una descripción de las estrategias típicas 
+de biorremediación para el medio ambiente contaminado, explorar las 
+aplicaciones de las tecnologías de biorremediación, discutir los factores 
+que influyen en las tasas de biorremediación, e introducir casos de 
+estudio en la aplicación de la tecnología de biorremediación a sitios 
+contaminados 
+ 
+Esta asignatura aporta al perfil del Ingeniero Químico los elementos y 
+competencias necesarios para la identificación de las diferentes 
+estrategias de biorremediación; incluye una visión general del proceso 
+de biorremediación, presentando una descripción de las estrategias 
+típicas de biorremediación para el medio ambiente contaminado, 
+explorar las aplicaciones de las tecnologías de biorremediación, discutir 
+																																								 																				
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página	|	1		
+	
+
+
+
+	
+ 
+
+	
+los factores que influyen en las tasas de biorremediación, introducir 
+casos de estudio en la aplicación de la tecnología de biorremediación a 
+sitios contaminados, las competencias para explicar fenómenos 
+involucrados en la remediación de suelos y aguas contaminados, así 
+como conocer los principios básicos de remediación de suelos, las 
+diferentes metodologías, y tecnologías utilizadas.  
+ 
+La integración de esta asignatura al plan de la carrera de ingeniería 
+Química, responde a los resultados del diagnóstico e investigación a 
+nivel nacional e internacional que ha dado como resultado la propuesta 
+de atender el problema creciente de daños ambientales generados por 
+la contaminación de aguas y suelos causada por las actividades 
+industriales, derrames de diversos productos químicos, muchos de ellos 
+recalcitrantes, e inadecuada disposición de residuos. En particular, en 
+algunas localidades del estado de Morelos se presentan diferentes daños 
+ambientales que constituyen focos de contaminación y riesgo 
+ambiental, con el consiguiente daño al ecosistema y a la salud humana. 
+ 
+Intención didáctica 
+La estructura de los temas de la asignatura está diseñada en cuatro 
+temas de tal forma que el estudiante pueda abordar los contenidos 
+desde un punto de vista integral teniendo un panorama completo de 
+cómo aplicar diferentes estrategias de biorremediación para suelos y 
+aguas. Es necesario que la o el docente promueva la participación, 
+liderazgo y fomento de competencias genéricas en base al análisis de la 
+información más reciente reportada en artículos técnico científicos de 
+revistas especializadas, manejo de un segundo idioma (inglés), 
+exposiciones, investigación y visitas. 
+
+Las competencias genéricas que deberán desarrollarse en este curso por 
+las y los estudiantes, incluyen el poder enfrenta las dificultades que se le 
+presentan siendo consciente de sus valores, fortalezas y debilidades, 
+analizar críticamente los factores que influyen en su toma de decisiones, 
+expresar ideas y conceptos mediante representaciones lingüísticas, 
+matemáticas o gráficas, identificar las ideas clave en un texto o discurso 
+oral e infiere conclusiones a partir de ellas, manejar las tecnologías de la 
+información y la comunicación para obtener información y expresar 
+ideas, identificar los sistemas y reglas o principios medulares que 
+subyacen a una serie de fenómenos, construir hipótesis y diseñar y 
+aplicar modelos para probar su validez, sintetizar evidencias obtenidas 
+mediante la experimentación para producir conclusiones y formular 
+
+Página	|	2		
+	
+
+
+
+	
+ 
+
+	
+nuevas preguntas, utilizar las tecnologías de la información y 
+comunicación para procesar e interpretar información, elegir las fuentes 
+de información más relevantes para un propósito específico y 
+discriminar entre ellas de acuerdo a su relevancia y confiabilidad, asumir 
+una actitud que favorece la solución de problemas ambientales en los 
+ámbitos local, nacional e internacional, reconocer y comprender las 
+implicaciones biológicas, económicas, políticas y sociales del daño 
+ambiental en un contexto global interdependiente. 
+
+La o el docente deberá ser conocedor de actividades de investigación, 
+desarrollo tecnológico, innovación, gestión, y vinculación de la 
+institución y de otros actores con los sectores industriales, académicos y 
+sociales del entorno para promover la adquisición y refuerzo de las 
+competencias. 
+
+  
+
+Página	|	3		
+	
+
+
+
+	
+ 
+
+	
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Tecnológico Nacional de Manuel Jesús Granados Desarrollo de planes y 
+México/Instituto Baeza, Abel Flores programas de nuevas 
+Tecnológico de Moreno, Elizabeth especialidades. 
+Zacatepec. Salgado Ramírez, Jesús 
+
+Salvador Torres Peralta, 
+25 al 29 de enero de Mateo Sixto Cortéz 
+2021. Rodríguez. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Que la o el estudiante comprenda la naturaleza y la importancia de la 
+biorremediación; posea conocimiento de los impactos de las características 
+contaminantes en el proceso de biorremediación; comprenda el uso de la 
+biorremediación en aplicaciones del mundo real, aplique los conocimientos que 
+permitan eliminar agentes contaminantes presentes en los diversos sistemas 
+acuáticos o terrestres. 
+
+ 
+5. Competencias previas 
+Que la o él estudiante posea conocimientos de química inorgánica, química 
+orgánica, análisis instrumental, química analítica, análisis de datos 
+experimentales, así como maneje herramientas y técnicas de expresión escrita 
+para que escriban y reporten resultados y comprenda textos científicos en 
+inglés. 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a la 1.1 Concepto e importancia de la 
+Biorremediación biorremediación. 
+
+1.1.1. Papel de los microorganismos en 
+la biorremediación. 
+1.1.2. Estrategias microbianas para 
+eliminar contaminantes 
+1.1.3. Indicadores de la actividad 
+microbiana 
+
+Página	|	4		
+	
+
+
+
+	
+ 
+
+	
+1.2. Contaminantes susceptibles a la 
+biorremediación  
+1.2.1. Hidrocarburos y derivados del 
+petróleo	
+1.2.2. Compuestos halogenados	
+1.2.3. Compuestos nitroaromáticos 
+1.2.4 Metales 
+1.3 Tipos de Biorremediación 
+1.3.1. Entornos susceptibles a la 
+biorremediación 
+1.3.2. Biorremediación in situ 
+1.3.3. Biorremediación ex situ 
+1.3.4. Bioaumentación 
+1.3.5. Biofiltros 
+1.3.6. Biorreactores 
+1.3.7. Bioestimulación 
+1.3.8. Landfarming 
+1.3.9. Compostaje y biopilas 
+1.3.10 Fitorremediación. 
+
+2 Microorganismos en 2. 1. Estructura de las células 
+biorremediación	 microbianas. 
+
+3.1.4. Clasificación de los 
+microorganismos según su fuente de 
+energía	
+3.2. Principales rutas catabólicas 
+microbianas	
+3.3. Principales rutas anabólicas 
+microbianas.	
+2.1.1. Morfología de los dominios 
+Bacteria y Archaea 
+2.1.2 Estructura, función y transporte 
+de nutrientes de la membrana 
+2.1.3 Estructura de la pared celular en 
+los dominios Bacteria y Archaea. 
+2.1.4 Otras estructuras superficiales e 
+inclusiones celulares 
+2.1.5 Clasificación de bacterias y 
+Archea 
+2.4.2 Morfología.  
+2.4.3 Manejo de bacterias, medidas de 
+bioseguridad 
+2.2 Células microbianas eucariotas 
+2.3 Hongos y levaduras. 
+2.3.1 Clasificación  
+2.3.2 Morfología. 
+2.3.3 Manejo de los hongos y 
+levaduras, medidas de bioseguridad. 
+
+3 Métodos y técnicas para el cultivo 3.1. Cultivo de microorganismos 
+
+Página	|	5		
+	
+
+
+
+	
+ 
+
+	
+de microorganismos 3.1.1 Definición y tipos de medios de 
+
+cultivo 
+3.1.2 Preparación de medios de cultivo 
+3.2. Morfología microscópica 
+3.2.1 Preparaciones en fresco 
+3.2.2 Tinciones 
+3.3 Aislamiento e identificación 
+microbiana 
+3.3.1 Aislamiento por la técnica de 
+diluciones y estría cruzada. 
+3.3.2 Morfología colonial 
+3.3.3 Pruebas bioquímicas, 
+moleculares y serológicas 
+3.4 Conservación de cepas 
+3.5. Crecimiento y control microbiano	
+3.5.1. La división celular bacteriana: 
+fisión binaria.	
+3.5.3. Curva de crecimiento	
+3.5.4. Recuento por microscopía.	
+3.5.5. Recuento de células viables	
+3.5.6. Medición de crecimiento por 
+espectrofotometría.	
+3.5.7. Efecto de la temperatura, 
+solutos, pH y concentración de 
+oxígeno en el crecimiento microbiano.	
+3.6. Control del crecimiento 
+microbiano	
+3.6.1. Control del crecimiento 
+microbiano por calor	
+3.6.2. Otros métodos físicos de control: 
+radiación y filtración.	
+3.6.3. Control químico del crecimiento 
+microbiano. 
+
+4 Biorremediación de suelos y 4.1. Suelos 
+aguas 4.1.1. Características de la materia 
+
+orgánica del suelo 
+4.1.2. Microorganismos asociados con 
+plantas 
+4.1.3. Pesticidas y microorganismos 
+4.1.4. Hidrocarburos contaminantes de 
+suelos y microorganismos 
+4.1.5. Residuos industriales en suelos 
+4.1.6. Biotecnología para la 
+remediación ex situ de suelos 
+4.1.7. Tecnologías para la remediación 
+in situ de suelos 
+4.1.8. Fitorremediación para la 
+descontaminación de suelos 
+
+Página	|	6		
+	
+
+
+
+	
+ 
+
+	
+4.2. Aguas 
+4.2.1. Contaminantes en Agua 
+subterránea 
+4.2.2. Descontaminación de las aguas 
+subterráneas 
+4.2.3. Biorremediación in situ de Aguas 
+Subterráneas 
+4.2.4. Tecnologías de Biotratamiento 
+de Aguas Residuales Industriales 
+4.2.5. Biotratamiento de aguas 
+superficiales 
+4.2.6. Biorremediación de Metales en 
+aguas. 
+
+  
+
+Página	|	7		
+	
+
+
+
+	
+ 
+
+	
+7. Actividades de aprendizaje de los temas 
+
+Tema 1. Introducción a la biorremediación 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):      • Construye una línea del tiempo 
+• Comprende la problemática de con los principales aportes 
+
+forma amplia e integral de la desde los orígenes de la 
+contaminación ambiental y la biorremediación, hasta los 
+importancia del uso de avances actuales enfatizando 
+sistemas biológicos para la los modelos biológicos 
+biorremediación. utilizados. 
+
+• Adquiere Compromiso ético y  
+responsabilidad ambiental. • Realiza en equipos una 
+
+ investigación bibliográfica en 
+ libros y revistas científicas el 
+Genéricas:   concepto y los diferentes tipos 
+Competencias instrumentales de biorremediación.  
+
+• Capacidad de análisis y síntesis.  
+• Capacidad de organizar y • Elabora un ensayo de forma 
+
+planificar. individual abordando la 
+• Comunicación oral y escrita problemática de la 
+• Habilidades básicas de manejo contaminación ambiental y los 
+
+de la computadora. microorganismos usados para 
+• Habilidad para buscar y analizar recuperar el medio ambiente 
+
+información proveniente de alterado. 
+fuentes diversas.  
+
+• Solución de problemas • Por equipo: Detecta en la 
+• Toma de decisiones. comunidad donde vive uno o 
+
+  todos los tipos de 
+Competencias interpersonales contaminación susceptibles de 
+
+• Capacidad crítica y autocrítica. aplicar alguna de las técnicas 
+• Trabajo en equipo. de biorremediación. 
+• Habilidades interpersonales.  
+
+Competencias sistémicas 
+• Capacidad de aplicar los 
+
+conocimientos en la práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas 
+
+ideas (creatividad) 
+• Habilidad para trabajar en 
+
+forma autónoma 
+  
+
+Tema 2. Microorganismos en biorremediación 
+
+Página	|	8		
+	
+
+
+
+	
+ 
+
+	
+Competencias  Actividades de aprendizaje 
+
+Específica(s): · Elabora tabla que incluya las 
+características generales de 
+
+• Comprende las principales bacterias y hongos. 
+características, tipos de • Investiga rutas metabólicas de 
+metabolismo y potencial de microorganismos e integrarlas 
+aplicación de los diferentes mediante diagramas. 
+microorganismos aplicados en • Colecta muestras para su 
+
+posterior identificación en 
+procesos de biorremediación. laboratorio. 
+
+• Adquiere Compromiso ético y • Diseña las prácticas que se 
+responsabilidad ambiental. realizarán de acuerdo al material 
+
+colectado. 
+Genéricas:   • Compara mediante una tabla los 
+
+diferentes metabolismos 
+Competencias instrumentales microbianos. 
+
+ 
+• Capacidad de análisis y síntesis. 
+• Capacidad de organizar y 
+
+planificar. 
+• Comunicación oral y escrita 
+• Habilidades básicas de manejo 
+
+de la computadora. 
+• Habilidad para buscar y analizar 
+
+información proveniente de 
+fuentes diversas. 
+
+• Solución de problemas 
+• Toma de decisiones. 
+• Manejo de un segundo idioma. 
+
+  
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocrítica. 
+• Trabajo en equipo. 
+• Habilidades interpersonales. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas 
+
+Página	|	9		
+	
+
+
+
+	
+ 
+
+	
+ideas (creatividad) 
+
+• Habilidad para trabajar en 
+forma autónoma. 
+
+Tema 3. Métodos y técnicas para el cultivo de microorganismos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Investiga y clasifica los diferentes 
+Conoce, comprende y aplica los tipos de medios de cultivo. 
+métodos de aislamiento y cultivo de 
+los microorganismos. Realiza una investigación sobre las 
+Maneja y aplica las técnicas de técnicas de cultivo en medio sólido. 
+microscopía, tinción, coloración, así 
+como la morfología colonial y celular Realiza prácticas de laboratorio 
+de los microrganismos. para preparación de medios de 
+ cultivo. 
+Genéricas:  
+Capacidad de organización y Investiga las técnicas de tinción 
+planificación. microbiana y clasifica a los 
+Comunicación oral y escrita. 
+Capacidad de aplicar los microrganismos con base en las 
+conocimientos tinciones. 
+teóricos en la práctica 
+ 
+
+Tema 4. Biorremediación de aguas y suelos. 	
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): profundizar en los Realiza un cuadro en el que se 
+conocimientos de las técnicas ubiquen los hongos y bacterias de 
+naturales y de ingeniería útiles en los acuerdo a sus características 
+tratamientos de descontaminación biológicas y bioquímicas con las 
+ambiental de suelos y aguas, con una que estos microorganismos son 
+parte importante de descripción de la aptos para un proceso de 
+degradación microbiana de biorremediación en aguas y suelos. 
+contaminantes 
+
+Realiza una investigación sobre la 
+ importancia del uso de plantas 
+
+para la biorremediación. 
+Genéricas: 
+
+• Elabora un resumen sobre 
+Competencias instrumentales técnicas de muestreo en la 
+
+• Capacidad de análisis y síntesis. biorremediación para aguas y 
+• Capacidad de organizar y suelos a partir de artículos y 
+
+planificar. revistas científicas.	
+
+Página	|	10		
+	
+
+
+
+	
+ 
+
+	
+• Comunicación oral y escrita • Por equipo detectar en la 
+• Habilidades básicas de manejo comunidad donde vive los tipos 
+
+de la computadora. de contaminación susceptibles 
+• Habilidad para buscar y analizar de aplicar alguna de las 
+
+información proveniente de técnicas de biorremediación.  
+fuentes diversas. 
+
+• Solución de problemas  
+
+• Toma de decisiones. 
+
+  
+
+Competencias interpersonales 
+
+• Capacidad crítica y autocrítica. 
+• Trabajo en equipo. 
+• Habilidades interpersonales. 
+
+Competencias sistémicas 
+
+• Capacidad de aplicar los 
+conocimientos en la práctica. 
+
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas 
+
+ideas (creatividad) 
+• Habilidad para trabajar en 
+
+forma autónoma. 
+
+ 
+
+8. Práctica(s) 
+
+ 
+• Realizar una práctica de laboratorio para preparar medios de cultivo. 
+• Realizar una práctica de campo para observar y diferenciar los 
+
+organismos presentes en cada muestra. 
+• Realizar una práctica de campo en distintos tipos de suelos y realizar un 
+
+muestreo en cada uno de ellos. 
+ 
+  
+
+Página	|	11		
+	
+
+
+
+	
+ 
+
+	
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página	|	12		
+	
+
+
+
+	
+ 
+
+	
+10. Evaluación por competencias  
+
+La evaluación debe ser continua y formativa por lo que se debe considerarse el 
+desempeño en cada una de las actividades de aprendizaje, en especial en: 
+
+• Evaluar la ejecución de actividades asignadas (mapas, listas de cotejo, 
+etc.). 
+
+• Evaluación de habilidades y técnicas de procesos de degradación de 
+residuos.	
+
+• Evaluar la observación y análisis de fenómenos y problemáticas propias 
+del campo ocupacional.  
+
+• Exámenes escritos. 
+• Exposición de resultados de artículos técnico científicos relacionados a la 
+
+biorremediación. 
+ 
+ 
+
+11. Fuentes de información 
+
+Arboleda, V. (2008). Biorremediación del suelo contaminado con 
+hidrocarburos de la central hidroeléctica del campamento de secolya 
+mediante el Landfarmig- Chimborazo: EditorialB-Escuela Superior de 
+Chimborazo.  
+  
+Committee on In Situ Bioremediation, Water Science and Technology Board, 
+Commission on Engineering and Technical Systems, National Research 
+Council. (1993). In Situ Bioremediation. When does it work? United States of 
+America: National Academy of Sciences.  
+  
+Crawford, R. L. (2005). Bioremediation: Principles and Applications. (J. Lynch, 
+Ed.) Moscow, Idaho, United States of America: Cambridge University Press. 
+  
+Gadd, G. M. (Ed.). (2001). Fungi in bioremediation. Cambridge, U. K.: Cambridge 
+University Press.  
+  
+Gadd, G. M. (Ed.). (2001). Fungi in bioremediation. Cambridge, U. K.: Cambridge 
+University Press. 
+  
+Gonzalez, M. (2009). Biorremediación y tratamiento de efluentes. Editorial El 
+Cid editor.  
+  
+Madueño, L. (2015). La biorremediación en la era post-genómica. Editorial 
+Revista Química viva- Universidad de Buenos Aires Argentina.  
+  
+Mardigan, M. (2015). Biología de los microorganismos (10ª ed.). Madrid: Editorial 
+Pearson.  
+  
+Prasat, R., & Aranda, E. (Edits.). (2018). Approaches in Bioremediation. The New 
+Era of Environmental Microbiology and Nanobiotechnology. Springer.  
+
+Página	|	13		
+	
+
+
+
+	
+ 
+
+	
+  
+Roca, P. (2004) Bioquímica: Técnicas y métodos. Editorial Hélice.  
+  
+Rodríguez, J. (2009) Tratamiento de residuos de refinería mediante técnicas de 
+biorremediación. Oviedo: Editorial Ediuno-Universidad de Oviedo.  
+  
+Sanjeetha, J., Thangadurai, D., David, M., & Abdullah, M. A. (Edits.). (2017). 
+Environmental Biotechnology. Waretown, N. J., United States of America: Apple 
+Academic Press.  
+  
+Thieman, W. (2010). Introducción a la biotecnología (2ª ed.). Madrid: Editorial 
+Pearson. 
+  
+Velazco, J. (2009). El composteo una alternativa tecnológica para la 
+biorremediación de suelo en México. Editorial D-Instituto Nacional de Ecología. 
+ 
+ 
+
+Página	|	14

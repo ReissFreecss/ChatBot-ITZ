@@ -1,0 +1,541 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Desarrollo de Aplicaciones Móviles. 
+  
+
+  
+Clave de la asignatura: DWE-2103 
+
+  
+  
+
+SATCA1: 1-4-5 
+  
+  
+
+Carrera: Ingeniería en Sistemas Computacionales. 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Los dispositivos móviles se caracterizan por su constante evolución y convergencia 
+tecnológica desde capacidades limitadas hasta avanzadas, tanto en términos de poder de 
+proceso como de memoria, interfaz de usuario y energía, así como por el uso de interfaces 
+de comunicación inalámbricos, tanto de área personal como local o de área extensa. 
+
+Esta materia aporta al perfil del egresado los principios del diseño y desarrollo de 
+aplicaciones para dispositivos móviles, integrando desarrollos de diferentes tecnologías. 
+Permitiendo el desarrollo cultural, científico y tecnológico en el ámbito de Sistemas 
+Computacionales que requieran desarrollos en tecnología móvil para dar soluciones a 
+problemas en un contexto interdisciplinario. 
+
+La materia se encuentra dividida en cuatro temas, en el primer tema se da una introducción a 
+los conceptos y principios de la computación móvil, así como un panorama de la plataforma 
+Android, su estructura y comparación respecto a otras plataformas, incluyéndose el ambiente 
+de desarrollo a utilizar. En el segundo tema se estudian los aspectos básicos que componen 
+una aplicación móvil. En el tercer tema se abordan aspectos más avanzados en el desarrollo 
+de aplicaciones móviles. Por último, se abordan distintos mecanismos de acceso a Base de 
+Datos embebidas y remotas. 
+
+Para cursar esta materia se requiere tener las competencias previas de diseño de algoritmos, 
+programación Orientado a Objetos y Fundamentos de Bases de datos.  
+
+La asignatura se relaciona con las materias de Desarrollo de aplicaciones Jakarta EE y 
+Gestión ágil de proyectos. Las competencias adquiridas le permitirán al estudiante realizar 
+proyectos integradores con las materias relacionadas y le facilitarán la incorporación de otras 
+tecnologías para el desarrollo móvil. 
+
+ 
+Intención didáctica 
+
+Se recomienda que el enfoque de este curso sea fundamentalmente práctico tocando 
+aspectos teóricos que faciliten la comprensión formal de los temas a tratar. En el tema inicial 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+del curso, se sugiere tratar los conceptos teóricos de la computación móvil, un panorama de 
+la plataforma Android y las características principales de las distintas plataformas móviles de 
+la actualidad, en este momento se propone realizar actividades que incluyan la instalación de 
+del entorno de desarrollo de aplicaciones móviles con las pruebas correspondientes para 
+preparar el ambiente de trabajo realizando un primer ejercicio práctico. En el segundo tema 
+que trata de Android básico debe ser tratado mayormente de forma práctica con actividades 
+que implican el desarrollo de aplicaciones en esta plataforma basadas en el modelo de 
+programación MVC, en el tercer tema se abordarán, también de forma práctica, una serie de 
+tópicos avanzados de programación móvil. El cuarto tema trata sobre persistencia de datos 
+en aplicaciones móviles con base de datos embebidas SQLite, manipulación de cadenas 
+JSON, acceso a base de datos de servidores remotos y consumo de servicios Web REST 
+(Retrofit/GraphQL). Se recomienda que todas las actividades realizadas en el curso sean 
+debidamente propuestas y guiadas por el facilitador realizando evaluaciones formativas y 
+sumativas. Las actividades podrán realizarse en equipo donde el alumno podrá demostrar 
+sus competencias genéricas, trabajo colaborativo, participación en equipo, entre otras. 
+
+Las competencias específicas que el alumno lograra en el desarrollo de aplicaciones móviles 
+deberán ser las suficientes como para lograr que esas aplicaciones sean funcionales y de 
+calidad profesional, debidamente validadas y con interfaces agradables. 
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de 
+Participantes Observaciones 
+
+elaboración o revisión 
+
+Instituto tecnológico de Instituto Tecnológico de Programa elaborado por 
+Zacatepec. Zacatepec.  
+
+profesores del 
+ 
+Departamento de sistemas Mario Humberto Tiburcio departamento de Sistemas 
+y Computación Zúñiga 
+
+y Computación, presentado 
+ 
+Academia de sistemas  Noemi Lara Acono y aprobado en el pleno de 
+computación.  
+ Yanet Castrejón Hernández la Academia. 
+
+Reunión para el desarrollo de Esta materia forma parte de 
+Especialidades de Noviembre la especialidad Desarrollo 
+2020 a Marzo 2021. Web Empresarial, para la 
+
+carrera Ingeniería en 
+Sistemas Computacionales, 
+Plan de estudios 2010 
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+• Conoce la plataforma para el desarrollo de aplicaciones móviles. 
+• Desarrolla aplicaciones básicas y proyectos en plataforma Android para validarlas 
+
+en emulador y dispositivos móviles. 
+• Desarrolla aplicaciones avanzadas y proyectos en plataforma Android para 
+
+validarlas en emulador y dispositivos móviles. 
+• Desarrolla aplicaciones que permitan crear y acceder a Bases de Datos en 
+
+dispositivos móviles y remotas. 
+
+5. Competencias previas 
+
+• Configura de redes inalámbricas. 
+• Tiene conocimientos fundamentales de Sistemas Operativos. 
+• Instala y configura de software de base para el desarrollo de programas.  
+• Usa herramientas para desarrollar programas web. 
+• Codifica aplicaciones en Lenguaje Java. 
+• Usa manejadores de base de datos mediante SQL. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción al desarrollo 1.1 Definición de computación móvil. 
+móvil. 
+
+1.2 Panorama de la plataforma Android. 
+
+1.3 Comparación entre plataformas para 
+dispositivos móviles. 
+
+1.4 Arquitectura del sistema operativo Android. 
+
+1.5 Instalación del ambiente de desarrollo Android 
+Studio. 
+
+1.6 Creación de un primer proyecto en Android 
+Studio. 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+2 Android básico. 2.1 Aplicaciones, actividades y layouts. 
+
+2.2 Componentes TextView, Button, EditText, 
+ImageView. 
+
+2.3 Eventos OnClick, OnLongClick, OnTouch. 
+
+2.4 Comunicación entre actividades (Intents). 
+
+2.5 Programación de menús. 
+
+2.6 Fragmentos. 
+
+2.7 Componentes RadioButton, RadioGroup, 
+CheckBox. 
+
+2.8 Componentes Spinner, ListView. 
+
+2.9 Notificaciones. 
+
+2.10 Reproducción multimedia (audio, video). 
+
+2.11 Lectura de archivos recurso texto. 
+
+3 Android avanzado. 3.1 Hilos y tareas asíncronas. 
+
+3.2 Conexiones HTTP. 
+
+3.3 Conectividad con Sockets. 
+
+3.4 Conectividad Bluetooth. 
+
+3.5 API OpenGL. 
+
+3.6 Geolocalización. 
+
+3.7 Content Providers. 
+
+4 Conectividad a bases de 4.1 Bases de datos embebidas (SQLite). 
+datos. 
+
+4.2 Manipulación de cadenas JSON. 
+
+4.3 Acceso a base de datos de servidores remotos. 
+
+4.4 Consumo de servicios Web REST 
+(Retrofit/GraphQL). 
+
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+Nombre de tema 
+Introducción al desarrollo móvil. 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): 
+• Investigar definiciones de computación 
+
+móvil, generalidades e historia de la 
+Conoce la plataforma para el desarrollo de 
+
+plataforma Android. Elaborar un informe. 
+aplicaciones móviles. 
+
+• Elaborar un cuadro comparativo entre 
+
+Genéricas: plataformas para dispositivos móviles. 
+• Construir un diagrama de la arquitectura 
+
+del sistema operativo Android que 
+• Capacidad de análisis y síntesis. 
+
+muestre los distintos elementos que la 
+• Habilidad para buscar y analizar 
+
+conforman.  
+información proveniente de fuentes 
+
+• Instalar el ambiente de desarrollo y 
+diversas. 
+
+configurar un dispositivo emulador 
+Android. 
+
+Nombre de tema 
+Android básico 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): 
+• Utilizar guías de prácticas para 
+
+desarrollar aplicaciones de cada 
+Desarrolla aplicaciones básicas y proyectos 
+
+subtema. 
+en plataforma Android para validarlas en 
+
+• Realizar pruebas en emulador y en 
+emulador y dispositivos móviles. 
+
+dispositivos móviles. 
+
+Genéricas: • Desarrollar proyectos integradores. 
+
+• Capacidad de organizar y planificar. 
+• Solución de problemas. 
+• Toma de decisiones. 
+• Trabajo en equipo. 
+• Capacidad de aplicar los conocimientos. 
+• Capacidad de generar nuevas ideas. 
+• Liderazgo. 
+• Habilidad para trabajar en forma. 
+• Autónoma. 
+• Búsqueda del logro. 
+
+ 
+
+Nombre de tema 
+Android avanzado 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+Específica(s): • Investigar sobre los tópicos avanzados 
+de Android. 
+
+Desarrolla aplicaciones avanzadas y • Utilizar guías de prácticas para 
+proyectos en plataforma Android para desarrollar aplicaciones de cada 
+validarlas en emulador y dispositivos subtema. 
+móviles. • Realizar pruebas en emulador y en 
+
+dispositivos móviles. 
+Genéricas: • Desarrollar proyectos integradores. 
+
+• Capacidad de organizar y planificar. 
+• Solución de problemas. 
+• Toma de decisiones. 
+• Trabajo en equipo. 
+• Capacidad de aplicar los conocimientos. 
+• Capacidad de generar nuevas ideas. 
+• Liderazgo. 
+• Habilidad para trabajar en forma. 
+• Autónoma.  
+• Búsqueda del logro. 
+ 
+
+Nombre de tema 
+Conectividad a bases de datos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar distintas formas de acceso a 
+bases de datos en dispositivos móviles y 
+
+Desarrolla aplicaciones que permitan crear y remotas.  
+acceder a Bases de Datos en dispositivos • Realizar la instalación y/o configuración de 
+
+móviles y remotas. manejadores de base de datos móviles. 
+• Desarrollar aplicaciones de BD para 
+
+Genéricas:  Android que se instalen en dispositivos 
+móviles. 
+
+• Capacidad de organizar y planificar. • Desarrollar aplicaciones para acceso a 
+Bases de Datos remotas. 
+
+• Solución de problemas. 
+Trabajo en equipo. 
+
+• Capacidad de aplicar los conocimientos. 
+• Habilidad para trabajar en forma. 
+• Autónoma.  
+• Búsqueda del logro. 
+
+ 
+
+8. Práctica(s) 
+
+1. Descargar, instalar y configurar en ambiente de Desarrollo Android Studio, 
+incluyendo la configuración de un AVD o un dispositivo móvil. 
+ 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+2. Crear una aplicación de prueba y ejecutarla en el dispositivo móvil. 
+ 
+
+3. Integrar en una aplicación el uso de Button, TextView, EditText, Activity y Menu 
+(Calculadora). 
+ 
+
+4. Integrar en una aplicación el uso de Spinner, CheckBox, RadioButton, RadioGroup. 
+ 
+
+5. Integrar en una aplicación un menú con elementos de multimedia como: Canvas 
+gráfico controlado por evento OnTouch, reproducción de video, reproducción de 
+audio, sonidos cortos y animaciones. 
+ 
+
+6. Realizar una aplicación que ejemplifique el envío de mensajes SMS y realizar 
+llamadas. 
+ 
+
+7. Crear un servidor que acepte conexiones TCP/IP y realice una tarea simple como 
+elevar un número al cuadrado, obtener una raíz cuadrada, etc. y desarrollar una 
+aplicación Android que solicite la operación al servidor remoto, enviando datos para 
+recibir resultados a través de sockets. 
+ 
+
+8. Diseñar un objeto sencillo en 3D utilizando la librería OpenGL y desplegarlo en el 
+dispositivo móvil. 
+ 
+
+9. Construir un circuito digital con Arduino que reciba órdenes vía Bluetooth desde una 
+interfaz desarrollada en una app Android. 
+ 
+
+10. Construir una aplicación Android que realice alguna acción dependiente de algún 
+sensor del dispositivo móvil (acelerómetro o algún sensor de posición). 
+ 
+
+11. Realizar un CRUD en una base de datos embebida de SQLite. 
+ 
+
+12. Realizar una aplicación que despliegue información en el dispositivo móvil a partir de 
+datos en formato JSON proveniente de un servidor vía HTTP. 
+ 
+
+13. Desarrollar una aplicación Android que utilice Retrofit para consumir servicios REST 
+en servidores remotos.  
+
+ 
+
+ 
+
+ 
+
+9. Proyecto de asignatura 
+
+Desarrollar una aplicación móvil que resuelva un problema sencillo del mundo real. Se 
+sugiere que el producto se constituya como una herramienta de apoyo a las materias de 
+la carrera de Ingeniería en Sistemas Computacionales en las áreas de Redes. 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+La aplicación deberá cumplir con las siguientes especificaciones: 
+
+1. Debe estar basado en la filosofía de diseño MVC (Modelo Vista Controlador). El 
+modelo deberá estar desarrollado por actividades, la vista con Layout y componentes 
+visuales. En la medida posible, el modelo deberá ser implementado con JavaBeans o 
+POJOs. 
+
+2. Deberá incluirse acceso a datos persistentes, de acuerdo con los requerimientos: 
+
+a) acceso memoria SD. 
+
+b) acceso a base de datos remota. 
+
+c) acceso a datos en BD embebida SqLite. 
+
+3. El documento del proyecto deberá contener los siguientes elementos: 
+
+• Base teórica 
+
+• Planeación del proyecto 
+
+• Evidencia de la ejecución realizada 
+
+• Conclusiones  
+
+ 
+
+10. Evaluación por competencias  
+
+• Realizar evaluación diagnóstica al iniciar el curso y retroalimentar al alumno. 
+
+• Motivar y llevar a cabo la evaluación entre pares. 
+
+• Realizar evaluaciones mediante: cuestionarios teóricos, desarrollo de prácticas de 
+laboratorio, tareas y ejercicios. 
+
+ 
+
+ 
+
+11. Fuentes de información 
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+Arias, A. (2015). Aprende a Programar para Android. 2ª Edición. IT Campus Academy. 
+
+Carbonell, V.; Bataller, J.; Tomás, J. (2018). El gran libro de Android avanzado. 4ª 
+Edición. Alfaomega, Marcombo. 
+
+Google Developers (s.f). Guías para desarrolladores. Android. Recuperado el 03 de 
+marzo de 2021 desde: http://developer.android.com/guide/index.html 
+
+Hohensee, B.( 2014). Introducción a Android Studio. Babelcube Inc.  
+
+Luján Castillo, J. (2015). ANDROID - Aprende desde cero a crear aplicaciones. 
+Alfaomega, RC Libros. 
+
+Luján Castillo, J. (2017). ANDROID STUDIO - Aprende a desarrollar aplicaciones. 
+Alfaomega, RC Libros.  
+
+Montero Miguel, R. (2014). Desarrollo de aplicaciones para Android. RA-MA Editorial.  
+
+Phillips Bill; Stewart, Chris. (2019). Android Programming: The Big Nerd Ranch Guide. 
+4ht Edition. Big Nerd Ranch, LLC. 
+
+Robledo Sacristán, C. (2013). Programación en Android. Ministerio de Educación de 
+España.  
+
+Serrano Valero, R. y otros. (2017). APRENDER A PROGRAMAR ANDROID con 100 
+ejercicios prácticos. Alfaomega, Marcombo. 
+
+Tomás Gironés, Jesús; Tirado Gil, Beatriz. (2020). El gran libro de Android. 8a edición. 
+Alfa Omega.  
+
+ 
+
+Página | 9

@@ -1,0 +1,702 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Biotecnología Vegetal. 
+
+  
+
+  
+
+Clave de la asignatura: BAF-2104 
+
+  
+
+  
+
+SATCA1: 3 – 2 - 5 
+
+  
+
+  
+
+Carrera: Ingeniería Bioquímica 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+El contenido de esta asignatura aporta al perfil del ingeniero bioquímico los 
+conocimientos básicos, la capacidad de interpretación y análisis de la 
+información sobre las técnicas de cultivo de tejidos vegetales para la 
+multiplicación, rescate y mejora de plantas, que le permitirán atender las áreas 
+en investigación de los sectores públicos, privados y empresariales. 
+
+ 
+
+Asi mismo, el curso esta diseñado para que el estudiante pueda atender 
+protocolos de desinfección de distintos tipos de material vegetal, establecer 
+procedimientos y obtener habilidades para la inducción de brotes múltiples y 
+tejidos desdiferenciados a través del empleo de los distintos tipos y 
+concentraciones de reguladores del crecimiento vegetal, comprender la 
+importancia de la totipotencia celular para la obtención de plantas completas 
+y aplicar las distintas técnicas para la crioconservación del material vegetal, así 
+como la obtención de plantas transgénicas. 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+El estudiante conocerá las diferentes etapas de la micropropagación, el uso de 
+los distintos órganos de la planta para la obtención de plántulas in vitro, así 
+como llevar a cabo el proceso de aclimatación de las mismas, además conocerá 
+la importancia que tiene la manipulación de los factores físicos, químicos y 
+biológicos que impactan en la modificación de la(s) ruta(s) metabólica(s) para 
+la obtención y producción de metabolitos secundarios. Estos conocimientos 
+los aplicará de forma profesional y podrá demostrar sus competencias por 
+medio de la defensa de argumentos y la resolución de problemas en su área 
+de estudio y/o trabajo haciendo uso de la sostenibilidad de los recursos. 
+
+ 
+
+Se recomienda impartir la clase cuando el estudiante cuente con 
+conocimientos básicos de biología, bioquímica, bioquímica del nitrógeno y 
+regulación genética, cinética química y biológica e ingeniería de biorreactores.  
+
+ 
+
+Intención didáctica 
+
+Se abordan cuatro temas principales. En el primero se introduce al estudiante 
+a los fundamentos del cultivo de tejidos vegetales, explicando sus aplicaciones 
+y los componentes básicos que debe tener un laboratorio para el cultivo in vitro, 
+además se explicará la importancia de los diferentes componentes para la 
+elaboración y preparación de los medios del cultivo vegetal, así como los 
+inconvenientes que se pueden presentar para la obtención de plantas in vitro. 
+
+En el segundo tema, se analiza la técnica de micropropagación, esta unidad se 
+estructura de manera que el estudiante comprenda los aspectos teóricos sobre 
+los distintos métodos para la obtención de plantas completas, la importancia 
+del uso de distintos agentes desinfectantes, la selección de explantes; a la vez 
+que el estudiante será capaz de reconocer que tipo de explante utilizará para 
+la regeneración de plantas in vitro, y también identificará los distintos factores 
+que pueden intervenir en el proceso. Por último, es capaz de utilizar distintos 
+tipos de equipos para la obtención de plantas in vitro. 
+
+El tercer tema tiene como objetivo introducir al estudiante en el análisis e 
+importancia de los metabolitos secundarios, conociendo las distintas rutas 
+metabólicas para su obtención y manipulación, finalmente será capaz de 
+conocer y aplicar las técnicas para la obtención de metabolitos a escala 
+industrial. 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+El último tema permite al estudiante comprender las bases teóricas de los 
+métodos de criopreservación del material vegetal. Se hace énfasis en la 
+importancia de las distintas técnicas para la obtención de plantas transgénicas 
+y sus aplicaciones. 
+
+Es necesario abordar los diferentes temas de manera teórico-practica, para 
+promover un aprendizaje significativo al contrastar la experimentación con la 
+teoría, aprendiendo a trabajar de forma adecuada en un laboratorio aplicando 
+las normas y técnicas de seguridad e higiene, manipulación del material de 
+trabajo y la gestión de residuos, además se promueve el trabajo en equipo, la 
+toma de decisiones y la aplicación de conocimientos previos, que el estudiante 
+desarrolle sus capacidad de observación, recopilación, organización, análisis, 
+reflexión, síntesis de la información e interpretación de resultados.  
+
+Las competencias del profesor del curso deben permitirle construir escenarios 
+de aprendizaje significativos a los estudiantes para su formación profesional. 
+Las estrategias metodológicas recomendadas incluyen exposición de los 
+temas, presentación de problemas, investigación bibliográfica, trabajo en 
+equipo, vistas de estudio, realización de prácticas de laboratorio y/o proyectos 
+de investigación, análisis de información e interpretación de resultados. 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Karen Jhoana Flores Desarrollo de planes y 
+Zacatepec el 25 de enero Sánchez.  programas del modulo 
+de 2021.  de especialidad de la 
+
+ carrera de Ingeniería 
+Erika Darnely Rojas Bioquímica. 
+Ayala. 
+
+ 
+
+Alberto Álvarez Castillo 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Aplica los distintos métodos y técnicas empleados en el cultivo de tejidos 
+vegetales para la mejora y rescate de plantas, así como los fundamentos para 
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+la producción de metabolitos secundarios de interés, la conservación y 
+obtención de plantas transgénicas en la biotecnología. 
+
+5. Competencias previas 
+
+Aplica los conocimientos de las asignaturas de biología, bioquímica, 
+bioquímica del nitrógeno y regulación genética, cinética química y biológica e 
+ingeniería de biorreactores. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Cultivo de tejidos vegetales 1.1 Introducción. 
+
+1.2 Principios del cultivo de tejidos 
+vegetales. 
+
+1.3 Totipotencia. 
+
+1.4 Laboratorio y material para el 
+cultivo de tejidos vegetales. 
+
+1.5 Medios de cultivo. 
+
+1.5.1 Componentes del medio. 
+
+1.5.1.1 Fuentes de carbono. 
+
+1.5.1.2 Nutrientes minerales. 
+
+1.5.1.3 Vitaminas. 
+
+1.5.1.4 Otros componentes. 
+
+1.5.1.5 Agentes gelatinizadores. 
+
+1.5.2 Preparación y esterilización. 
+
+1.6 Reguladores del crecimiento 
+vegetal. 
+
+1.6.1 Clasificación y función. 
+
+1.6.2 Niveles, localización y biosíntesis. 
+
+1.6.3 Mecanismo de acción e 
+inactivación. 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+1.7 Problemas asociados al cultivo de 
+tejidos vegetales. 
+
+2 Micropropagación 2.1 Métodos de propagación vegetal. 
+
+2.1.1 Sexual. 
+
+2.1.2 Asexual. 
+
+2.2 Micropropagación. 
+
+2.2.1 Etapas de la micropropagación. 
+
+2.2.2 Obtención, selección y 
+esterilización de explantes. 
+
+2.2.3 Regeneración de plantas en el 
+cultivo in vitro. 
+
+2.2.3.1 Organogénesis. 
+
+2.2.3.2 Embriogénesis somática. 
+
+2.2.3.3 Cultivo de callos. 
+
+2.2.3.4 Cultivo de suspensiones 
+celulares. 
+
+2.2.3.5 Cultivo de raíces. 
+
+2.2.3.6 Cultivo de anteras y polen. 
+
+2.2.3.7 Protoplastos. 
+
+2.2.4 Factores que influyen en la 
+micropropagación. 
+
+2.2.5 Etapas de la aclimatación. 
+
+2.3 Sistemas de inmersión temporal. 
+
+2.4 Aplicaciones. 
+
+3 Obtención de metabolitos 3.1 Rutas metabólicas primarias y 
+secundarios secundarias. 
+
+3.2 Potencial biosintético de las 
+plantas. 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+3.3 Optimización de los medios de 
+cultivo. 
+
+3.4 Selección de líneas altamente 
+productoras de metabolitos. 
+
+3.5 Técnicas para el cultivo a escala 
+industrial. 
+
+3.5.1 Inmovilización de células. 
+
+3.5.2 Permeabilización. 
+
+3.5.3 Cultivos duales planta-
+microorganismo. 
+
+3.6 Metabolitos secundarios 
+producidos por cultivos de tejidos 
+vegetales. 
+
+4 Conservación de germoplasma y 4.1 Técnicas de cultivo continuo y 
+obtención de plantas crecimiento lento. 
+transgénicas 
+
+4.2 Técnicas de conservación del 
+material vegetal. 
+
+4.3 Variación somaclonal. 
+
+4.4 Plantas transgénicas. 
+
+4.4.1 Métodos de transformación 
+directa. 
+
+4.4.2 Métodos químicos. 
+
+4.4.3 Transferencia de genes mediada 
+por Agrobacterium.  
+
+4.4.4 Transferencia de ADN por medio 
+de liposomas. 
+
+4.5 Aplicaciones. 
+
+.  
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+7. Actividades de aprendizaje de los temas 
+
+Cultivo de tejidos vegetales 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conoce los fundamentos • Consultar distintas fuentes de 
+y principios del cultivo de tejidos información para el análisis de las 
+vegetales. ventajas y desventajas del cultivo 
+
+de tejidos vegetales. 
+Desarrolla los procedimientos para la • Investigar y analizar el principio de 
+prepaeación de medios de cultivo. la totipotencia celular. 
+Genéricas: • Elaborar un mapa mental del 
+
+material y equipo necesario en un 
+• Capacidad de análisis y síntesis. laboratorio de cultivo de tejidos 
+• Compromiso ético. vegetales. 
+• Capacidad de aplicar los • Investigar y discutir en foro la 
+
+conocimientos en la prática de importancia del uso de otros 
+laboratorio. componentes empleados para la 
+
+• Capacidad de análisis en otro elaboración de medios de cultivo. 
+idioma. • Elaborar una tabla comparativa 
+
+• Habilidades de investigación. sobre la importancia y tipos de 
+• Capacidad crítica y autocrítica. agentes desinfectantes utilizados 
+
+en el cultivo in vitro. 
+• Elaborar una tabla comparativa 
+
+sobre los distintos tipos de 
+reguladores del crecimiento 
+vegetal. 
+
+• Investigar y discutir mediante un 
+foro el mecanismo de acción de los 
+reguladores del crecimiento 
+vegetal y presenta un resumen. 
+
+• Explicar mediante un resumen los 
+distintos problemas asociados al 
+cultivo de tejidos vegetales. 
+
+• Aplicar las buenas prácticas de 
+laboratorio en el desarrollo de 
+prácticas. 
+
+• Discutir artículos científicos sobre la 
+importancia y aplicaciones del 
+cultivo de tejidos vegetales. 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+Micropropagación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Aplica las distintas • Investigar y analizar los métodos de 
+técnicas de la micropropagación para propagación vegetal. 
+la obtención de plantas completas. • Elaborar un mapa conceptual sobre 
+
+los métodos de propagación 
+Genéricas: vegetativa asexual. 
+• Gestión de la información. • Investigar y discutir en foro la 
+• Capacidad de análsis y síntesis. importancia de los sustratos 
+• Capacidad de aplicar los empleados para la germinación y/o 
+
+conocimientos en la práctica. aclimatación de las plántulas in 
+• Capacidad de trabajar en equipo. vitro. 
+• Capacidad de análisis en otro • Elaborar una tabla comparativa 
+
+idioma. sobre los métodos de regeneración 
+• Habilidades de investigación. de plantas in vitro. 
+• Capacidad de expresión oral. • Investigar y discutir mediante un 
+• Capacidad crítica y auto crítica. foro la importancia y aplicaciones 
+
+de la organogénesis directa e 
+indirecta. 
+
+• Elaborar un ensayo sobre la 
+importancia del cultivo de 
+suspensiones celulares. 
+
+• Investigar y discutir mediante foro 
+las etapas del proceso de 
+aclimatación. 
+
+• Investigar y exponer la importancia 
+y tipos de sistemas de inmersión 
+temporal. 
+
+• Aplicar las buenas prácticas de 
+laboratorio en el desarrollo de 
+prácticas. 
+
+• Discutir artículos científicos sobre la 
+importancia y aplicaciones de la 
+micropropagación. 
+
+Obtención de metabolitos secundarios 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+Específica(s): Conoce y analiza las • Elaborar una tabla comparativa 
+técnicas para la obtención de sobre el metabolismo primario y 
+metabolitos de interés a escala secundario utilizado por las plantas. 
+industrial. • Investigar las principales rutas 
+
+metabólicas para la obtención de 
+Genéricas: metabolitos secundarios. 
+• Gestión de la información. • Elaborar una tabla comparativa 
+• Capacidad de análsis y síntesis. sobre las técnicas para la obtención 
+• Capacidad de organizar y planificar. de metabolitos secundarios a 
+• Compromiso ético. escala industrial. 
+• Capacidad de aplicar los • Investigar y discutir en foro las 
+
+conocimientos en la práctica. distintas técnicas de inmovilización 
+• Capacidad de análsis en otro de células. 
+
+idioma. • Investigar y elaborar un resumen 
+• Habilidades de investigación. sobre el empleo de los cultivos 
+
+duales planta-microorganismo. 
+• Aplicar las buenas prácticas de 
+
+laboratorio en el desarrollo de 
+prácticas. 
+
+• Discutir artículos científicos sobre 
+las aplicaciones de los metabolitos 
+secundarios en la industria.  
+
+Conservación de germoplasma y obtención de plantas transgénicas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Conoce las distintas • Investigar y discutir en foro las 
+técnicas para la conservación del técnicas de cultivo continuo y 
+germoplasma y la obtención de crecimiento lento. 
+plantas transgénicas. • Elaborar un mapa conceptual y 
+
+discutir en foro las técnicas de 
+Genéricas: conservación de material vegetal. 
+• Gestión de la información. • Investigar y elaborar un resumen 
+• Capacidad de análsis y síntesis. sobre la variación somaclonal. 
+• Capacidad de aplicar los • Elaborar un ensayo sobre el 
+
+conocimeintos a la práctica. impacto ambiental que puede 
+• Capacidad de trabajar en equipo. generar el uso de plantas 
+• Capacidad de análsis en otro transgénicas. 
+
+idioma. • Investigar y discutir en foro los 
+• Habilidades de investigación. distintos métodos de obtención de 
+• Capacidad de expresión oral. plantas transgénicas. 
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+• Elaborar un mapa conceptual sobre 
+
+los métodos de obtención de 
+plantas transgénicas. 
+
+• Investigar y discutir en foro las 
+técnicas de transferencia de genes 
+microorganismo-planta. 
+
+• Dicutir en foro la importancia del 
+uso de Agrobacterium en la 
+biotecnología vegetal. 
+
+• Investigar y elaborar un resumen la 
+importancia del liposoma para la 
+obtención de plantas transgénicas. 
+
+• Aplicar las buenas prácticas de 
+laboratorio en el desarrollo de 
+prácticas. 
+
+• Discutir artículos científicos sobre la 
+importancia de las plantas 
+transgénicas y conservación del 
+germoplasma. 
+
+ 
+
+8. Práctica(s) 
+
+• Organización del material y equipo de laboratorio del cultivo de tejidos 
+vegetales. 
+
+• Elaboración de soluciones concentradas y medios de cultivo. 
+• Desinfección y germinación de semillas in vitro e in vivo. 
+• Efecto del tipo y concentración de citocininas en la proliferación de brotes. 
+• Inducción a la callogenésis. 
+• Obtención de suspensiones celulares. 
+• Cultivo de raíces. 
+
+ 
+
+  
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+  
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+10. Evaluación por competencias  
+
+Las técnicas, instrumentos y herramientas sugeridos que permiten obtener 
+evidencias del aprendizaje puede ser: mapas conceptuales, tablas 
+comparativas, reportes de prácticas, exposiciones en clase, ensayos, portafolio 
+de evidencias y cuestionarios.  
+
+ 
+
+Para constatar el logro de objetivos y evaluar el nivel de desempeño de los 
+estudiantes se recomienda utilizar listas de cotejo, rúbricas, guías de 
+evaluación y portafolios de evidencias.  
+
+ 
+
+11. Fuentes de información 
+
+1. Lindsey K., y Jones M. G. K. (1992). Biotecnología vegetal Agricola. Editorial 
+Acribia S, A. 
+
+2. Hurtado M. D. V, y Merino M. Ma. E. (2001). Cultivo de tejidos vegetales. 
+Editorial Trillas. ISBN: 9789682421594 
+
+3. Benítez B. A. (2005). Avances recientes en biotecnología vegetal e ingeniería 
+genética de plantas. Editorial Reverté. ISBN: 9788429193060 
+
+4. Reinhard R. (2020) Biotecnología para principiantes. Editorial Reverté. ISBN: 
+9788429174830 
+
+5. Ringuelet J. A. (2013). Productos naturales vegetales. D-Editorial de la 
+Universidad Nacional de la Plata. ISBN: 9789503409718 
+
+6. Martín B. H. (2018). Fundamentos de Biotecnología farmacéutica. Editorial 
+Dextra. ISBN: 9788416898510, 9788416898589. 
+
+7. Rueda P. E. O., Barrón H. J. M. y Hallman J. (2009) Bacterias promotoras del 
+crecimiento vegetal. Editorial Plaza y valdés, S. A. de C. V. ISBN: 
+9786074021196 
+
+8. Walter A., Marina A., y Sharry S. (2015). Plantas de probeta: manual para la 
+propagación de plantas por cultivo de tejidos in vitro. D-Editorial de la 
+Universidad Nacional de la Palta. ISBN: 9789503412541 
+
+9. Serrano G. M., y Piñol Ma T. (1999). Biotecnología vegetal. Editorial Síntesis, 
+S.A. ISBN: 8477381011 
+
+10. Vallejo C. F. A., y Estrada S. E. I. (2002). Mejoramiento genético de plantas. 
+Editorial Universidad Nacional de Colombia. ISBN-13:9789587755046 
+
+ 
+
+Referencias en internet: 
+
+1. https://revista.ibp.co.cu/index.php/BV 
+2. https://www.scielo.org.co 
+3. http://www.bioplaninvitro.com 
+4. https://biblat.unam.mx/es/revista/biotecnologia-vegetal 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+  
+
+Página | 13  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+3.4.5 
+ 
+
+Página | 14

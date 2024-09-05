@@ -1,0 +1,554 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Modelado y Simulación Numérica en 
+ Ingeniería 
+  
+
+Clave de la asignatura: DSD - 2102 
+  
+
+SATCA1: 2 – 3 – 5 
+  
+
+Carrera: Ingeniería Electromecánica 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+La asignatura de Modelado y Simulación Numérica en Ingeniería le permitirá al egresado 
+del Programa Educativo de Ingeniería Electromecánica realizar el modelado matemático 
+de distintos sistemas electromecánicos y mediante su solución por simulación numérica, 
+éste será capaz de analizar, predecir y evaluar su comportamiento estático y dinámico. 
+Por lo tanto, esta asignatura será una herramienta de análisis indispensable para la toma 
+de decisiones, cuya aplicación práctica a la solución de problemas ingenieriles se estima 
+que se realizará en el corto plazo. 
+ 
+Esta asignatura le permitirá al alumno comprender las bases para el modelado de 
+sistemas electromecánicos mediante ecuaciones diferenciales ordinarias y parciales, 
+cuya solución implicará la aplicación de los métodos de diferencias finitas, elemento finito 
+y volumen finito, con el fin de aprender el uso de estas técnicas numéricas aplicadas a 
+problemas sencillos. Posteriormente, se aplicarán programas de cómputo especializados 
+para el análisis de problemas complejos de los campos de electricidad y magnetismo, 
+transferencia de calor, transporte de fluidos, análisis de esfuerzos y deformaciones en 
+piezas mecánicas ante cargas estáticas y dinámicas. La metodología del curso se 
+centrará en el análisis y la solución de problemas aplicados, desde el desarrollo del 
+modelo matemático, la aplicación de las condiciones de frontera y su discretización 
+mediante las técnicas numéricas de diferencias finitas, elemento finito y volumen finito, a 
+través de programas de cómputo desarrollados por el estudiante y mediante la aplicación 
+de software especializado, por lo que se le brindará a los estudiantes la capacidad de ser 
+usuario y desarrollador de programas para la simulación de sistemas electromecánicos. 
+ 
+Este curso, de carácter introductorio, podrá constituir una base sólida para la formación 
+de especialistas en modelación y análisis de sistemas, que estarán capacitados para 
+poder emprender el estudio posterior de temáticas de mayor alcance y complejidad, en 
+donde la profundidad de los análisis efectuados y el nivel de los problemas a resolver 
+tenderá a ser creciente y más cercana a la realidad. 
+
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+El curso es profundo y directo, sin dejar de lado la practicidad y la agilidad requerida por 
+los tiempos actuales. Se trata de una instancia de formación donde cada tema teórico 
+encuentra su aplicación directa a muchos de los problemas que a diario debe resolver el 
+Ingeniero Electromecánico. 
+Intención didáctica 
+El programa de esta asignatura está organizado en seis temas los cuales se centran en 
+la aplicación de los métodos de diferencias finitas, elemento finito y volumen finito para la 
+solución numérica de ecuaciones diferenciales, que surgen del modelado matemático de 
+sistemas electromecánicos, representativos de los campos de electricidad y magnetismo, 
+dinámica de fluidos, transferencia de calor y esfuerzos mecánicos. 
+ 
+Los temas serán abordados de tal forma que se destaque la importancia del 
+planteamiento matemático y del uso de la aproximación numérica para obtener la 
+solución de sistemas físicos, apoyándose en el desarrollo de programas de computadora 
+o en el uso de software especializado como una herramienta poderosa para el análisis y 
+la predicción del comportamiento de sistemas electromecánicos. En el desarrollo de los 
+temas de estudio, se destacará el proceso de solución, así como las ventajas y 
+desventajas de cada uno de los tres métodos numéricos, permitiendo que el estudiante 
+adquiera la capacidad para la selección del método más adecuado para la solución de un 
+problema específico. 
+ 
+En el primer tema se realiza una introducción al modelado matemático y a la clasificación 
+de las ecuaciones diferenciales, relacionando los tipos de ecuaciones diferenciales con el 
+campo de aplicación del problema a resolver y la técnica de solución más apropiada. Se 
+describirán las clases de condiciones de frontera a las que puede estar sometida una 
+ecuación diferencial, de acuerdo con el fenómeno que representen. Posteriormente, se 
+describirán las etapas del proceso de solución y análisis de ecuaciones diferenciales 
+mediante la simulación numérica: pre-proceso, solución y post-proceso. 
+ 
+El segundo tema trata con la descripción de los conceptos y las bases matemáticas del 
+método de diferencias finitas. Se resolverán casos simples de simulación de sistemas 
+electromecánicos mediante esta técnica numérica, tanto para estado estacionario como 
+transitorio. Se analizarán las ventajas y desventajas de esta técnica numérica, así como 
+sus principales aplicaciones prácticas. En el tema tres se describen las bases 
+matemáticas del método de elemento finito, así como sus ventajas, desventajas y las 
+principales aplicaciones prácticas. En el tema cuatro se contempla el desarrollo de 
+problemas de aplicación de este método mediante el uso de software especializado. 
+ 
+El tema cinco trata con las bases y fundamentos del método de volumen finito, 
+describiendo sus ventajas, desventajas y sus principales aplicaciones prácticas. 
+Finalmente, en el tema seis se contempla el análisis de problemas de aplicación de este 
+método, empleando tanto formulaciones propias así como el manejo de software 
+especializado. 
+
+Página | 2  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+19 de abril del 2021. Academia de Ingeniería Convocatoria para la 
+Instituto Tecnológico de Electromecánica elaboración del programa 
+Zacatepec. de especialidad 2021-2024. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Plantea, interpreta y simula modelos de sistemas mecánicos y eléctricos mediante el uso 
+de los métodos de diferencias finitas (MDF), de elemento finito (MEF) y de volumen finito 
+(MVF) con la ayuda de la herramienta computacional adecuada.  
+ 
+5. Competencias previas 
+
+ Análisis numérico 
+ Resuelve problemas de aplicación en el área de ingeniería usando métodos 
+
+numéricos, con el apoyo de algún lenguaje de programación. 
+ Conoce y aplica conceptos básicos de electricidad y magnetismo. 
+ Conoce y aplica conceptos básicos sobre la mecánica de materiales, tales como 
+
+esfuerzo, deformación unitaria y desplazamiento, equilibrio de un cuerpo rígido, 
+método del  trabajo y la energía, diseño basado en el esfuerzo normal máximo. 
+
+ Conoce y aplica los conocimientos básicos de la dinámica de fluidos y la 
+transferencia de calor. 
+
+  Conoce y aplica las herramientas de dibujo computarizado (CAD). 
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Generalidades 1.1 Clasificación de las ecuaciones 
+diferenciales 
+
+1.2 Clases de condiciones de frontera. 
+1.3 Introducción al modelado matemático. 
+1.4 Etapas del proceso de solución de 
+
+ecuaciones diferenciales mediante 
+simulación numérica. 
+1.4.1 Fase de pre procesamiento.  
+1.4.2 Fase de solución. 
+1.4.3 Fase de post procesamiento.  
+
+1.5 Fundamentos de discretización. 
+2 Método de diferencias finitas (MDF) 2.1 Esquemas de discretización. 
+
+Página | 3  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+2.2 Error de truncamiento. 
+2.3 Estabilidad, consistencia y 
+
+convergencia. 
+2.4 Ventajas y desventajas del MDF. 
+2.5 Aplicaciones del MDF. 
+
+3 Principios básicos del Método de 3.1 Método de residuos pesados. 
+Elemento Finito (MEF) 3.2 Esquemas de discretización en 1D 
+
+3.3 Extensión de la formulación a 2D y 3D. 
+3.4 Ventajas y desventajas del MEF. 
+3.5 Principales aplicaciones prácticas. 
+
+4 Aplicaciones del método de elemento 4.1 Campo eléctrico y campo magnético. 
+finito 4.2 Transferencia de calor. 
+
+4.3 Armaduras en 2D y 3D. 
+4.4 Vigas y marcos sólidos. 
+4.5 Vibraciones mecánicas. 
+4.6 Uso de software especializado. 
+
+5 Principios básicos del método de 5.1 Teoría básica del método de volumen 
+volumen finito (MVF) finito. 
+
+5.2 Discretización de la ecuación de 
+convección-difusión: difusión pura 1D. 
+
+5.3 Extensión de la formulación a 2D y 3D. 
+5.4 Discretización de la ecuación de 
+
+convección-difusión para 1-D. 
+5.5 Ventajas y desventajas del MVF. 
+5.6 Aplicaciones del MVF. 
+
+6 Aplicaciones del método de volumen 6.1 Problemas de difusión de calor. 
+finito. 6.2 Solución de la ecuación del potencial. 
+
+6.3 Problemas de transporte convectivo. 
+6.4 Uso de software especializado.  
+
+  
+
+Página | 4  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Generalidades 
+Competencias Actividades de aprendizaje 
+
+Específica(s):   Investigar en la bibliografía 
+ Identifica los diferentes tipos de recomendada los tipos de 
+
+ecuaciones diferenciales. ecuaciones diferenciales e identifica 
+ Aplica las diferentes etapas del cuáles de ellas son importantes en 
+
+proceso de simulación numérica de el contexto de la ingeniería 
+ecuaciones diferenciales. electromecánica 
+
+  Identificar y aplicar las diferentes 
+
+Genéricas: clases de condiciones de frontera 
+para la solución particular de 
+
+ Capacidad de análisis y síntesis. 
+ecuaciones diferenciales, de 
+
+ Conocimientos generales básicos. 
+acuerdo con el fenómeno físico de 
+
+ Habilidad para buscar y analizar interés. 
+información proveniente de fuentes 
+diversas. 
+
+2. Método de diferencias finitas (MDF) 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Investigar en la bibliografía 
+ Identifica los rasgos característicos recomendada el Método de 
+
+del método de Diferencias Finitas, Diferencias Finitas y lo ubica en el 
+sus ventajas y desventajas y sus contexto electromecánico, apoyado 
+aplicaciones principales. en sus aplicaciones prácticas. 
+
+ Aplica el método de diferencias  Formular el modelo matemático a 
+finitas en la solución de modelos de partir de las ecuaciones 
+sistemas electromecánicos. gobernantes de acuerdo con el 
+
+ Analiza e interpreta los resultados fenómeno físico de interés. 
+obtenidos.  Discretiza el modelo matemático 
+
+ con el MDF 
+
+Genéricas:  Verificar resultados con problemas 
+de referencia. 
+
+ Solución de problemas. 
+ Discutir las ventajas y desventajas 
+
+ Toma de decisiones. 
+del método de diferencias finitas. 
+
+ Capacidad de análisis y síntesis. 
+3. Principios básicos del Método de Elemento Finito (MEF) 
+
+Competencias  Actividades de aprendizaje 
+Específica(s):  Investigar las bases del Método de 
+
+ Identifica los rasgos distintivos del Elemento Finito en la bibliografía 
+método de Elemento Finito, sus recomendada. Ubica la importancia 
+ventajas y desventajas, así como de este método en el contexto 
+sus principales aplicaciones. electromecánico, mediante el 
+
+ análisis de sus principales 
+Genéricas: aplicaciones prácticas. 
+
+ Habilidad para buscar y analizar  Formular el modelo matemático a 
+información proveniente de fuentes partir de las ecuaciones 
+
+Página | 5  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+diversas. gobernantes de acuerdo con el 
+fenómeno físico de interés. 
+
+ Discutir las ventajas y desventajas 
+del método de elemento finito. 
+
+4. Aplicaciones del método de elemento finito 
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Resolver el modelo matemático de 
+ Aplica el método de elemento finito sistemas electromecánicos con el 
+
+en la solución de modelos MEF. 
+matemáticos asociados a distintos  Verificar resultados con problemas 
+sistemas electromecánicos. de referencia. 
+
+ Usa el software comercial adecuado  Investigar el software comercial 
+
+para resolver problemas de mayor disponible que se apoye en el 
+
+complejidad con el método de método de elemento finito. 
+
+elemento finito.  Utilizar software especializado para 
+
+ Analiza e interpreta los resultados la solución de problemas más 
+
+obtenidos. complejos. 
+
+ 
+Genéricas: 
+
+ Solución de problemas. 
+ Toma de decisiones. 
+ Capacidad de análisis y síntesis. 
+
+ 
+5. Principios básicos del método de volumen finito (MVF) 
+
+Competencias Actividades de aprendizaje 
+Específica(s):  Investigar en la bibliografía 
+
+recomendada el Método de 
+ Identifica los rasgos característicos Volumen Finito en el contexto 
+
+del método de Volumen Finito y sus 
+electromecánico y sus aplicaciones 
+
+aplicaciones. 
+ Plantea el método de discretización físicas. 
+
+de la ecuación de Laplace y  Formular el modelo matemático a 
+partir de las ecuaciones 
+
+Poisson. 
+gobernantes de acuerdo con el 
+fenómeno físico de interés. 
+
+Genéricas: 
+ Desarrollar un código numérico 
+
+ Capacidad de análisis y síntesis. para resolver problemas difusivos 
+
+ Habilidad para buscar y analizar 1D. 
+información proveniente de fuentes  Investigar los algoritmos de solución 
+diversas. de las ecuaciones de Navier-Stokes 
+
+ Capacidad para trabajar en equipo. para la simulación de flujo de fluidos 
+con el método de volumen finito. 
+
+ Discutir las ventajas y desventajas 
+del método de volumen finito. 
+
+Página | 6  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+6: Aplicaciones del método de volumen finito 
+Competencias Actividades de aprendizaje 
+
+Específica(s):  Resolver problemas de transporte 
+difusivo en 1D y 2D. 
+
+ Aplica el método de volumen finito 
+ Graficar campos y perfiles de las 
+
+en la solución de modelos 
+variables de interés para discutir 
+
+matemáticos de distintos sistemas 
+los resultados de la simulación. 
+
+electromecánicos. 
+ Investigar el software comercial 
+
+ Usa el software comercial 
+disponible que se apoye en el 
+
+apropiado para resolver problemas 
+método de volumen finito. 
+
+de simulación con el método de 
+ Utilizar software especializado para 
+
+volumen finito. 
+la solución de problemas más 
+
+ Analiza, interpreta y toma 
+complejos. 
+
+decisiones a partir de los resultados 
+de las simulaciones. 
+
+Genéricas: 
+
+ Capacidad de análisis y síntesis. 
+ Solución de Problemas. 
+ Habilidad para búsqueda de 
+
+información. 
+ Capacidad para trabajar en equipo. 
+
+ 
+
+8. Práctica(s) 
+
+ Desarrollar un programa de computadora para aplicar los diferentes métodos 
+numéricos para resolver un problema sencillo (Ec. de Laplace para campo eléctrico o 
+conducción de calor en estado estacionario, con distintas clases de condiciones de 
+frontera). 
+
+ Utilizar software comercial para aplicar los diferentes métodos para resolver 
+problemas complejos (conducción de calor en estado transitorio en aletas con 
+distintas configuraciones geométricas, obtención de la distribución de velocidades y 
+pérdida de calor en vapor ductos y sus accesorios, modelado de campo magnético y 
+potencial eléctrico en torno a dispositivos eléctricos, convección natural en cilindros y 
+esferas, cálculo de esfuerzos mecánicos en transformadores de distribución, 
+distribución de potencial eléctrico en aisladores). 
+
+ Resolver problemas de referencia (benchmark) para verificar la metodología de 
+solución de cada método.  
+
+  
+
+Página | 7  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que formule el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando 
+las siguientes fases: 
+
+ Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+ Planeación: con base en el diagnóstico inicial, en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica planificar un 
+proceso: de intervención empresarial, social o comunitario, el diseño de un modelo, 
+entre otros, según el tipo de proyecto, las actividades a realizar los recursos 
+requeridos y el cronograma de trabajo. 
+ 
+
+ Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto. Es la 
+fase de mayor duración, que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+ Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar. Se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+  
+
+Página | 8  
+ 
+
+
+
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+
+10. Evaluación por competencias  
+
+La evaluación debe ser continua y formativa, por lo que se debe tomar en cuenta el 
+desempeño del estudiante en cada una de las actividades de aprendizaje, poniendo 
+especial énfasis en evaluar aquellas actividades que mejor representen el significado de 
+las competencias: 
+ 
+• Desarrollo de prácticas aplicando seguimiento en el desarrollo del programa. 
+• Participar en actividades individuales y de equipo.  
+• Información obtenida durante las investigaciones solicitadas, plasmada en documentos 
+escritos.  
+• Exámenes prácticos para comprobar el manejo de aspectos teóricos.  
+• Desarrollar proyectos de dibujo con el manejo de software de actualidad que contemple 
+ensamble, despiece, conjuntos en estructura de alambre y sólido. 
+ 
+
+11. Fuentes de información 
+
+1. Saeed Moaveni (2008), Finite Element Analysis. Theory and Application with ANSYS. 
+Ed. Pearson Prentice Hall. 
+
+2. Erdogan Madeci, Ibrahim Guven (2006), The Finite Element Method and Application 
+in Engineering Using ANSYS, Ed. Springer. 
+
+3. Daryl L. Logan (2007), A First Course in the Finite Element Method, Ed. Thomson. 
+4. T. Stolarsky., Y. Nakasone and S. Yoshimoto (2006), Engineering Analysis with 
+
+ANSYS Software, Ed. Elsevier Butterworth-Heinemann. 
+5. Suhas V. Patankar (1980), Numerical Heat and Fluid Flow, Ed. McGraw-Hill. 
+6. J. Xamán, M.A. Gijón-Rivera (2016), Dinámica de fluidos computacional para 
+
+ingenieros., Ed. Palibrio. 
+7. H. K. Versteeg, W. Malalasekera (2007), An introduction to computational fluid 
+
+dynamics. The finite volumen method. Ed. Pearson. 
+8. G. E. Myers (1971), Analytical Methods in Conduction Heat Transfer, Ed. Mc Graw 
+
+Hill. 
+9. J. D. Anderson Jr. (1995), Computational Fluid Dynamics. The basics with 
+
+applications, Ed. McGraw-Hill. 
+10. David Bleecker. George Csordas. Basic Partial Differential Equations. Editorial 
+
+International Press. 
+11. Smith G. D., Numerical Solution of Partial Differential Equations, Editorial Oxford 
+
+University Press. 
+12. J.C. Tannehill. D. A. Anderson. Computational Fluid Mechanics and Heat Transfer. 
+
+Editorial Hemisphere Publishing. 
+13.  C. A. J. Fletcher, Computational Techniques for Fluid Dynamics 1. Editorial Springer. 
+14. Stanley J. Farlow, Partial Differential Equations for Scientists and Engineers, Editorial 
+
+Dover 
+ 
+
+Página | 9

@@ -1,0 +1,736 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Gestión de la Calidad e Inocuidad 
+Alimentaria 
+
+ 
+ 
+
+ 
+ 
+
+ 
+CDF-2104 
+
+Clave de la asignatura: 
+ 
+
+ 
+ 
+(3 – 2 - 5) 
+
+SATCA1: 
+ 
+
+ 
+ 
+
+ 
+Ingeniería Bioquímica 
+
+Carrera: 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura permitirá al futuro ingeniero bioquímico tener 
+conocimiento de las áreas de Gestión de la Calidad e Inocuidad en la 
+producción de Alimentos.  
+
+El alumno podrá hacer uso integrado de los conocimientos adquiridos, 
+a lo largo de sus estudios, en la conceptualización, diseño, 
+implementación de sistemas de Gestión de Calidad. 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+Esto se lograra mediante el estudio de los prerrequisitos de un sistema 
+de gestión de la inocuidad alimentaria (BPM, prevención de ETA´s, etc); 
+la identificación de riesgos físicos, químicos o microbiológicos; el análisis 
+de riesgos y puntos críticos de control de un proceso; la aplicación de la 
+legislación y normatividad alimentaria vigente. De tal manera que el 
+egresado de la carrera de ingeniería bioquímica pueda participar como 
+Auditor  o como gestor de un sistema de Calidad.  
+Intención didáctica 
+
+La asignatura está organizada en 5 temas, cada uno de las cuales agrupa 
+temas similares con el objetivo de facilitar la comprensión para el 
+alumno. 
+Se sugiere el uso de actividades integradoras del conocimiento durante 
+la realización de prácticas en empresas agroalimentarias en los temas 2, 
+3 y 5. Las actividades prácticas promueven el desarrollo de habilidades 
+para la experimentación, tales como: identificación y operación de 
+equipos para controlar variables y datos relevantes; planteamiento de 
+hipótesis; trabajo en equipo; asi mismo, se propician procesos 
+intelectuales como inducción-deducción y análisis-síntesis con la 
+intención de generar una actividad intelectual integradora.  
+
+En las actividades prácticas sugeridas, es conveniente que el profesor 
+busque sólo guiar a sus alumnos para que ellos hagan la elección de los 
+métodos apropiados de selección, diseño y establecimiento de los 
+diversos procesos biotecnológicos a aplicar, de tal modo que desarrollen 
+de manera independiente protocolos pertinentes y elaboren reportes 
+adecuados de los resultados.  
+
+Se propone la formalización de los conceptos a partir de experiencias 
+concretas; y que se diseñen problemas con datos faltantes o sobrantes 
+de manera que el alumno se ejercite en la identificación de datos 
+relevantes y el análisis y presentación de propuestas.  
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Participantes Observaciones 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+Lugar y fecha de 
+elaboración o 
+revisión 
+
+Instituto Tecnológico Dra. Cinthya Dinorah Desarrollo de planes y 
+de Zacatepec, 29 de Arrieta González programas de nuevas 
+enero del 2021.  especialidades. 
+
+Dr. Francisco Javier 
+Hernández Campos  
+
+ 
+
+Dra. Wendy Netzy 
+Hernández Díaz 
+
+ 
+
+Ing. José Elías Salado 
+Huerta 
+
+ 
+
+Dra. Leonor Zavaleta 
+Avejar          
+
+ 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+• Identifica, diagnostica y desarrolla sistemas de calidad e inocuidad 
+alimentaria, en base a la normatividad vigente; para asegurar la 
+inocuidad alimentaria y la operación y mejora continua del 
+proceso productivo.  
+
+• Conoce, interpreta y aplica las herramientas estadísticas de control 
+de la calidad a procesos alimentarios. 
+
+• Comprende e Interpreta la normatividad y legislación vigente 
+aplicable, redactando informes de auditoria comunicándose 
+efectivamente de maneral oral y escrita con terminología técnica. 
+
+5. Competencias previas 
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+• Interpreta y aplica técnicas de análisis químico, bromatológico y 
+
+microbiológico. 
+• Conoce las herramientas estadíscas del control de calidad. 
+• Conoce las fuentes de alteración sensorial, química y 
+
+microbiológica de los alimentos. 
+
+6. Temario 
+
+No. Temas Subtemas 
+1.1 Sistemas de calidad, ventajas e 
+
+Calidad e inocuidad importancia.  
+alimentaria y sus 1.2 Enfermedades transmitidas por 
+
+1 prerrequisitos  alimentos (ETA ś ) 
+ 1.3 Buenas prácticas de 
+
+manufactura en: sector agrícola, 
+ pecuario y sector productivo  
+
+ 
+2.1.1. El concepto de peligro. 
+           2.1.2. El concepto de riesgo. 
+           2.1.3. La evaluación de 
+riesgos.  
+           2.1.4. Inocuidad alimentaria y          
+su gestión basada en evaluación 
+de riesgos.  
+2.2  Peligros Físicos  
+
+2.2.1. Conceptos y 
+consideraciones sobre 
+peligros físicos en alimentos.  
+2.2.2. Métodos de control de 
+
+2 Gestión de la Inocuidad peligros físicos.  
+2.3  Peligros Químicos  
+
+2.3.1. Conceptos y 
+consideraciones sobre 
+peligros químicos en 
+alimentos. 
+2.3.2. Peligros químicos 
+naturalmente presentes en 
+los alimentos. 
+2.3.3. Peligros asociados a 
+químicos añadidos 
+intencionalmente a los 
+alimentos  
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+2.3.4. Peligros químicos 
+añadidos incidental o 
+inintencionalmente. 
+2.3.5. Métodos de control de 
+peligros químicos. 
+2.3.6. Alergénicos en 
+alimentos. 
+2.3.7. Control de alergénicos 
+en la industria alimentaria.  
+
+2.4  Peligros Biológicos 
+             2.4.1. Conceptos y 
+consideraciones sobre peligros 
+biológicos en alimentos.  
+
+2.4.2. Peligros de origen 
+microbiano. 
+2.4.3. Peligros biológicos no 
+microbianos. 
+2.4.4. Métodos de control de 
+peligros biológicos.  
+Procedimiento operativo 
+estandarizado de 
+sanitización (POES)  
+2.5 Hazard Analysis and 
+Critical Control Points 
+(HACCP) 
+2.5.1 Antecedentes del 
+HACCP 
+2.5.2. Los prerrequisitos del 
+HACCP  
+2.5.3. Los 7 pasos de 
+implementación del plan de 
+Riesgos y Puntos Críticos de 
+Control (HACCP)  
+2.5.4. El análisis de riesgos. 
+2.5.5 Identificación de los 
+puntos críticos de control.  
+2.5.6. Establecimiento de 
+límites críticos. 
+2.5.7. Establecimiento de 
+procedimientos de 
+monitoreo.  
+2.5.8. Implementación de 
+acciones correctivas. 
+2.5.9. Establecimiento de 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+procedimientos de 
+verificación. 
+ 2.5.10.  Sistema de registros y 
+documentación.  
+
+ 
+3 Legislación Alimenaria y 3.1 Introducción y Conceptos 
+
+Normativas de Calidad e Básicos. 
+Inocuidad 3.1.1. Legislación. 
+ 3.1.2. Norma. 
+
+3.1.3. Certificación. 
+3.2 Legislación Alimentaria 
+
+Internacional 
+3.2.1 ONU para la alimentación y 
+
+Agricultura (FAO). 
+3.2.2 Organización Mundial de la 
+
+Salud. 
+3.2.3 Comisión Codex 
+
+Alimentarius. 
+3.2.4 Organización Mundial de 
+
+Comercio 
+3.3 Legislación Alimentaria 
+Mexicana Normas oficiales 
+mexicanas aplicables a la industria 
+alimentaria. 
+
+4 Sistemas de gestión de 4.1 Ventajas de la normalización. 
+calidad e inocuidad 4.2 Normas oficiales mexicanas 
+alimentaria.  aplicables a la industria alimentaria 
+ de la Familia ISO (ISO 9001, 15000 y 
+
+22000).  
+4.3 OHSAS.  
+4.4 Distintivo H. 
+4.5 Calidad suprema. 
+4.6 SQF, BRC, FSSC: 22000, IFS, 
+DUCH, HACCP, GMA-SAFE y 
+sistemas de calidad de gestión de 
+la inocuidad nacionales e 
+internacionales.  
+4.7 Global Gap  
+4.8 Auditorias de calidad. 
+4.9 Desarrollo de la mejora 
+continua y control de registros. 
+ 
+
+5 Estructuración de un sistema 5.1 Antecedentes y características 
+de gestión de la calidad e del sistema.  
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+Inocuidad en la cadena 5.2 Revisión de la normatividad 
+productiva alimentaria.  vigente. 
+
+5.3 Redacción de Manuales de 
+ calidad y procedimientos. 
+
+5.4 Diseño de auditoría interna. 
+5.5 Analizar un proceso de la 
+industrialización de alimentos e 
+identificar los riesgos potenciales. 
+5.6 Aplicación de las buenas 
+prácticas de manufactura y POES. 
+5.7 Propuesta de mejora continúa  
+ 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Calidad e inocuidad alimentaria y sus prerrequisitos 
+Competencias  Actividades de aprendizaje 
+Específica(s): Conoce y aplica los • Elaborar un ensayo acerca de 
+conceptos de Calidad e inocuidad las enfermedades 
+alimentaria.  transmitidas por Alimentos y 
+
+su impacto en la Economía y 
+Analiza los sistemas de calidad en Salud global.  
+los diferentes sectores • Elaborar una tabla 
+alimenticios.  comparativa de los 
+
+principios de los programas 
+Conoce y aplica los prerrequisitos prerrequisitos: BPM, BPA y 
+de la calidad e inocuidad BPP 
+alimentaria como Buenas  
+prácticas de manufactura, buenas 
+prácticas agrícolas y buenas 
+practicas pecuarias  
+
+ 
+Genéricas:  
+
+• Capacidad para obtener 
+información de bases de 
+datos de artículos científicos, 
+patentes y normas.  
+
+• Comprensión, organización y 
+manejo de ideas..  
+
+• Comprensión de textos 
+científicos  
+
+Sistémicas:  
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+• Aplicación de conocimientos 
+
+conceptuales, 
+procedimentales y 
+actitudinales en la aplicación 
+de los conceptos de calidad e 
+inocuidad alimentaria.  
+
+Gestión de la Inocuidad. 
+Competencias Actividades de aprendizaje 
+Específica(s):  • Realizar un mapa conceptual 
+
+sobre los diferentes tipos de 
+Interpreta, desarrolla, evalua, aplica riesgos alimenticios y como 
+un programa de análisis de riesgo y prevenirlos  
+puntos críticos de control (HACCP) • Realizar un proyecto por 
+para evaluar la inocuidad de un equipo donde se visite una 
+producto alimenticio.  empresa agroalimentaria y 
+
+se analice por lo menos una 
+ línea de proceso aplicando la 
+Genéricas:  metodología HACCP 
+
+• Capacidad para obtener entregando un reporte 
+información de bases de donde se especificquen el 
+datos de artículos científicos, tipo de riesgos, la severidad 
+patentes y normas.  de estos, y como prevenirlos.  
+
+• Comprensión, organización y 
+manejo de ideas.   
+
+ 
+Sistémicas:  
+
+• Capacidad para aplicar 
+conocimientos y resolver 
+aplicando HACCP. 
+
+• Aplicación de conocimientos 
+conceptuales, 
+procedimentales y 
+actitudinales en la aplicación 
+del HACCP.  
+
+Legislación Alimenaria y Normativas de Calidad e Inocuidad 
+Competencias  Actividades de aprendizaje 
+Específica(s):  • Elaborar un ensayo sobre la 
+
+la importancia de la FAO y la 
+Conoce el desarrollo histórico de OMS en la aplicación de la 
+las Normas de Calidad e inocuidad legislación Alimentaria 
+alimentaria, identificando las Internacional. 
+normas vigentes aplicables a un • Elaborar un cuadro 
+sistema de gestión de la calidad en comparativo citando las 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+el contexto nacional como Normas oficiales mexicanas 
+internacional.  mas importantes aplicables 
+
+al etiquetado de alimentos y 
+Genéricas:  a la inocuidad alimentaria. 
+
+• Capacidad para obtener   
+información de bases de 
+datos, Manuales y normas.  
+
+• Comprensión, organización y 
+manejo de ideas, métodos 
+analíticos e instrumentales.  
+
+Sistémicas:  
+• Capacidad para aplicar 
+
+conocimientos y resolver 
+problemas mediante la 
+aplicación de la legislación y 
+normatividad alimentaria. 
+
+Sistemas de gestión de calidad e inocuidad alimentaria. 
+Competencias  Actividades de aprendizaje 
+Específica(s):  • Elaborar un cuadro 
+
+Conoce e Interpreta la comparativo resaltando la  
+normatividad y legislación Ventajas de la normalización 
+vigente aplicable a procesos y alimentaria. 
+productos Alimentarios y aplica • Elaborar un mapa 
+este conocimientos en la conceptual sobre las Normas 
+redacción de informes de oficiales mexicanas 
+auditoria con terminología aplicables a la industria 
+técnica.  alimentaria de la Familia ISO 
+
+(ISO 9001, 15000 y 22000). 
+Genéricas:  • Realizar un simulacro de 
+
+• Capacidad para obtener Auditoria de calidad a una 
+información de bases de empresa Agroalimentaria 
+datos de artículos científicos, entregando el informe de 
+patentes y normas.  hallazgos. 
+
+• Comprensión, organización y  
+manejo de ideas, métodos 
+analíticos e instrumentales.  
+
+• Comprensión de textos 
+científicos  
+
+Sistémicas:  
+• Capacidad para aplicar 
+
+conocimientos y resolver 
+problemas en una auditoria 
+de Calidad.  
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+• Aplicación de conocimientos 
+
+conceptuales, 
+procedimentales y 
+actitudinales en la aplicación 
+de las Normas Oficiales 
+Mexicanas aplicables a la 
+industria Alimentaria.  
+
+Estructuración De Un Sistema De Gestión De La Calidad E Inocuidad 
+En La Cadena Productiva Alimentaria. 
+Competencias  Actividades de aprendizaje 
+Específica(s):  • Desarrollar en equipo la 
+Identifica, diagnostica y desarrolla propuesta de un sistema de 
+sistemas de calidad e inocuidad gestión de la Calidad para 
+alimentaria, en base a la una Agroalimentaria 
+normatividad vigente; para entregando como evidencia 
+asegurar la inocuidad alimentaria.  de la actividad el Manual de 
+ Calidad. 
+Genéricas:  • Diseño de una auditoria 
+
+• Capacidad para obtener interna y el manual de 
+información de bases de procedimientos. 
+datos, Manuales, patentes y  
+normas.  
+
+• Comprensión, organización y  
+manejo de ideas. 
+
+Sistémicas:  
+• Aplicación de conocimientos 
+
+conceptuales, 
+procedimentales y 
+actitudinales en el diseño, un 
+sistema de gestión de 
+calidad. 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+• Aplicación de HACCP a una línea de proceso de una empresa 
+Agroalimentaria. 
+
+• Simulacro de Auditoria de calidad a una empresa Agroalimentaria 
+entregando el informe de hallazgos. 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+• Desarrollo de una propuesta de un sistema de gestión de la 
+
+Calidad para una empresa Agroalimentaria entregando como 
+evidencia de la actividad el. 
+
+• Diseño de una auditoría interna y un Manual de procedimientos 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta 
+asignatura, es demostrar el desarrollo y alcance de la(s) competencia(s) 
+de la asignatura, considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, 
+legal) en el cual se fundamenta el proyecto de acuerdo con un 
+diagnóstico realizado, mismo que permite a los estudiantes lograr la 
+comprensión de la realidad o situación objeto de estudio para definir 
+un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el 
+diseño del proyecto por parte de los estudiantes con asesoría del 
+docente; implica planificar un proceso: de intervención empresarial, 
+social o comunitario, el diseño de un modelo, entre otros, según el 
+tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto 
+realizada por parte de los estudiantes con asesoría del docente, es 
+decir en la intervención (social, empresarial), o construcción del 
+modelo propuesto según el tipo de proyecto, es la fase de mayor 
+duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través 
+del reconocimiento de logros y aspectos a mejorar se estará 
+promoviendo el concepto de “evaluación para la mejora continua”, la 
+metacognición, el desarrollo del pensamiento crítico y reflexivo en los 
+estudiantes. 
+
+  
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+10. Evaluación por competencias  
+
+ Evaluar las actividades de aprendizaje por medio de: exposiciones, 
+exámenes escritos, presentaciones, mapas conceptuales, portafolio de 
+evidencias, resolución de problemarios, manejo de equipos, materiales y 
+técnicas de laboratorio, informes de prácticas, reportes de prácticas e 
+investigaciones.  
+
+ 
+
+Evaluar el nivel de logro de las competencias mediante: clave analítica, 
+escala estimativa, lista de cotejo o verificación, rúbrica. 
+
+ 
+
+El proyecto de asignatura consistiría en aplicar los conceptos aprendidos 
+al diagnostico, auditoria y propuesta de mejora de algún proceso en una 
+empresa Agroalimentaria o Pyme. 
+
+ 
+
+ 
+
+11. Fuentes de información 
+
+1. Barrio, J. F. (1999). La auditoría de los sistemas de gestión de la calidad. 
+Fundación Confemetal.  
+
+2. Mortimore, Sara; Carol Wallace. HACCP. 1 era .edición. acribia. 2001  
+3. Cuatrecasas, L. (2010). Gestión Integral de la Calidad, 
+
+Implantación, control y certificación. España: Profit Editorial 
+Inmobiliaria.  
+
+4. Norma oficial mexicana nom-120-ssa1-1994, bienes y servicios. 
+Practicas de higiene y sanidad para el proceso de alimentos, 
+bebidas no alcohólicas y alcohólicas. 
+
+5. Norma oficial mexicana nom-128-ssa1-1994, bienes y servicios. que 
+establece la aplicación de un sistema de análisis de riesgos y 
+control de puntos críticos en la planta industrial procesadora de 
+productos de la pesca.  
+
+6. ISO 22000:2005 NMX-F-CC-22000 NORMEX- INMC-2007 Sistemas 
+de Gestión de la inocuidad de los alimentos – Requisitos para 
+cualquier organización en la cadena alimentaria. 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+7. Mortimore, Sara; Carol Wallace. HACCP enfoque práctico. 2 da 
+
+edición. ACRIBIA. 2001. a. Cultivos agrícolas ( ISBN: 1-880877-41-4) 
+b. Empacadoras de frutas y vegetales frescos 
+c. Centro de distribución de alimentos d. Fabricación de material 
+de empaque en contacto con alimentose. Frutas y vegetales 
+frescos – cortadosf. Seguridad de los alimentos 
+
+8. NMX – F – CC- 22004 – IMNC NORMEX Sistemas de Gestión de la 
+inocuidad de los alimentos - Guías de la aplicación de la NMX – F 
+CC – 22000 NORMEX – INMC - 2007  
+
+9. Normas ISO 22000:2005. Requisitos de gestión de inocuidad en la 
+cadena alimentaria 
+OHSAS 180001:2007 NMX-SAST-001-IMNC-2008 Sistemas de 
+Gestión de Calidad en el trabajo.  
+ 
+
+Sitios Web: 
+1. http://www. FAO.org.mx 
+2. http://www.codexalimentarius.net  
+
+ 
+ 
+
+ 
+
+Página | 13

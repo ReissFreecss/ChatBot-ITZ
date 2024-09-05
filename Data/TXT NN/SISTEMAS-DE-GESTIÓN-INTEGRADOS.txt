@@ -1,0 +1,574 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Sistemas de Gestión Integrados 
+  
+
+Clave de la asignatura: SEC-2103 
+  
+
+SATCA1: (2-2-4) 
+  
+
+Carrera: Ingeniería Industrial 
+2. Presentación 
+
+Caracterización de la asignatura 
+Esta asignatura contempla la revisión y la documentación de las normas: ISO 
+9001, ISO14001, ISO 45001, PAS 99 y UNE 66177 en sus versiones más recientes.  
+Aporta los conocimientos y habilidades para fortalecer al egresado en los 
+siguientes aspectos relacionados con su perfil de egreso: 
+
+ Implementar Sistemas de Gestión de Calidad para satisfacer los 
+requerimientos del cliente y partes interesadas.  
+
+ Gestionar Sistemas de Seguridad, Salud Ocupacional y Protección al 
+medio ambiente, en industrias de bienes y servicios. 
+
+ Integrar Sistemas de Gestión en las organizaciones. 
+Esta asignatura se relaciona con las asignaturas siguientes: Gestión de los 
+Sistemas de Calidad en los temas de normalización; Higiene y Seguridad 
+Industrial, la cual contempla los temas de legislación en Salud y Seguridad en 
+el trabajo y Toxicología y Control del Ambiente, temas base para el Sistema de 
+Gestión en Salud y Seguridad; con la asignatura de Desarrollo Sustentable, ya 
+que en ella se da una visión de los aspectos ambientales que permiten evaluar 
+y disminuir el impacto ambiental negativo al medio ambiente. Con Ingeniería 
+de Sistemas, debido a que esta asignatura desarrolla en el estudiante un 
+pensamiento holístico al obtener el enfoque de sistemas. 
+Esta asignatura coadyuva en el cumplimiento y certificación de Sistemas de 
+Gestión de Calidad, Sistemas de Gestión de la Seguridad y la Salud en el trabajo 
+y Sistemas de Gestión Ambiental, en industrias de bienes y de servicios, 
+además de que hace énfasis en la integración de éstos con el apoyo de las 
+normas UNE 66177 y PAS 99, ya que de esta manera los sistemas se hacen más 
+eficientes. 
+Intención didáctica 
+Esta asignatura es teórico-práctica de tal manera que las normas de los 
+Sistemas de Gestión se revisan e interpretan, haciendo énfasis en los debes de 
+las normas y en la información documentada que se solicita. Para entender su 
+aplicación se recomienda que se revise el sistema de una empresa certificada. 
+El docente brinda un panorama general de las normas sobre Sistemas de 
+Gestión y explica un caso documentado incluyendo la integración de los 
+                                                          
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+  
+
+sistemas. Posteriormente, en equipos de trabajo los estudiantes analizan e 
+interpretan la información documentada que solicitan las normas en un caso 
+práctico y analizan los métodos que se utilizaron para la integración de los 
+sistemas. Con el desarrollo de estas actividades el estudiante pone en práctica 
+las siguientes competencias genéricas: capacidad de análisis y síntesis, 
+capacidad de organizar y planificar, comunicación oral y escrita, habilidad para 
+buscar y analizar información proveniente de fuentes diversas, capacidad de 
+aplicar los conocimientos en la práctica, habilidades de investigación, habilidad 
+para identificar interrelaciones entre las organizaciones y su medio ambiente. 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Miembros de la Reunión de Academia 
+Zacatepec, Zacatepec Academia del Instituto de Ingeniería Industrial 
+Morelos, del 08 al 19 Tecnológico de para el Diseño de la 
+febrero del 2021 y del  Zacatepec. Especialidad y 
+
+Elaboración de Planes y 
+ Programas para el Plan 
+
+de Estudios IIND-2010-
+227. 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Conoce e interpreta los requisitos de las normas de los Sistemas de Gestión de 
+Calidad, Ambiental y de Seguridad y Salud en el trabajo e integra los requisitos 
+comunes de los mismos en una empresa de bienes o servicios utilizando las 
+normas UNE 66177 y PAS 99. 
+
+5. Competencias previas 
+ Conoce y comprende Sistemas de Gestión de Calidad vigentes. 
+ Conoce e interpreta la Legislación Ambiental e identifica y distingue los 
+
+Impactos Ambientales. 
+ Conoce la Legislación en Salud y Seguridad en el trabajo vigentes. 
+ Identifica riesgos, accidentes y enfermedades de trabajo. 
+ Conoce y comprende el enfoque de sistemas. 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Sistema de Gestión de la Calidad 1.1 Introducción a las normas de la 
+familia                       ISO 9000 
+
+1.2 Norma ISO 9001:2015 
+
+Página | 2  
+ 
+
+
+
+ 
+  
+
+1.3 Estructura y terminología 
+1.4 Aplicabilidad 
+1.5 Enfoque basado en riesgos 
+1.6 Requisitos 
+1.7 Información documentada 
+1.8 Análisis de caso práctico 
+
+2 Sistema de Gestión  Ambiental 2.1 Introducción a las normas de la 
+familia ISO 14000 
+
+2.2 Legislación ambiental 
+2.3 Aspectos e Impactos ambientales 
+2.4 Norma ISO 14001:2015 
+
+2.4.1 Estructura y terminología 
+2.4.2 Enfoque basado en riesgos 
+2.4.3 Enfoque al ciclo de vida 
+2.4.4 Requisitos 
+2.4.5 Información documentada 
+
+2.5 Análisis de caso práctico 
+3 Sistemas de Gestión de la 3.1 Introducción a las normas de la 
+
+Seguridad y la Salud en el trabajo familia ISO 45000 
+3.2 Riesgos, accidentes y 
+
+enfermedades laborales 
+3.3 Legislación en seguridad y Normas 
+
+de la STPS 
+3.4 Norma ISO 45001:2018 
+
+3.4.1 Estructura y terminología 
+3.4.2 Enfoque basado en riesgos 
+3.4.3 Requisitos 
+3.4.4 Información documentada 
+
+3.5 Análisis de caso práctico con la ISO 
+45001:2018 
+
+4 Sistemas Integrados de Gestión 4.1 Introducción a los Sistemas 
+ Integrados de Gestión 
+
+4.2 Norma UNE 66177:2005 
+4.3 Norma PAS 99 2012  
+4.4 Etapas del proceso de  integración 
+
+de los sistemas de gestión 
+4.4.1 Etapa 1: Diagnóstico 
+4.4.2 Etapa 2: Nivel de integración 
+4.4.3 Etapa 3: Elementos comunes 
+4.4.4 Etapa 4: Integración del 
+
+sistema 
+4.4.5 Etapa 5: Gestión integrada 
+
+4.5 Métodos de integración  
+4.5.1 Método básico 
+4.5.2 Método intermedio 
+4.5.3 Método experto 
+
+Página | 3  
+ 
+
+
+
+ 
+  
+
+4.6 Requisitos 
+4.7 Información documentada 
+4.8 Plan de integración 
+4.9 Revisión del sistema y mejora 
+4.10 Análisis de caso práctico 
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Sistema de Gestión de Calidad 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):  Revisar el vocabulario de la norma 
+ISO 9000. 
+
+ Conoce, revisa e interpreta los  Elaborar una tabla de los 
+requisitos de la  norma ISO requisitos de la norma ISO 
+9001:2015.  9001:2015 y de la información 
+
+ Analiza un caso práctico. documentada que la misma 
+requisita. 
+
+Genéricas:  Revisar y analizar un caso práctico 
+con un enfoque basado en 
+
+Competencias instrumentales:  riesgos, considerando los 
+ Capacidad de análisis y síntesis   requisitos de la norma ISO 
+ Capacidad de organizar y 9001:2015 y lo expone en equipo 
+
+planificar   en plenaria. 
+ Comunicación oral y escrita    
+ Habilidades básicas de manejo 
+
+de la computadora   
+ Habilidad para buscar y analizar 
+
+información proveniente de 
+fuentes diversas   
+
+ Toma de decisiones.  
+ 
+
+Competencias interpersonales   
+ Capacidad crítica y autocrítica   
+ Habilidades y capacidades 
+
+interpersonales para el trabajo 
+en equipo   
+
+ 
+Competencias sistémicas   
+
+ Capacidad de aplicar los 
+conocimientos en la práctica   
+
+ Habilidades de investigación   
+ Capacidad de generar nuevas 
+
+ideas (creatividad)  
+ Habilidad para trabajar en 
+
+Página | 4  
+ 
+
+
+
+ 
+  
+
+forma autónoma  
+ Búsqueda de logro  
+ Poseer iniciativa al elaborar y 
+
+resolver los problemas propios 
+de los proyectos.  
+
+2. Sistema de Gestión Ambiental 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Conocer y exponer el vocabulario 
+de la norma ISO 14050:2009  
+
+ Conoce, revisa e interpreta el  Elaborar una tabla de los 
+vocabulario y los requisitos de la  requisitos de la norma. 
+norma ISO 14001:2015 haciendo Considerando un caso práctico:  
+énfasis en los aspectos e analizar y realizar las siguientes 
+impactos ambientales de los actividades: 
+procesos y la documentación.   Investigar y analizar la política 
+
+ Analiza un caso práctico. ambiental de la empresa en cuestión.  
+  
+
+ Analizar un proceso productivo 
+Genéricas: y sus aspectos impactos ambientales 
+
+que genera. 
+Competencias instrumentales:   
+
+ Capacidad de análisis y síntesis   
+ Revisa y analiza un caso 
+
+ Capacidad de organizar y práctico con un enfoque basado en 
+planificar   riesgos y en el ciclo de vida de los 
+
+ Comunicación oral y escrita   productos y servicios, en la forma de 
+ Habilidades básicas de manejo cómo se satisfacen los requisitos de la 
+
+de la computadora   norma ISO 14001:2015 y lo expone en 
+ Habilidad para buscar y analizar plenaria frente al grupo. 
+
+información proveniente de 
+fuentes diversas   
+
+ Toma de decisiones.  
+  
+Competencias interpersonales   
+
+ Capacidad crítica y autocrítica   
+ Habilidades y capacidades 
+
+interpersonales para el trabajo 
+en equipo   
+
+  
+Competencias sistémicas   
+
+ Capacidad de aplicar los 
+conocimientos en la práctica   
+
+ Habilidades de investigación   
+ Capacidad de generar nuevas 
+
+ideas (creatividad)  
+
+Página | 5  
+ 
+
+
+
+ 
+  
+
+ Habilidad para trabajar en forma 
+autónoma  
+
+ Búsqueda de logro  
+ Poseer iniciativa al elaborar y 
+
+resolver los problemas propios de 
+los proyectos.  
+
+ 
+3. Sistemas de Gestión de la Seguridad y la Salud en el trabajo 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Elabora una tabla de los 
+requisitos de la ISO 45001:2015 y 
+
+ Conoce, revisa e interpreta los la información documentada 
+requisitos  de la  norma ISO que se requisita.  
+4500:2015, así como la legislación  Considerando un caso práctico 
+laboral mexicana y sus normas se analizan y realizan las 
+mediante un caso práctico. siguientes actividades: 
+
+ 
+Genéricas:  Analiza la política de la empresa 
+
+en materia de salud y 
+Competencias instrumentales:  seguridad. 
+
+ Capacidad de análisis y síntesis    Analiza e identifica las normas 
+ Capacidad de organizar y de seguridad y salud en el 
+
+planificar   trabajo que aplican a un 
+ Comunicación oral y escrita   proceso productivo del caso 
+ Habilidades básicas de manejo seleccionado. 
+
+de la computadora    Revisa y analiza con un enfoque 
+ Habilidad para buscar y analizar basado en riesgos, cómo se 
+
+información proveniente de satisfacen los requisitos de la 
+fuentes diversas   norma ISO 45001 y la 
+
+ Toma de decisiones.  documentación que se genera 
+  y lo expone en plenaria ante el 
+Competencias interpersonales   grupo. 
+
+ Capacidad crítica y autocrítica   
+ Habilidades y capacidades 
+
+interpersonales para el trabajo en 
+equipo   
+
+  
+Competencias sistémicas   
+
+ Capacidad de aplicar los 
+conocimientos en la práctica   
+
+ Habilidades de investigación   
+ Capacidad de generar nuevas 
+
+ideas (creatividad)  
+ Habilidad para trabajar en forma 
+
+Página | 6  
+ 
+
+
+
+ 
+  
+
+autónoma  
+ Búsqueda de logro  
+ Poseer iniciativa al elaborar y 
+
+resolver los problemas propios de 
+los proyectos.  
+
+4. Sistemas Integrados de Gestión 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  Elabora una tabla de los 
+ requisitos de las normas e 
+
+ Conoce, revisa e interpreta los identifica los aspectos comunes 
+requisitos  de las normas UNE de las normas de integración de 
+66177 y PAS 99, sus métodos y  los sistemas de gestión. 
+etapas para la integración de los  Revisa los métodos de 
+sistemas de gestión, mediante integración que existen. 
+un caso práctico.  Analiza la secuencia de las 
+
+ etapas para la integración de 
+Genéricas: las normas, así como los 
+ aspectos que contempla cada 
+Competencias instrumentales:  una de ellas. 
+
+ Capacidad de análisis y síntesis    Revisa y analiza un caso 
+ Capacidad de organizar y práctico poniendo énfasis en el 
+
+planificar   plan de  integración de los 
+ Comunicación oral y escrita   sistemas de gestión y lo expone 
+ Habilidades básicas de manejo en plenaria frente al grupos. 
+
+de la computadora   
+ Habilidad para buscar y analizar 
+
+información proveniente de 
+fuentes diversas   
+
+ Toma de decisiones.  
+  
+Competencias interpersonales   
+
+ Capacidad crítica y autocrítica   
+ Habilidades y capacidades 
+
+interpersonales para el trabajo en 
+equipo   
+
+ 
+Competencias sistémicas   
+
+ Capacidad de aplicar los 
+conocimientos en la práctica   
+
+ Habilidades de investigación   
+ Capacidad de generar nuevas 
+
+ideas (creatividad)  
+ Habilidad para trabajar en forma 
+
+autónoma  
+
+Página | 7  
+ 
+
+
+
+ 
+  
+
+ Búsqueda de logro  
+ Poseer iniciativa al elaborar y 
+
+resolver los problemas propios de 
+los proyectos.  
+
+8. Práctica(s) 
+ Revisar la documentación del Sistema de Gestión de Calidad, Sistema de 
+
+Gestión Ambiental y Sistema de Gestión de la Seguridad y la Salud en el 
+trabajo de algún caso práctico. 
+
+ Identificar los elementos que se pueden integrar tomando como base la 
+UNE 66177 2005 y la PAS 99 2012. 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en 
+el cual se fundamenta el proyecto de acuerdo con un diagnóstico realizado, 
+mismo que permite a los estudiantes lograr la comprensión de la realidad o 
+situación objeto de estudio para definir un proceso de intervención o hacer el 
+diseño de un modelo. 
+
+Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades a 
+realizar los recursos requeridos y el cronograma de trabajo. 
+
+Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por 
+parte de los estudiantes con asesoría del docente, es decir en la intervención 
+(social, empresarial), o construcción del modelo propuesto según el tipo de 
+proyecto, es la fase de mayor duración que implica el desempeño de las 
+competencias genéricas y especificas a desarrollar. 
+
+Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la meta-cognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+10. Evaluación por competencias  
+
+ Portafolio de evidencias  
+ Exposición y material de exposición 
+
+Página | 8  
+ 
+
+
+
+ 
+  
+
+ Reportes del proyecto 
+ Exámenes escritos 
+ Participación en clase 
+
+11. Fuentes de información 
+
+ 
+1. ISO 9001:2015, COPANT/ISO 9001:2015, NMX-CC-9001-IMNC-2015 Sistemas 
+
+de Gestión de la Calidad - Requisitos. 
+2. ISO 9000:2015 NMX -CC-9000-IMNC-2015 Fundamentos y Vocabulario. 
+3. ISO 14001:2015 Sistemas de Gestión Ambiental-Requisitos con 
+
+orientación para su uso. 
+4. ISO 14050 Gestión Ambiental - Vocabulario. Tercera edición.2009-02-15. 
+5. NMX-SAA-14001-IMNC Sistemas de Administración Ambiental – 
+
+Especificación con guía para su uso.   
+6. AENOR. Asociación Española de Normalización y Certificación. 
+
+UNE-EN SO 14001-2015 
+7. ISO 19011:2011, NMX-CCC-19011-IMNC-2012  Directrices para la Auditoría 
+
+de los Sistemas de Gestión.  
+8. PAS 99:2012. Especificación de requisitos comunes del Sistema de 
+
+Gestión como marco para la integración. 
+9. Asfahl C. R., W. Rieske D. (2010). Seguridad industrial y administración de 
+
+la salud. Editorial Pearson.   
+10. Bugdol, M., & Jedynak, P. (2015).  Integrated Management Systems. 
+
+Editorial Springer International Publishing. 
+11. UNE 66177. Guía para la Integración de los Sistemas de Gestión.  
+
+ 
+ 
+
+Página | 9

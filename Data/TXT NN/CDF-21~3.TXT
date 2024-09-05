@@ -1,0 +1,798 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Desarrollo y análisis de productos 
+alimenticios 
+
+ 
+ 
+
+ 
+ 
+
+ 
+CDF-2103 
+
+Clave de la asignatura: 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+3-2-5 
+
+SATCA1: 
+ 
+
+ 
+ 
+
+ 
+Ingeniería Bioquímica 
+
+Carrera: 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+Esta asignatura aporta al perfil del Ingeniero Bioquímico los 
+conocimientos sobre las consideraciones y el proceso que debe seguirse 
+para completar el desarrollo de un producto y lanzarlo al mercado, así 
+como la capacidad para evaluar la composición química de los 
+alimentos, mediante el análisis proximal y sensorial de estos, aunado al 
+análisis microbiológico que garantice la calidad de materias primas y 
+productos alimenticios siguiendo la legislación alimentaria 
+correspondiente. 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+Intención didáctica 
+
+La asignatura comprende cuatro temas, dando contenidos 
+conceptuales y aplicación experimental de cada una de ellas. 
+
+En el primer tema se aborda el proceso que debe transitar desde la idea 
+de un producto alimenticio nuevo y la ejecución de pruebas, hasta el 
+lanzamiento de éste al mercado. 
+
+En el segundo tema se dan a conocer los principios básicos en los que 
+se fundamentan los métodos de detección microbiológica, se ofrece una 
+visión de las principales aplicaciones de estas técnicas destacando las 
+ventajas de su empleo, así como su potencialidad para la determinación 
+y control de contaminantes en los alimentos. 
+
+En el tercer tema se da una visión del análisis proximal donde se 
+conocen y determinan las diferentes propiedades físicas y químicas que 
+componen los alimentos, así como el fundamento teórico para realizar 
+el análisis correspondiente dependiendo del origen y características de 
+la muestra siguiendo las normas y métodos estandarizados.  
+
+El cuarto tema aborda las diferentes técnicas de evaluación sensorial, 
+preparación de la muestra para el análisis sensorial, entrenamiento de 
+jueces e interpretación de los resultados del análisis. 
+
+Las estrategias metodológicas recomendadas incluyen exposición del 
+profesor, realización de prácticas, investigación bibliográfica, resolución 
+de problemas y ejercicios, trabajo en equipo y análisis en plenarias. 
+
+ 
+
+ 
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+Instituto Tecnológico de Dra. Cinthya Dinorah Desarrollo de planes y 
+Zacatepec, 29 de enero Arrieta González programas de nuevas 
+del 2021 especialidades 
+
+ 
+
+Dr. Francisco Javier 
+Hernández Campos  
+
+ 
+
+Dra. Wendy Netzy 
+Hernández Díaz 
+
+ 
+
+Ing. José Elías Salado 
+Huerta 
+
+ 
+
+Dra. Leonor Zavaleta 
+Avejar          
+
+ 
+
+M.C. Manuel Jesús 
+Granados Baeza 
+
+ 
+
+M.C. Erik Guilbert García 
+
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Fundamenta y aplica el uso de principios, instrumentación y métodos de 
+análisis de alimentos a fin de plantear soluciones a problemas reales en 
+la validación de técnicas, evaluación de formulaciones, diseño de 
+productos y control de calidad de procesos en la industria alimentaria. 
+
+5. Competencias previas 
+
+Prepara y estandariza soluciones para el análisis. 
+
+Utiliza adecuadamente instrumental básico de laboratorio para facilitar el 
+desarrollo de los análisis. 
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+Identifica la importancia hidratos de carbono, proteínas, lípidos y otros 
+constituyentes naturales en la evaluación de los diferentes componentes de los 
+alimentos. 
+
+Identifica el conjunto de principios, leyes y técnicas para utilizar equipos de 
+laboratorio. 
+
+Comunica en forma oral y escrita en su propia lengua y comprende textos en 
+otro idioma. 
+
+Consulta bases/bancos de datos. 
+
+Trabajo en equipo. 
+
+Conocer conceptos básicos de Química Analítica, Microbiología, 
+Aseguramiento de la Calidad, Bioquímica 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Desarrollo de productos 1.1 Introducción 
+alimenticios 
+
+1.2 Identificación de necesidades y 
+deseos para el desarrollo de nuevos 
+productos 
+
+1.3 La creatividad aplicada al 
+desarrollo de productos alimenticios 
+
+1.4 Beneficios y dificultades del 
+desarrollo de productos 
+
+1.5 Investigación de mercado 
+1.6 Selección, evaluación y desarrollo 
+de proveedores 
+
+1.7 Desarrollo de producto 
+propiamente dicho 
+
+1.7.1 Diseño 
+1.7.2 Impulsores  
+1.7.3 Verificación y validación 
+
+del diseño 
+1.8 Generación de la especificación 
+técnica 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+1.9 Muestras a clientes 
+
+1.10 Rotulación y diseño gráfico 
+
+1.11 Fabricación a escala 
+
+1.12 Envase y embalaje 
+
+1.13 Determinación de vida útil en 
+Laboratorio 
+
+1.14 Marcas y líneas de productos 
+
+1.15 La innovación en el desarrollo 
+
+ 
+
+2 Análisis microbiológicos de 2.1 Definición de las Enfermedades 
+alimentos Transmitidas por Alimentos ETAS 
+
+2.2 Infecciones e intoxicaciones 
+alimentarias 
+
+2.3 Principales alimentos implicados 
+en las ETAS 
+
+2.4 Factores predisponentes 
+
+2.5 Acciones preventivas y control de 
+las ETAS 
+
+2.6 Epidemiología nacional e 
+internacional de las ETAS 
+
+2.7 Impacto social y económico 
+
+2.8 Microorganismos patógenos 
+
+transmitidos por alimentos 
+
+2.9 Microoganismos indicadores 
+
+2.10 Levaduras y mohos 
+
+3 Análisis de la composición 3.1 Muestreo y preparación de 
+proximal de los alimentos muestras en el laboratorio 
+
+3.2 Determinación de humedad 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+3.3 Análisis Minerales 
+
+3.4 Análisis de lípidos 
+
+3.5 Análisis de Proteínas 
+
+3.6 Determinación de carbohidratos 
+
+3.7 Determinación de metales 
+pesados 
+
+3.8 Determinación de agroquímicos 
+
+3.9 Determinación de toxinas 
+
+4 Análisis sensorial 4.1 Principios básicos del análisis 
+sensorial 
+
+4.2 Los estímulos sensoriales 
+
+4.1.3 El sistema sensorial 
+
+4.3 Apariencia 
+
+4.4 Sabor 
+
+4.5 Aroma 
+
+4.6 Textura 
+
+4.7 Métodos analíticos y sensitivos 
+
+4.8 Métodos cuantitativos y 
+cualitativos 
+
+4.9 Métodos afectivos 
+
+4.10 Formación y entrenamiento de 
+jueces sensoriales. 
+
+4.11 Principales aplicaciones del 
+análisis sensorial. 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+Desarrollo de productos alimenticios 
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+Competencias Actividades de aprendizaje 
+
+Específica(s): Conocer e identificar el desarrollo de 
+nuevos productos.  
+
+Conoce y comprende los aspectos 
+generales relacionados con el  
+desarrollo de productos  alimenticios, 
+lo cual implica conocimientos de Exponer al grupo casos reales de 
+alimentos dirigidos a cumplir con alimentos exitosos y no exitosos, a 
+ciertas características y requisitos de nivel global y regional. 
+calidad, la planificación, organización  
+y desarrollo de pruebas de laboratorio 
+para obtener el producto deseado y Establecer las metodologías para el 
+las condiciones adecuadas del Desarrollo de Nuevos Productos 
+proceso, la importancia de realizar Alimenticios.  
+pruebas a escalas mayores (pruebas a 
+nivel piloto) hasta llegar al desarrollo  
+del proceso operativo real a desarrollar Explicar el procedimiento para la 
+en plantas procesadoras de alimentos. protección de la propiedad intelectual. 
+
+  
+
+Genéricas: Realizar el estudio de mercado de la 
+Capacidad de razonamiento crítico idea de producto elegida para 
+
+(problemas y trabajos prácticos), desarrollarse. 
+capacidad de aplicación de   
+conocimientos teóricos en el análisis 
+
+Conocer de manera más amplia la 
+de situaciones, resolución de función de la innovación dentro de 
+problemas y toma de decisiones en una empresa de alimentos.  
+contextos reales (prácticas), 
+capacidad de análisis y síntesis,  
+capacidad crítica y autocrítica, trabajo 
+en equipo, capacidad de Estudiar casos reales para conocer 
+
+comunicación correcta y eficaz, oral y como una tendencia puede impactar 
+
+escrita, compromiso a la preservación sobre el éxito de un producto 
+
+del medio ambiente, compromiso alimenticio a través del tiempo. 
+
+ético, capacidad de aplicar los 
+conocimientos a la práctica, 
+habilidades de investigación, 
+preocupación por la calidad.. 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+Análisis microbiológicos de alimentos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Analizar estudios de caso 
+describiendo los efectos probables de 
+
+Conoce y aplica las diferentes la fuente de origen de las 
+técnicas de análisis para la enfermedades transmitidas por 
+prevención y control de la alimentos. 
+contaminación microbiana  
+
+ 
+ 
+
+Realizar un diagnóstico del impacto 
+Genéricas:  social y económico de las 
+Capacidad de razonamiento crítico enfermedades transmitidas por 
+(problemas y trabajos prácticos), alimentos. 
+capacidad de aplicación de  
+conocimientos teóricos en el análisis 
+
+Analizar la influencia de la regulación, 
+de situaciones, resolución de 
+problemas y toma de decisiones en control y fomento sanitario en la 
+contextos reales (prácticas), disminución de la presencia de ETAS 
+capacidad de análisis y síntesis, 
+capacidad crítica y autocrítica, trabajo  
+en equipo, capacidad de Clasificar los diferentes métodos de 
+comunicación correcta y eficaz, oral y prevención y control de 
+escrita, compromiso a la preservación contaminantes microbianas. 
+del medio ambiente, compromiso 
+ético, capacidad de aplicar los  
+conocimientos a la práctica, 
+habilidades de investigación, Describir los diferentes grupos 
+preocupación por la calidad. microbianos indicadores de calidad 
+
+sanitaria. 
+
+ 
+
+Describir las técnicas de conteo en el 
+aseguramiento de la calidad. 
+
+ 
+
+Validar metodologías analíticas y 
+evalúar los resultados según los 
+criterios establecidos por la legislación 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+vigente para mantener la calidad del 
+alimento. 
+
+Análisis de la composición proximal de los alimentos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar en diferentes fuentes los 
+tipos de análisis para comprender la 
+
+Determina la composición de los importancia del análisis proximal y la 
+alimentos e interpreta los resultados teoría de las técnicas analíticas de 
+de los análisis efectuados mediante 
+diferentes métodos y compara con la los alimentos. 
+normatividad para verificar la calidad 
+de los alimentos.   
+
+ Aplicar las principales técnicas en la 
+determinación experimental de los 
+
+Genéricas:  parámetros químicos empleados en la 
+industria alimentaria (humedad, 
+
+Capacidad de razonamiento crítico cenizas, proteínas, lípidos, índice de 
+(problemas y trabajos prácticos), peróxidos, rancidez, carbohidratos, 
+capacidad de aplicación de azúcares reductores, metales pesados 
+conocimientos teóricos en el análisis agroquímicos, toxinas) para identificar 
+de situaciones, resolución de compuestos con propiedades 
+problemas y toma de decisiones en nutricionales en un alimento. 
+contextos reales (prácticas),  
+capacidad de análisis y síntesis, 
+capacidad crítica y autocrítica, trabajo Analizar la presencia de componentes 
+en equipo, capacidad de no deseables en los alimentos. 
+comunicación correcta y eficaz, oral y 
+escrita, compromiso a la preservación  
+del medio ambiente, compromiso Realizar los diferentes análisis que 
+ético, capacidad de aplicar los permitan discutir con base a 
+conocimientos a la práctica, experimentación, la calidad de las 
+habilidades de investigación, materias primas y los productos 
+preocupación por la calidad. finales de un proceso productivo 
+
+alimentario. 
+
+ 
+
+Validar metodologías analíticas y 
+evalúa los resultados según los 
+criterios establecidos por la legislación 
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+vigente para mantener la calidad del 
+alimento. 
+
+Análisis sensorial 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar en diferentes fuentes los 
+temas relacionados con pruebas 
+
+Conoce y aplica las diferentes técnicas sensoriales de discriminación, ensayos 
+de evaluación sensorial y su descriptivos y pruebas sensoriales de 
+importancia en el desarrollo de aceptabilidad. 
+alimentos tomando en cuenta la 
+aceptación de los potenciales   
+consumidores 
+
+Solucionar ejercicios, problemas y 
+ casos, tanto de manera individual 
+
+como colaborativa, para desarrollar la 
+Genéricas:  capacidad de análisis de las pruebas 
+Capacidad de razonamiento crítico sensoriales de discriminación, ensayos 
+(problemas y trabajos prácticos), descriptivos y pruebas sensoriales de 
+capacidad de aplicación de aceptabilidad. 
+conocimientos teóricos en el análisis  
+de situaciones, resolución de Generar reportes que muestren el 
+problemas y toma de decisiones en diseño de las pruebas sensoriales, los 
+contextos reales (prácticas), resultados y la interpretación de los 
+capacidad de análisis y síntesis, mismos. 
+capacidad crítica y autocrítica, trabajo 
+en equipo, capacidad de  
+comunicación correcta y eficaz, oral y 
+escrita, compromiso a la preservación Integrar los datos sensoriales y del 
+del medio ambiente, compromiso mercado al diseño de productos 
+ético, capacidad de aplicar los 
+conocimientos a la práctica, 
+habilidades de investigación, 
+preocupación por la calidad. 
+
+ 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+El alumno desarrollará a lo largo de la asignatura un producto alimenticio 
+innovador que resuelva alguna problemática local, estatal o nacional haciendo 
+su análisis y recomendando las soluciones fundamentadas bajo los conceptos  
+vistos en la materia. 
+
+Recuento, aislamiento e identificación de Staphylococcus aureus en productos 
+lácteos. 
+
+Aislamiento mediante la técnica de enriquecimiento e identificación de 
+Salmonella spp empleando medios convencionales en alimentos cárnicos. 
+
+Recuento de microorganismos indicadores por la técnica del número más 
+probable(NMP). 
+
+Aislamiento e identificación de Escherichia coli 
+
+Determinación de la carga microbiana en diferentes ambientes de trabajo 
+(cuenta de mesofílicos aerobios, coliformes totales, hongos y levaduras). 
+Muestreo de superficies vivas e inertes. 
+
+Determinación de grasas en diferentes Alimentos 
+
+Determinación de humedad en diferentes Alimentos 
+
+Determinación de cenizas en diferentes Alimentos 
+
+Determinación de proteínas en diferentes Alimentos 
+
+Análisis sensorial de alimentos 
+
+  
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+• Evaluación del conocimiento, uso y manejo de los equipos e 
+instrumentos de laboratorio para 
+
+• su análisis de los alimentos. 
+• Exposición del estudiante en temas específicos. 
+• Investigaciones documentales previas a cada clase. 
+• Reportes de prácticas de laboratorio realizadas e interpretación de los 
+
+resultados obtenidos 
+• comparados con la normatividad vigente. 
+• Participación activa en clase y en las prácticas de laboratorio. 
+• Resolver problemas de manera grupal. 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+• Guías de observación sobre el desarrollo de prácticas  
+
+ 
+
+11. Fuentes de información 
+
+1. Análisis de Alimentos Manual de Laboratorio. (2000). Edt. McGraw Hill, México. 
+
+2. Aurand, L.W., Woods, A.E. y Wells, M.R. (1987).Food Composition and Analysis. 
+AVI. Van Nostrand Reinhold Co. New York. 
+
+3.Beckley, J. H.; Foley, M. M.; Topp, E. J.; Huang, J. C.; Prinyawiwatkul, W. (Eds). 
+(2007). Accelerating New Food Product Design and Development. USA. 
+Blackwell Publishing.  
+
+4.Carpenter, R. P.; Lyon, D. H.; Hasdell, T. A. (2000). Guidelines for Sensory 
+Analysis in Food Product Development and Quality Control. USA. Aspen 
+Publisher, Inc.  
+
+5. Dr. Wil liam Horwitz, Editor.Dr. George W. Latimer, Jr. (2006). Association of 
+Official Analytical Chemists (AOAC). Official Methods of Analysis. 18th. Edition. 
+
+6. Demain A.L & J.E. Davies, eds. (1999): Manual of Industrial Microbiology and 
+
+Biotechnology (2ª ed.), ASM Press, Washington DC. 
+
+7. Earle, R. (Ed.). (2008). Case Studies in Food Product Development. USA. CRC    
+Press. 
+
+8. Earle M.D., Anderson A.M. (1985). Product and process development in the 
+food industry. Ed. Harwood academic publisher. New York, USA.  
+
+9.Egan, H., Kirk, R.S., y Sawyer, R. (1988). Análisis Químico de Alimentos de 
+Pearson. C.E.C.S.A. México. 
+
+10. Ertola, Yantorno y Mignone (2000) Microbiologia Industrial, OEA 
+
+11. Forsythe Stephen J., (2006) Alimentos Seguros, 1 ra Edición, Editorial Acribia. 
+
+12.Fuller, G. W. (2011). New Food Product Development. From Concept to 
+Marketplace. USA. CRC Press.  
+
+13.Gacula, M.C. y Singh, J. (1987). Statistical Methods In Food and 
+ConsumerResearch. Ed. Academic Press, Inc.  
+
+14. Hart, F. (1971). Análisis Moderno de los Alimentos. Zaragoza: Acribia. 
+
+15. James, C.S. (1999). Analytical Chemistry of Foods. Chapman & Hall. New York. 
+
+Página | 13  
+ 
+
+
+
+ 
+ 
+
+ 
+16. Kirk, R. (1991). Pearson's Composition and Analysis of Foods (8ª ed.). New York: 
+Longman Scientific & Technical. 
+
+17. Lawless, H. T., & Heymann, H. , Sensory evaluation of food: Principles and 
+practices, New York : Springer., 2010 
+
+18. Lerma Kirchner, Alejandro Eugenio (2004). Guía para el desarrollo de 
+productos Un enfoque práctico-. Tercera edición. 3ª Edición. Edit. Thomson. 
+
+19. Matissek, Schnepel and Steiner. (2000). Análisis de Alimentos. Edit. Acribia. 
+Zaragoza, España. 
+
+20. Michael P. Doyle, Larry R. Beuchat, Thomas J. Montville (2006). Microbiología 
+de los alimentos: fundamentos y fronteras, 2 Edición, Editorial Acribia. 
+
+21. Moskowitz Howard R, Sensory and consumer research in food product 
+design and development [recurso electrónico], 2nd ed., Ames, Iowa: Blackwell 
+Pub., 2012, 9781119945949 (e-book) 
+
+22. Moskowitz, H. R.; Saugy, I. S.; Straus, T. (Eds.). (2009). An Integrated Approach 
+to New Food Product Development. USA. CRC Press.  
+
+23. Nielsen, S.S. (1998). Food Analysis. 2a. Edición. Chapman & Hall. New York. 
+
+24. Okafor N. (2007), Modern Industrial Microbiolgy and Biotechnology Science 
+
+Publishers, USA. 
+
+25 Osborne, D. Análisis de los Nutrientes de los Alimentos. Edit. Acribia 
+Zaragoza España. 
+
+26. Pearson, D. (1976). Técnicas del laboratorio para el Análisis de Alimentos. 
+Zaragoza (España): Acribia. 
+
+27. Side, C. (Ed.). (2008). Food Product Development: Based on Experience. USA. 
+Wiley-Blackwell.  
+
+28.Smith, J. & Charter, E. (Eds.). (2010). Functional Food Product Development. 
+USA. WileyBlackwell.  
+
+ 
+  
+
+Página | 14  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+Página | 15

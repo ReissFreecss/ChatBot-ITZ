@@ -1,0 +1,844 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Biotecnología de Fermentaciones 
+
+  
+
+  
+
+Clave de la asignatura: BAF-2103 
+
+  
+
+  
+
+SATCA1: 3-2-5 
+
+  
+
+  
+
+Carrera: Ingeniería Bioquímica 
+
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+La asignatura Biotecnología de Fermentaciones permitirá al estudiante 
+adquirir los conocimientos, habilidades y destrezas para el diseño de 
+procesos de producción de células y metabolitos de origen microbiano, 
+por medio de la comprensión y aplicación de técnicas y procedimientos 
+biotecnológicos, aplicando criterios de sustentabilidad. 
+ 
+También le provee al alumno las herramientas necesarias para el uso y 
+control de células, indispensable para el diseño de equipos, procesos y 
+aplicación de nuevas tecnologías, en la mejora continua de programas 
+en el ámbito de las Ingenierías en Industrias Bioquímica, Alimentaria, 
+Ambiental y Biotecnológicas, entre otras. 
+ 
+Las capacidades adquiridas por el alumno previamente en las áreas de 
+biología e ingeniería a través de las asignaturas: Biología, Química 
+Inorgánica y Orgánica, Química Analítica, Bioquímica, Microbiología, 
+Operaciones Unitarias, Matemáticas, Fenómenos de Transporte, 
+Cinética Química y Biológica, Ingeniería de Biorreactores, Ingeniería de 
+Bioseparaciones, para que, fortalecen y les permite analizar los 
+diferentes campos y la historia de la biotecnología para obtener un 
+panorama general e Identifica los diferentes tipos de fermentaciones y 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+ 
+
+ 
+los tipos de microorganismos que intervienen en ellas, usados en la 
+Industria Biotecnológica. 
+ 
+La Biotecnología de Fermentaciones se apoya con instrumentos, como 
+son principalmente el microscopio, reactores, así como de técnicas de 
+esterilización, preparación de medios de cultivo, métodos de obtención 
+de cultivos axénicos y de conservación de y mantenimiento de cepas de 
+interés. Con esta asignatura el estudiante adquiere habilidades que 
+obtendrá en el laboratorio, a través de una serie de prácticas 
+desarrolladas de acuerdo al conocimiento teórico adquirido. 
+ 
+Por tanto la asignatura aporta al perfil del Ingeniero Bioquímico, la 
+capacidad de diseñar, seleccionar, adaptar y escalar equipos y procesos 
+en los que se aprovechen de manera sustentable los recursos bióticos, 
+identificar y aplicar tecnologías emergentes relacionadas con el campo 
+de acción de este tipo de Ingenieros, participar en el diseño y aplicación 
+de normas y programas de gestión y aseguramiento de la calidad, en 
+empresas e instituciones, realizar investigación científica y tecnológica 
+con difusión de sus resultados. 
+
+Intención didáctica 
+
+La asignatura de Biotecnología de Fermentaciones está organizada en 
+4 unidades presentadas en un orden ascendente de complejidad y cada 
+una de las cuales agrupa temas similares con el objetivo de facilitar la 
+comprensión para el alumno. 
+ 
+En la primera unidad se abordan los temas del metabolismo 
+microbiano en las áreas de bioquímica y su regulación metabólica. 
+Relaciona las rutas bioquímicas usadas por las células microbianas para 
+la elaboración de metabolitos de interés comercial y sus mecanismos 
+de control natural de las vías a niveles intracelulares como son los 
+niveles enzimáticos y la expresión de ADN. Así mismo, se analiza el 
+sistema microbiano como unidad de producción, revisando los 
+principales sustratos utilizados en la industria biotecnológica, los 
+sistemas de fermentación, y la obtención de cepas de interés utilizando 
+criterios de selección primaria y secundaria, su mantenimiento y 
+conservación. 
+La segunda unidad incluye la revisión de los diferentes procesos 
+microbianos para la producción industrial de células o metabolitos, 
+como son la producción de proteína unicelular, hongos comestibles, 
+producción de etanol, ácidos orgánicos, enzimas, vitaminas, 
+antibióticos. 
+La tercera unidad trata sobre las fermentaciones en estado sólido y su 
+importancia en la obtención de productos microbianos. Se analiza los 
+factores que influyen en el rendimiento de este tipo de procesos, así 
+como los diferentes tipos de equipos empleados y sus características. 
+Se estudian y analizan ejemplos de metabolitos y productos obtenidos 
+por esta técnica, incluyendo aquellos productos alimenticios que 
+
+Página | 2  
+ 
+
+
+
+ 
+ 
+
+ 
+aparecieron desde la antigüedad en diferentes culturas. 
+En la cuarta unidad se aborda el tema de los fermentadores neumáticos 
+o tipo airlift que se emplean en el cultivo tisular tanto animal como 
+vegetal. Se revisa la configuración general de este tipo de equipos, así 
+como las diferentes conformaciones que se pueden tener. Se hace una 
+revisión del efecto que tienen la hidrodinámica y la potencia, así como 
+de algunas de las correlaciones empleadas para calcular parámetros 
+importantes en este tipo de equipos como lo son: el Hold-Up la 
+velocidad de circulación del líquido y el estrés hidrodinámico. También 
+se analiza la transferencia de masa y calor y cómo influye el mezclado 
+en esto. 
+Así mismo, se sugiere el uso de actividades integradoras del 
+conocimiento durante la elaboración de prácticas de laboratorio, 
+actividades que involucren técnicas y sistemas de multiplicación y 
+propagación, y cálculos de parámetros cinéticos para evaluar sus 
+rendimientos, en los procesos biotecnológicos. Por lo tanto, por medio 
+de las actividades prácticas se promueve el desarrollo de habilidades 
+para la experimentación, tales como: identificación y operación de 
+equipos para controlar variables y datos relevantes; planteamiento de 
+hipótesis; trabajo en equipo; asimismo, se propician procesos 
+intelectuales como inducción-deducción y análisis-síntesis con la 
+intención de generar una actividad intelectual integradora. 
+En las actividades prácticas sugeridas, es conveniente que el profesor 
+busque sólo guiar a sus alumnos para que ellos hagan la elección de los 
+métodos apropiados de selección, diseño y establecimiento de los 
+diversos procesos biotecnológicos a aplicar, de tal modo que desarrollen 
+de manera independiente protocolos pertinentes y elaboren reportes 
+adecuados de los resultados. 
+La lista de actividades de aprendizaje se sugiere para hacer más 
+significativo y efectivo el aprendizaje, pueden realizarse como 
+actividades extra clase y en clase revisar y fomentar debates para la 
+discusión de los resultados de las observaciones. Se procura partir de 
+experiencias concretas, cotidianas, para que el estudiante establezca 
+una relación con las necesidades y oportunidades de desarrollo 
+biotecnológico del entorno y no sólo se hable de ellos en el aula. 
+Generalmente se propone la formalización de los conceptos a partir de 
+experiencias concretas; y que se diseñen problemas con datos faltantes 
+o sobrantes de manera que el alumno se ejercite en la identificación de 
+datos relevantes y el análisis y presentación de propuestas. 
+Es trascendental que el estudiante comprenda que está construyendo 
+su soporte para el futuro quehacer y en consecuencia actúe de manera 
+profesional; aprecie la importancia del conocimiento y los hábitos de 
+trabajo; desarrolle la precisión, la curiosidad, la puntualidad, el 
+entusiasmo y el interés, la tenacidad, la flexibilidad y la autonomía pero 
+también el trabajo en equipo. 
+El alumno hace uso de las habilidades de síntesis, de análisis, de 
+pensamiento inductivo y deductivo, entre otras; con la finalidad de 
+integrar en su conocimiento y en su persona los conceptos y 
+
+Página | 3  
+ 
+
+
+
+ 
+ 
+
+ 
+metodologías concernientes a la Biotecnología Vegetal para contar con 
+la capacidad y los criterios de aplicación requeridos en una situación 
+específica que dé solución a situaciones reales, tomando en cuenta la 
+importancia dl respeto del entorno en todos los sentidos y por lo tanto 
+amigable con el entorno y de manera sustentable. 
+El profesor procurará un ambiente en el cual el alumno encuentra un 
+contexto de confianza, respeto, tolerancia y armonía, necesario para el 
+adecuado desempeño del alumno en donde manifieste sus habilidades 
+y actitudes, además de utilizar diversas técnicas y herramientas para 
+propiciar el aprendizaje. 
+
+ 
+
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha   
+de elaboración 
+
+o revisión Participantes Observaciones 
+
+Instituto Wendy Netzy Hernández Díaz Definición de los 
+Tecnológico de programas de estudio 
+Zacatepec,  de los módulos de 
+Enero del 2021 Leonor Zavaleta Avejar especialidad de la 
+
+carrera de Ingeniería 
+ Bioquímica 
+
+Marlla Dubravka Gutierrez Botello 
+
+ 
+
+Erik Guilbert García 
+
+ 
+
+José Elías Salado Huerta 
+
+ 
+
+Francisco Javier Hernández 
+Campos 
+
+ 
+
+Alberto Álvarez Castillo 
+ 
+
+ 
+
+Página | 4  
+ 
+
+
+
+ 
+ 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+
+Aplica condiciones físicas y químicas en reactores biológicos de diferentes tipos 
+por medio de la identificación, análisis, selección y aplicación de procesos de la 
+biotecnología industrial, para el establecimiento de sistemas de producción de 
+células y metabolitos de origen microbiano. 
+
+ 
+
+ 
+
+5. Competencias previas 
+
+• Identifica los diferentes grupos microbianos. 
+• Identifica, seleccionar y preparar los diferentes medios de cultivo. 
+• Conoce y aplica las diferentes técnicas de aislamiento, 
+
+purificación y conservación de cepas microbianas. 
+• Conoce y relaciona las diferentes rutas bioquímicas con el 
+
+metabolismo microbiano. 
+• Conoce y aplica las técnicas analíticas para la preparación de 
+
+compuestos químicos. 
+• Conoce y relaciona el valor del dinero y costo inversión. 
+• Interpretar el desarrollo y uso sustentable. 
+• Aplica balances de materia y energía. 
+• Identifica y relaciona el diseño del biorreactor con los sistemas 
+
+microbianos. 
+ 
+
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Metabolismo y Sistemas 1.1 Metabolismo microbiano 
+Microbianos 
+
+1.2 Regulación metabólica 
+
+1.3 Sustratos de fermentación 
+industrial 
+
+1.3.1 Sistemas de fermentación 
+
+1.3.2 Selección primaria y secundaria 
+
+1.3.3 Preparación del inóculo 
+
+Página | 5  
+ 
+
+
+
+ 
+ 
+
+ 
+1.3.4 Conservación y mantenimiento 
+de cepas 
+
+2 Procesos Biotecnológicos 2.1 Principios de procesos microbianos 
+
+2.2 Producción de metabolitos de 
+origen microbiano 
+
+2.2.1 Producción de células 
+
+2.2.2 Producción de alcohol 
+
+2.2.3 Producción de ácidos 
+Orgánicos 
+
+2.2.4 Producción de enzimas 
+
+2.2.5 Producción de vitaminas 
+
+2.2.6 Producción de antibióticos 
+
+3 Fermentaciones en Estado 3.1 Introducción 
+Sólido 
+
+3.1.1 Definición  
+
+3.1.2 Historia 
+
+3.1.3 Ventajas y Desventajas 
+
+3.2 Factores que influyen en las FES 
+
+3.2.1 Biológicos. 
+
+3.2.2 Fisicoquímicos 
+
+3.2.3 Mecánicos 
+
+3.3 Tipos de Fermentadores para FES 
+
+3.3.1 Estáticos de aireación forzada y 
+no forzada 
+
+3.3.2 Agitados continua o 
+intermitente de aireación forzada y 
+no forzada 
+
+3.4 Aplicaciones de la FES 
+
+Página | 6  
+ 
+
+
+
+ 
+ 
+
+ 
+3.4.1 Producción de metabolitos 
+primarios 
+
+3.4.2 Producción de metabolitos 
+secundarios 
+
+3.4.3 Producción de Alimentos 
+
+3.4.3.1 Vegetales fermentados 
+
+3.4.3.2 Cárnicos fermentados 
+
+3.4.3.3 Quesos maduros 
+
+3.4.3.4 Alimentos ancestrales 
+
+4 Fermentadores Neumáticos 4.1 Introducción 
+
+4.1.1 Funcionamiento y partes que lo 
+componen 
+
+4.1.2 Aplicaciones  
+
+4.2 Configuración de reactores 
+
+4.2.1. Reactores de columna 
+
+4.2.2. Reactores Loop (airlift) 
+
+4.2.2.1 Reactores de bucle interno  
+
+4.2.2.2 Reactores de bucle externo  
+
+4.3 Hidrodinámica y potencia 
+
+4.3.1 Potencia requerida 
+
+4.3.2 Hold-Up 
+
+4.3.3 Velocidad de circulación del 
+líquido 
+
+4.3.4 Estrés hidrodinámico  
+
+4.4 Transferencia de masa y calor 
+
+4.5 Mezclado 
+
+ 
+
+Página | 7  
+ 
+
+
+
+ 
+ 
+
+ 
+7. Actividades de aprendizaje de los temas 
+
+Nombre de tema 
+
+Metabolismo y Sistemas Microbianos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Discute las rutas • Analizar e identificar las 
+metabólicas para la obtención de principales rutas metabólicas de 
+metabolitos de interés y sus obtención de metabolitos de 
+mecanismos de regulación celular interés comercial. 
+para la producción comercial, así • Analizar e identificar los 
+
+mecanismos que regulan las 
+coma las etapas de los sistemas de funciones metabólicas  de 
+fermentación y sus componentes.  los microorganismos. 
+
+• Analizar y discutir sobre la 
+Genéricas: alteración de las rutas 
+Competencias instrumentales metabólicas y su control de la 
+
+expresión. 
+• Capacidad de organizar y • Revisar y discutir artículos 
+
+planificar científicos en inglés sobre las 
+• Habilidades básicas de manejo rutas metabólicas y sus 
+
+de la computadora mecanismos de regulación en 
+• Solución de problemas los microorganismos. 
+Competencias interpersonales • Investigar y relacionar los 
+• Trabajo en equipo principales sustratos utilizados 
+• Habilidad  para  el  trabajo en la industria de fermentación 
+
+ en laboratorio industrial, y sobre los avances 
+• Compromiso ético sobre la obtención de 
+Competencias sistémicas microorganismos de interés 
+• Habilidades de investigación industrial. 
+• Capacidad para aprender • Discutir en un foro las ventajas y 
+• Capacidad de adaptarse a desventajas de los diferentes 
+
+nuevas situaciones sistemas de fermentación. 
+• Preocupación por el medio 
+
+ambiente 
+• Preocupación por la calidad 
+
+Nombre de tema 
+
+Procesos Biotecnológicos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Diseña procesos de • Desarrollar y exponer en grupo 
+fermentación microbiana para la los diferentes procesos de 
+
+producción de productos de 
+
+Página | 8  
+ 
+
+
+
+ 
+ 
+
+ 
+producción de metabolitos de interés interés comercial de origen 
+comercial. microbiano. 
+
+• Desarrollar y realizar prácticas de 
+Genéricas: laboratorio para la obtención de 
+
+productos microbianos de 
+Competencias instrumentales interés comercial. 
+• Capacidad de organizar y • Revisar y discutir artículos 
+
+planificar científicos en inglés sobre los 
+• Habilidades básicas de manejo avances en los procesos  de 
+
+de la computadora producción de metabolitos de 
+• Solución de problemas origen microbiano. 
+Competencias interpersonales 
+• Trabajo en equipo 
+• Habilidad  para  el  trabajo 
+
+ en laboratorio 
+• Compromiso ético 
+Competencias sistémicas 
+• Habilidades de investigación 
+• Capacidad para aprender 
+• Capacidad de adaptarse a 
+
+nuevas situaciones 
+• Preocupación por el medio 
+
+ambiente 
+Preocupación por la calidad 
+
+Nombre de tema 
+
+Fermentaciones en Estado Sólido 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Comprende el efecto • Investigar sobre los orígenes 
+que tienen las diferentes variables de de la fermentación en estado 
+proceso en la eficiencia de una FES y sólido  
+con base en esto y al tipo de producto, • Realizar una tabla con las 
+
+ventajas y desventajas de la 
+seleccionar la mejor opción de fermentación en estado sólido  
+fermentador.  • Realizar una investigación de 
+
+metabolitos obtenidos por 
+Genéricas: fermentación adicionales a los 
+
+vistos en clase.  
+Competencias instrumentales • Realizar una investigación de 
+• Capacidad de organizar y los metabolitos que puede 
+
+planificar producir por fermentación con 
+• Habilidades básicas de manejo los recursos materiales con los 
+
+de la computadora que cuenta y los recursos 
+• Solución de problemas naturales de su comunidad. 
+
+Página | 9  
+ 
+
+
+
+ 
+ 
+
+ 
+Competencias interpersonales  
+• Trabajo en equipo 
+• Habilidad  para  el  trabajo 
+
+ en laboratorio 
+• Compromiso ético 
+Competencias sistémicas 
+• Habilidades de investigación 
+• Capacidad para aprender 
+• Capacidad de adaptarse a 
+
+nuevas situaciones 
+• Preocupación por el medio 
+
+ambiente 
+• Preocupación por la calidad y 
+
+eficiencia del proceso 
+Nombre de tema 
+
+Fermentadores Neumáticos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Analiza y compara los Desarrollar y exponer en equipo las 
+principios básicos de los partes que componen los reactores 
+fermentadores neumáticos así como neumáticos y su funcionamiento. 
+su funcionamiento y aplicación más 
+adecuada de acuerdo al sistema Analizar y discutir principales 
+biológico que se desea cultivar.  aspectos de transferencia de masa 
+
+y calor. 
+Genéricas: 
+
+Investigar y analizar las distintas 
+Competencias instrumentales configuraciones de los reactores 
+• Capacidad de organizar y aireados para comprender su 
+
+planificar funcionamiento.   
+• Habilidades básicas de manejo 
+
+de la computadora Discutir y analizar en un foro 
+• Solución de problemas ventajas y desventajas de cada una 
+Competencias interpersonales de las distintas configuraciones 
+• Trabajo en equipo comparándolas entre ellas. 
+• Habilidad  para  el  trabajo 
+
+ en laboratorio Analizar y comprender como se 
+• Compromiso ético aplican las diferentes correlaciones 
+Competencias sistémicas para el cálculo de la potencia y las 
+• Habilidades de investigación variables hidrodinámicas, a partir 
+• Capacidad para aprender de una investigación bibliográfica.  
+• Capacidad de adaptarse a 
+
+nuevas situaciones 
+
+Página | 10  
+ 
+
+
+
+ 
+ 
+
+ 
+• Preocupación por el medio 
+
+ambiente 
+Preocupación por la calidad 
+
+ 
+
+8. Práctica(s)  
+
+1. Aislamiento y selección primaria y secundaria de cepas microbianas. 
+2. Producción de biomasa con diferentes fuentes de carbono y nitrógeno. 
+3. Producción de Saccharomyces cereviseae 
+4. Producción de etanol. 
+5. Producción de ácidos orgánicos. 
+6. Producción de enzimas. 
+7. Producción de microalgas. 
+8. Producción de antibióticos. 
+9. Fermentación en estado sólido con Rhizopus oligosporus: Elaboración 
+
+de tempeh. 
+10. Determinación del efecto de la concentración de sal en la fermentación 
+
+láctica de hortalizas encurtidas. 
+11. Determinación del efecto de la concentración de sal en la fermentación 
+
+láctica de hortalizas encurtidas. 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, 
+es demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+
+Página | 11  
+ 
+
+
+
+ 
+ 
+
+ 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias 
+
+Evaluación escrita por tema.  
+
+Reporte de prácticas realizadas y cuestionario previo antes de cada práctica.  
+
+Exposición del estudiante frente a grupo.  
+
+Participación en clase. 
+
+Proyecto (Diseñar un prototipo de fermentador neumático) 
+
+ 
+
+11. Fuentes de información 
+
+ 
+
+1. Departamento de agricultura de USA. www.usda.gov 
+2. Ciencias de la vida y biotecnología en Europa. 
+
+www.ec.europa.eu/biotechnology/pdf/policypaper_es.pdf 
+3. La industria biotecnológica en México. 
+
+www.conabio.gob.mx/conocimiento/bioseguridad/doctos/bio
+seguridad/aspectos_soc io-economicos_rosaluzgonzalez.ppt 
+
+4. Dawes, I. W. y Sutherland, I. W. Microbial physiology, In basic 
+microbiology. Wilkinson Vol.4.Blackwell Scientific 
+P.London.1976 
+
+5. Karp, G.Biologia celular.2a. Ed.McGraw Hill.México.1987 
+6. Lehninger, A. L.Principles of biochemistry.Worth Pub. IncNew York.1995 
+7. Dixon, R.O.D y Wheeler, C.T. Nitrogen fixation in plants.Blackie 
+
+Glasgow and London.Chapman and Hill.N.Y. -1986. 
+8. Chisti M.Y. (1989). Airlift bioreactors. Elsevier Science Publishers LTD. 
+9. CHISTI, M.Y. & MOO-YOUNG, M. (1987). AIRLIFT REACTORS: 
+
+CHARACTERISTICS, APPLICATIONS AND DESIGN CONSIDERATIONS, 
+Chemical Engineering Communications, 60:1-6, 195-242, DOI: 
+10.1080/00986448708912017 
+
+Página | 12  
+ 
+
+
+
+ 
+ 
+
+ 
+10. Mathews, K.C., Van Holde., K.E. -Bioquimica. – 2a. ed. 
+
+McGraw-Hill Interamericana, España, S.A. 1999. 
+11. Doelle, H. W.Bacterial metabolism.2nd ed.Academic Press, N.Y.1975. 
+12. Gottschalk, G.Bacterial metabolism.Springer-Verlag.N.Y.1985. 
+13. Metzler, D.E. -Biochemistry. The chemical reactions of living 
+
+cells.Academic Press.New York.2000 
+14. Sokatch, J. R.Bacterial physiology and metabolism. Academic
+
+ Press.New York.1969. 
+15. Brook, T. D.Biology of microorganisms.3rd. ed.Prentice Hall Inc.New 
+
+Jersey.1998. 
+16. Tamarin, R.H. Principios de genética. Editorial Reverté, S.A. Barcelona. -
+
+1996. 
+17. The microbiol World. Stanier, Michael Doudoroffy Edward A. Adelberg. 
+
+1996. 
+18. Biotecnología manual de microbiología industrial. Crueger & Crueger. 
+
+1986. 
+19. Microbial Biotechnology: Fundamentals of Applied Microbiology (2007) 
+
+Alexander N. Glazer and Hiroshi Nikaido. Cambridge University Press. 
+20. Environmental Biotechnology - Theory and Application (2002) 
+
+(Wiley). Edited by Evans, Gareth M.; Furlong, Judith C. John 
+Wiley & Sons November. 
+
+21. Methods in Yeast Genetics (2005) David C. Amberg and Daniel 
+J. Burke. CSHL 2005. 
+
+22. Manual of Industrial Microbiology and Biotechnology. DEMAIN, A.L. y 
+J.E. Davies. (eds.). ASM. Washington D.C. Segunda edición. 1999. 
+
+23. Biotecnologia: Manual de Microbiología Industrial. CRUEGER, W. y A. 
+Crueger. Editorial Acribia S.A. Zaragoza. 1993. 
+
+24. Biotecnología de la Fermentación. O.P. WARD. Ed.ACRIBIA. SA. Zaragoza. 
+1991. 
+
+25. Biología Molecular y Biotecnología. WALKER, J.M. y E.B. Gingold:. 2ª ed. 
+Ed. Acribia, S.A. 1997. 
+
+26. Arindam K. and Vinay S., Principles and Applications of Fermentation T
+echnology (2018), John Wiley & Sons-Scrivener Publishing, 
+Inc. And Scrivener Publishing LLC, Beverly, Massachusetts, USA.  
+
+27. Thatoi H., Mohapatra P. K.D., Mohapatra S. and Mondal K. C. (2020), Mic
+robial Fermentation and Enzyme Technology, CRC Press-Taylor & 
+Francis Group,BocaRatón,Florida, USA. Soccol C. R.,Pandey A.,and Larro
+che C. (2013), Fermentation Processes Engineering in the Food Industr
+y, CRC Press-Taylor & Francis Group, Boca Ratón, Florida, USA.  
+
+28. Stanbury P. F.,  Whitaker A., Hall S. J.  (2017), Principles of Fermentation 
+Technology, 3a Edición, Butterworth-Heinemann-
+Elsevier,  Massachusetts, USA.  
+
+29. Hongzhang C. (2013), Modern Solid State Fermentation, Springer, 
+Beijing, P.R. China.  
+
+30. Madigan M. T., Martinko J. M., Bender K. S., Buckley D. H., Stahl D. 
+A. (2015), Brock. Biología de los microorganismos, 
+
+Página | 13  
+ 
+
+
+
+ 
+ 
+
+ 
+14a Edición, Pearson Educación, Madrid España.  
+
+31. Baltz R. H., DaviesJ.E., Demain Arnold. (2010), Manual of Industrial Micro
+biology and Biotechnology,3a Edición, ASM Press, Washington,DC, USA 
+
+32. Murray R. K., Bender D. A., Botham K. M., Kennelly P. J., Rodwell V. W., 
+Weil P. A. (2013), Harper-Bioquímica ilustrada, 29a Edición, McGraw-
+Hill, México, D.F.   
+
+33. Berg J. M., Tymoczko J. L., Gatto G. J., Stryer L. (2015), Biochemistry, 9a E
+dición, W. H. Freeman and Company, USA.  
+ 
+
+ 
+  
+
+Página | 14  
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+Página | 15

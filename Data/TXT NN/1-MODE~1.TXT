@@ -1,0 +1,554 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Modelos y Ciencia De Datos  
+  
+
+  
+Clave de la asignatura: CDF-2101 
+
+  
+  
+
+SATCA1: 3 - 2 - 5  
+  
+  
+
+Carrera: Ingeniería en Sistemas y Computación. 
+ 
+
+2. Presentación  
+
+ 
+Caracterización de la asignatura 
+Esta asignatura aporta al perfil del egresado los conocimientos básicos matemáticos para 
+entender, inferir, aplicar y desarrollar modelos matemáticos tendientes a resolver 
+problemas de procesamiento de datos. 
+Es el soporte para un conjunto de asignaturas que se encuentran vinculadas 
+directamente con la especialidad de Ciencias de Datos para la Toma de Decisiones, por 
+lo que se incluye en los últimos semestres de la trayectoria escolar. 
+Aporta al perfil del Ingeniero en Sistemas Computacionales la capacidad de realizar 
+análisis de regresión simple y múltiple y análisis de serie de tiempo a partir de un 
+conjunto de datos importante, creando así las bases cognitivas de las asignaturas de 
+Bases de Datos NoSQL, Grandes Datos, Almacenes de Datos y Analítica Inteligente de 
+Datos. 
+ 
+Intención didáctica 
+La asignatura se organiza en cinco temas de aprendizaje.  
+
+El primero de ello aborda conceptos básicos sobre Ciencias de Datos para ubicar al 
+estudiante en el mundo de los datos y la necesidad de encontrar un modelo que los 
+represente, de manera que puedan ser procesados y apoyar la toma de decisiones en los 
+negocios, los cuatro temas restantes analizan contenidos propios del área de estadística 
+inferencial.  
+
+El segundo tema ubica al estudiante en el contexto de la estadística, haciendo énfasis en 
+la estadística inferencial y a partir del tema tercero se abordan técnicas como:  regresión 
+lineal simple y correlación, la regresión lineal múltiple y correlación y se completa la 
+información con el análisis de series de tiempo, haciéndose énfasis en los métodos de 
+mínimos cuadrados, promedios móviles y suavización exponencial, posteriormente se 
+realiza análisis de tendencias no lineales. 
+
+El enfoque sugerido para la asignatura propone el uso de software estadístico a lo largo 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+del curso y que las actividades prácticas promuevan el desarrollo de habilidades para el 
+procesamiento de datos, tales como: identificación, manejo de variables, control de 
+variables y datos relevantes; planteamiento de hipótesis, trabajo en equipo; asimismo, 
+propicien procesos intelectuales como inducción-deducción, análisis y síntesis, con la 
+intención de generar una actividad intelectual compleja. 
+
+Algunas de las actividades sugeridas pueden hacerse como actividad extra-clase y 
+comenzar el tratamiento en clase a partir de la discusión de los resultados de las 
+observaciones. Se busca partir de experiencias concretas, cotidianas, para que el 
+estudiante se acostumbre a reconocer los fenómenos físicos, químicos, sociales, 
+financieros, etc. 
+
+En el transcurso de las actividades programadas es muy importante que el estudiante 
+aprenda a valorar las actividades que lleva a cabo y entienda que está construyendo su 
+hacer futuro y en consecuencia actúe de una manera profesional; de igual manera, 
+aprecie la importancia del conocimiento y los hábitos de trabajo; desarrolle la precisión y 
+la curiosidad, la puntualidad, el entusiasmo y el interés, la tenacidad, la flexibilidad y la 
+autonomía. 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto tecnológico de Tecnológico Nacional de Programa elaborado por 
+Zacatepec. México campus Instituto 
+
+profesores del 
+ Tecnológico de Zactepec 
+Departamento de sistemas DR. Francisco Javier departamento de Sistemas 
+y Computación Cartujano Escobar  
+
+y Computación, presentado 
+ M.C. Claudia Noguerón 
+Academia de sistemas  González y aprobado en el pleno de 
+computación.  Lic. Estela Rodríguez 
+
+la Academia. 
+ Zavaleta 
+
+M.T.I. Laura Villavicencio 
+Reunión para el desarrollo de 
+
+Gómez  Esta materia forma parte de 
+Especialidades de Noviembre M.C. Boris Antonio Aranda la especialidad Ciencia de 
+2020 a Marzo 2021. Benitez Datos para la Toma de 
+
+M.C. José Francisco Carpio Decisiones, para la carrera 
+Tovilla Ingeniería en Sistemas 
+M.C.I.  Misael López Nava 
+
+Computacionales, Plan de 
+M.C. Leticia Santa Olalla 
+Ocampo estudios 2010 
+
+Dra. Ana Celia Campos 
+Hernández 
+MT.I. Claudia Gabriela 
+Bustillos Gaytan 
+ 
+
+ 
+ 
+
+Página | 2  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Modela datos a partir de técnicas estadísticas 
+
+ 
+5. Competencias previas 
+Aprobada la asignatura Probabilidades y Estadística 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+ 1.Introducción a la Ciencia de 1.1 Definición 
+Datos 1.2 Importancia 
+
+1.3 Diferencia entre: Ciencia de Datos, 
+Inteligencia Artificial y Aprendizaje 
+Automático 
+
+1.4 Etapas elementales de la Ciencia de Datos. 
+1.5 Herramientas para la Ciencia de Datos. 
+1.6 Plataformas para la Ciencia de Datos 
+1.7 Desafíos de la Ciencia de Datos 
+
+ 2.Inferencia estadística: 2.1 Conceptos de Estadística descriptiva y 
+estimación Estadística inferencial.  
+
+2.2 Breve introducción a la inferencia 
+estadística.  
+
+2.3 Teoría de decisión en estadística.  
+2.4 Conceptos básicos.  
+2.5 Distribuciones de muestreo.  
+2.6 Estimación puntual y Estimación de 
+
+intervalo. 
+2.7 Intervalos de confianza para medias y 
+
+diferencias de medias.  
+2.8 Intervalos de confianza para proporciones y 
+
+diferencias entre proporciones. 
+ 3.Regresión lineal simple y 3.1 Modelo de regresión simple.  
+
+correlación 3.2 Supuestos.  
+3.3 Determinación de la ecuación de regresión.  
+3.4 Medidas de variación.  
+3.5 Cálculo de los coeficientes de correlación y 
+
+de determinación.  
+3.6 Análisis residual.  
+3.7 Inferencias acerca de la pendiente 
+
+ 4.Regresión lineal múltiple y 4.1 Modelo de regresión múltiple.  
+correlación 4.2 Estimación de la ecuación de regresión 
+
+múltiple.  
+4.3 Matriz de varianza-covarianza.  
+4.4 Correlación lineal múltiple 
+
+ 5. Análisis de serie de tiempo. 5.1 Componentes de una serie de tiempo. 
+5.2 Método de mínimos cuadrados.  
+5.3 Métodos de promedios móviles.  
+
+Página | 3  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+5.4 Métodos de suavización exponencial.  
+5.5 Tendencias no lineales. 
+
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a la Ciencia de Datos 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):  • Investigar qué es la Ciencia de Datos, 
+su importancia y diferencias con la 
+
+Comprende la necesidad de encontrar un Inteligencia Artificial y el Aprendizaje 
+modelo que represente los datos automático. 
+
+• Discutir y formalizar de manera grupal 
+Genéricas: •  
+
+los resultados de la investigación. 
+• Habilidades para buscar, organizar, • Analizar en plenaria las etapas y 
+
+procesar y analizar información herramientas existentes para la Ciencia 
+procedente de diversas fuentes. de Datos, así como los desafíos que 
+
+• Capacidad de abstracción, análisis y tiene por delante. 
+síntesis 
+
+• Capacidad de trabajo en equipo 
+• •Capacidad de emprendimiento y 
+
+liderazgo 
+2. Inferencia estadística: estimación  
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Investigar las características 
+estadísticas de cada uno de los 
+
+Comprende los conceptos fundamentales métodos de estimación.  
+de la inferencia estadística para fortalecer • Discutir y formalizar de manera grupal 
+el análisis de datos que orienta y facilita la los resultados de la investigación. 
+toma de decisiones. • Realizar experimentos que nos 
+
+permitan aplicar el concepto de 
+Genéricas: 
+
+estimación puntual y estimación por 
+intervalo.  
+
+• Analizar las propiedades de un buen 
+estimador. Identificar los diferentes 
+tipos de estimación por intervalo. 
+
+• Analizar los métodos para determinar el 
+tamaño de la muestra.  
+
+• Investigar en que aspectos de la vida 
+cotidiana podría ser utilizada la 
+estimación estadística.  
+
+• Aplicar los métodos de estimación por 
+
+Página | 4  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+intervalos de confianza para la solución 
+de problemas cotidianos 
+
+3.Regresión lineal simple y correlación  
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Identificar las variables dependientes e 
+independientes para el análisis de 
+
+Aplica, desarrolla y analiza las técnicas de 
+regresión. 
+
+regresión lineal simple para hacer 
+• Ajustar un modelo de regresión lineal 
+
+predicciones de sucesos futuros. 
+que relacione una variable 
+
+Genéricas: independiente (controlable) y una 
+variable dependiente (no controlable).  
+
+• Analizar gráficas que permitan entender 
+la relación existente entre las variables 
+en consideración.  
+
+• Utilizar el análisis de regresión simple 
+para estimar la relación entre las 
+variables.  
+
+• Utilizar el coeficiente de correlación 
+para medir el grado de relación lineal 
+entre las variables.  
+
+• Obtener el coeficiente de determinación 
+para medir la fuerza de relación entre 
+las dos variables.  
+
+• Interpretar los coeficientes de 
+regresión. 
+
+• Desarrollar inferencias estadísticas 
+para los coeficientes de regresión 
+
+4.Regresión lineal múltiple y correlación 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Identificar la variable dependiente y las 
+independientes.  
+
+Estima el valor de una variable 
+• Desarrollar un modelo de regresión 
+
+dependiente desconocida utilizando 
+múltiple.  
+
+técnicas de regresión con dos a más 
+• Analizar gráficos de las variables 
+
+variables explicativas (independientes) 
+independientes entre sí y los gráficos 
+
+para construir modelos predictivos en 
+de variable dependiente con cada una 
+
+situaciones de decisiones. 
+de las independientes.  
+
+Genéricas: • Utilizar el análisis de regresión múltiple 
+para estimar la relación entre las 
+
+Página | 5  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+variables. 
+• Determinar el coeficiente de correlación 
+
+múltiple.  
+• Determinar el coeficiente de 
+
+determinación múltiple.  
+• Determinar el coeficiente de 
+
+determinación ajustado.  
+• Determinar la matriz de covarianza. 
+
+Interpretar los coeficientes de regresión 
+múltiple. 
+
+5. Análisis de serie de tiempo. 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Utilizar las técnicas para estimar y 
+predecir la tendencia de una serie de 
+
+Utiliza las diferentes técnicas de análisis de 
+tiempo.  
+
+series de tiempo para estimar el 
+• Utilizar la ecuación de mínimos 
+
+comportamiento de las variables a través 
+cuadrados que permita predecir el 
+
+del tiempo, calculados con base en 
+comportamiento de la variable 
+
+tendencias, fluctuaciones cíclicas, 
+dependiente.  
+
+variaciones estacionales y variaciones 
+• Pronosticar modelos económicos e 
+
+irregulares (al azar) para pronosticar 
+industriales por el método de promedios 
+
+modelos 
+móviles.  
+
+Genéricas: • Utilizar las técnicas de suavización 
+exponencial como método de 
+pronóstico.  
+
+• Utilizar los pronósticos basados en 
+factores de tendencia y estacionales 
+para calcular indicadores.  
+
+• Utilizar la técnica de variaciones cíclicas 
+y estacionales para realizar pronósticos. 
+
+ 
+
+8. Práctica(s) 
+
+Las que considere el docente a partir de las condiciones de que disponga para ello, pero 
+se recomiendan básicamente las prácticas: 
+
+1. Realización de una regresión lineal simple a partir de un conjunto de datos. 
+2. Estimar modelo de regresión lineal múltiple conocidos un conjunto de datos 
+3. Predecir el comportamiento de una variable a partir de una estimación mínima 
+
+cuadrática. 
+ 
+
+ 
+
+Página | 6  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+  
+
+Página | 7  
+ 
+
+
+
+ 
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+ 
+
+10. Evaluación por competencias  
+
+La evaluación es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para la 
+mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo en los 
+estudiantes. Se emplearán instrumentos y herramientas tales como: 
+Instrumentos: 
+
+• Mapas conceptuales 
+• Mapas mentales 
+• Cuadros comparativos 
+• Casos prácticos 
+• Ejercicios prácticos  
+
+ 
+Herramientas: 
+
+• Rúbricas 
+• Lista de cotejo 
+• Lista de observación 
+• Pruebas objetivas 
+• Pruebas mixtas 
+• Cuestionarios  
+
+. 
+
+11. Fuentes de información 
+
+1. Bruce, P & Bruce, A. ((2017) Practical Statistics for data Scientists. USA: O´Relly 
+Media, Inc. 
+2. Devore, J. L. (2012) Probabilidad y estadística para ingenierías y ciencia. (8ª. ed.) 
+México: Cengage Learning.  
+3. Gamiz, B. E. (2012). Probabilidad y estadística con prácticas en Excel. (3ª. ed). 
+México: JIT Press.  
+4. Hair, J. Et al (2013). Multivariate Data Analysis. (7ª. ed.) México: Prentice Hall. 
+5. Hines, W. (2009) Probabilidad y estadística para ingeniería (4ª. ed.) México: CECSA: 
+Grupo Editorial Patria.  
+6. Johnson, R. A. (2012) Probabilidad y estadística para ingenieros. (8ª. ed.) México: 
+Pearson Educación.  
+7. Larson, H. J. (1992). Introducción a la teoría de probabilidades e inferencia estadística. 
+México: Limusa.  
+8. Mendenhall, W. (2010). Introducción a la Probabilidad y Estadística. (13ª. ed.) México: 
+Cengage Learning.  
+9. Montgomery, D. C. (2011). Probabilidad y estadística aplicadas a la ingeniería. (2ª. ed.) 
+México: Limusa: Wiley.  
+10. Spiegel, M. (2010). Teoría y problemas de Probabilidad y estadística. (3ª. Ed.) 
+México: McGrawHill.  
+11. Wackerly, D. D. (2010). Estadística matemática con aplicaciones. (7ª. ed.) México: 
+Cengage Learning.  
+ 
+
+Página | 8
