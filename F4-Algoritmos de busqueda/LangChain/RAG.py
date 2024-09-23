@@ -16,28 +16,38 @@ def read_txt_files(directory):
                 text += file.read() + "\n"
     return text
 
-# Ruta del directorio donde están los archivos TXT 
+# Ruta del directorio donde están los archivos TXT
 txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT'
 
 # Leer y procesar los archivos TXT
 text = read_txt_files(txt_directory)
 
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=1000,
-    chunk_overlap=10,
+    chunk_size=2000,
+    chunk_overlap=20,
     length_function=len
 )
 
 chunks = text_splitter.split_text(text)
-
-# Crear embeddings y base de conocimiento
-# sentence-transformers/LaBSE               
-# sentence-transformers/all-MiniLM-L6-v2 
-# sentence-transformers/all-mpnet-base-v2 
-
-# sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+# Crear embeddings con el modelo Hugging Face
 embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
-knowledge_base = FAISS.from_texts(chunks, embeddings)
+
+# Ruta para guardar el archivo FAISS
+faiss_index_file = r'C:\Users\darkd\Desktop\a\test\index.faiss'
+
+# Verificar si ya existe un archivo de índice FAISS guardado
+if os.path.exists(faiss_index_file):
+    # Si el archivo existe, cargar el índice FAISS
+    knowledge_base = FAISS.load_local(faiss_index_file, embeddings)
+else:
+    # Si el archivo no existe, crearlo a partir de los chunks de texto y guardarlo
+    knowledge_base = FAISS.from_texts(chunks, embeddings)
+    
+    # Crear el directorio si no existe
+    os.makedirs(os.path.dirname(faiss_index_file), exist_ok=True)
+    
+    # Guardar el índice FAISS en un archivo
+    knowledge_base.save_local(faiss_index_file)
 
 # Configurar el modelo GEMMA
 model = "google/gemma-2b-it"
@@ -60,16 +70,13 @@ Respuesta útil:
 
 """
 
-
 # Crear el prompt template
 prompt_template = PromptTemplate(template=custom_template, input_variables=["context", "question"])
 
-
 def generate_response(question):
     # Buscar documentos relevantes
-    docs = knowledge_base.similarity_search(question, 2)
-    #print(docs)
-        
+    docs = knowledge_base.similarity_search(question, 4)
+    
     # Concatenar el texto de los documentos encontrados
     context = " ".join([doc.page_content for doc in docs])
     
@@ -79,15 +86,15 @@ def generate_response(question):
     # Generar respuesta usando GEMMA
     outputs = gemma_pipeline(
         prompt,
-        max_new_tokens=550,
+        max_new_tokens=650,
         add_special_tokens=True,
         do_sample=True,
-        temperature=0.7,
+        temperature=0.9,
         top_k=50,
         top_p=0.95
     )
     
-     # Devolver la respuesta generada
+    # Devolver la respuesta generada
     return outputs[0]["generated_text"]
 
 # Ejemplo de uso
@@ -97,3 +104,5 @@ while True:
         break
     respuesta = generate_response(pregunta)
     print(respuesta)
+
+    #TF y IDF
