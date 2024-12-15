@@ -1,0 +1,561 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura:  Herramientas de mejora continua y 
+ sistema WCM aplicado a las 
+
+ 
+organizaciones 
+
+ 
+Clave de la asignatura: 
+
+ GIG-2101 
+
+SATCA1: 
+ 3-3-6 
+ 
+
+Carrera: Ingeniería en Gestión Empresarial  
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+
+ Esta asignatura ofrece al estudiante el estudio de herramientas de mejora 
+continua y el enfoque del sistema “World Class Manufacturing” (WCM), que son 
+temas aplicados a procesos productivos, contables, administrativos y estadísticos 
+y que contribuyen a la solución de problemas dentro de las organizaciones. De tal 
+forma que se han instrumentado para enfrentar la competitividad global, así como 
+el estudio de los principales requisitos que deben cubrir las empresas para 
+obtener reconocimiento global en el enfoque de la manufactura de clase mundial. 
+
+Intención didáctica 
+
+En la presente asignatura, el temario se divide en 3 unidades que engloban el 
+conocimiento de herramientas de mejora continua, así como los 10 pilares 
+(técnicos), los cuales sustentan el sistema WCM. 
+ 
+En la primera unidad titulada “Introducción a herramientas de mejora continua”, 
+se brinda un panorama general de los conceptos relativos a dichas herramientas, 
+así como los elementos que las integran y cómo se relacionan con las mismas. 
+ 
+Por otra parte, en la segunda unidad, se estudiarán de manera general los 10 
+pilares técnicos como parte del sistema WCM. Esto permitirá al estudiante 
+conocer sobre cómo actuar ante la resolución de problemas actuales que se 
+pueden presentar en las organizaciones dentro de su ámbito de trabajo. 
+ 
+Finalmente, la tercera unidad completará el panorama general que el estudiante 
+debe tener en cuanto a estas herramientas y la metodología, mediante el estudio 
+de casos que a la fecha han sido implementados en diversas organizaciones a 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+través de un enfoque de mejora continua y la propuesta hipotética de aplicación 
+de la metodología en empresas locales o regionales. 
+
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Lic. Jesús Israel Carvajal Grupo colegiado de la 
+Zacatepec, febrero-mayo Ruiz academia del 
+
+de 2021. M.E. Eduardo Castro departamento de 
+Rabadán Ciencias Económico-
+M.C. Antonio Campos administrativas, en 
+Fernández reuniones de trabajo de 
+
+academia. 
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Conocer y aplicar herramientas de mejora continua relacionadas con el sistema 
+WCM para optimizar recursos y resolver problemas relacionados a todos los 
+procesos de las organizaciones actuales. 
+
+ 
+5. Competencias previas 
+
+• Saber investigar, generar y gestionar información y datos.  
+• Capacidad para demostrar el conocimiento y comprensión de los hechos 
+
+esenciales, conceptos, principios y teorías relacionadas con la calidad.  
+• Reconocer y aplicar sistemas de calidad.  
+• Diseñar, implementar, administrar y mejorar sistemas integrados de 
+
+abastecimiento, producción y distribución de bienes y servicios de forma 
+sustentable. 
+
+• Conocer tecnología de vanguardia en su área de competencia.  
+• Dialogo crítico. 
+• Conocimientos esenciales de Excel. 
+• Conocimientos sobre capacitación y entrenamiento del personal. 
+• Capacidad de traducir, leer y entender instrumentos didácticos en otros 
+
+idiomas. 
+• Conocimientos básicos de compras, almacenes y manejo de materiales. 
+• Conocimientos básicos sobre logística y satisfacción del cliente. 
+• Conocer las 7 herramientas básicas de calidad.  
+• Conocimientos elementales de contabilidad de costos. 
+• Conocimientos básicos de seguridad e higiene. 
+• Conocimientos base sobre bases de datos.  
+• Conocimiento básico de desarrollo sustentable. 
+
+ 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a herramientas de 1.1 Sistemas de mejora continua.  
+mejora continua  
+
+1.1.1. JIT (Just In Time) Zero Stock 
+1.1.2. TPM (Total Productive 
+Maintenance)  
+1.1.3. Zero Breakdowns 
+1.1.4.TQM (Total Quality Control)  
+1.1.5. Zero Defects 
+1.1.6. TIE (Total Industrial 
+Engineering) Zero Waste 
+
+ 
+1.2 Características de una empresa 
+
+de clase mundial  
+ 
+
+1.2.1. Calidad 
+1.2.2. Costos  
+1.2.3. Innovación 
+1.2.4. Mejora continua, 
+1.2.5. Satisfacción del cliente 
+1.1.3. Concepto del WCM 
+  
+
+2 Pilares técnicos del Sistema 2.1. Pilar de seguridad  
+World Class Manufacturing 2.2. Pilar de despliegue de costos 
+(WCM) 2.3. Pilar de la mejora enfocada  
+ 
+
+2.4. Pilar de actividades autónomas  
+2.5. Pilar de mantenimiento 
+profesional  
+2.6. Pilar de aseguramiento de 
+calidad 
+2.7. Pilar de logística y satisfacción 
+al cliente 
+2.8. Pilar de desarrollo de las 
+personas 
+
+2.8.1. Mental, físico, técnico y 
+emocional.  
+
+2.9. Pilar de gestión temprana de 
+equipos  
+2.10. Pilar del medio ambiente 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+3 Estudio de casos y propuesta 3.1. Empresas actuales utilizando 
+
+de aplicación hipotética del World Class Manufacturing 
+World Class Manufacturing 3.2. Desarrollo de caso hipotético 
+(WCM) integrador del sistema World 
+
+Class Manufacturing (WCM) 
+en empresas locales o 
+regionales  
+
+ 
+ 
+
+7. Actividades de aprendizaje de los temas 
+
+1. Introducción a herramientas de mejora continua 
+
+Competencias Actividades de aprendizaje 
+
+Específica(s):    
+ • Investigar las principales 
+Reconocer las principales características herramientas de la mejora continua. 
+de las herramientas de mejora continua y la 
+
+• Investigar la historia de la 
+relación con la metodología World Class 
+
+metodología WCM. 
+Manufacturing. 
+
+• Investigar los ámbitos de acción de 
+ 
+Competencias instrumentales: la metodología WCM. 
+
+• Capacidad de análisis y síntesis. • Elaborar un cuadro comparativo de 
+
+• Solución de problemas. las diferentes herramientas 
+• Toma de decisiones. revisadas en este tema (JIT, TPM, 
+• Comprensión oral y escrita en una TQM, etc.). 
+
+segunda lengua.  
+• Uso e interpretación de información 
+
+estadística y gráfica. 
+ 
+Competencias interpersonales: 
+• Capacidad crítica y autocrítica. 
+• Habilidades interpersonales. 
+• Interdisciplinario (multidisciplinario). 
+• Capacidad de comunicarse con 
+
+profesionales de otras áreas. 
+• Compromiso ético y sustentable 
+ 
+Competencias sistémicas: 
+• Aplicar los conocimientos en la práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+• Capacidad de generar nuevas ideas. 
+• Trabajar en forma autónoma (Iniciativa 
+
+y Proactividad personal). 
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+2. Pilares técnicos del Sistema World Class Manufacturing (WCM) 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+• Conocer y distinguir los 10 pilares 
+
+Comprender el alcance de técnicos del sistema World Class 
+herramientas de mejora continua y del Manufacturing. 
+sistema WCM, así como sus efectos en  
+las organizaciones orientadas a los • Identificar las oportunidades de 
+mercados interno y externo. desarrollo de las empresas locales, 
+ regionales y nacionales que no han 
+
+Competencias instrumentales: aplicado herramientas de mejora 
+
+• Capacidad de análisis y síntesis. continua y World Class 
+
+• Capacidad de organizar y planificar. Manufacturing. 
+
+• Comunicación oral y escrita.  
+
+• Habilidad para buscar y analizar • Identificar los mecanismos de 
+información proveniente de fuentes actuación de las empresas 
+diversas. extranjeras que han aplicado 
+
+• Solución de problemas. herramientas de mejora continua y 
+ el World Class Manufacturing. 
+Competencias interpersonales:  
+• Capacidad crítica y autocrítica. • Reflexionar sobre los beneficios 
+• Trabajo en equipo. económicos y sociales de la 
+• Habilidades interpersonales. aplicación de los 10 pilares técnicos 
+• Capacidad de trabajar en equipo. del sistema WCM, así como de 
+• Interdisciplinario (multidisciplinario). herramientas de mejora continua. 
+ 
+
+ 
+Competencias sistémicas: 
+• Aplicar los conocimientos en la práctica. • Investigar estudios de caso donde 
+
+• Habilidades de investigación. se aplican herramientas de cada 
+
+• Capacidad de aprender. uno de los pilares. 
+
+• Capacidad de generar nuevas ideas.  
+
+Trabajar en forma autónoma (Iniciativa y 
+Proactividad personal). 
+
+3. Estudio de casos y propuesta de aplicación hipotética del World Class 
+Manufacturing (WCM) 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+• Conocer las principales 
+
+Aplicar el sistema World Class corporaciones que han 
+Manufacturing a través de un caso implementado herramientas de 
+
+mejora continua relacionadas con el 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+integrador en empresas locales o World Class Manufacturing 
+regionales (Unilever, Saint Gobain, Fiat 
+ Chrysler etc.) 
+Competencias instrumentales:  
+• Capacidad de análisis y síntesis. • Desarrollar el sistema WCM 
+• Capacidad de organizar y planificar. mediante un caso integrador, 
+• Solución de problemas. proyectando sus posibles 
+• Toma de decisiones. resultados 
+• Comprensión oral y escrita en una  
+
+segunda lengua. 
+• Uso e interpretación de información 
+
+estadística y gráfica. 
+ 
+Competencias interpersonales: 
+• Capacidad crítica y autocrítica. 
+• Habilidades interpersonales. 
+• Capacidad de trabajar en equipo. 
+• Interdisciplinario (multidisciplinario). 
+• Capacidad de comunicarse con 
+
+profesionales de otras áreas. 
+ 
+Competencias sistémicas: 
+• Aplicar los conocimientos en la 
+
+práctica. 
+• Habilidades de investigación. 
+• Capacidad de aprender. 
+Capacidad de generar nuevas ideas. 
+
+ 
+
+8. Práctica(s) 
+
+• Elaborar KAIZEN con estructura del ciclo de Deming. 
+• Calcular el Beneficio Costo de un proyecto. 
+• Aplicación de las 5S en el lugar de trabajo. 
+• Realizar la descripción de un problema mediante el Sketch y la herramienta 
+
+5W+1H 
+• Realizar la revisión de problemas más comunes en almacenes mediante 
+
+un Diagrama de Ishikawa  
+• Hacer una propuesta de análisis de las pérdidas más importantes en el 
+
+hogar, el trabajo o la escuela. 
+• Determinar una contramedida a una “causa-raíz” de un problema sencillo. 
+• Desarrollo de las matrices de costos para crear el Pareto global de la 
+
+organización. Proyecto integrador de todos los pilares mediante el uso de 
+herramientas de mejora continua. 
+
+• Realizar un cuadro comparativo de las diferentes técnicas vistas en la 
+unidad 1. 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Estudiar la historia de las principales corporaciones nacionales y 
+
+transnacionales que han puesto en práctica herramientas de mejora 
+continua y el sistema World Class Manufacturing. 
+
+• Investigar las historias de éxito empresarial en World Class Manufacturing 
+en las corporaciones nacionales y transnacionales. 
+
+• Evaluar el impacto de la aplicación de herramientas de mejora continua y 
+el sistema World Class Manufacturing en el entorno mundial. 
+
+• Evaluar el impacto potencial de la aplicación de herramientas de mejora 
+continua, así como del sistema World Class en el entorno local y regional. 
+
+ 
+
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+ 
+
+ 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+10. Evaluación por competencias  
+
+• Aplicación de un estudio de caso con múltiples situaciones que requiera la 
+aplicación de las distintas herramientas revisadas además de cada pilar del WCM 
+para resolverlo de la forma más eficiente e integrarlo en una presentación 
+personal ejecutiva. 
+• Participación e intervención en las discusiones y dinámicas grupales que 
+el docente organiza. 
+• Entrega de reportes y trabajos escritos de las actividades realizadas en 
+clase y fuera de ésta. 
+• Aplicación de evaluación formativa al final de cada unidad. 
+• Entrega de un Proyecto integrador con resultados proyectados de la 
+aplicación de las herramientas de mejora continua y la metodología WCM. 
+ 
+Sugerencias didácticas. El docente debe: 
+ 
+• Propiciar la mejora continua en todas las actividades dentro y fuera del aula. 
+• Propiciar actividades de búsqueda, selección y análisis de información en 
+
+distintas fuentes. 
+• Propiciar el uso de las nuevas tecnologías en el desarrollo de los contenidos 
+
+de la asignatura. 
+• Fomentar actividades grupales que propicien la comunicación, el intercambio 
+
+argumentado de ideas, la reflexión, la integración y la colaboración de y entre 
+los estudiantes. 
+
+• Propiciar, en el estudiante, el desarrollo de actividades intelectuales de 
+inducción-deducción y análisis-síntesis. 
+
+• Desarrollar actividades de aprendizaje que propicien la aplicación de los temas 
+que se van aprendiendo en el desarrollo de la asignatura. 
+
+• Relacionar los contenidos de esta asignatura con las demás del plan de 
+estudios para desarrollar una visión interdisciplinaria en el estudiante. 
+
+ 
+ 
+
+11. Fuentes de información 
+
+Mooted, Idris. Design Thinking para la Innovación Estratégica. Empresa Activa 
+Ilustrado. ISBN:978-84-92921-06-5 
+ 
+Luis Héctor Perego, y Romina Silvia Miguel. Innovación e Inteligencia Estratégica. 
+ISBN: 13-978-84-16036-59-2 
+ 
+Richard J. Schoenmber. Manufactura de Clase mundial para el próximo Siglo. 
+Prentice Hall, Hispanoamerticana S.A. 
+ 
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Ceron Grados Marco Antonio. Producción de 0 a 100 para hacer una empresa de 
+manufactura clase mundial. Editorial Penguin Random House grupo Editorial S.A. 
+ 
+Izar Landeta, Juan Manuel. Manufactura de Clase Mundial. Editorial Alfaomega. 
+ISBN 9786076227039 
+ 
+Sigismonde Pier Luigi, WCM Way A quick way to WCM programme, Version        1, 
+2014. 
+ 
+Lind, J. (2001). Control in world class manufacturing—A longitudinal case 
+study. Management Accounting Research, 12(1), 41-74. 
+ 
+Schonberger, R. J. (2008). World class manufacturing. Simon and Schuster. 
+ 
+Jazayeri, M., & Hopper, T. (1999). Management accounting within world class 
+manufacturing: a case study. Management Accounting Research, 10(3), 263-301. 
+ 
+Hendry, L. C. (1998). Applying world class manufacturing to make‐to‐order 
+companies: problems and solutions. International Journal of Operations & 
+Production Management. 
+ 
+Digalwar, A. K., & Metri, B. A. (2004). Performance measurement framework for 
+world class manufacturing. International Journal of Applied Management and 
+Technology, 3(2), 83-101. 
+ 
+Harrison, A. (1998). Manufacturing strategy and the concept of world class 
+manufacturing. International Journal of Operations & Production Management. 
+ 
+López Lemos, Paloma. Herramientas para la mejora de la calidad: métodos para 
+la mejora continua y la solución de problemas EditoriaL.FC ISBN 
+9788416671601, 9788416671090. 
+ 
+Sánchez Rivero, José Manuel - Enríquez Palomino, Antonio. Herramientas para 
+la mejora continua de los sistemas de gestión de la seguridad y salud en el trabajo 
+Editorial FC ISBN 9788416671694. 
+ 
+Ortega, Oswaldo. Mejoramiento continuo de procesos: aspectos conceptuales 
+Ediciones de la U ISBN 9789587627060, 9789587627015. 
+ 
+Goñi Zabala, Juan José Herramientas para la innovación Ediciones Díaz de 
+Santos, ISBN 9788499697543.  
+ 
+
+ 
+
+Página | 9

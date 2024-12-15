@@ -1,0 +1,500 @@
+﻿1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Validación de Procesos Sustentables. 
+  
+  
+
+Clave de la asignatura: ACF-2104 
+  
+  
+
+SATCA1: 3-2-5 
+  
+
+Carrera: Ingeniería Química 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+La asignatura de Validación de Procesos Sustentables proporciona las 
+herramientas para elaborar los procedimientos de validación de procesos 
+industriales sustentables, conforme a las normas y regulaciones requeridas-
+vigentes, que permite la implementación de las buenas prácticas de 
+manufactura y producción. Aportando al perfil del ingeniero químico, la 
+capacidad de planear e implementar sistemas de gestión de calidad que le 
+permiten administrar, operar y controlar procesos en industrias químicas y de 
+servicios.  
+
+ 
+La importancia de la asignatura en la vida laboral de las industrias radica en 
+que le permite al ingeniero químico documentar los procesos, para que 
+cumplan las especificaciones y características de calidad predeterminadas.  
+
+ 
+La presente se relaciona con las competencias adquiridas en las asignaturas: 
+Gestión de la calidad, Procesos de Separación I, II, y III, Reactores Químicos y 
+Salud y seguridad en el trabajo. Se recomienda cursarla a la par de Taller de 
+Administración Gerencial e Ingeniería de Proyectos, debido a que dichas 
+asignaturas se complementan en sus competencias. 
+ 
+Intención didáctica 
+La asignatura consta de cuatro temas. En el primer tema, se analizan los 
+conceptos básicos que intervienen en la validación de un proceso, para la 
+implementación de las buenas prácticas de fabricación que garanticen que los 
+productos sean seguros, cumplan con los criterios de integridad, normas y 
+regulaciones requeridas-vigentes. Se debe hacer énfasis en su relación con los 
+sistemas de gestión para la operación de procesos industriales.   
+
+ 
+En el segundo tema se analizan los documentos controlados, normas, 
+requerimientos y regulaciones; lineamientos y puntos necesarios para la 
+redacción de los procedimientos normalizados de operación (PNOs) acorde 
+																																								 																				
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página	|	1		
+	
+
+
+
+	
+ 
+
+	
+con las técnicas y normas afines.  
+ 
+El tercer tema aporta las bases teóricas que le permitirá al estudiante definir las 
+especificaciones y establecer las estrategias para realizar la calificación de 
+diseño (DQ), instalación (IQ), operacional (OQ) y desempeño (PQ) de un equipo 
+y/o instrumento específico. Así como, los fundamentos para la toma de 
+decisiones sobre la capacitación y entrenamiento requerida del personal. Para 
+lo cual, se deben usar estrategias de aprendizaje mediante el análisis de casos 
+reales de calificación de equipos y/o instrumentos como: reactores, 
+humidificadores, sistemas de refrigeración, columnas de destilación, 
+cromatógrafos, espectrofotómetros, entre otros.  
+ 
+Finalmente, en el cuarto tema se integran todos los elementos para el 
+desarrollo del protocolo de validación, considerando las normas y regulaciones 
+requeridas-vigentes para un área específica de un proceso industrial químico 
+y/o afín.    
+ 
+El enfoque sugerido para la asignatura requiere que las actividades promuevan 
+el desarrollo de competencias como: identificación, estructuración, desarrollo, 
+investigación; trabajo en equipo;  así mismo, el docente en su papel de 
+mediador fomentará actividades de aprendizaje o estrategias que impulsen el 
+desarrollo de habilidades de indagación y búsqueda, previas al abordaje teórico 
+de los temas, que faciliten la conceptualización, provoquen la reflexión y el 
+análisis de procesos intelectuales complejos (inducción, deducción, análisis y 
+síntesis), que favorezcan la metacognición, y permitan potenciar la autonomía, 
+la toma de decisiones, estimular el trabajo colaborativo y contribuir a la 
+interacción personal. 
+  
+
+Página	|	2		
+	
+
+
+
+	
+ 
+
+	
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Tecnológico Nacional de Luis Alberto Arau Roffiel, Desarrollo de planes y 
+México/Instituto Roberto Carlos Cárdenas programas de nuevas 
+Tecnológico de Valdez, Faustino Espín especialidades. 
+Zacatepec. González, Deyanira 
+
+Ochoa Vásquez, Juan 
+25 al 29 de enero de Pablo Pérez Orozco.  
+2021. 
+
+4. Competencia(s) a desarrollar 
+Competencia(s) específica(s) de la asignatura 
+
+Elabora los procedimientos para la validación acorde con las técnicas, normas y 
+regulaciones en industrias químicas y/o afines  
+
+5. Competencias previas 
+Reconoce los conceptos utilizados en el Sistema de Calidad.  
+
+Propone programas de Seguridad e higiene industrial para una empresa, de 
+acuerdo a los riesgos a los que se encuentre el trabajador y cumpliendo con la 
+normatividad nacional e internacional, con la ética profesional y convivencia 
+armónica.  
+
+Determina los parámetros de diseño y operación de equipos utilizados en 
+procesos de separación tales como: intercambiadores de calor, evaporadores, 
+cristalizadores, secadores, torres de enfriamiento, destilación, absorción, 
+extracción y adsorción, equipos de separación mecánica e hidráulica.  
+
+Diseña reactores continuos y discontinuos, isotérmicos y no isotérmicos para la 
+obtención de productos de la industria química. 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Conceptos básicos 1.1 Introducción a las buenas 
+prácticas de fabricación. 
+
+1.2 Definición e Importancia de 
+procedimientos normativos de 
+operación, calificación y 
+validación. 
+
+1.3 Análisis de la normatividad y 
+
+Página	|	3		
+	
+
+
+
+	
+ 
+
+	
+regulaciones vigentes.  
+
+2 Procedimientos normalizados 2.1 Documentos controlados 
+de operación (PNOs) 2.2 Requerimiento y regulaciones 
+
+2.3 Mapeo de procesos 
+2.4 Documentación de un proceso 
+estable. 
+2.5 Redacción, revisión, aprobación y 
+difusión de los PNOs 
+
+3 Calificación de procesos 3.1 Calificación de diseño basado en 
+los requisitos del usuario. 
+
+3.2 Calificación de instalación con 
+base a los requisitos del fabricante. 
+3.3 Calificación de operación o 
+funcionamiento basada en las 
+condiciones e intervalos de 
+operación.  
+3.4 Calificación de desempeño de los 
+equipos y sistemas críticos.  
+3.5 Capacitación y entrenamiento del 
+personal. 
+
+4 Validación de procesos 4.1 Plan maestro de validación 
+4.2 Protocolo de validación. 
+ 
+
+  
+
+Página	|	4		
+	
+
+
+
+	
+ 
+
+	
+7. Actividades de aprendizaje de los temas 
+
+1. Conceptos básicos  
+
+Competencias Actividades de aprendizaje 
+
+Específica(s): Comprender los conceptos de buenas 
+prácticas de fabricación, tipos de 
+
+Identifica los elementos esenciales calificación y validación; y establecer 
+que intervienen en la validación de su correlación con los sistemas de la 
+procesos. calidad para la operación de procesos 
+Genéricas: industriales 
+
+Capacidad de comunicación oral y Identificar los diferentes tipos de 
+escrita calificación de los equipos.  
+
+Habilidades en el uso de las Investigar y enlistar las normas y 
+tecnologías de la información y de la regulaciones aplicadas a procesos 
+
+químicos, farmacéuticos, cosméticos 
+comunicación. y alimenticios (COFEPRIS, FDA, etc).  
+
+ 
+Habilidades interpersonales. 
+
+ 
+Capacidad de trabajo en equipo. 
+
+ 
+Habilidades para buscar, procesar y 
+analizar información procedente de  
+fuentes diversas  
+
+  
+
+2. Procedimientos Normalizados de Operación (PNOs) 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Explicar los elementos que 
+conforman la redacción de los PNOs 
+
+Estructura los procedimientos (quién realiza el trabajo, cuál es el 
+normalizados de operación acorde trabajo, cuándo -en qué plazo- se 
+con las técnicas y normas afines. realiza y cómo debe tener lugar). 
+ Identificar los requerimientos para los 
+Genéricas: PNOs  
+
+Capacidad de análisis y síntesis, Delimitar y obtener los elementos de 
+Habilidades de gestión de apoyo como formularios, formatos, 
+Información (habilidad para buscar y instrucciones detalladas del proceso, 
+analizar) proveniente de fuentes 
+
+Página	|	5		
+	
+
+
+
+	
+ 
+
+	
+diversas, Compromiso ético, entre otros. 
+Habilidades de investigación, 
+Capacidad de aprender, Habilidad Redactar un PNO en función de los 
+para trabajar en forma autónoma, requerimientos, normas y 
+Toma de decisiones. regulaciones de un área específica de 
+
+un proceso industrial químico y/o afin. 
+
+  
+
+3. Calificación de Procesos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): Investigar e identificar la 
+documentación necesaria para 
+
+Establece los criterios para la realizar la calificación de diseño (DQ), 
+calificación de equipos y/o instalación (IQ), operacional (OQ) y 
+instrumentos en procesos químicos desempeño (PQ) de un equipo y/o 
+y/o afines instrumento específico, acorde a los 
+Genéricas: requerimientos del usuario y 
+
+normatividad vigente. 
+Capacidad de análisis y síntesis, 
+Habilidades de gestión de Definir las especificaciones y 
+Información (habilidad para buscar y establecer las estrategias para la 
+analizar) proveniente de fuentes calificación de diseño (DQ), instalación 
+diversas, Compromiso ético, (IQ), operacional (OQ) y desempeño 
+Habilidades de investigación, (PQ) de un equipo y/o instrumento 
+Capacidad de aprender, Habilidad específico. 
+para trabajar en forma autónoma, Diseñar los formatos, formularios o 
+Toma de decisiones. elementos de apoyo para DQ, IQ, OQ 
+
+y PQ. 
+
+Analizar la DQ, IQ, OQ, PQ de 
+diferentes casos de estudio, basados 
+en la implementación y/o 
+modificación de PNOs de procesos 
+químicos y/o afines. 
+
+Redactar un programa de 
+capacitación y entrenamiento del 
+personal contemplando los PNO de 
+un proceso específico.  
+
+Página	|	6		
+	
+
+
+
+	
+ 
+
+	
+ 
+
+4. Validación de Procesos 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+
+Desarrolla el protocolo de validación Investigar y explicar los elementos y/o 
+considerando la normatividad y componentes de un plan maestro de 
+regulaciones requeridas-vigentes de validación. 
+procesos químicos y/o afines.   
+
+Elaborar el protocolo de validación 
+Genéricas: para un área específica de un proceso 
+
+industrial químico y/o afín. 
+Capacidad de análisis y síntesis, 
+Habilidades de gestión de Presentar en plenaria el protocolo de 
+Información (habilidad para buscar y validación para el logro de la 
+analizar) proveniente de fuentes competencia.  
+diversas, Compromiso ético, 
+Habilidades de investigación,  
+Capacidad de aprender, Habilidad   
+para trabajar en forma autónoma, 
+Toma de decisiones, Compromiso con  
+la calidad para realizar las actividades 
+metódicamente, Capacidad creativa 
+para optimizar los recursos materiales 
+y minimizar los errores. 
+
+ 
+
+ 
+
+8. Práctica(s) 
+
+Foros de discusión de los avances del protocolo de validación elaborado para 
+favorecer la retroalimentación grupal. 
+ 
+  
+
+Página	|	7		
+	
+
+
+
+	
+ 
+
+	
+9. Proyecto de asignatura 
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es 
+demostrar el desarrollo y alcance de la(s) competencia(s) de la asignatura, 
+considerando las siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) 
+en el cual se fundamenta el proyecto de acuerdo con un diagnóstico 
+realizado, mismo que permite a los estudiantes lograr la comprensión de la 
+realidad o situación objeto de estudio para definir un proceso de 
+intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del 
+proyecto por parte de los estudiantes con asesoría del docente; implica 
+planificar un proceso: de intervención empresarial, social o comunitario, el 
+diseño de un modelo, entre otros, según el tipo de proyecto, las actividades 
+a realizar los recursos requeridos y el cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada 
+por parte de los estudiantes con asesoría del docente, es decir en la 
+intervención (social, empresarial), o construcción del modelo propuesto 
+según el tipo de proyecto, es la fase de mayor duración que implica el 
+desempeño de las competencias genéricas y especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto 
+laboral-profesión, social e investigativo, ésta se debe realizar a través del 
+reconocimiento de logros y aspectos a mejorar se estará promoviendo el 
+concepto de “evaluación para la mejora continua”, la metacognición, el 
+desarrollo del pensamiento crítico y reflexivo en los estudiantes. 
+
+ 
+
+10. Evaluación por competencias  
+
+La evaluación debe ser continua y formativa, mediante técnicas, instrumentos 
+y herramientas sugeridas para constatar los desempeños académicos de las 
+actividades de aprendizaje. 
+ 
+Trabajos de investigación documental; exposición en forma individual y grupal; 
+discusión grupal de casos de estudio; reporte de conclusiones; programa de 
+capacitación; bitácoras y/o reporte del protocolo de validación; rúbricas; lista de 
+cotejo; coevaluación; guía de evaluación. 
+ 
+
+ 
+
+Página	|	8		
+	
+
+
+
+	
+ 
+
+	
+ 
+
+11. Fuentes de información 
+
+Cramer, M. (2013). Food Plant Sanitation Design, Maintenance, and Good 
+Manufacturing Practices (Second Ed.). Routledge & CRC Press.  
+
+Instituto Interamericano de Cooperación para la agricultura IICA. (2009, mayo). 
+Buenas Prácticas de Manufactura: Una guía para Pequeños y Medianos 
+Agroempresarios. http://orton.catie.ac.cr/repdoc/A5294e/A5294e.pdf  
+
+FDA, Guideline on general principles of process validation. (2011, enero). 
+https://www.fda.gov/files/drugs/published/Process-Validation--General- 
+
+Principles-and-Practices.pdf Grady, J. (2007). System Verification  (First Ed.). 
+Academic Press-Elsevier.  
+
+Imtiaz, S. (2006). Validation Standard Operating Procedures_ A Step by Step 
+Guide for Achieving Compliance in the Pharmaceutical, Medical Device, and 
+Biotech Industries (Second Ed.) Taylor & Francis Group.   
+
+ISO 31000:2018, Gestión de Riesgos - Directrices  
+
+ISO 9000:2015, Sistemas de Gestión de la Calidad – Requisitos 
+
+NOM-059-SSA1-2015-COFEPRIS. Buenas Prácticas de Fabricación para el 
+establecimiento de la Industria Químico Farmacéutica Dedicados a la 
+Fabricación de Medicamentos.  
+
+Ostrove, S. (2016). How to Validate a Pharmaceutical Process (First Ed), 
+Academic Press-Elsevier.  
+
+Ostrove, S. (2019). Equipment Qualification in the Pharmaceutical Industry 
+(First Ed.). Academic Press-Elsevier.  
+
+Patchong, A. (2013). Implementing Standardized Work:Writing Standardized 
+Work Forms (First Ed.). Taylor & Francis Group. 
+
+Prokscha, S. (2015). Writing and Managing SOPs for GCP (First Ed.). Taylor & 
+Francis Group. 
+
+Q7 IMPLEMENTATION WORKING GROUP. ICH, Q7 Guideline: Good 
+Manufacturing Practice Guide for Active Pharmaceutical Ingredients 
+Questions and Answers, (2015, junio).  
+http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Quality
+/Q7/ICH_Q7-IWG_QA_v5_0_14Apr2015_FINAL_for_publication_17June2015.pdf>   
+
+Página	|	9		
+	
+
+
+
+	
+ 
+
+	
+Rathore, A. & Sofer, G. (2012). Process Validation in Manufacturing of 
+Biopharmaceuticals (Third Ed.). Routledge & CRC Press.   
+
+Salazar, R. (1999). Cualificación y Validación. Elementos Básicos de la Calidad y 
+Productividad Industrial. Editorial Síntesis.  
+
+Tobin, E. (2016). cGMP Starter Guide: Principles in Good Manufacturing 
+Practices for Beginners (First Ed.). Validation Resources.  
+
+ 
+
+Página	|	10

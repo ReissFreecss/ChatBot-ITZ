@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, pipeline
 from huggingface_hub import login
 
 # Inicia sesión en Hugging Face
-login(token="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")
+login(token="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")
 
 model = "google/gemma-2b-it"
 
@@ -18,7 +18,7 @@ pipeline = pipeline(
 )
 
 messages = [
-    {"role": "user", "content": "¿Qué modelo LLM eres?"},   
+    {"role": "user", "content": "Create a story that describes the meaning of love"},
 ]
 
 prompt = tokenizer.apply_chat_template(
@@ -26,7 +26,7 @@ prompt = tokenizer.apply_chat_template(
 
 outputs = pipeline(
     prompt,
-    max_new_tokens=350,
+    max_new_tokens=256,
     add_special_tokens=True,
     do_sample=True,
     temperature=0.7,

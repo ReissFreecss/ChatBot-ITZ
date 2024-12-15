@@ -5,7 +5,7 @@ from huggingface_hub import login
 # Inicia sesión en Hugging Face
 #login(token="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")
 
-model = "meta-llama/Llama-2-7b-hf"
+model = "meta-llama/Llama-2-7b-hf" # Carga el modelo LLM a usar
 
 # Carga el tokenizador y el modelo
 tokenizer = AutoTokenizer.from_pretrained(model)
@@ -18,7 +18,7 @@ pipeline = pipeline(
 )
 
 messages = [
-    {"role": "user", "content": "Create a story that describes the meaning of love"},
+    {"role": "user", "content": "¿Qué eres?"},
 ]
 
 prompt = tokenizer.apply_chat_template(

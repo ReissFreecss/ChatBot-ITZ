@@ -37,11 +37,11 @@ def deleteSpacesAndSpecific(text, patron):
     return '\n'.join(lineas_filtradas)
 
 # Directorio con archivos de texto
-input_directory = 'C:/Users/darkd/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Residencias/ChatBot-ITZ/ChatBot-ITZ/Data/TXT NN'
-output_directory = 'C:/Users/darkd/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Residencias/ChatBot-ITZ/ChatBot-ITZ/Data/TXT'
+input_directory = 'C:/Users/Carlos/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Administracion de redes/A proyecto/t9-py-UIFlask/normalization'
+output_directory = 'C:/Users/Carlos/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Administracion de redes/A proyecto/t9-py-UIFlask/normalization'
 
 
-# Crear el directorio de salida si no existeA
+# Crear el directorio de salida si no existe
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 

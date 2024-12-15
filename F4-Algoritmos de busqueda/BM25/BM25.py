@@ -25,7 +25,7 @@ def normalize_text(text):
     return words
 
 # Directorio con archivos de texto
-directory = './Data/TXT'  # Asegúrate de que el directorio sea correcto
+directory = './Data/TXT'  
 
 documents = []
 filenames = []
@@ -45,12 +45,13 @@ print(f"Documentos leídos: {len(documents)}")
 # Crear el modelo BM25
 bm25 = BM25Okapi(documents)
 
-query = "Dime donde se encuentra la universidad"
+query = "Gestión empresarialA"
+print("Query: ", query)
 # Normalizar y tokenizar consulta
 tokenized_query = normalize_text(query)
 
 result = bm25.get_top_n(tokenized_query, documents, n=1)
-print("Resultado de la consulta:", result)
+#print("Resultado de la consulta:", result)
 
 scores = bm25.get_scores(tokenized_query)
 

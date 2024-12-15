@@ -1,0 +1,630 @@
+﻿TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+1. Datos Generales de la asignatura 
+
+Nombre de la asignatura: Herramientas para la Toma de Decisiones 
+  
+
+Clave de la asignatura: TSD-2205 
+  
+
+SATCA1: 2-3-5 
+  
+
+Programa educativo: Licenciatura en Turismo 
+  
+
+Especialidad: Turismo Sostenible y Promoción Turística 
+ 
+
+2. Presentación 
+
+Caracterización de la asignatura 
+ 
+La materia de herramientas para la toma de decisiones es una asignatura de 
+especialidad, la cual contribuye en la formación profesional del Licenciado(a) en Turismo 
+con especialidad en Turismo sostenible y promoción turística, su aporte al perfil de egreso 
+consiste en que el egresado será capaz de aplicar las herramientas para la toma de 
+decisiones en diferentes situaciones y problemas del ámbito turístico. 
+ 
+La importancia de la asignatura radica que en el contexto laboral o empresarial se tendrán 
+que solucionar diferentes problemas y determinar la herramienta adecuada para tener 
+claridad en el problema y fijar un conjunto acciones o decisiones para su solución, 
+dependiendo de la situación determinada podrá optar por emplear herramientas 
+cualitativas, cuantitativas, dependiendo de la cantidad y calidad de datos e información 
+que cuente. 
+ 
+La materia de herramientas para la toma de decisiones consiste en aplicar las 
+herramientas cualitativas y cuantitativas para la toma de decisiones en el sector turístico. 
+ 
+La materia de herramientas para la toma de decisiones se relaciona con los temas de 
+administración de empresas turísticas y gestión del desarrollo turístico, elaboración y 
+evaluación de proyectos turísticos y las siguientes competencias específicas capacidad 
+para coordinar los recursos de empresas turísticas, elaboración de planes y proyectos 
+turísticos lo cual permite generar proyectos integradores sobre la gestión de proyectos y 
+administración de empresas turísticas. 
+ 
+ 
+Intención didáctica 
+
+ 
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+Página | 1  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+La materia de herramientas para la toma de decisiones su enfoque es identificar la 
+situación o problema en el contexto turístico, para determinar la herramienta para la 
+identificación del problema y alternativas de solución. 
+ 
+Por este motivo el programa de esta materia se integra por cuatro temas:  
+ 
+En el primer tema Introducción a las herramientas para la toma de decisiones, se 
+identifican los elementos de un modelo de toma de decisiones, los sistemas de 
+información y la importancia de las datos y herramientas para definir un problema y sus 
+posibles soluciones.  
+ 
+En el segundo y tercer tema Herramientas Cualitativas y cuantitativas respectivamente, 
+identifica las principales herramientas, su metodología, finalidad y mediante el estudio de 
+casos identifica y aplica las herramientas para definir las estrategias que coadyuven a la 
+toma de decisiones en el sector turístico de acuerdo con el objeto de estudio, y se 
+identifican las nuevas herramientas para la toma de decisiones que se están aplicando, 
+en el contexto empresarial. 
+ 
+En el cuarto tema, Inteligencia de negocios en el sector turismo se explora, analiza y 
+comunica información estructurada para la toma de decisiones en empresas del ramo 
+turístico, para ello se identifican los elementos del modelo de inteligencia de negocios y 
+el modelado de datos. 
+ 
+Se recomienda que él o la docente que imparta esta asignatura tenga un perfil en el área 
+de la administración, de calidad, de marketing, así como experiencia en el empleo de 
+herramientas para la toma de decisiones en los servicios turísticos. 
+ 
+Con el objetivo de superar el enfoque naturalista del perfil, en esta materia se dará mayor 
+importancia a la vinculación entre las dimensiones sociales y económicas para promover 
+un turismo sustentable a través de la capacitación continua sobre el desarrollo de 
+competencias derivadas de la experiencia propia de acuerdo con el modelo de la teoría 
+cognitivo-constructivista. 
+ 
+Se fomentará en lo pedagógico la participación entre los alumnos y las comunidades a 
+través del trabajo en equipo y las discusiones grupales.  
+ 
+Se buscará que el profesional del turismo intervenga activamente en la orientación del 
+cambio constructivo a través del desarrollo del turismo sustentable. 
+ 
+Esta materia se apoyará también en el análisis de lecturas, discusiones dirigidas, 
+exposición de experiencias, visitas de estudio, elaboración de inventarios de recursos 
+patrimoniales y todos aquellos otros a criterio del docente. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Página | 2  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+3. Participantes en el diseño y seguimiento curricular del programa 
+
+   
+
+Lugar y fecha de Participantes Observaciones 
+elaboración o revisión 
+
+Instituto Tecnológico de Representantes de la Propuesta de especialidades 
+Zacatepec, abril de 2022. academia de Licenciatura para el periodo agosto-
+
+en Turismo.  diciembre 2022.  
+
+Presentación de propuesta 
+de la especialidad: Turismo 
+sostenible y promoción 
+turística.  
+
+Reuniones de trabajo para el 
+Desarrollo de contenidos de 
+la especialidad.  
+
+Reunión de la academia de 
+Licenciatura en Turismo, 
+egresados de la carrera y 
+expertos del sector 
+productivo y prestadores de 
+servicio para definir y validar 
+contenidos de la especialidad  
+
+Reunión informativa sobre 
+los resultados con el grupo de 
+interés.  
+
+Reuniones de trabajo para el 
+desarrollo final de los 
+contenidos de las 
+asignaturas de la 
+especialidad. 
+
+ 
+4. Competencia(s) a desarrollar 
+
+Competencia(s) específica(s) de la asignatura 
+Aplicar los conocimientos, métodos, técnicas y herramientas para la toma decisiones en el 
+sector turístico. 
+
+ 
+
+Página | 3  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+5. Competencias previas 
+ 
+
+• Aplicar herramientas estadísticas con el manejo de los datos como un instrumento 
+
+para medir hechos económicos y sociales en las actividades del turismo. 
+
+ 
+
+• Realizar evaluación de factibilidad técnica, administrativa, financiera, y económica 
+
+de un proyecto turístico, para obtener indicadores que sean útiles para la toma de 
+
+decisión. 
+
+ 
+6. Temario 
+
+No. Temas Subtemas 
+
+1 Introducción a las Herramientas 1.1 Concepto y proceso de la toma de decisiones 
+para la Toma de Decisiones 1.2 La toma de decisiones en las Organizaciones  
+
+1.3. Los sistemas de información  
+1.4. La importancia de los datos y las 
+herramientas para la toma de decisiones 
+ 
+
+2 Herramientas Cualitativas 2.1. Conceptos básicos de herramientas 
+ cualitativas  
+
+2.2 Lluvia de Ideas 
+2.3 Técnica Delphi 
+2.3 Análisis FODA 
+2.5 Nuevas herramientas cualitativas en la Toma 
+de decisiones (Sinéctica, Zoop, entre otras). 
+
+3 Herramientas Cuantitativas 3.1Conceptos básicos de las herramientas 
+cuantitativas 
+3.2 Matriz de resultados 
+3.3 Árboles de decisiones 
+3.4 Simulación 
+3.5 Nuevas herramientas cuantitativas en la toma 
+de decisiones. 
+
+4 Inteligencia de Negocios en el 4.1 Que es la inteligencia de negocios (BI) 
+Sector Turismo 4.2 Beneficios de la BI 
+
+4.3 Modelos de datos 
+4.4 Componentes del BI 
+4.5 Selección de herramientas en la gestión 
+turística 
+ 
+
+  
+
+Página | 4  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+7. Actividades de aprendizaje de los temas 
+
+1.  Introducción a las Herramientas para la Toma de Decisiones 
+
+Competencias Actividades de aprendizaje 
+
+Específica:   
+• Investiga sobre el modelo básico de 
+
+• Identifica los elementos de un toma de decisiones, y elabora un 
+modelo de toma de decisiones, los cuadro comparativo. 
+
+sistemas de información y la  
+
+importancia de las datos y • Analiza y expone los elementos de un 
+sistema de información turístico. 
+
+herramientas para definir un 
+ 
+
+problema y sus posibles 
+• Genera una base de datos en Excel y 
+
+soluciones. 
+genera una tabla dinámica, para   
+procesar la información mediante un 
+
+Genéricas: 
+tablero de control 
+
+ 
+• Conocimientos sobre el área de 
+
+estudio y la profesión. 
+ 
+
+ 
+• Habilidades para buscar, procesar  
+
+y analizar información procedente 
+de diversas fuentes. 
+ 
+ 
+
+• Capacidad de análisis y síntesis. 
+ 
+
+• Habilidades en el uso de las 
+tecnologías de la información y de 
+la comunicación. 
+ 
+ 
+
+2. Herramientas Cualitativas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s): • Analizar conceptos básicos sobre 
+temas y artículos relacionados con las 
+
+• Aplica las técnicas y herramientas herramientas cuantitativas para la 
+cualitativas para la toma de toma de decisiones. 
+
+decisiones en el sector turístico.  
+• Mediante el estudio de casos analiza 
+
+Genéricas: las diferentes herramientas 
+cuantitativas para la toma de 
+decisiones en el sector turístico. 
+ 
+
+Página | 5  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+• Habilidad para buscar, procesar y • Identificar y aplicar las herramientas 
+
+analizar información procedente cuantitativas para definir estrategias 
+
+de diversas fuentes. que coadyuven a la toma de 
+decisiones en el objeto de estudio del 
+
+ 
+sector turístico. 
+
+• Conocimientos sobre el área de 
+estudio y la profesión. 
+ 
+ 
+
+• Capacidad para identificar, 
+plantear y resolver problemas. 
+ 
+
+3. Herramientas Cuantitativas 
+
+Competencias  Actividades de aprendizaje 
+
+Específica(s):  
+• Analizar conceptos básicos sobre 
+
+• Aplica las técnicas y/o temas y artículos relacionados con las 
+herramientas cuantitativas para la herramientas cuantitativas para la 
+toma de decisiones en el sector toma de decisiones. 
+turístico.  
+
+ • Mediante el estudio de casos analiza 
+Genéricas: las diferentes herramientas 
+
+cuantitativas para la toma de 
+• Habilidad para buscar, procesar y decisiones en el sector turístico. 
+
+analizar información procedente  
+de diversas fuentes. • Identificar y aplicar las herramientas 
+
+ cuantitativas para definir estrategias 
+que coadyuven a la toma de 
+
+• Conocimientos sobre el área de 
+decisiones en el objeto de estudio del 
+
+estudio y la profesión. sector turístico. 
+ 
+ 
+
+• Capacidad para identificar, 
+plantear y resolver problemas. 
+ 
+
+4. Inteligencia de Negocios en el Sector Turístico 
+
+Competencias  Actividades de aprendizaje 
+
+Página | 6  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+Específica(s):     
+
+• Realiza una investigación bibliográfica 
+• Capacidad para explorar, analizar sobre la inteligencia de negocios (BI). 
+
+y comunicar información  
+
+estructurada para la toma de • Establece y comprende la 
+
+decisiones en empresas del ramo modelización del negocio (BI). 
+ 
+
+turístico. 
+ 
+
+Genéricas: • Determina y compara los modelos de 
+datos utilizados en BI para integrarlos 
+
+• Capacidad de comunicación oral y en el sector turismo. 
+
+escrita.  
+• Analiza los componentes en la 
+
+ 
+inteligencia de negocio (BI), para 
+
+• Habilidades para buscar, procesar tropicalizarlo al sector turístico. 
+y analizar información procedente  
+de fuentes diversas.  
+ • Identificación y selección de 
+ herramientas de (BI) incorporadas en 
+
+• Capacidad para tomar decisiones. la industria turística. 
+
+ 
+• Habilidades en el uso de las 
+
+tecnologías de la información y de 
+la comunicación. 
+ 
+ 
+
+ 
+
+8. Práctica(s) 
+
+1. Identificar un caso del medio turístico para recolectar, organizar y presentar datos 
+mediante la construcción de una tabla de distribución de frecuencias y su representación 
+gráfica pertinente. Así como la implementación de una hoja de cálculo para el desarrollo 
+de los diferentes temas de la asignatura. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 7  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 9. Proyecto de asignatura   
+
+El objetivo del proyecto que planteé el docente que imparta esta asignatura, es demostrar 
+el desarrollo y alcance de la(s) competencia(s) de la asignatura, considerando las 
+siguientes fases: 
+
+• Fundamentación: marco referencial (teórico, conceptual, contextual, legal) en el cual 
+se fundamenta el proyecto de acuerdo con un diagnóstico realizado, mismo que 
+permite a los estudiantes lograr la comprensión de la realidad o situación objeto de 
+estudio para definir un proceso de intervención o hacer el diseño de un modelo. 
+ 
+
+• Planeación: con base en el diagnóstico en esta fase se realiza el diseño del proyecto 
+por parte de los estudiantes con asesoría del docente; implica planificar un proceso: 
+de intervención empresarial, social o comunitario, el diseño de un modelo, entre otros, 
+según el tipo de proyecto, las actividades a realizar los recursos requeridos y el 
+cronograma de trabajo. 
+ 
+
+• Ejecución: consiste en el desarrollo de la planeación del proyecto realizada por parte 
+de los estudiantes con asesoría del docente, es decir en la intervención (social, 
+empresarial), o construcción del modelo propuesto según el tipo de proyecto, es la 
+fase de mayor duración que implica el desempeño de las competencias genéricas y 
+especificas a desarrollar. 
+ 
+
+• Evaluación: es la fase final que aplica un juicio de valor en el contexto laboral-
+profesión, social e investigativo, ésta se debe realizar a través del reconocimiento de 
+logros y aspectos a mejorar se estará promoviendo el concepto de “evaluación para 
+la mejora continua”, la metacognición, el desarrollo del pensamiento crítico y reflexivo 
+en los estudiantes. 
+
+Página | 8  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+10. Evaluación por competencias 
+
+Son las técnicas, instrumentos y herramientas sugeridas para constatar los desempeños 
+académicos de las actividades de aprendizaje. 
+
+Para verificar el avance en las competencias específicas y genéricas del estudiante 
+debemos solicitar: 
+
+ 
+
+EVIDENCIAS DE APRENDIZAJE:  
+
+• Reportes  
+
+• Diagnósticos  
+
+• Programas 
+
+• Agenda de actividades / electrónica 
+
+• Mapa conceptual 
+
+• Encuesta 
+
+• Cuadro comparativo 
+
+• Resolución de casos 
+
+• Plan de acción 
+
+• Preguntas de reflexión 
+
+• Realizar trabajos de investigación individual 
+
+ 
+
+INSTRUMENTOS: 
+
+• Rúbricas  
+
+• Listas de Observación  
+
+• Listas de Cotejo  
+
+• Escalas  
+
+Todas las evidencias deberán integrar las evidencias en un portafolio de evidencias en 
+electrónico. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Página | 9  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+11. Fuentes de información 
+
+ 
+
+1. Fernando Dávila Ladrón de Guevara. (2007). Hacia la inteligencia del 
+
+negocio con Excel 2003. Editorial Politécnico Grancolombiano. 
+
+https://elibro.net/es/lc/itzacatepec/titulos/70765 
+
+2. González Farran, X. Guitart, I. & Rodríguez, J. R. (2016). ¿Cómo planificar 
+
+un proyecto de inteligencia de negocio? Editorial UOC. 
+
+https://elibro.net/es/lc/itzacatepec/titulos/58548 
+
+3. I Prat, M. B. (2004). La toma de decisiones en la organización. Ariel. 
+
+https://elibro.net/es/ereader/itzacatepec/48268?page=36.  
+
+4. Lazza, S. (2013). La toma de decisiones: principios, procesos y 
+
+aplicaciones. Granica.  
+
+https://elibro.net/es/ereader/itzacatepec/66755?page=16.  
+
+5. Lind, D. Marchal, W., & Whaten, S. (2015). Estadística aplicada a los 
+
+negocios y la economía. McGraw Hill.  
+
+6. Lluís Cano, Josep. (2007). Business Intelligence: Competen con 
+
+información. España: Banesto Fundación Cultural. 
+
+7. Pilar, J. V. (2012).  Herramientas para la gestión y toma de decisiones.  
+
+(2nd ed.). Hanne. 
+
+8. Render, B., Stair, M.R., & Hanna, M. E. (2006). Métodos cuantitativos para 
+
+los negocios. Pearson Education. 
+
+9. Rincón Báez, W. U. Becerra Plaza, G. E. & Arias Velandia, N. (2018). 
+
+Inteligencia de datos en la formación en administración y negocios en 
+
+Colombia 2018. Editorial Politécnico Grancolombiano. 
+
+https://elibro.net/es/lc/itzacatepec/titulos/127374 
+
+10. Rodríguez Parrilla, J. M. (2015). Cómo hacer inteligente su negocio: 
+
+business intelligence a su alcance. Grupo Editorial Patria. 
+
+https://elibro.net/es/lc/itzacatepec/titulos/39367 
+
+11. Rosa, H. M., Garrido, A. M., & González, A. L. (2018). Ejercicios de 
+
+marketing. Herramientas eficaces para la toma de decisiones. ESIC. 
+
+12. Sánchez, D. H. (2020). Análisis FODA o DAFO. Bubok Publishing S. L.  
+
+Página | 10  
+ 
+
+
+
+TECNOLÓGICO NACIONAL DE MÉXICO 
+
+ 
+ 
+
+Página | 11

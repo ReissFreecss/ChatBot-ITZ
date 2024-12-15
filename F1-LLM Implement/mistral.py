@@ -18,7 +18,7 @@ pipeline = pipeline(
 )
 
 messages = [
-    {"role": "user", "content": "Make me a story"},
+    {"role": "user", "content": "¿Qué modelo LLM eres?"},
 ]
 
 prompt = tokenizer.apply_chat_template(
