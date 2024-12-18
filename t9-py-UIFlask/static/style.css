@@ -1,0 +1,119 @@
+body {
+    background-color: #1a1a1a; /* Fondo oscuro para la interfaz */
+    color: #fff; /* Texto en color blanco para contraste */
+    font-family: Arial, sans-serif; /* Tipografía limpia y legible */
+    margin: 0;
+    display: flex; /* Centrado del contenido */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px; /* Tamaño máximo del contenedor principal */
+    text-align: center; /* Centrado del contenido */
+}
+
+.chatbot-header {
+    margin-bottom: 20px;
+    text-align: center; /* Estilo del encabezado del chatbot */
+}
+
+.logo {
+    width: 15%; /* Tamaño del logotipo */
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 24px; /* Tamaño del título principal */
+}
+
+.chat-container {
+    background-color: #2a2a2a; /* Fondo del área de mensajes */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 20px;
+    height: 400px; /* Altura fija del contenedor de mensajes */
+    overflow-y: auto; /* Activar desplazamiento vertical */
+    margin-bottom: 20px;
+}
+
+.message {
+    display: flex; /* Diseño en línea para mensajes */
+    align-items: flex-end;
+    margin: 10px 0;
+}
+
+.message .avatar {
+    width: 30px; /* Tamaño del avatar del remitente */
+    height: 30px;
+    background-color: #444; /* Color por defecto del avatar */
+    border-radius: 50%; /* Forma circular */
+    margin-right: 10px;
+}
+
+.message.user .avatar {
+    background-color: #357ab8; /* Avatar del usuario */
+}
+
+.message.bot .avatar {
+    background-color: #eaeaea; /* Avatar del bot */
+}
+
+.message-content {
+    max-width: 80%; /* Ancho máximo del contenido del mensaje */
+    background-color: #3a3a3a; /* Fondo por defecto del mensaje */
+    padding: 10px;
+    border-radius: 10px; /* Bordes redondeados */
+    text-align: left;
+}
+
+.message.user .message-content {
+    background-color: #357ab8; /* Color de los mensajes del usuario */
+}
+
+.input-container {
+    display: flex; /* Diseño en línea para input y botón */
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="text"] {
+    width: 70%; /* Ancho del campo de entrada */
+    padding: 10px;
+    border: none; /* Sin borde */
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4a90e2; /* Color base del botón */
+    border: none;
+    color: white; /* Texto blanco */
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer; /* Manita en el cursor al pasar por el botón */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+button:hover {
+    background-color: #357ab8; /* Color del botón al pasar el cursor */
+}
+
+.message-content h2,
+.message-content h3,
+.message-content h4,
+.message-content p,
+.message-content ul {
+    margin: 5px 0;
+    color: #fff; /* Texto blanco para elementos dentro del mensaje */
+}
+
+.message-content ul {
+    list-style-type: disc; /* Listas con viñetas */
+    padding-left: 20px;
+}
+
+.message-content ul li {
+    margin: 5px 0;
+    color: #fff;
+}

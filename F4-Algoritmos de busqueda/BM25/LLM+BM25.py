@@ -7,6 +7,9 @@ from unidecode import unidecode
 import torch
 from transformers import AutoTokenizer, pipeline
 from huggingface_hub import login
+import time
+import CalculoIndices
+import re
 
 # Descargar los recursos necesarios de NLTK
 nltk.download('stopwords')
@@ -81,7 +84,8 @@ while True:
     for filename, score in top_documents:
         with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
             doc_content = file.read().strip()
-
+        # Iniciamos temporizador
+        start_time = time.time()
         messages = [
             {"role": "user", "content": f"Resumen del documento sobre {query}: {doc_content}"}
         ]
@@ -93,7 +97,22 @@ while True:
             top_k=50, top_p=0.95)
 
         summary = outputs[0]["generated_text"][len(prompt):]
+
+        indice_fernandez_resumen = CalculoIndices.calcular_fernandez_huerta(summary)
+        indice_inflesz_resumen = CalculoIndices.calcular_inflesz(summary)
+
+        # Imprime los resultados
         print("---------------------------------------------------------------------------------------")
+        print(f"prompt: {query}")
         print(f"Documento relevante: {filename}")
         print("---------------------------------------------------------------------------------------")
         print(summary)
+
+        print(f"Escala de complejidad del resumen: --------------------------------------------------------")
+        print(f"Fernández-Huerta resumen: {indice_fernandez_resumen:.2f}")
+        print(f"INFLESZ resumen: {indice_inflesz_resumen:.2f}")
+
+        # Si deseas medir el tiempo de ejecución
+        end_time = time.time()
+        execution_time_minutes = (end_time - start_time) / 60
+        print(f"Tiempo de ejecución: {execution_time_minutes:.2f} minutos")

@@ -26,7 +26,7 @@ def normalize_text(text):
     return ' '.join(words)
 
 # Carga de documentos
-directory = 'C:/Users/Carlos/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Administracion de redes/A proyecto/t9-py-UIFlask/normalization'
+directory = './Data/TXT'
 documents = []
 filenames = []
 
@@ -95,7 +95,7 @@ def query():
 
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     outputs = gemma_pipeline(
-        prompt, max_new_tokens=600, 
+        prompt, max_new_tokens=256, 
         add_special_tokens=True, 
         do_sample=True, temperature=0.7, 
         top_k=50, top_p=0.95)
@@ -112,4 +112,4 @@ def query():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=5000)
