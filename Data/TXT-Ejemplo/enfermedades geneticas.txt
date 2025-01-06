@@ -1,0 +1,478 @@
+﻿Cómo entender la genética
+
+Terapia genética y otros avances 
+médicos
+
+Reimpreso de Información genética de MedlinePlus
+
+Biblioteca Nacional de Medicina de los EE. UU.
+
+Institutos Nacionales de la Salud
+
+Departamento de Salud y Servicios Humanos
+
+
+
+Índice
+
+1    ¿Qué es la terapia genética? 1
+
+2    ¿Cómo funciona la terapia genética? 3
+
+3    ¿Es segura la terapia genética? 6
+
+4    ¿Cuáles son los asuntos éticos que rodean a la terapia genética? 8
+
+5    ¿Hay terapia genética disponible para tratar mi trastorno? 9
+
+6    ¿Qué es la terapia de células T con CAR, terapia ARN y otras 
+terapias genéticas? 10
+
+7    ¿Qué son las vacunas ARNm y cómo funcionan? 12
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) i
+
+
+
+Terapia genética y otros avances médicos
+
+1     ¿Qué es la terapia genética?
+
+La terapia genética (también conocida como terapia génica o genoterapia) es un 
+enfoque médico que trata o previene afecciones al corregir un problema genético 
+subyacente. Las técnicas de terapia genética permiten a los profesionales de la salud 
+tratar un trastorno alterando la composición genética de una persona, en vez de utilizar 
+medicamentos o cirugía.
+
+El primer método de terapia genética, a menudo llamado transferencia de genes o 
+adición de genes, se desarrolló para:
+
+• Introducir un nuevo gen en las células para ayudar a luchar contra una afección
+• Introducir una copia no defectuosa de un gen para reemplazar la copia alterada 
+
+que está causando la afección
+
+Estudios posteriores llevaron a avances en las técnicas de terapia genética. Una 
+técnica más reciente, llamada edición del genoma (un ejemplo es CRISPR-Cas9), 
+utiliza un enfoque diferente para corregir diferencias genéticas.
+
+En lugar de introducir nuevo material genético en las células, la edición del genoma 
+introduce herramientas moleculares para cambiar el ADN existente en la célula. La 
+edición del genoma se estudia para:
+
+• Reparar una alteración genética subyacente a un trastorno, para que el gen pueda 
+funcionar apropiadamente
+
+• Activar un gen para ayudar a luchar contra una enfermedad
+• Desactivar un gen que no está funcionando apropiadamente
+• Remover una pieza de ADN que impide la función de un gen y está causando 
+
+enfermedad
+
+Las terapias genéticas se están utilizando para tratar un pequeño número de 
+enfermedades, incluyendo un trastorno del ojo llamado amaurosis congénita de Leber y 
+un trastorno muscular llamado atrofia muscular espinal. Muchas más terapias están en 
+investigación para asegurar que sean seguras y efectivas. La edición del genoma es 
+una técnica prometedora que se está estudiando y que los profesionales de la salud 
+esperan que pueda tratar trastornos en personas pronto.
+
+Para información general sobre terapia genética:
+
+MedlinePlus ofrece una lista de enlaces a información acerca de genes y terapia 
+genética (https://medlineplus.gov/spanish/genesandgenetherapy.html).
+
+KidsHealth de Nemours brinda una hoja informativa sobre terapia genética y los niños (
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 1
+
+
+
+https://kidshealth.org/es/parents/gene-therapy.html).
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 2
+
+
+
+2     ¿Cómo funciona la terapia genética?
+
+La terapia genética (también llamada terapia génica o genoterapia) funciona alterando 
+el código genético para recobrar funciones de proteínas críticas. Las proteínas son los "
+caballos de batalla" de la célula y la estructura básica de los tejidos del cuerpo. Las 
+instrucciones para producir proteínas se encuentran en el código genético de una 
+persona y las variantes (o mutaciones) en este código pueden impactar la producción o 
+función de proteínas que pueden ser críticas para el funcionamiento del cuerpo. 
+Reparar o compensar los cambios genéticos que causan enfermedades puede ayudar 
+a recuperar el papel que juegan estas proteínas y permitir que el cuerpo funcione como 
+debe.  
+
+La terapia genética puede compensar por alteraciones genéticas en dos formas:
+
+• La terapia de transferencia de genes introduce nuevo material genético en las 
+células. Si un gen alterado causa que una proteína necesaria funcione mal o no se 
+encuentre, la terapia de transferencia genética introduce una copia normal del gen 
+para recuperar la función de la proteína. De forma alternativa, la terapia puede 
+introducir un gen diferente que brinda instrucciones para una proteína que ayuda a 
+la célula a funcionar de forma normal, a pesar de la alteración genética 
+
+• La edición del genoma es una técnica más nueva que podría utilizarse para terapia 
+genética. En lugar de agregar material genético nuevo, la edición del genoma 
+introduce herramientas de edición de genes que pueden cambiar el ADN existente 
+en la célula. La tecnología de edición del genoma permite que se agregue, remueva 
+o altere material genético en sitios precisos en el genoma. CRISPR-Cas9 es un tipo 
+bien conocido de edición del genoma 
+
+El material genético o las herramientas de edición genética que se insertan 
+directamente en la célula por lo general no funcionan. En su lugar, un portador llamado 
+vector está diseñado genéticamente para portar y entregar el material. Ciertos virus se 
+utilizan como vectores porque pueden entregar el material al infectar la célula. Los virus 
+se modifican para que no causen enfermedad cuando se usan en personas. Algunos 
+tipos de virus, como los adenovirus, introducen el ADN en el núcleo de la célula, pero el 
+ADN no se integra al cromosoma. Los virus también pueden entregar las herramientas 
+de edición genética al núcleo de la célula. 
+
+El vector puede inyectarse o administrarse de forma intravenosa directamente en un 
+tejido específico en el cuerpo, para luego ser absorbido por células individuales. 
+Alternativamente, se puede extraer una muestra de las células del paciente y exponerla 
+al vector en un laboratorio. Luego, las células que contienen el vector son reinsertadas 
+en el paciente. Si el tratamiento es exitoso, el gen nuevo entregado por el vector 
+producirá una proteína que funcione o las moléculas editoras corregirán un error de 
+ADN y restaurarán la función de la proteína.
+
+La terapia genética con vectores virales ha sido exitosa, pero tiene riesgos. A veces el 
+virus provoca una reacción inmunitaria peligrosa. Además, los vectores que integran el 
+material genético en el cromosoma pueden causar errores que pueden resultar en 
+cáncer. Los investigadores están desarrollando nuevas tecnologías que pueden 
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 3
+
+
+
+entregar material genético o herramientas de edición de genes sin utilizar virus. Una de estas 
+técnicas utiliza estructuras especiales llamadas nanopartículas como vectores para 
+entregar el material genético o componentes de edición genética en las células. Las 
+nanopartículas son estructuras increíblemente pequeñas que se han desarrollado para 
+muchos usos. Para la terapia genética, estas pequeñas partículas están diseñadas con 
+características específicas para ciertas células particulares. Las nanopartículas tienen 
+menos probabilidades de causar reacciones inmunes que los vectores virales y son 
+más fáciles de diseñar y modificar para propósitos específicos.
+
+Los investigadores continúan trabajando para superar muchos desafíos técnicos de la 
+terapia genética. Por ejemplo, los científicos están encontrando mejores maneras de 
+entregar genes o herramientas de edición genéticas y dirigirlos a células particulares. 
+También están trabajando para controlar de manera más precisa cuando el tratamiento 
+funciona en el cuerpo.
+
+Artículos de revistas científicas para información adicional (en inglés)
+
+Bulcha JT, Wang Y, Ma H, Tai PWL, Gao G. Viral vector platforms within the gene 
+therapy landscape. Signal Transduct Target Ther. 2021 Feb 8;6(1):53. doi: 10.1038/
+s41392-021-00487-6. PMID: 33558455. Free full-text article from PubMed Central: 
+PMC7868676.
+
+Duan L, Ouyang K, Xu X, Xu L, Wen C, Zhou X, Qin Z, Xu Z, Sun W, Liang Y. 
+Nanoparticle Delivery of CRISPR/Cas9 for Genome Editing. Front Genet. 2021 May 12;
+12:673286. doi: 10.3389/fgene.2021.673286. PubMed: 34054927. Free full-text article 
+from PubMed Central: PMC8149999.
+
+Un nuevo gen se inserta directamente en una célula. Un portador llamado vector está 
+diseñado genéticamente para entregar el gen. Un adenovirus introduce el ADN en el 
+núcleo de la célula, pero el ADN no se integra en un cromosoma. (Figura 1)
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 4
+
+
+
+FIGURA 1: A new gene is inserted directly into a cell. A carrier called a 
+vector is genetically engineered to deliver the gene. An adenovirus 
+introduces the DNA into the nucleus of the cell, but the DNA is not 
+integrated into a chromosome.Terapia genética utilizando un vector de 
+adenovirus (Gene therapy using an adenovirus vector) 
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 5
+
+
+
+3     ¿Es segura la terapia genética?
+
+La primera terapia genética se hizo hace más de treinta años. Los primeros estudios 
+mostraron que la terapia genética podía tener riesgos de salud muy serios, como 
+toxicidad, inflamación y cáncer. Desde entonces, los investigadores han estudiado los 
+mecanismos y desarrollado mejores técnicas que tienen menos probabilidades de 
+causar reacciones inmunitarias peligrosas o cáncer. Dado que estas técnicas son 
+relativamente nuevas, algunos de los riesgos pueden ser impredecibles. Sin embargo, 
+investigadores médicos, instituciones y agencias regulatorias están trabajando para 
+asegurarse que la investigación de terapia genética, los estudios clínicos y tratamientos 
+aprobados sean lo más seguros posible. 
+
+Leyes, regulaciones y pautas integrales ayudan a proteger a las personas que 
+participan en estudios de investigación (o estudios clínicos). La Administración de 
+Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en inglés) 
+regula todos los productos de terapia genética en los EE. UU. y supervisa la 
+investigación en esta área. Los investigadores que deseen probar este enfoque en un 
+estudio clínico primero deben obtener autorización de la FDA. La FDA tiene la 
+autoridad de rechazar o suspender los estudios clínicos que sospeche no son seguros 
+para sus participantes. 
+
+Los Institutos Nacionales de la Salud (NIH) también juegan un papel importante a la 
+hora de garantizar la seguridad de la investigación de la terapia genética. Los NIH 
+brindan pautas a seguir para los investigadores e instituciones (como universidades y 
+hospitales) cuando conducen estudios clínicos con terapia genética. Estas pautas 
+dictan que los estudios clínicos en instituciones que reciben fondos de los NIH para 
+este tipo de investigaciones deben estar registradas en la Oficina de Actividades de 
+Biotecnología. Luego, el Comité Asesor de ADN Recombinante (RAC) de los NIH 
+revisa el protocolo, o plan, de cada estudio clínico para determinar si presenta 
+problemas médicos, éticos o de seguridad que justifiquen una mayor discusión en la 
+reunión pública del RAC.
+
+Una Junta de Revisión Institucional (IRB) y un Comité Institucional de Bioseguridad 
+(IBC) debe aprobar cada estudio clínico de terapia genética antes de que pueda 
+llevarse a cabo. Un IRB es un comité de asesores científicos, médicos y consumidores 
+que revisa toda la investigación dentro de una institución. Un IBC es un grupo que 
+revisa y aprueba un estudio de investigación potencialmente peligroso de una 
+institución. Múltiples niveles de evaluación y supervisión aseguran que cualquier 
+problema de seguridad sea la principal prioridad en la planificación y realización de una 
+investigación de terapia genética.
+
+El proceso de los estudios clínicos ocurre en tres fases. La fase I del estudio determina 
+si un tratamiento es seguro para las personas e identifica sus efectos secundarios. La 
+fase II del estudio determina si el tratamiento es efectivo, es decir, si funciona. La fase 
+III del estudio compara el nuevo tratamiento a los tratamientos disponibles en la 
+actualidad. Los médicos quieren saber si el nuevo tratamiento funciona mejor o si tiene 
+menos efectos secundarios que el tratamiento estándar. La FDA revisa los resultados 
+del estudio clínico. Si determina que los beneficios del tratamiento superan los efectos 
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 6
+
+
+
+secundarios, aprueba la terapia y los médicos pueden utilizarla para tratar un trastorno. 
+
+Estudios clínicos exitosos han resultado en la aprobación de un pequeño número de 
+terapias genéticas, incluyendo terapias para tratar trastornos hereditarios como atrofia 
+muscular espinal y amaurosis congénita de Leber.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 7
+
+
+
+4     ¿Cuáles son los asuntos éticos que rodean a la terapia 
+genética?
+
+Dado que la terapia genética (también llamada terapia génica o genoterapia) involucra 
+hacer cambios en los bloques básicos de construcción del cuerpo, presenta 
+preocupaciones éticas únicas. Los asuntos éticos que rodean la terapia genética y la 
+edición del genoma incluyen:
+
+• ¿Cómo pueden distinguirse los usos “buenos” y “malos” de estas tecnologías?
+• ¿Quién decide cuáles rasgos son normales y cuáles constituyen una discapacidad 
+
+o trastorno?
+• ¿Harán los altos costos de la terapia genética que sólo esté disponible para las 
+
+personas adineradas?
+• ¿Podría el uso generalizado de terapia genética hacer que la sociedad acepte 
+
+menos a personas que son diferentes?
+• ¿Debería permitirse a las personas utilizar la terapia genética para mejorar rasgos 
+
+humanos básicos como altura, inteligencia o habilidad atlética?
+
+La investigación de tratamientos de terapia genética actual se ha centrado en 
+enfocarse en las células del cuerpo (somáticas) como médula ósea o células 
+sanguíneas. Este tipo de alteración genética no puede ser heredada a los hijos de una 
+persona. Sin embargo, la terapia genética podría dirigirse a óvulos y espermatozoides 
+(células germinales), lo que permitiría que los cambios genéticos se transmitan a 
+generaciones futuras. Este enfoque es conocido como terapia génica germinal.
+
+La idea de estas alteraciones germinales es controversial. Si bien podría evitar que 
+generaciones futuras de una familia tengan un trastorno genético en particular, puede 
+afectar el desarrollo de un feto de maneras inesperadas o tener efectos secundarios a 
+largo plazo que aún se desconocen. Dado que las personas que serían afectadas por 
+la terapia génica germinal aún no han nacido, no pueden elegir si tendrán o no el 
+tratamiento. Debido a estas preocupaciones éticas, el Gobierno de los Estados Unidos 
+no permite que fondos federales se utilicen para la investigación de terapia génica 
+germinal en personas.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 8
+
+
+
+5     ¿Hay terapia genética disponible para tratar mi trastorno?
+
+Actualmente, la terapia genética (también llamada terapia génica o genoterapia) está 
+disponible principalmente en el entorno de investigación. La Administración de 
+Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en inglés) ha 
+aprobado únicamente un pequeño número de productos de terapia genética (en inglés) 
+para su venta en los EE. UU. Por ejemplo, las terapias genéticas aprobadas por la FDA 
+están disponibles para afecciones que incluyen un raro trastorno del ojo llamado 
+amaurosis congénita de Leber, un tipo de cáncer de la piel conocido como melanoma y 
+una afección muscular genética llamada atrofia muscular espinal. Otras terapias 
+genéticas se han aprobado para cánceres de células sanguíneas como linfoma y 
+mieloma múltiple. Terapias genéticas para tratar afecciones adicionales se han 
+aprobado en otros países.   
+
+Se están realizando cientos de estudios de investigación (estudios clínicos) para probar 
+la terapia genética como tratamiento para trastornos genéticos, cáncer y VIH y sida. Si 
+usted está interesado en participar en un estudio clínico, hable con su profesional de la 
+salud o genetista sobre cómo participar.
+
+Para obtener información acerca de estudios clínicos de terapia genética: 
+
+Usted también puede buscar estudios clínicos en línea. ClinicalTrials.gov (https://clinical
+trials.gov/) (en inglés), un servicio de los Institutos Nacionales de la Salud, brinda fácil 
+acceso a información sobre estudios clínicos. Usted puede buscar un estudio clínico 
+específico o buscar una afección de salud o patrocinador. Tal vez quiera consultar una 
+lista de estudios clínicos de terapia genética (https://clinicaltrials.gov/search?term=%22
+gene+therapy%22) (en inglés) o estudios clínicos de edición del genoma o genes que 
+esté aceptando (o aceptará) participantes.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 9
+
+
+
+6     ¿Qué es la terapia de células T con CAR, terapia ARN y 
+otras terapias genéticas?
+
+Varios tratamientos que involucran material genético han sido desarrollados pero, por lo 
+general, no se consideran terapia genética. Algunos de estos métodos alteran el ADN 
+para un uso ligeramente diferente al de la terapia genética. Otros no alteran los genes 
+en sí, pero cambian cómo se llevan a cabo las instrucciones de un gen para hacer 
+proteínas.
+
+Terapia genética basada en células
+
+La terapia de células T con CAR (o terapia de células T con receptor de antígeno 
+quimérico) es un ejemplo de terapia genética basada en células. Este tipo de 
+tratamiento combina las tecnologías de la terapia genética y la terapia celular. La 
+terapia celular introduce al cuerpo células que tienen una función particular para ayudar 
+a tratar una afección. En la terapia genética basada en células, las células han sido 
+alteradas genéticamente para darles una función especial. La terapia de células T con 
+CAR introduce un gen a las células T de una persona, un tipo de célula inmunitaria. 
+Este gen brinda instrucciones para hacer una proteína, llamada el receptor de antígeno 
+quimérico (CAR por sus siglas en inglés), las cuales se adjuntan a las células 
+cancerosas. Las células inmunitarias modificadas pueden atacar específicamente a las 
+células cancerosas.
+
+Terapia ARN
+
+Varias técnicas, llamadas terapias ARN, utilizan piezas del ARN, el cual es un tipo de 
+material genético similar al ADN, para tratar un trastorno. En muchas de estas técnicas, 
+las piezas de ARN interactúan con una molécula llamada ARN mensajero (o ARNm). 
+En las células, el ARNm utiliza la información en los genes para crear un plan para 
+hacer proteínas. Al interactuar con el ARNm, estas terapias influencian cuánta proteína 
+se produce de un gen, lo cual puede compensar por los efectos de una alteración 
+genética. Ejemplos de estas terapias de ARN incluyen oligonucleótidos antisentido 
+(ASO por sus siglas en inglés), terapias de ARN pequeño de interferencia (siARN) y 
+microARN (miARN). Una terapia de ARN llamada terapia de aptámero ARN introduce 
+pequeñas piezas de ARN que se adjuntan directamente a las proteínas para alterar sus 
+funciones.
+
+Terapia epigenética
+
+Otra terapia relacionada a la genética, llamada terapia epigenética, afecta los cambios 
+epigenéticos en las células. Los cambios epigenéticos son modificaciones específicas 
+(a menudo llamadas “etiquetas”) que se adjuntan al ADN que controla si los genes se 
+activan o se desactivan. Patrones anormales de modificaciones epigenéticas alteran la 
+actividad de los genes y, por tanto, la producción de proteínas. Las terapias 
+epigenéticas se utilizan para corregir errores epigenéticos detrás de los trastornos 
+genéticos.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 10
+
+
+
+Artículos de revistas científicas para información adicional (en inglés)
+Kim YK. RNA Therapy: Current Status and Future Potential. Chonnam Med J. 2020 
+May;56(2):87-93. doi: 10.4068/cmj.2020.56.2.87. Epub 2020 May 25. PubMed: 
+32509554. Free full-text article from PubMed Central: PMC7250668.
+
+Lu Y, Chan YT, Tan HY, Li S, Wang N, Feng Y. Epigenetic regulation in human cancer: 
+the potential role of epi-drug in cancer therapy. Mol Cancer. 2020 Apr 27;19(1):79. doi: 
+10.1186/s12943-020-01197-3. 32340605. Free full-text article from PubMed Central: 
+PMC7184703.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 11
+
+
+
+7     ¿Qué son las vacunas ARNm y cómo funcionan?
+
+Las vacunas ayudan a prevenir infecciones al preparar al cuerpo para luchar contra 
+invasores extraños (como bacterias, virus u otros patógenos). Todas las vacunas 
+introducen en el cuerpo una partícula inofensiva de una bacteria o virus en particular, 
+causando una respuesta inmunitaria. La mayoría de las vacunas contienen bacterias o 
+virus debilitados o muertos. Sin embargo, los científicos han desarrollado un nuevo tipo 
+de vacuna que utiliza una molécula llamada ARN mensajero (o ARNm), en lugar de 
+parte de una bacteria o virus. El ARN mensajero es un tipo de ARN necesario para la 
+producción de proteínas. En las células, el ARNm utiliza la información de los genes 
+para crear un modelo para producir proteínas. Una vez que las células terminan de 
+hacer una proteína, rápidamente descomponen el ARNm. El ARNm de las vacunas no 
+entra en el núcleo y no altera el ADN.
+
+Las vacunas ARNm funcionan al introducir un fragmento de ARNm que corresponde a 
+la proteína viral, en general un pequeño fragmento de una proteína que se encuentra 
+en la membrana externa del virus. (Las personas que reciben una vacuna ARNm no se 
+exponen al virus ni tampoco pueden infectarse por la vacuna). Al utilizar este modelo 
+ARNm, las células producen la proteína viral. Como parte de una respuesta inmunitaria 
+normal, el sistema inmunitario reconoce que la proteína es extraña y produce proteínas 
+especializadas llamadas anticuerpos. Los anticuerpos ayudan a proteger el cuerpo de 
+infecciones al reconocer virus individuales u otros patógenos, aferrándose a ellos y 
+marcando los patógenos para su destrucción. Una vez producidos, los anticuerpos 
+permanecen en el cuerpo, incluso después de que se ha eliminado el patógeno, para 
+que el sistema inmunitario pueda responder rápidamente si es expuesto nuevamente. 
+Si una persona se expone al virus después de recibir la vacuna ARNm para ese virus, 
+los anticuerpos pueden reconocerlo rápidamente, aferrarse a él y marcarlo para su 
+destrucción antes de que cause una enfermedad seria.
+
+Como todas las vacunas en los Estados Unidos, las vacunas ARNm requieren 
+autorización o aprobación de la Administración de Alimentos y Medicamentos (FDA) 
+antes de que puedan utilizarse. Actualmente, las vacunas contra el COVID-19, la 
+enfermedad causada por el coronavirus SARS-CoV-2, son las únicas vacunas ARNm 
+autorizadas o aprobadas. Estas vacunas utilizan ARNm que dirigen a las células para 
+producir copias de una proteína en el exterior del coronavirus conocido como “proteína 
+spike”. Los investigadores están estudiando cómo el ARNm puede utilizarse para 
+desarrollar vacunas para otras enfermedades infecciosas.
+
+Artículos de revistas científicas para información adicional (en inglés)
+
+Jain S, Venkataraman A, Wechsler ME, Peppas NA. Messenger RNA-based vaccines: 
+Past, present, and future directions in the context of the COVID-19 pandemic. Adv Drug 
+Deliv Rev. 2021 Oct 9;179:114000. doi: 10.1016/j.addr.2021.114000. Epub ahead of 
+print. PMID: 34637846; PMCID: PMC8502079.
+
+Verbeke R, Lentacker I, De Smedt SC, Dewitte H. The dawn of mRNA vaccines: The 
+COVID-19 case. J Control Release. 2021 May 10;333:511-520. doi: 10.1016/j.jconrel.
+2021.03.043. Epub 2021 Mar 30. PMID: 33798667; PMCID: PMC8008785.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 12
+
+
+
+Imagen microscópica de SARS-CoV-2, el virus que causa COVID-19. Se observan 
+proteínas "spike" rodeando la membrana exterior de cada partícula de virus. (Figura 2)
+
+FIGURA 2: Imagen microscópica de SARS-CoV-2, el virus que causa 
+COVID-19. Se observan proteínas
+
+Para más información sobre las vacunas ARNm:
+
+MedlinePlus en español ofrece muchos otros recursos adicionales con información 
+acerca de vacunas ARNm, específicamente relacionadas con su uso contra el COVID-
+19
+
+• MedlinePlus: Tema de salud: Vacunas contra el COVID-19 (https://medlineplus.gov
+/spanish/covid19vaccines.html)
+
+• Enciclopedia MedlinePlus: Vacunas contra el COVID-19 (https://medlineplus.gov/sp
+anish/ency/article/007775.htm)
+
+• MedlinePlus: Medicinas, hierbas y suplementos: Vacuna contra COVID-19 ARNm 
+(Pfizer-BioNTech) (https://medlineplus.gov/spanish/druginfo/meds/a621003-es.html)
+
+• MedlinePlus: Medicinas hierbas y suplementos: Vacuna COVID-19, ARNm 
+(Moderna) (https://medlineplus.gov/spanish/druginfo/meds/a621002-es.html)
+
+Los Centros para el Control y la Prevención de enfermedades tienen información (https:
+//espanol.cdc.gov/covid/vaccines/how-they-work.html) sobre vacunas ARNm.
+
+Reimpreso de Información genética de MedlinePlus (https://medlineplus.gov/spanish/genetica/) 13

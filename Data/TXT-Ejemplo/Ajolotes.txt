@@ -1,0 +1,478 @@
+﻿Análisis histológico y transcriptómico del proceso regenerativo  
+del ajolote Ambystoma mexicanum 
+
+ 
+Responsable: Dra. Cynthia Gabriela Sámano Salazar. Profesora Asociada de T.C. 
+Departamento de Ciencias Naturales (DCN), UAM Cuajimalpa 
+ 
+Co-responsable: Dr. Ernesto Soto Reyes Solís. Profesor Titular de T.C. Departamento de 
+Ciencias Naturales (DCN), UAM Cuajimalpa 
+ 
+Participantes: Dra. Juana Jimena Otero Negrete. Profesora de T.P. Departamento de 
+Ciencias Naturales (DCN), UAM Cuajimalpa 
+Dr. José Antonio Ocampo. Jefe de proyecto del Centro de Investigaciones Biológicas y 
+Acuicolas de Cuemanco (CIBAC), UAM Xochimilco  
+Dr. Rodrigo González Barrios. Investigador de la Unidad Biomédica en Cáncer. Instituto 
+Nacional de Cancerología (INCan), México. 
+ 
+Orientación: Investigación básica 
+Duración: 2 años (enero 2021-enero 2022) 
+ 
+Resumen 
+El ajolote mexicano (Ambystoma mexicanum) es un anfibio vertebrado que conserva 
+características fenotípicas de la etapa larvaria y tiene la capacidad de regenerar tejidos, 
+extremidades y órganos complejos durante toda su vida, aunque la capacidad regenerativa 
+disminuye conforme a la edad avanzada de los ajolotes. El Ambystoma mexicanum es un 
+extraordinario modelo animal debido a que se puede mantener fácilmente en cautiverio, por 
+sus características biológicas, fisiológicas y a su asombrosa capacidad regenerativa. El 
+genoma de ajolote es 10 veces más grande que el del humano y el 70% está constituido por 
+elementos nucleares intercalados repetidos, los cuales no han sido estudiados con detalle y 
+no se ha determinado si fungen un papel relevante durante el proceso regenerativo. En este 
+proyecto  se realizará la caracterización ómica del transcriptoma del A. mexicanum en el 
+proceso de regeneración tisular. Los resultados pudieran dar la pauta para descifrar la 
+
+1 
+ 
+
+
+
+maquinaria molecular y el transcriptoma del ajolote mexicano, y así caracterizar a los 
+elementos funcionales del genoma, con la finalidad de comprender en parte los procesos 
+moleculares implicados en el proceso de regeneración en Ambystoma mexicanum. 
+ 
+Antecedentes  
+El ajolote es una salamandra perteneciente al género de anfibios urodelos Ambystoma 
+comprende 32 especies y se distribuyen desde el sur de Canadá hasta el centro de México. 
+Entre las 16 especies mexicanas, la más estudiada es Ambystoma mexicanum, el cual es 
+endémico de la zona lacustre de Xochimilco y Chalco-Tláhuac en la Ciudad de México 
+(Vázquez-Molina, 2010; Zapata & Solís, 2014). Actualmente, Ambystoma mexicanum es una 
+especie en peligro de extinción debido a las actividades del hombre, a la introducción de flora 
+y fauna, y a la contaminación que se ha ido presentando en su hábitat (Vance, 2017; Mena 
+H, 2014). A. mexicanum es un anfibio vertebrado que puede vivir tanto en tierra como 
+sumergido en agua, y que conserva características fenotípicas de la etapa larvaria (neotenia) 
+(Demircan, et al., 2016). En cautiverio, los ajolotes presentan mínimos problemas de 
+reproducción y del desarrollo de las crías, y debido a sus características biológicas y 
+fisiológicas, se ha convertido en un modelo animal ideal en investigación (CONABIO, 2011; 
+Farkas, et al., 2015).  
+ 
+Uno de los principales temas de investigación en A. mexicanum ha sido el proceso de  
+regeneración de tejidos, ya que es una de las especies vertebrados con mayor capacidad 
+regenerativa en cuestión de semanas puede regenerar  extremidades amputadas, cola, sistema 
+nervioso (central y periférico), iris, huesos, músculo y epitelios (McHedlishvili, et al., 2012; 
+Suetsugu et al., 2012; Wu et al., 2015; Tazaki et al., 2017; Haas & Whited, 2017). Los 
+ajolotes contienen células de la piel (fibroblastos) con la capacidad de convertirse en células 
+blastemales, es decir células diferenciadas maduras que están cercanas a una herida y 
+adquieren capacidades proliferativas, a través de un proceso de desdiferenciación para 
+generar nuevas células y formar los tejidos del órgano o extremidad dañados o perdidos 
+(Bryant, 2002; McCusker, 2011; Sandoval-Guzmán et al, 2014). El blastema es el 
+responsable del procesos de regeneración, el cual está constituido por un conjunto de células 
+progenitoras heterogéneas restringidas donde en el proceso regenerativo existe cierta 
+
+2 
+ 
+
+
+
+“memoria celular” y las células progenitoras desdiferenciadas siempre se diferenciarán en el 
+mismo tipo celular del que provenían para regenerar extremidades dañadas o perdidas (Kragl 
+et al., 2009). Los factores como la edad, mecanismos moleculares e incluso epigenéticos 
+influyen en la transcripción genética durante el proceso regenerativo (Haas & Whited, 2017; 
+Voss et al., 2019). Aunque los ajolotes mantienen la capacidad regenerativa durante toda su 
+vida, incluso siendo adultos, se ha demostrado que el fenómeno de regeneración es menos 
+eficiente conforme a la edad avanzada de los organismos. De tal forma que las larvas y 
+adultos jóvenes tardan días o semanas en regenerar tejidos, mientras que los adultos 
+sexualmente maduros pueden tardar meses en regenerar alguna extremidad (McCusker and 
+Gardiner, 2011; Vieira et al., 2020). 
+ 
+Se han propuesto diversos genes candidatos y transcritos que codifican para proteínas 
+implicadas en la regulación del blastema en A. mexicanum, pero no ha sido ampliamente 
+estudiado (Monaghan et al., 2012; Nacu et al., 2013; Darnet et al., 2019). La reciente 
+secuenciación del genoma del Ajolote apunta a que muchos genes y sus productos no han 
+sido aún estudiados, sugiriendo que el éxito del proceso regenerativo a través de la formación 
+del blastema en las extremidades dañadas podría estar relacionado con la caracterización de 
+los nuevos transcritos. De hecho, se puede decir que la regeneración y formación de 
+extremidades funcionales, sin alguna señal de daño, lo cual, sigue siendo un misterio en el 
+ajolote mexicano. 
+ 
+En 2018 se secuenció y ensambló el genoma del ajolote. Se determinó su tamaño (32 GB), 
+que comparado con el humano es enorme (10 veces más grande), donde el  70%  está 
+constituido por elementos nucleares intercalados repetidos (LINES, por sus siglas en inglés) 
+(Nowoshilow et al., 2018; Keinath et al., 2015). Estas características, han abierto varias 
+interrogantes; debido a que estos datos fueron obtenidos de ajolotes híbridos y no del ajolote 
+mexicano nativo de Xochimilco; lo cual pudiera ser comparativamente diferente. 
+Adicionalmente, pocos animales presentan tantos elementos genómicos repetidos, y a la 
+fecha no se ha determinado si estos elementos fungen algún papel relevante durante el 
+proceso de regeneración.  
+ 
+
+3 
+ 
+
+
+
+Justificación 
+Si bien ya se han hecho trabajos sobre la regeneración de extremidades y diferentes órganos 
+de animales urodelos, la mayoría de los estudios se han enfocado en la dinámica de las células 
+progenitoras, con poca atención a los elementos repetidos presentes en el genoma del ajolote 
+Ambystoma mexicanum durante el proceso regenerativo. Estos resultados pudieran dar la 
+pauta para empezar a descifrar la maquinaria molecular y particularmente al transcriptoma 
+de este organismo, pues de tener éxito podríamos caracterizar a  los elementos funcionales 
+de su genoma, y así comprender en parte los procesos moleculares de las células y tejidos 
+relacionados con el proceso de regeneración en A. mexicanum. Esto abriría la pauta para 
+buscar a futuro posibles aplicaciones médicas en la medicina regenerativa de tejidos, órganos 
+e incluso extremidades.  
+ 
+Objetivo general 
+Caracterización ómica del transcriptoma del Ambystoma mexicanum en el proceso de 
+regeneración tisular. 
+ 
+Objetivos particulares 
+1) Mediante secuenciaciones de RNA de alto rendimiento (RNA-seq), analizar el 
+transcriptoma asociados a la regeneración tisular, después de inducir un corte en la cola y las 
+manos de A. mexicanum en distintas edades. 
+2) Evaluar a nivel histológico los cambios tisulares que ocurren en la fase temprana de la 
+regeneración, después de inducir un corte en la cola y en las manos en ajolotes adultos de A. 
+mexicanum. 
+ 
+Hipótesis 
+El análisis histológico evidenciará que en el blastema, el proceso regenerativo observado en 
+la cola y de la mano del ajolote A. mexicanum es donde se presentarán cambios a nivel 
+transcripcional relacionados con los elementos repetidos, los cuales podrían ser los 
+responsables en parte, de mediar el proceso de regeneración tisular.  
+ 
+ 
+
+4 
+ 
+
+
+
+Metodología  
+Material biológico  
+Edad y número de organismos: Ajolotes de A. mexicanum, 3 jóvenes de 8 meses de edad, 
+3 adultos de 24 meses de edad y 3 de más de 4 años de edad. 
+ 
+Proceso de anestesia: los organismos se colocarán en una tina llena con agua del humedal 
+de Xochimilco, en el cual se le colorá benzocaína como sedante de los ajolotes. El cual tarda 
+aproximadamente 20 minutos, dependiendo de cada ejemplar. 
+ 
+Muestras de tejido: Se tomarán muestras de dos regiones del ajolote: 1) extremo de la cola 
+(2 mm), y 2) de las manos de los ajolotes adultos A. mexicanum, y una parte del material 
+conservará en una solución estabilizadora de RNA (RNA-later) y la otra en paraformaldehído 
+ 
+Cabe mencionar que tanto el protocolo de anestesia, como la toma de muestras biológicas de 
+los organismos se llevarán a cabo de acuerdo a los procedimientos establecidos por el 
+personal que trabaja con los ajolotes A. mexicanum en el CIBAC, UAM-Xochimilco. 
+ 
+Una parte de las muestras biológicas, se fijarán con paraformaldehído al 4% por 24 h para 
+posteriormente deshidratarlos con gradientes de sacarosa al 10, 15 y 30% y obtener los cortes 
+por congelación en un crióstato. 
+ 
+Obtención de cortes histológicos 
+Se realizarán en un crióstato a temperatura de -20 °C, para permitir una conservación del 
+tejido mediante la congelación. El grosor de los cortes será de 15 µm, y las muestras se 
+colectarán en un portaobjetos (gelatinizados) para mayor adherencia del tejido. Este 
+procedimiento se realizará para las muestras obtenidas: Antes y después de la amputación 
+(muestras en proceso regenerativo). 
+ 
+Tinciones histológicas 
+El material biológico obtenido se preparará con la finalidad de conferirle las condiciones 
+óptimas para poder observar, examinar y analizar sus componentes morfológicos a través de 
+
+5 
+ 
+
+
+
+un microscopio fotónico. Para ello se llevarán a cabo las siguientes técnicas de tinciones 
+histológicas: 
+ 
+a) Técnica de Hematoxilina y Eosina (H&E). Esta técnica consiste en urilizar hematoxilina 
+
+para teñir estructuras ácidas como los núcleos celulares. Y eosina para teñir componentes 
+básicos como el citoplasma (Alturkistani et al., 2015; Demircan et al., 2016). Los tiempos 
+de tinción se estandarizarán de acuerdo al tipo de tejido proveniente del ajolote. 
+
+ 
+b) Técnica tricrómica de Masson. Con esta técnica se identifican fibras de colágeno y 
+
+músculo liso. Se utilizan dos tipos de colorantes aniónicos para diferenciar: Núcleo, 
+citoplasma y fibras de colágeno (Alturkistani et al., 2015; Demircan et al., 2016). Se 
+determinarán los tiempos adecuados de tinción para cada muestra de los ajolotes. 
+
+ 
+Observación, captura y análisis de los cortes histológicos 
+Los cortes se observarán y capturarán en un microscopio invertido de campo claro Zeiss 
+(Axiovert 40 CFL), el cual contiene una cámara monocromática Axio Cam l y con la cual se 
+capturarán diversas fotografías por medio del programa Zen de Zeiss que se encuentra en el 
+Laboratorio de Biología Celular, para posteriormente analizarlas por medio de los programas 
+libres Image J o Fiji. 
+ 
+Análisis transcriptómico por medio de RNA-seq 
+Para el análisis de calidad de las muestras de la secuenciación de alto rendimiento, primero 
+se realizará un pre-análisis o pre-procesamiento evaluando el control de calidad de lecturas 
+crudas empleando las herramientas FastQC, FASTX-Toolkit y Trimmomatic con su filtrado 
+respectivo. Posteriormente se realizará un alineamiento de lecturas por medio de STAR, 
+empleando como genoma de referencia el publicado por Nowoshilow y colaboradores 2018. 
+En caso de no poder emplear dicho genoma, se realizará un ensamblaje de novo mediante los 
+algoritmos de BUSCO, CD-HIT-EST, transcoder. Una vez obtenidos los datos previos se 
+realizará una cuantificación de niveles de expresión empleando las anotaciones previamente 
+mencionadas. Posterior a ello, se harán los análisis de expresión diferencial, análisis de sobre- 
+representación, el enriquecimiento funcional. Adicionalmente se realizará el análisis de 
+
+6 
+ 
+
+
+
+“splicing” alternativo empleando las herramientas de CuffDiff2 y DEXseq. Finalmente, 
+evaluaremos cambios de expresión de elementos repetidos del genoma con TEtranscripts.  
+
+Instalaciones e infraestructura física para realizar el proyecto 
+
+- CIBAC (UAM-Xochimilco, Instalaciones en Cuemanco). Equipo, reactivos y alimento 
+para mantener a los ajolotes. 
+
+- Laboratorio de Biología Celular (piso 8, UAM-Cuajimalpa). Equipo (microscopio Zeiss 
+Axiovert 40 CFL equipado con la cámara AxioCam l) y reactivos de laboratorio ubicados 
+para realizar las tinciones histológicas. 
+
+- Anexo del Laboratorio de Biología Celular B2 (piso 2, UAM-Cuajimalpa). Equipo y 
+reactivos de laboratorio para obtener cortes histológicos (crióstato), ubicado en el anexo 
+del Laboratorio de Biología Celular B2. 
+
+- Unidad Biomédica en Cáncer (INCan), la unidad del INCan, cuenta con los espacios 
+específicos para la extracción de ácidos nucléicos para secuenciación de alto rendimiento, 
+por ello parte del material será procesado en esta unidad 
+
+- Los análisis del transcriptoma se harán en la UAM Cuajimalpa, en un servidor PowerEdge 
+R740 que tiene 2x INTEL Xeon Gold 6230 (2.1 GhZ, 35.75 M cache 26c/52T). 2 GPUs 
+NVIDIA quadro RTX 6000 Tiene 768 GB de Ram. 48 TB de disco duro. 
+
+ 
+Recursos Humanos 
+2 alumnos de proyecto terminal de la Licenciatura en Biología Molecular. 
+1 alumno de posgrado (maestría). 
+ 
+Impacto esperado del proyecto 
+Se espera que para realizar este proyecto se incorporen alumnos de licenciatura (proyectos 
+terminales) y 1 de maestría, sin embargo se planea que para una fase posterior del mismo 
+proyecto se incorpore 1 alumno de doctorado. A partir de los resultados obtenidos, en la 
+última fase del proyecto se escribirá 1 artículo original para su potencial publicación en una 
+revista indizada. 
+ 
+
+7 
+ 
+
+
+
+Adicionalmente, con este proyecto se pretende iniciar una investigación más profunda y 
+detallada sobre los cambios que ocurren a nivel molecular durante el proceso regenerativo en 
+dos regiones corporales diferentes del ajolote A. mexicanum. Es importante mencionar que 
+con este proyecto se inicia una colaboración académica entre las unidades (Cuajimalpa-
+Xochimilco) en la UAM, así como con la Unidad Biomédica en Cáncer del Instituto Nacional 
+de Cancerología (INCan). 
+ 
+A su vez, de tener resultados positivos acerca de los genes y transcritos implicados en la 
+regeneración del ajolote, podríamos tratar de explicar desde una perspectiva molecular los 
+fenómenos de regeneración y envejecimiento celular. Este proyecto también podría impactar 
+a mediano plazo en el área de medicina regenerativa y envejecimiento celular. 
+ 
+Recursos necesarios para el proyecto: 
+Financiamiento e infraestructura física y humana actual en el proyecto.  
+Toda la infraestructura física y humana que se utilizará en este proyecto para el 
+mantenimiento de los ajolotes y la toma de muestras biológicas, se encuentra en el CIBAC 
+(Cuemanco) de la UAM-Xochimilco. El cual involucra material biológico, reactivos para 
+anestesia, cirugías y alimento para los ajolotes. 
+ 
+Con respecto a la infraestructura física y humana necesaria para el procesamiento de las 
+muestras biológicas y el análisis histológico, se llevará a cabo en el Laboratorio de Biología 
+Celular y el anexo del mismo, conocido como B2. El cual involucra lo siguiente: 
+ 
+- Material necesario para realizar la fijación de las muestras biológicas. 
+- Crióstato para realizar los cortes de las muestras biológicas. 
+- Material de laboratorio y reactivos necesarios para realizar las tinciones histológicas. 
+- Microscopio Zeiss Axiovert 40 CFL equipado con la cámara AxioCam l, para la 
+observación y captura de las imágenes de las muestras biológicas obtenidas. 
+ 
+ 
+ 
+
+8 
+ 
+
+
+
+Fuentes de financiamiento externas. 
+Como fuente de financiamiento proviene del presupuesto que otorga el Depto. de Ciencias 
+Naturales (DCN) a los profesores adscritos a dicho Depto. Sin embargo, se buscarán fuentes 
+de financiamiento externas.  
+ 
+Calendario de actividades 
+Actividades	 Periodo	I	(12	meses)	
+	 1	 2	 3	 4	 5	 6	 7	 8	 9	 10	 11	 12	
+	
+Manejo	de	los	ajolotes	A.	mexicanum	 	 	 	 	 	 	 	 	 	 	 	 	
+Toma	 de	muestras	 biológicas.	Muestra	 de	 	 	 	 	 	 	 	 	 	 	 	 	
+cola	y	mano	de	ajolotes	de	A.	mexicanum	de	
+3	jóvenes	de	8	meses	de	edad	
+Estandarización	de	las	técnicas	histológicas             
+Observación,	captura	y	análisis	de	los	             
+cortes	histológicos 
+Estandarización	 de	 extracción	 de	 ácidos	             
+nucléicos	 
+Análisis	de	los	ácidos	nucléicos             
+Secuenciación	de	alto	rendimiento	             
+Análisis	transcriptómico	por	medio	de	             
+RNA-	seq	de	todas	las	muestras	obtenidas	
+	
+
+																																																																										Periodo	II	(12	meses) 
+Toma	 de	muestras	 biológicas.	Muestra	 de	             
+cola	y	mano	de	ajolotes	de	A.	mexicanum	de	
+3	adultos	de	24	meses	de	edad	y	3	adultos	
+de	más	de	4	años	de	edad 
+Procesamiento	histológico	de	las	muestras	             
+biológicas:	Tinciones	por	de	cola	y	mano	de	
+los	ajolotes 
+Observación,	captura	y	análisis	de	los	cortes	             
+histológicos 
+Extracción	de	muestras	de	ácidos	nucléicos             
+Secuenciación	de	alto	rendimiento             
+Análisis	transcriptómico	por	medio	de	             
+RNA-	seq	de	todas	las	muestras	obtenidas	
+	
+Escritura	de	1	artículo	original	             
+
+ 
+ 
+ 
+ 
+ 
+
+9 
+ 
+
+
+
+Bibliografía 
+1) Alturkistani, H. A., Tashkandi, F. M., & Mohammedsaleh, Z. M. (2015). Histological Stains: 
+
+A Literature Review and Case Study. Global journal of health science, 8(3), 72–79. 
+https://doi.org/10.5539/gjhs.v8n3p72 
+
+2) Bryant, S. V., Endo, T., & Gardiner, D. M. (2002). Vertebrate limb regeneration and the origin 
+of limb stem cells. The International journal of developmental biology, 46(7), 887–896. 
+
+3) CONABIO. (2011). Fichas de especies prioritarias. Ajolote mexicano (Ambystoma mexicanum) 
+Comisión Nacional de Áreas Naturales Protegidas y Comisión Nacional para el Conocimiento y 
+Uso de la Biodiversidad, México D.F. 
+
+4) Darnet, S., Dragalzew, A. C., Amaral, D. B., Sousa, J. F., Thompson, A. W., Cass, A. N., Lorena, 
+J., Pires, E. S., Costa, C. M., Sousa, M. P., Fröbisch, N. B., Oliveira, G., Schneider, P. N., Davis, 
+M. C., Braasch, I., & Schneider, I. (2019). Deep evolutionary origin of limb and fin regeneration. 
+Proceedings of the National Academy of Sciences of the United States of America, 116(30), 
+15106–15115. https://doi.org/10.1073/pnas.1900475116 
+
+5) Demircan, T., İlhan, A. E., Aytürk, N., Yıldırım, B., Öztürk, G., & Keskin, İ. (2016). A 
+histological atlas of the tissues and organs of neotenic and metamorphosed axolotl. Acta 
+histochemica, 118(7), 746–759. https://doi.org/10.1016/j.acthis.2016.07.006 
+
+6) Farkas, J. E., & Monaghan, J. R. (2015). Housing and maintenance of Ambystoma mexicanum, 
+the Mexican axolotl. Methods in molecular biology (Clifton, N.J.), 1290, 27–46. 
+https://doi.org/10.1007/978-1-4939-2495-0_3 
+
+7) Haas, B. J., & Whited, J. L. (2017). Advances in Decoding Axolotl Limb Regeneration. Trends 
+in genetics: TIG, 33(8), 553–565. https://doi.org/10.1016/j.tig.2017.05.006 
+
+8) Keinath, M. C., Timoshevskiy, V. A., Timoshevskaya, N. Y., Tsonis, P. A., Voss, S. R., & Smith, 
+J. J. (2015). Initial characterization of the large genome of the salamander Ambystoma 
+mexicanum using shotgun and laser capture chromosome sequencing. Scientific reports, 5, 
+16413. https://doi.org/10.1038/srep16413  
+
+9) Kragl, M., Knapp, D., Nacu, E., Khattak, S., Maden, M., Epperlein, H. H., & Tanaka, E. M. 
+(2009). Cells keep a memory of their tissue origin during axolotl limb regeneration. Nature, 
+460(7251), 60–65. https://doi.org/10.1038/nature08152    
+
+10) McCusker, C., & Gardiner, D. M. (2011). The axolotl model for regeneration and aging research: 
+a mini-review. Gerontology, 57(6), 565–571. https://doi.org/10.1159/000323761 
+
+11) McHedlishvili, L., Mazurov, V., Grassme, K. S., Goehler, K., Robl, B., Tazaki, A., Roensch, K., 
+Duemmler, A., & Tanaka, E. M. (2012). Reconstitution of the central and peripheral nervous 
+system during salamander tail regeneration. Proceedings of the National Academy of Sciences 
+
+10 
+ 
+
+
+
+of the United States of America, 109(34), E2258–E2266. 
+https://doi.org/10.1073/pnas.1116738109   
+
+12) Mena González Horacio, & Montes de Oca Kenia. (2014). Manual de Procedimientos para el 
+Manejo y Mantenimiento de la Colonia de Axolotes del Laboratortio de Restauración Ecológica. 
+Biología, 35. https://doi.org/10.22201/ib.9786070258268p.2014 
+
+13) Monaghan, J. R., Athippozhy, A., Seifert, A. W., Putta, S., Stromberg, A. J., Maden, M., 
+Gardiner, D. M., & Voss, S. R. (2012). Gene expression patterns specific to the regenerating 
+limb of the Mexican axolotl. Biology open, 1(10), 937–948. 
+https://doi.org/10.1242/bio.20121594  
+
+14) Molina Vázquez A. (2010). El ajolote de Xochimilco. Ciencias, 98. 54-59 
+15) Nowoshilow, S., Schloissnig, S., Fei, J. F., Dahl, A., Pang, A., Pippel, M., Winkler, S., Hastie, 
+
+A. R., Young, G., Roscito, J. G., Falcon, F., Knapp, D., Powell, S., Cruz, A., Cao, H., 
+Habermann, B., Hiller, M., Tanaka, E. M., & Myers, E. W. (2018). The axolotl genome and the 
+evolution of key tissue formation regulators. Nature, 554(7690), 50–55. 
+https://doi.org/10.1038/nature25458  
+
+16) Nacu, E., Glausch, M., Le, H. Q., Damanik, F. F., Schuez, M., Knapp, D., Khattak, S., Richter, 
+T., & Tanaka, E. M. (2013). Connective tissue cells, but not muscle cells, are involved in 
+establishing the proximo-distal outcome of limb regeneration in the axolotl. Development 
+(Cambridge, England), 140(3), 513–518. https://doi.org/10.1242/dev.081752  
+
+17) Nye, H. L., Cameron, J. A., Chernoff, E. A., & Stocum, D. L. (2003). Regeneration of the urodele 
+limb: a review. Developmental dynamics : an official publication of the American Association 
+of Anatomists, 226(2), 280–294. https://doi.org/10.1002/dvdy.10236  
+
+18) Sandoval-Guzmán, T., Wang, H., Khattak, S., Schuez, M., Roensch, K., Nacu, E., Tazaki, A., 
+Joven, A., Tanaka, E. M., & Simon, A. (2014). Fundamental differences in dedifferentiation and 
+stem cell recruitment during skeletal muscle regeneration in two salamander species. Cell stem 
+cell, 14 (2), 174–187. 
+
+19) Suetsugu-Maki, R., Maki, N., Nakamura, K., Sumanas, S., Zhu, J., Del Rio-Tsonis, K., & Tsonis, 
+P. A. (2012). Lens regeneration in axolotl: new evidence of developmental plasticity. BMC 
+biology, 10, 103. https://doi.org/10.1186/1741-7007-10-103 
+
+20) Tazaki, A., Tanaka, E. M., & Fei, J. F. (2017). Salamander spinal cord regeneration: The ultimate 
+positive control in vertebrate spinal cord regeneration. Developmental biology, 432(1), 63–71. 
+https://doi.org/10.1016/j.ydbio.2017.09.034      
+
+21) Vance E. (2017). Biology's beloved amphibian - the axolotl - is racing towards extinction. 
+Nature, 551(7680), 286–289. https://doi.org/10.1038/d41586-017-05921-w 
+
+11 
+ 
+
+
+
+22) Vieira, W. A., Wells, K. M., & McCusker, C. D. (2020). Advancements to the Axolotl Model 
+for Regeneration and Aging. Gerontology, 66(3), 212–222. https://doi.org/10.1159/000504294  
+
+23) Voss, S. R., Ponomareva, L. V., Dwaraka, V. B., Pardue, K. E., Baddar, N., Rodgers, A. K., 
+Woodcock, M. R., Qiu, Q., Crowner, A., Blichmann, D., Khatri, S., & Thorson, J. S. (2019). 
+HDAC Regulates Transcription at the Outset of Axolotl Tail Regeneration. Scientific 
+reports, 9(1), 6751. https://doi.org/10.1038/s41598-019-43230-6  
+
+24) Wu, C. H., Huang, T. Y., Chen, B. S., Chiou, L. L., & Lee, H. S. (2015). Long-duration muscle 
+dedifferentiation during limb regeneration in axolotls. PloS one, 10(2), e0116068. 
+https://doi.org/10.1371/journal.pone.0116068 
+
+25) Zapata Gutiérrez, M. C., & Solís Juárez, L. G. (2014). Axolotl: El auténtico mounstruo del lago de 
+Xochimilco. Kuxulkab’, 19(36). https://doi.org/10.19136/kuxulkab.a19n36.336  
+ 
+
+ 
+
+12

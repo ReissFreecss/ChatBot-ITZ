@@ -1,0 +1,214 @@
+﻿Revista Colombiana de Biotecnología
+
+ISSN: 0123-3475
+revcbib_bog@unal.edu.co
+Universidad Nacional de Colombia
+
+   Colombia
+
+Reguero Reza, Ma. Teresa
+10 años de la secuenciación del genoma humano: Encuentro entre el imaginario y la realidad
+
+Revista Colombiana de Biotecnología, vol. XV, núm. 1, enero-junio, 2013, pp. 5-7
+Universidad Nacional de Colombia
+
+Bogotá, Colombia
+
+Disponible en: http://www.redalyc.org/articulo.oa?id=77628609001
+
+   Cómo citar el artículo
+   Número completo
+
+Sistema de Información Científica
+   Más información del artículo Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+   Página de la revista en redalyc.org Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+
+
+
+10 años de la secuenciación del genoma humano: 
+Encuentro entre el imaginario y la realidad
+
+10 years of human genome sequencing: Meeting 
+between the imagination and the reality
+
+Ma. Teresa Reguero Reza*
+
+Lejano parece en año de 1953 cuando se publica en Nature un artículo sobre la estructura helicoi-
+dal de ADN, propuesta por dos investigadores, el británico Francis Crick y el estadounidense James 
+Watson, lo que constituyó la piedra angular de los procesos de secuenciación.
+
+En 1984 durante una conferencia científica en Altha, Utah, Estados Unidos se propone el proyecto 
+de secuenciación del genoma humano, y en 1988 el Congreso de los Estados Unidos aprueba 
+el proyecto a desarrollarse en 15 años con un presupuesto de US$ 3000 millones. El primero de 
+octubre de 1990 el Instituto Nacional de Salud (NIH) y el Departamento de Energía de los Estados 
+Unidos (DOE), informan oficialmente el lanzamiento del Proyecto Genoma Humano (PGH) y nom-
+bran a James Watson director del Centro Nacional de Investigación del Genoma Humano.  Se inicia 
+la ejecución del proyecto en 1991 y al año siguiente nace “The Institute for Genomic Research” 
+(TIGR). 
+
+El PHG contemplaba los siguientes  objetivos: 
+
+•	 Determinar la secuencia completa de nucleótidos del ADN humano y localizar los genes 
+
+•	 Construir mapas físicos y genéticos
+
+•	 Analizar genomas de organismos usados como sistemas modelo en investigación 
+
+•	 Desarrollar nuevas tecnologías
+
+•	 Analizar y debatir las implicaciones éticas y legales, tanto para los individuos como para la so-
+ciedad.
+
+Es interesante anotar que en ese momento, se presumía que el número de genes en los humanos 
+ascendería a una cifra que se encontraría entre 50.000 y 100.000 genes.
+
+En tan solo dos años, en 1994, se tiene el primer mapa genético y en 1996, el mapa físico (ESTs); 
+se crea la a corporación privada Celera Genomics (1998) y para 1999 se obtiene la secuencia com-
+pleta del primer cromosoma: el número 22. Posteriormente, en el año 2000, se dispone del primer 
+borrador y el lunes 26 de junio de 2000, el doctor J. Craig Venter anunciaba, en una conferencia 
+de prensa en la Casa Blanca y con la presencia del presidente del los Estados Unidos, Bill Clinton, y 
+el primer ministro de Gran Bretaña, Tony Blair, que era un día histórico para la humanidad al poder 
+leer, por primera vez, las letras químicas del código genético humano. Así mismo resaltaba que 
+este resultado era el esfuerzo conjunto de múltiples investigadores en una alianza de instituciones 
+públicas y privadas, que había iniciado cinco años antes, The Institute for Genomic Research in 
+Rockville, Maryland. El primer borrador de la secuencia del genoma humano provenía de la secuen-
+ciación de los genomas de origen hispano, caucásico y afroamericano pertenecientes a  3 mujeres 
+y 2 hombres. 
+
+Después del anuncio histórico, algunos medios de comunicación indicaban que la especie humana 
+llevaba 100 000 años sobre la tierra y que nuestra generación era la primera que disponía de una 
+
+* Instituto de Biotecnología, Universidad Nacional, Sede Bogotá, Colombia, mtregueror@unal.edu.co.
+
+1R0ev a. ñCoosl odme bla.  sBeicouteecnncoial.c iVóonl .d XeVl  gNeon.o 1m Jau lhiou m20a1n3o :  5E-n7c uent ro entre el imaginario y la realidad 55
+
+Editorial
+
+
+
+descripción completa del libro de la vida. El 14 de abril de 2003, coincidiendo con el aniversario 
+50 de la publicación de la estructura del ADN, el Consorcio Internacional para la Secuenciación del 
+Genoma Humano anunciaba que estaba completa la secuencia esencial con una confiabilidad del 
+99, 9% (Pardo, 2004). El proyecto se terminó dos años antes de la fecha que se tenía contemplada 
+para su finalización y tomando en consideración el avance en las técnicas de secuenciación, el cos-
+to total del proyecto fue inferior a lo proyectado (US$ 2700 millones). Se dieron a conocer algunos 
+datos sobre el genoma tales como que contiene 3x109 pares de bases y aproximadamente 25.000 
+genes, muy por debajo de las expectativas que se tenían de 50.000 a 100.000 genes. Es importante 
+recalcar que estos datos fueron el resultado del esfuerzo conjunto de 20 centros de investigación 
+de 6 países: Estados Unidos, Inglaterra, Alemania, Francia, Japón y China.
+
+Un comentario adicional, que merece la pena mencionar es que del presupuesto aprobado en 
+1990 por el Congreso de los Estados Unidos (US$ 3000 millones) se destinó el 5% para el Progra-
+ma de Investigación de las implicaciones éticas, legales y sociales (ELSI, por sus siglas en inglés).
+
+Las perspectivas sobre el impacto que tendría este conocimiento tanto para la ciencia como para 
+la medicina, particularmente en el diagnóstico y tratamiento de las enfermedades eran sumamente 
+optimistas. Sin embargo, el doctor J. Craig Venter reflexionaba, en la conferencia de prensa en la 
+Casa Blanca,  sobre la preocupación que manifestaba el 40% de la sociedad norteamericana, en el 
+sentido de que el uso de este conocimiento podría ser objeto de discriminación.
+
+La secuencia esencial del genoma humano se hizo pública y el 14 de abril de 2003, el doctor Eric 
+Green director del National Human Genome Research Institute (NHGRI) y sus socios internaciona-
+les, anunciaron la finalización del Proyecto Genoma Humano. Con ello se abrieron las posibilidades 
+de realizar estudios genómicos orientados al campo de la biomedicina, en los que se fortalece el 
+conocimiento los mecanismos moleculares de las enfermedades. El NHGRI  ha ayudado a organizar 
+varios proyectos internacionales de  investigación como SNP Consortium, el proyecto Internacio-
+nal HapMap, y el Proyecto de los 1000 genomas, con el objetivo de caracterizar y catalogar las 
+variaciones genómicas humanas más comunes. Cuando se terminó la secuenciación del genoma 
+humano se identificaron cerca de 3.4 millones de SNPs (Single-Nucleotide Polymorphisms). En la 
+actualidad se encuentran en las bases de datos 54 millones de SNPs.
+
+El avance del conocimiento a partir de la secuenciación del genoma humano ha propiciado el 
+desarrollo de herramientas de diagnóstico altamente eficaces, para diferentes enfermedades parti-
+cularmente en cáncer. Así mismo, tomando en consideración la composición genética individual 
+es posible, en algunos casos, diseñar tratamientos nuevos y altamente eficaces fortaleciendo con 
+ello el concepto de medicina personalizada - farmacogenómica. (Simon y Roychowdhury, 2013)
+
+Se encuentran disponibles varias pruebas diagnósticas, basadas en el conocimiento sobre mu-
+taciones en los genes como es el caso de cáncer (10-50 genes); enfermedades cardiovasculares 
+(cardiomiopatías, 50-70 genes; arritmias, 30-40 genes); desórdenes inmunes (síndrome de in-
+munodeficiencia combinada severa, 18 genes); neurológicos, neuromusculares (Parkinson y Al-
+zheimer, 32 genes; epilepsia, 53-130 genes; distrofia muscular, 12-45 genes), entre otras (Rehm, 
+2013).
+
+El conocimiento sobre múltiples mutaciones del genoma en pacientes que padecen cáncer son 
+iniciativas de investigación  que se han abordado con la finalidad de diseñar tratamientos terapéu-
+ticos personalizados, a través de la búsqueda y caracterización de biomarcadores específicos, para 
+cada tipo de tumor. Estos avances han permitido en algunos casos evidenciar, a través del análisis 
+genómico del ADN obtenido de tumores,  la identificación de mutaciones o cambios en el número 
+de copias de un determinado gen, conocimiento que evidentemente tiene un impacto positivo 
+en clínica. En un estudio realizado por Couzin y Kaiser (2007) sobre estudios genómicos de aso-
+ciación con 17.500 muestras de pacientes con cáncer de próstata se encontró que dos variantes 
+localizadas en la misma región, incrementaban el riesgo en 123% en homocigotos. Este tipo de 
+investigaciones requieren del concurso de equipos interdisciplinarios en los que participan exper-
+tos en oncología clínica, genética de cáncer, bioinformática, biología molecular, patología clínica, 
+sociología y  bioética, entre otros.
+
+Una pregunta que flota en el ambiente es ¿cómo acceder a la información sobre los estudios genó-
+micos que se han realizado? En este sentido habría que mencionar el proyecto público poblacional 
+
+6 Rev. Colomb. Biotecnol. Vol. XV No. 1  Julio 2013  5-7
+
+
+
+en genómica y sociedad - P3G por sus siglas en inglés: Public Population Project in Genomics and 
+Society- consorcio internacional sin ánimo de lucro, que proporciona  a los investigadores acceso 
+a información, experiencias, recursos y herramientas innovadoras en las áreas de  salud y ciencias 
+sociales.
+
+¿Hasta dónde llegarán las iniciativas sobre la secuenciación de genomas humanos? Merece la pena 
+destacar que el 31 de mayo de 2013, fue la fecha límite para inscribirse y participar en el Archon 
+X Price de genómica, cuyo reto es realizar la secuenciación de 100 genomas humanos, en 30 días 
+con los atributos de bajo costo y gran precisión. El antecedente de esta convocatoria se remonta al 
+año de 2006 cuando la Fundación X Prize (California, USA) hace públicas las condiciones del pre-
+mio: Secuenciar 100 genomas humanos, en 10 días por menos de US$ 10.000 por genoma. En ese 
+momento se inscribieron 8 competidores, pero ninguno pudo completar la secuenciación en tan 
+solo 10 días. Tomando en consideración este resultado los organizadores decidieron, en octubre de 
+2011, extender el tiempo de secuenciación a 30 días y disminuir  el costo a US$ 1000 por genoma. 
+Los avances en las tecnologías de secuenciación han generado una disminución importante en los 
+costos de secuenciación. Por información del National Human Genome Research Institute, en el 
+2002 el costo por megabase era de alrededor de US $9000 y último dato, correspondiente a 2012, 
+fue de US$ 0.1 por megabase (Check, 2013).
+
+¿Hacia donde se avanza en la secuenciación del genoma humano? Para muchos investigadores el 
+desafío estará, en los próximos años, en descifrar los aspectos funcionales asociados con el genoma 
+humano. Es interesante mencionar que el interés y avance en este aspecto se puede constatar vis-
+lumbrado las múltiples aplicaciones médicas que esto conllevaría. De hecho, varias instituciones de 
+investigación, a nivel mundial, trabajan en la consecución de un genoma humano “grado médico” 
+lo que significa que se obtenga solamente un error por cada millón de bases y que se evidencien las 
+inserciones y deleciones presentes en la secuencia completa del genoma humano. En la actualidad, 
+las investigaciones se han orientado, preferentemente, al análisis de las secuencias que codifican 
+para proteínas (exoma) y queda mucho por conocer e interpretar en cuanto a las secuencias no 
+codificantes, puesto que aproximadamente el 1,5% de los 3000 millones de pares de bases de 
+nuestro genoma codifican para proteínas.
+
+Un comentario final está orientado hacia el esfuerzo investigativo que se adelanta en la secuencia-
+ción de múltiples organismos, además del humano, que permite el fortalecimiento de un área del 
+conocimiento importante como es la genómica comparativa. En la actualidad, nadie desconoce 
+la importancia que tiene la secuenciación del genoma humano sin embargo, la respuesta no está 
+solamente en el conocimiento molecular los genes, el ambiente, los determinantes sociales, éticos 
+y políticos también son factores decisivos.
+
+Referencias bibliográficas
+Check Hayden E. 2013. Tepid showing for genomics X prize. Nature. 497(7451): 546- 247. doi: 10.1038/497546a.
+
+Couzin J. y Kaiser J 2007. Closing the Net on Common Disease Genes. Science. 316 (5826): 820-822. doi: 10.1126/
+science.316.5826.820
+
+Pardo A. 2004. El genoma humano. Límites y perspectivas en el avance de la medicina. Archivos de Bronconeumolo-
+gia. 40(3): 133-138.
+
+Rhem H.L. 2013. Disease-targeted sequencing: a cornerstone in the clinic. Nature Reviews Genetics. 14: 295-300. 
+doi:10.1038/nrg3463
+
+Simon R. y Roychowdhury S. 2013. Implementing personalized cancer genomics in clinical trials. Nature Reviews Drug 
+Discovery. 12(5): 358-369. doi:10.1038/nrd3979
+
+Venter J.C. 2000. Remarks at the Human Genome Announcement. Functional & Integrative Genomics. 1(3):154–155. 
+doi: 10.1007/s101420000026
+
+Watson J.D. y Crick F.H. 1953. Molecular structure of nucleic acids. Nature. 171(4356):737-738.
+
+10 años de la secuenciación del genoma humano: Encuentro entre el imaginario y la realidad 7
+
+Editorial

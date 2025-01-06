@@ -25,7 +25,7 @@ def normalize_text(text):
     return words
 
 # Directorio con archivos de texto
-directory = './Data/TXT'  
+directory = './Data/TXT-NOR-Ejemplo'  
 
 documents = []
 filenames = []
@@ -45,7 +45,7 @@ print(f"Documentos leídos: {len(documents)}")
 # Crear el modelo BM25
 bm25 = BM25Okapi(documents)
 
-query = "Base de datos"
+query = "regeneracion de extremidades en Ajolotes"
 print("Query: ", query)
 # Normalizar y tokenizar consulta
 tokenized_query = normalize_text(query)
@@ -62,7 +62,7 @@ documents_with_scores = list(zip(filenames, scores))
 documents_with_scores.sort(key=lambda x: x[1], reverse=True)
 
 # Número de documentos a devolver
-n_top_documents = 3
+n_top_documents = 4
 
 # Obtener los top n documentos
 top_documents = documents_with_scores[:n_top_documents]

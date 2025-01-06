@@ -37,8 +37,8 @@ def deleteSpacesAndSpecific(text, patron):
     return '\n'.join(lineas_filtradas)
 
 # Directorio con archivos de texto
-input_directory = 'C:/Users/darkd/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Residencias/ChatBot-ITZ/ChatBot-ITZ/Data/TXT NN'
-output_directory = 'C:/Users/darkd/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Residencias/ChatBot-ITZ/ChatBot-ITZ/Data/TXT'
+input_directory = 'C:/Users/darkd/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Residencias/ChatBot-ITZ/ChatBot-ITZ/Data/TXT-Ejemplo'
+output_directory = 'C:/Users/darkd/OneDrive - Instituto Tecnológico de Zacatepec/Archivos Semestres/9no Semestre/Residencias/ChatBot-ITZ/ChatBot-ITZ/Data/TXT-NOR-Ejemplo'
 
 
 # Crear el directorio de salida si no existeA

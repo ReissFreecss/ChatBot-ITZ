@@ -16,8 +16,8 @@ def read_txt_files(directory):
     return text
 
 # Configuración
-txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT'
-faiss_index_file = r'C:\Users\darkd\Desktop\a\test\index.faiss'
+txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT-NOR-Ejemplo'
+faiss_index_file = r'C:\Users\darkd\Desktop\a\test\index2.faiss'
 
 # Leer y procesar los archivos TXT
 text = read_txt_files(txt_directory)
