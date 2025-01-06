@@ -100,7 +100,7 @@ def query():
         do_sample=True, temperature=0.7, 
         top_k=50, top_p=0.95)
     
-    # Extrae y convierte el resumen a HTML para mejor legibilidad
+    # Extrae y convierte el resume  n a HTML para mejor legibilidad
     summary = outputs[0]["generated_text"][len(prompt):]
     summary_html = markdown.markdown(summary)  # Convierte a HTML
     
