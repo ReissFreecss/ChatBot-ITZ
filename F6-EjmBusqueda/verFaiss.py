@@ -50,7 +50,8 @@ scatter = ax.scatter(
     reduced_vectors[:, 2],
     c='blue', marker='o'
 )
-ax.set_title("Visualización de Embeddings en 3D")
+
+ax.set_title("Visualización de Embeddings en 3D para corpus de documentos de genes")
 ax.set_xlabel("X")
 ax.set_ylabel("Y")
 ax.set_zlabel("Z")

@@ -17,7 +17,7 @@ def read_txt_files(directory):
     return text
 
 # Ruta del directorio donde están los archivos TXT 
-txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT'
+txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT-NOR-Ejemplo'
 
 # Leer y procesar los archivos TXT
 text = read_txt_files(txt_directory)
@@ -31,7 +31,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 chunks = text_splitter.split_text(text)
 
 # sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
-embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
+embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
 knowledge_base = FAISS.from_texts(chunks, embeddings)
 
 # Configurar el modelo GEMMA

@@ -25,7 +25,7 @@ def normalize_text(text):
     return words
 
 # Directorio con archivos de texto
-directory = './Data/TXT-NOR-Ejemplo'  
+directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT-NOR-Ejemplo'
 
 documents = []
 filenames = []
@@ -45,7 +45,7 @@ print(f"Documentos leídos: {len(documents)}")
 # Crear el modelo BM25
 bm25 = BM25Okapi(documents)
 
-query = "regeneracion de extremidades en Ajolotes"
+query = "De ajolote, pollo y ratón"
 print("Query: ", query)
 # Normalizar y tokenizar consulta
 tokenized_query = normalize_text(query)

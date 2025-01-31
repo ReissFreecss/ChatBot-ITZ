@@ -48,7 +48,7 @@ def calcular_inflesz(texto):
         logging.error(f"Error en la función calcular_inflesz: {e}")
         return 0
     
-prompt = "Para qué funciona la programación web y cuáles son sus aplicaciones el ámbito de la ingeniería en sistemas computacionales"
+prompt = "Los errores de lectura en la secuenciación de ADN de una molécula única pueden afectar la interpretación de variantes genómicas complejas de varias maneras. 1. **Alteración de los límites de la secuencia:** Los errores de lectura pueden introducir mutaciones en los límites de la secuencia, lo que puede afectar la capacidad de la enzima de lectura de reconocer el sitio de interés. 2. **Cambios en el orden de las bases:** Los errores de lectura también pueden cambiar el orden de las bases en la secuencia, lo que puede afectar la lectura de los codones y las proteínas que se codifican. 3. **Inserciones y delecciones:** Los errores de lectura también pueden introducir o eliminar secuencias de ADN, lo que puede afectar el tamaño de la molécula y las proteínas que se codifican. 4. **Cambios en la lectura de los codones:** Los errores de lectura también pueden cambiar la lectura de los codones, lo que puede afectar la lectura de las proteínas y los funciones de las proteínas."
 # Limpia el prompt para eliminar etiquetas especiales
 prompt_cleaned = re.sub(r'<.*?>', '', prompt)
 indice_fernandez_prompt = calcular_fernandez_huerta(prompt_cleaned)

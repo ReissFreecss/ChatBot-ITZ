@@ -6,6 +6,8 @@ from langchain.prompts import PromptTemplate
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, pipeline
 import torch
+import time
+
 
 # Función para leer y concatenar textos de múltiples archivos TXT
 def read_txt_files(directory):
@@ -17,14 +19,14 @@ def read_txt_files(directory):
     return text
 
 # Ruta del directorio donde están los archivos TXT
-txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT-NOR-Ejemplo'
+txt_directory = r'C:\Users\darkd\OneDrive - Instituto Tecnológico de Zacatepec\Archivos Semestres\9no Semestre\Residencias\ChatBot-ITZ\ChatBot-ITZ\Data\TXT-Ejemplo'
 
 # Leer y procesar los archivos TXT
 text = read_txt_files(txt_directory)
 
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=1000,
-    chunk_overlap=100,
+    chunk_overlap=200,
     length_function=len
 )
 
@@ -49,7 +51,7 @@ else:
     # Guardar el índice FAISS en un archivo
     knowledge_base.save_local(faiss_index_file)
 
-# Configurar el modelo GEMMA
+# Configurar el modelo google/gemma-2b-it  meta-llama/Llama-3.2-1B
 model = "google/gemma-2b-it"
 tokenizer = AutoTokenizer.from_pretrained(model)
 gemma_pipeline = pipeline(
@@ -61,7 +63,6 @@ gemma_pipeline = pipeline(
 
 # Definir el template del prompt
 custom_template = """Usa la siguiente información para responder la pregunta del usuario.
-Si no sabes la respuesta, simplemente di que no la sabes, no intentes inventar una respuesta.
 
 Contexto: {context}
 Pregunta: {question}
@@ -102,6 +103,9 @@ while True:
     pregunta = input("Pregunta (escribe 'salir' para terminar): ")
     if pregunta.lower() == "salir":
         break
+    start_time = time.time()
     respuesta = generate_response(pregunta)
+    end_time = time.time()
+    execution_time_minutes = (end_time - start_time) / 60
     print(respuesta)
-    
+    print(f"Min: {execution_time_minutes:.2f}")

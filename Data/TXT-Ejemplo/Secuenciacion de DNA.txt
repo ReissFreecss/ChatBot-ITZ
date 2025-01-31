@@ -1,0 +1,2494 @@
+﻿47. Secuenciación del DNA 
+ 
+
+Gabriel Dorado Pérez 
+ 
+
+Departamento de Bioquímica y Biología Molecular, Campus Universitario de Rabanales, 
+Edificio Severo Ochoa, 14071-Córdoba 
+
+ 
+ 
+ 
+
+RESUMEN 
+ 
+
+El denominado Proyecto del Genoma Humano, iniciado en “The Human 
+Genome Workshop” (Santa Fe, New Mexico, EUA, 1986) ha conseguido 
+secuenciar los ~3 x 109 pb del genoma humano en 15 años (2001). Ello ha 
+sido posible gracias a algunos avances técnicos y mejoras de la  técnica 
+empleada (Lario et al, 1997). No obstante, aún no se sabe con certeza los 
+genes que tenemos (el conocimiento de la secuencia no implica el 
+conocimiento de las zonas codificantes). Paralelamente se han 
+secuenciando los genomas de organismos modelo. El objetivo es tratar 
+de descifrar las claves del fenotipo y desarrollo de los seres vivos en 
+base a su secuencia génica. Además, ello permitirá identificar genes 
+implicados en la aparición de enfermedades, abriendo las puertas de su 
+diagnóstico precoz, prevención, terapia e incluso curación. No obstante, 
+el porcentaje de organismos cuyo genoma se ha secuenciado es ínfimo 
+en comparación con los seres vivos de la Tierra. Por tanto, no estamos en 
+la Era Posgenómica, sino que este siglo será una auténtica Era Genómica 
+en el más amplio sentido de la palabra. Las técnicas de secuenciación 
+empleadas actualmente de forma rutinaria están basadas en 
+metodologías publicadas en 1977: el método de Sanger y el de Maxam–
+Gilbert, siendo el primero el más popular. Ambos se basan en la 
+generación de una población de moléculas marcadas radiactivamente, 
+que representan todos los tamaños y combinaciones posibles. En este 
+capítulo se describirán las diferentes metodologías, y en especial las 
+variaciones del método de Sanger. 
+ 
+Título corto (60 caracteres como máximo): Secuenciación del DNA clonado. 
+ 
+Palabras clave: acrilamida, cebadores, didesoxinucleótidos, fluorescencia 
+inducida por láser, fluorograma gel, terminadores. 
+ 
+Abreviaturas empleadas. APS: persulfato de amonio; CE: electroforesis capilar; 
+ddNTP: didesoxinucleósido trifosfato; DNA: ácido desoxirribonucleico; dNTP: 
+desoxinucleósidos trifosfato; LB: medio rico Luria-Bertani; Na2–EDTA: sal 
+disódica del ácido etilén diamino tetra-acético; PAGE: electroforesis en gel de 
+poliacrilamida; PCR: reacción en cadena de la polimerasa; PM: peso molecular; 
+SDS: dodecil sulfato sódico: WTR: distancia del pocillo a la zona de lectura. 
+ 
+ 
+ 
+ 
+ 
+
+1 
+
+
+
+1. INTRODUCCIÓN Y OBJETIVOS 
+ 
+El denominado Proyecto del Genoma Humano, iniciado en “The Human 
+
+Genome Workshop” (Santa Fe, New Mexico, EUA, 1986) ha conseguido 
+secuenciar los ~3 x 109 pb del genoma humano en 15 años (2001). Ello ha sido 
+posible gracias a algunos avances técnicos y mejoras de la  técnica empleada 
+(Lario et al, 1997). No obstante, aún no se sabe con certeza los genes que 
+tenemos (el conocimiento de la secuencia no implica el conocimiento de las 
+zonas codificantes). Paralelamente se han secuenciando los genomas de 
+organismos modelo tales como la bacteria Escherichia coli (3 x 106 pb), la 
+levadura Saccharomyces cerevisiæ (14 x 106 pb), el nemátodo Cænorhabditis 
+elegans (80 x 106 pb), la mosca de la fruta Drosophila melanogaster (165 x 106 
+pb) y el ratón doméstico Mus musculus (3 x 106 pb), entre otros. El estado de 
+estos y otros proyectos de secuenciación puede comprobarse en el NCBI de 
+EUA <http://www.ncbi.nlm.nih.gov/Entrez/Genome/org.html>. El objetivo es 
+tratar de descifrar las claves del fenotipo y desarrollo de los seres vivos en 
+base a su secuencia génica. Cómo, a partir de un óvulo fecundado, puede 
+generarse y diferenciarse un organismo adulto con más de 1013 células. 
+Además, ello permitirá identificar genes implicados en la aparición de 
+enfermedades, abriendo las puertas de su diagnóstico precoz, prevención, 
+terapia e incluso curación. En otras palabras, el Proyecto del Genoma no es un 
+fin en sí, sino una vía para conocer y entender la vida en nuestro planeta: sus 
+orígenes, evolución, los misterios del desarrollo, fisiología, comportamiento e 
+interacciones con el medio ambiente. No obstante, el porcentaje de organismos 
+cuyo genoma se ha secuenciado es ínfimo en comparación con los seres vivos 
+de la Tierra. Por tanto, no estamos en la Era Posgenómica, sino que este siglo 
+será una auténtica Era Genómica en el más amplio sentido de la palabra. 
+
+ 
+Para obtener información actualizada sobre el estado del Proyecto del 
+
+Genoma Humano, puede consultarse “The Genome Database” (GDB) 
+disponible en la siguiente dirección de InterNet: <http://gdbwww.gdb.org>. 
+
+ 
+ 
+
+2. PRINCIPIO EN QUE SE BASA LA SECUENCIACIÓN DEL DNA 
+ 
+Las técnicas de secuenciación empleadas actualmente de forma rutinaria 
+
+están basadas en metodologías publicadas en 1977: el método de Sanger y el 
+de Maxam–Gilbert, siendo el primero el más popular. Ambos se basan en la 
+generación de una población de moléculas marcadas radiactivamente, que 
+representan todos los tamaños y combinaciones posibles. El producto de cada 
+una de las cuatro reacciones se somete, en cuatro carriles independientes, a 
+electroforesis en gel de poliacrilamida y se revela siguiendo los métodos 
+clásicos de autorradiografía. Las manchas aparecidas indican la bases 
+presentes en cada posición de la secuencia. 
+
+ 
+El método de Maxam–Gilbert se basa en la rotura química de DNA de 
+
+cadena sencilla (ssDNA) cuyo extremo 5’ está marcado radiactivamente. Las 
+roturas se realizan de forma controlada y específica. Controlada (esto es, 
+limitada) para que se genere una población de fragmentos con todas las 
+posibles combinaciones y longitudes. Específica, rompiendo la cadena 
+nucleotídica de cuatro formas diferentes: en C; en C o T; en G; y finalmente en 
+G o A. 
+
+2 
+
+
+
+ 
+El procedimiento de Sanger emplea una DNA polimerasa que copia la 
+
+cadena molde a ssDNA en presencia de una mezcla de reacción que contiene 
+los cuatro desoxinucleósidos trifosfato (dNTP) y una pequeña cantidad de un 
+didesoxinucleósido trifosfato (ddNTP), que es un análogo del primero. El 
+análogo se diferencia del dNTP normal en que el carbono 3’ de la desoxirribosa 
+también presenta, al igual que el 2’, un –H en vez de –OH. Se llevan a cabo 
+cuatro reacciones en paralelo, cada una de las cuales contiene un ddNTP 
+(ddATP, ddCTP, ddGTP, ddTTP, respectivamente). La DNA polimerasa es 
+capaz de incorporar el análogo en la cadena que se sintetiza, pero como éste 
+carece de extremo 3’–OH, dicha enzima es incapaz de unirle el siguiente 
+nucleótido y por consiguiente se “termina” la reacción. Es por ello que esta 
+técnica recibe también el nombre de terminación de didesóxidos y los ddNTPs 
+suelen denominarse “terminadores”. 
+
+ 
+ 
+
+3. SISTEMAS COMERCIALES NO RADIACTIVOS 
+ 
+Recientemente se han desarrollado métodos no radioactivos para 
+
+secuenciar ácidos nucleicos, que generan resultados comparables e incluso 
+superiores a los producidos con isótopos. Incluyen sistemas manuales y 
+automatizados. 
+
+ 
+Los sistemas manuales no radiactivos son similares a los isotópicos, con la 
+
+diferencia de que emplean marcadores como la digoxigenina de 
+BoehringerMannheim Biochemicals (Mannheim, Alemania; 
+<http://www.boehringer-mannheim.com> y <http://biochem.boehringer-
+mannheim.com>) ahora parte de Roche Molecular Biochemicals (F. Hoffmann-
+La Roche, Basel, Switzerland; <http://www.roche.com>). Dichas moléculas 
+pueden acoplarse a un anticuerpo para producir una reacción 
+quimioluminiscente o coloreada. Las bandas generadas se interpretan como en 
+el caso de los sistemas clásicos radiactivos. 
+
+ 
+Estos sistemas pueden complementarse con el uso de nuevas enzimas 
+
+como la ThermoSequenase (equivalente a la AmpliTaqFS, descrita más abajo) 
+y los cebadores y terminadores fluorescentes “DYEnamic ET” de transferencia 
+de energía desarrollados por AmershamPharmacia Biotech (Uppsala, Suecia; 
+<http://www.apbiotech.com>), producto de la fusión entre 
+AmershamLifeSciences (Little Chalfont, Reino Unido; 
+<http://www.amersham.co.uk>, <http://www.amersham.com> y 
+<http://www.nycomed-amersham.com>) y PharmaciaBiotech (Uppsala, Suecia; 
+<http://www.biotech.pharmacia.se>). 
+
+ 
+Entre los sistemas automatizados no radiactivos existen básicamente dos 
+
+opciones: la electroforesis en gel de poliacrilamida y la electroforesis capilar. 
+ 
+
+3.1. Basados en electroforesis en gel de poliacrilamida (PAGE) 
+ 
+La ventaja principal de los sistemas de secuenciación basados en la 
+
+electroforesis de geles de poliacrilamida (PAGE; “PolyAcrylamide Gel 
+Electrophoresis”) es que permiten leer un mayor número de bases. El límite 
+actual para geles de unos 90 cm es de unas 1400 bases con un 99% de 
+
+3 
+
+
+
+precisión. Su principal inconveniente es que son tediosos (hay que preparar el 
+gel, limpiar los cristales y cargar manualmente las muestras), lentos y entrañan 
+un cierto riesgo (manipulación de acrilamida monomérica, que es neurotóxico y 
+neurocarcinógeno). 
+
+ 
+Gene ReadIR DNA Sequencing/Analysis System (Li-Cor, Lincoln, NE, USA; 
+
+<http://www.licor.com>). Se trata de un sistema personal cuya principal ventaja 
+es su costo moderado. Su principal desventaja es que permite secuenciar un 
+número reducido de muestras. Su fundamento es similar al sistema Alf 
+(descrito a continuación), con la salvedad de que utiliza un láser de infrarrojos 
+que se supone más fiable para detectar ácidos nucleicos y menos sensible a 
+interferencias proteicas de la muestra. 
+
+ 
+ALFexpress II DNA Analysis System (AmershamPharmaciaBiotech). Emplea 
+
+cebadores marcados con un único fluoróforo para llevar a cabo cuatro 
+reacciones independientes que se cargan en cuatro carriles diferentes del gel 
+de poliacrilamida. Su principal desventaja es que al usar un solo fluoróforo no 
+permite realizar las cuatro reacciones (correspondientes a cada clon) en un 
+solo tubo. Del mismo modo, es necesario cargar cada una de las cuatro 
+reacciones/clon en cuatro carriles diferentes en el gel de poliacrilamida, que 
+debido a ello debe ser bastante ancho. 
+
+ 
+Vistra DNA Labstation 625 (AmershamPharmaciaBiotech). Puede emplear 
+
+tanto la química de cebadores marcados como la más cómoda, rápida, barata y 
+popular de terminadores marcados. Su principal desventaja es que no permite 
+la elevada productividad del ABI PRISM 377, descrito a continuación. 
+
+ 
+ABI PRISM 377 (PerkinElmer/AppliedBiosystems, Foster City, CA, USA; 
+
+<http://www.perkin-elmer.com>), que sustituye a modelos anteriores (ABI 373, 
+373A y 373Stretch). Es, con diferencia, el sistema de secuenciación PAGE más 
+versátil y potente del mercado. Permite emplear tanto la química de cebadores 
+como la de terminadores (didesoxinucleótidos) marcados con cuatro fluoróforos 
+diferentes. Ello hace posible poder llevar a cabo las cuatro reacciones en un 
+mismo tubo y cargarlas en un solo carril del gel. Así, pueden secuenciarse en 
+cada electroforesis 24, 32, 36, 48, 64 y hasta 96 clones diferentes. Asimismo, 
+soporta diferentes longitudes de gel que permiten leer entre 200 y 1000 bases. 
+Con ello se pueden conseguir rendimientos de hasta 96 kpb/gel. La mayor 
+parte del Proyecto del Genoma Humano y Proyectos Accesorios se llevan a 
+cabo con esta máquina. Esta empresa fabrica también otros secuenciadores 
+menos poderosos (aunque más baratos), como el ABI PRISM 310 Genetic 
+Analyzer, cuya principal ventaja es que está basado en electroforesis capilar, 
+por lo que no requiere preparar geles de poliacrilamida (ver más abajo). 
+
+ 
+3.2. Basados en electroforesis capilar (CE) 
+
+ 
+Los sistemas de secuenciación basados en electroforesis capilar (CE; 
+
+“capillary electrophoresis”) son muy recientes y está claro que representan la 
+próxima generación de secuenciación automática. Su ventaja principal es 
+justamente ésa: el proceso se automatiza todavía más, siendo por ello muy 
+cómodos. Basta colocar las reacciones de secuenciación en las placas 
+microtiter y la máquina se encarga del resto. Además son mucho más rápidos y 
+el operario no tiene que manipular directamente la acrilamida (no hay que 
+
+4 
+
+
+
+preparar gel). Su inconveniente es que las lecturas obtenidas (unas 500 bases 
+con 99% de precisión) son menores que las que se consiguen mediante PAGE. 
+Además, el costo por reacción es aproximadamente el doble que el de los 
+sistemas basados en gel. 
+
+ 
+ABI PRISM 310 Genetic Analyzer (Perkin-Elmer/AppliedBiosystems). Fue el 
+
+primer sistema comercial de secuenciación mediante electroforesis capilar. 
+Cada lectura es de unas 500 bases con un 99% de precisión, realizándose en 
+2 horas. Procesa secuencialmente grupos de hasta 48 ó 96 muestras. La 
+puesta apunto se lleva a cabo en 10 minutos, funcionando después sin 
+necesidad del operario. Ya ha sido anunciado su sucesor, probablemente 
+llamado ABI PRISM 3100, que constará de 12 capilares en paralelo y será 
+comercializado en 1999. 
+
+ 
+CEQ 2000 DNA Analysis System (BeckmanCoulter, Fullerton, CA, USA; 
+
+<http://www.beckman.com> y <http://www.beckmancoulter.com>). Acaba de 
+ser presentado y consta de 8 capilares que trabajan en paralelo, secuenciando 
+8 muestras en 2 horas. El sistema está automatizado, pudiendo secuenciar 
+hasta 96 muestras en 24 h sin intervención del usuario. El tiempo requerido 
+para configurar el sistema es de 10 minutos por programa (de 2 a 24 horas). 
+
+ 
+MegaBACE 1000 DNA Sequencing System (Molecular Dynamics, 
+
+Sunnyvale, CA, USA; <http://www.mdyn.com>). También acaba de ser 
+presentado y consta de 96 capilares que secuencian en paralelo 96 muestras 
+en 2 horas. Cada lectura es de unas 500 bases con un 99% de precisión. El 
+sistema está automatizado, pudiendo secuenciar hasta 1.100 muestras (500 x 
+1.100 = 550.000 bases) en 24 h sin intervención del usuario. El tiempo 
+requerido para configurar el sistema es de 10 minutos por programa (de 2 a 24 
+horas; de 1 a 1.100 muestras). La tecnología MegaBACE 1000 ha sido 
+licenciada por diversas empresas, entre las que se encuentran 
+AmershamPharmaciaBiotech y BeckmanCoulter. 
+
+ 
+ABI PRISM 3700 DNA Analyzer (PerkinElmer/Applied Biosystems). Es 
+
+probablemente el mejor sistema del mercado. Estará disponible a principios de 
+1999, siendo muy parecido al MegaBACE, aunque con una mayor 
+productividad. El sistema puede procesar 1.536 muestras en 16 grupos de 96 
+(32 horas) sin intervención del operario. El tiempo requerido para configurar el 
+sistema es de 10 minutos por programa (de 2 a 32 horas; de 1 a 1.536 
+muestras). 
+
+ 
+ 
+
+4. PERSPECTIVAS FUTURAS DE LA SECUENCIACIÓN 
+ 
+Debido al ímpetu generado por el Proyecto del Genoma Humano, se está 
+
+investigando intensamente para desarrollar sistemas de secuenciación mucho 
+más eficientes que los actuales. Por una parte se investiga en la optimización 
+de los sistemas automáticos existentes para incrementar su eficacia entre diez 
+y cien veces. Como ejemplo podría citarse secuenciadores automáticos con 
+cientos o incluso miles de capilares en fase de desarrollo por Perkin-
+Elmer/AppliedBiosystems. Por otra parte, se está investigando en tecnologías 
+radicalmente diferentes, cuyo objetivo es alcanzar rendimientos entre cien y mil 
+veces superiores a los disponibles con las técnicas actuales. Cabe destacar las 
+
+5 
+
+
+
+basadas en la secuenciación de moléculas únicas de DNA. La mayor parte de 
+estos proyectos representan secretos industriales, por lo que su estado actual 
+de desarrollo es desconocido. 
+
+ 
+ 
+
+5. PREPARACIÓN DEL DNA RECOMBINANTE 
+ 
+Nota: como es habitual, la manipulación del material biológico debe 
+
+realizarse bajo las oportunas medidas de esterilidad, a fin de evitar 
+contaminaciones y degradación de las muestras. 
+
+ 
+El DNA a secuenciar (fragmento amplificado del gen araA de Salmonella 
+
+typhimurium) fue previamente insertado en el vector pGEM–5Zf(+) o 
+pBluescript (SK+) y clonado en Escherichia coli DH5αF’. 
+
+ 
+El primer paso para secuenciar dicho DNA es la purificación y cuantificación 
+
+del mismo. Para ello se han empleado los kits “QIAprep Spin Miniprep” o 
+“Magic Miniprep” (purificación) y “DNA DipStick” o espectrofotometría 
+(cuantificación), según se ha descrito detalladamente en las Sesiones 9 a 13 
+(“Clonación del DNA amplificado mediante PCR”) y 14 a 15 (“Purificación y 
+análisis del DNA recombinante”). 
+
+ 
+ 
+
+6. SECUENCIACIÓN 
+ 
+Una vez obtenido y purificado el DNA recombinante, puede procederse a su 
+
+secuenciación. Para ello emplearemos el secuenciador automático 373 Stretch 
+(PerkinElmer/AppliedBiosystems). 
+
+ 
+6.1. Metodología general 
+
+ 
+El 373 Stretch ofrece la posibilidad de emplear diferentes químicas y 
+
+estrategias de secuenciación. En nuestro caso usaremos el “ABI PRISM Dye 
+Terminator Cycle Sequencing Ready Reaction Kit” de terminadores. Éste utiliza 
+la enzima AmpliTaqFS, sustituyendo al “PRISM Ready Reaction DyeDeoxy 
+Terminator Cycle Sequencing” y al “Taq DyeDeoxy Terminator Cycle 
+Sequencing”, que usaban la AmpliTaq o la AmpliTaqCS. 
+
+ 
+La mezcla de reacción contiene, entre otros componentes, la DNA 
+
+polimerasa termoestable (p.ej., AmpliTaqFS), dNTP y ddNTP marcados con 
+cuatro fluoróforos diferentes (terminadores). La DNA polimerasa termoestable 
+copiará el DNA molde partiendo de cebadores universales (que aparean con 
+secuencias del vector) o específicos (de la secuencia clonada). En la reacción 
+de PCR asimétrica (lineal; no exponencial), que se repite 25 veces en un 
+ciclador térmico, se sintetizan cadenas de ssDNA de diferentes longitudes, 
+terminadas con un ddNTP fluorescente. 
+
+ 
+El exceso de terminadores fluorescentes libres se elimina mediante 
+
+columnas de exclusión molecular o por precipitación del DNA en etanol. A 
+continuación las muestras se secan y se almacenan en congelador o se 
+disuelven en la solución de carga y se someten a electroforesis, detección y 
+análisis por software específico. 
+
+6 
+
+
+
+ 
+6.2. Reacciones “Cycle Sequencing” con AmpliTaq o con AmpliTaqFS 
+
+ 
+Como se ha indicado anteriormente, usaremos bien el kit “ABI PRISM Dye 
+
+Terminator Cycle Sequencing Ready Reaction Kit” con AmpliTaqFS. También 
+se muestra el protocolo para AmpliTaq. 
+
+ 
+a).-Preparar una mezcla madre, según se indica en la tabla correspondiente, 
+
+compuesta por agua, premezcla terminadora y el cebador elegido. Repartir a 
+razón de 15 (AmpliTaq) o 18 (AmpliTaqFS) µl por tubo Eppendorf de 0,6 ml. 
+
+ 
+b).-Añadir, respectivamente, 5 ó 2 µl (= 1 ó 0,4 µg) del DNA a secuenciar 
+
+(plásmido de 3–4 kpb) por tubo de reacción para química con AmpliTaq o 
+AmpliTaqFS (véanse las tablas correspondientes). 
+
+ 
+c).-Añadir una gota de cera fundida a 70°C en la pared interior de cada tubo 
+
+para evitar la evaporación de la reacción durante su amplificación lineal. 
+ 
+d).-Colocar los tubos en un ciclador térmico (DNA Thermal Cycler 480, 
+
+Perkin Elmer, Norwalk, CT, USA; <http://www.perkin-elmer.com>) precalentado 
+a 96°C. 
+
+ 
+e).-Activar inmediatamente el siguiente perfil de PCR (programa 67): 
+
+ 
+96°C / 30 segundos 
+50°C / 15 segundos 
+
+60°C / 4 minutos 
+ 
+
+durante 25 ciclos. Apagar automáticamente (programa 0 = Shut Down). 
+ 
+f).-Purificar mediante columnas Sephadex G–50 o conservar a –20°C y 
+
+purificar posteriormente. En el caso de la química con AmpliTaqFS puede 
+purificarse también mediante precipitación del DNA con etanol (ver más 
+adelante). 
+
+ 
+ Tabla 1. Reacción de secuenciación (PRISM Ready Reaction DyeDeoxy Terminator con AmpliTaq) 
+ Para Para Para Para Para 
+
+1 clon 2 clones 3 clones 4 clones 5 clones 
+ Agua destilada “milli-      
+
+Q”(hasta 20 µl) 1,5 µl 3 µl {3,15} 4,5 µl {4,725} 6 µl {6,3} 7,5 µl {7,875} 
+ “Terminator Premix” 9,5 µl 19 µl {19,95} 28,5 µl {29,925} 38 µl {39,9} 47,5 µl {49,875}
+ “–21M13 Forward 4 µl 8 µl {8,4} 12 µl {12,6} 16 µl {16,8} 20 µl {21} 
+Primer” (0,8 pmol/µl) (3,2 pmol) (6,4 pmol) (9,6 pmol) (12,8 pmol) (16 pmol) 
+
+Mezclar bien y añadir a razón de 15 µl por tubo Eppendorf de 0,6 ml 
+ dsDNA de ~3-4 Kpb  
+
+(0,2 µg/µl) 5 µl (= 1 µg) por tubo de reacción 
+El volumen de reacción debe ser ahora de 20 µl 
+
+Añadir una gota de cera fundida a 70°C en la pared de cada tubo 
+Colocar en ciclador térmico precalentado a 96°C 
+
+Elegir el programa apropiado para realizar los siguientes 25 ciclos (programa 67): 
+ 
+
+96°C / 30 segundos 
+
+7 
+
+
+
+50°C / 15 segundos 
+60°C / 4 minutos 
+
+Apagar automáticamente (programa 0 = Shut Down) 
+Purificar mediante columnas Sephadex G–50 o conservar a –20°C 
+
+ 
+Nota: como es sabido, al pipetear se cometen errores. Por una razón 
+
+misteriosa, al repartir soluciones madre entre los tubos hijos, nunca sobra y —
+lo que es peor— no suele haber suficiente reactivo para el último tubo. Veamos 
+un truco para evitar este problema. En la tabla anterior, se reparte la mezcla 
+madre a razón de 15 µl por tubo. Asumiendo un error del 5%, ello supone ±0,75 
+µl de error por cada pipeteo. Para garantizar que el último tubo también recibe 
+sus correspondientes 15 µl de mezcla de reacción, puede incrementarse el 
+volumen total de la mezcla madre en 0,75 µl por cada pipeteo que se vaya a 
+hacer de la misma (entre llaves en la tabla anterior). Dicho con otras palabras, 
+un tubo serían 15 µl; 2 tubos serían 30 + (0,75 x 2) = 31,5 µl (lo cual supone 
+multiplicar la primera columna por 2,1); 3 tubos serían 45 + (0,75 x 3) = 47,25 µl 
+(lo cual supone multiplicar la primera columna por 3,15); 4 tubos serían 60 + 
+(0,75 x 4) = 63 µl (lo cual supone multiplicar la primera columna por 4’2); y 5 
+tubos serían 75 + (0,75 x 5) = 78,75 (lo cual supone multiplicar la primera 
+columna por 5,25). 
+
+ 
+ Tabla 2. Reacción de secuenciación (“ABI PRISM Dye Terminator Cycle Sequencing Ready Reaction
+Kit” con AmpliTaqFS) 
+ Para Para Para Para Para 
+
+1 clon 2 clones 3 clones 4 clones 5 clones 
+ Agua destilada “milli-Q”      
+
+(hasta 20 µl) 6 µl 12 µl {12,6} 18 µl {18,9} 24 µl {25,2} 30 µl {31,5}
+ “Terminator Premix” 8 µl 16 µl {16,8} 24 µl {25,2} 32 µl {33,6} 40 µl {42} 
+ “–21M13 Forward Primer” 4 µl 8 µl {8,4} 12 µl {12,6} 16 µl {16,8} 20 µl {21} 
+(0,8 pmol/µl) (3,2 pmol) (6,4 pmol) (9,6 pmol) (12,8 pmol) (16 pmol) 
+
+Mezclar bien y añadir a razón de 18 µl por tubo Eppendorf de 0,6 ml 
+ dsDNA de ~3-4 Kpb (0,2 µg/µl) 2 µl (= 0,4 µg) por tubo de reacción 
+
+El volumen de reacción debe ser ahora de 20 µl 
+Añadir una gota de cera fundida a 70°C en la pared de cada tubo 
+
+Colocar en ciclador térmico precalentado a 96°C 
+Elegir el programa apropiado para realizar los siguientes 25 ciclos (programa 67): 
+
+ 
+96°C / 30 segundos 
+50°C / 15 segundos 
+
+60°C / 4 minutos 
+Apagar automáticamente (programa 0 = Shut Down) 
+
+Purificar mediante precipitación con etanol o —mejor— mediante columnas Sephadex G–50; 
+o conservar a –20°C para su posterior purificación 
+
+ 
+Nota: como es sabido, al pipetear se cometen errores. Por una razón 
+
+misteriosa, al repartir soluciones madre entre los tubos hijos, nunca sobra y —
+lo que es peor— no suele haber suficiente reactivo para el último tubo. Veamos 
+un truco para evitar este problema. En la tabla anterior, se reparte la mezcla 
+madre a razón de 18 µl por tubo. Asumiendo un error del 5%, ello supone ±0,9 
+µl de error por cada pipeteo. Para garantizar que el último tubo también recibe 
+sus correspondientes 18 µl de mezcla de reacción, puede incrementarse el 
+volumen total de la mezcla madre en 0,9 µl por cada pipeteo que se vaya a 
+
+8 
+
+
+
+hacer de la misma (entre llaves en la tabla anterior). Dicho con otras palabras, 
+un tubo serían 18 µl; 2 tubos serían 36 + (0,9 x 2) = 37,8 µl (lo cual supone 
+multiplicar la primera columna por 2,1); 3 tubos serían 54 + (0,9 x 3) = 56,7 µl 
+(lo cual supone multiplicar la primera columna por 3,15); 4 tubos serían 72 + 
+(0,9 x 4) = 75,6 µl (lo cual supone multiplicar la primera columna por 4,2); y 5 
+tubos serían 90 + (0,9 x 5) = 94,5 (lo cual supone multiplicar la primera 
+columna por 5,25). 
+
+ 
+6.3. Purificación de productos (eliminación de terminadores) 
+
+ 
+La reacción de secuenciación se realiza en presencia de un exceso de 
+
+nucleótidos y didesoxinucleótidos. Este exceso es particularmente significativo 
+en el caso de la química de terminadores y AmpliTaq. Con la AmpliTaqFS se 
+utiliza una concentración mucho menor de terminadores en la reacción. Al estar 
+los terminadores marcados fluorescentemente, es necesario eliminarlos de las 
+muestras antes de someterlas a electroforesis en el secuenciador automático. 
+
+ 
+ATENCIÓN: es muy importante eliminar completamente los terminadores 
+
+fluorescentes. En caso contrario producirán un exceso de fluorescencia que 
+saturará al detector del secuenciador, ocultando los datos útiles. 
+
+ 
+Nota: los terminadores presentan carga eléctrica e interaccionan con la 
+
+acrilamida, por lo que su migración es de hecho bastante errática, 
+distribuyéndose principalmente en el frente de la reacción, pero también en 
+diferentes tramos de ésta. 
+
+ 
+Describiremos tres protocolos para purificar las reacciones de 
+
+secuenciación, antes de ser cargadas en el gel de poliacrilamida para ser 
+sometidas a electroforesis y detección por fluorescencia inducida por láser. 
+
+ 
+El método mejor para eliminar los terminadores es la exclusión molecular 
+
+mediante columnas de Sephadex G–50. De hecho, éste es el único método 
+que funciona bien con la química de terminadores que emplea AmpliTaq (la 
+cual se realiza con un exceso de terminadores). Esta química ha sido 
+abandonada por Perkin–Elmer en favor de la que emplea AmpliTaqFS y una 
+concentración mucho menor de terminadores. Ello permite poder usar otros 
+métodos de eliminación de los mismos que no estaban aconsejados con la 
+química de la AmpliTaq: la precipitación con etanol. 
+
+ 
+Nota: debe tenerse en cuenta que el lavado con etanol es más cómodo que 
+
+la exclusión molecular, pero puede dejar trazas de terminadores en el frente de 
+electroforesis (generalmente no afectan la lectura) y —lo cual puede ser más 
+grave— hacer perder las secuencias más pequeñas (aspecto que se puede 
+controlar hasta cierto punto en el tiempo de precipitado en etanol). Este último 
+inconveniente es irrelevante cuando el primer tramo de la secuencia no es útil 
+(por ejemplo, cuando se secuencia usando cebadores universales, las primeras 
+decenas de bases pueden corresponder al vector), pero puede ser importante 
+cuando se secuencian productos de PCR directamente o cuando hay poca 
+distancia entre el extremo 3´–OH del cebador y la secuencia problema. Así, 
+pues, el orden de limpieza y consistencia es: exclusión molecular > etanol con 
+lavado > etanol sin lavado. Por orden de comodidad, el orden sería justamente 
+el contrario. Estos aspectos empíricos deberán ser determinados por el 
+
+9 
+
+
+
+investigador para elegir el mejor método de purificación para cada aplicación 
+de secuenciación. 
+
+ 
+Nota: recientemente, Perkin–Elmer ha desarrollado un método para eliminar 
+
+los terminadores presentes en la muestra mediante una incubación de los 
+productos de reacción con fosfatasa alcalina (de gamba o ternera). 
+Actualmente se encuentra en fase de experimentación y disponible en internet 
+a través del Dr. Shiaw-Min Chen vía eMail en <chensm@perkin-elmer.com> o 
+<chensm@ccmail.apldbio.com>. El Dr. Chen trabaja para Perkin–
+Elmer/AppliedBiosystems, cuyo servidor WWW es <http://www.perkin-
+elmer.com>. 
+
+ 
+6.4. Purificación de productos (eliminación de terminadores) por 
+exclusión molecular (columnas Sephadex G–50) 
+
+ 
+Nota: este método de purificación por exclusión molecular es el más 
+
+consistente, aunque también requiere una mayor inversión de tiempo y costo. 
+Generalmente se emplea en la química de terminadores con AmpliTaq, así 
+como con la AmpliTaqFS cuando se quiere leer el máximo de bases en la zona 
+inicial de la secuencia. 
+
+ 
+a).-Preparar jeringas con tapones de fibra sintética Perlón (disponible en 
+
+acuarios) esterilizada en autoclave. Para ello arrancar un poco (muy poco) de 
+fibra sintética con unas pinzas estériles y colocarla sobre una jeringa de 
+insulina de 1 ml desprovista de émbolo. Introducir la fibra hasta el fondo de la 
+jeringa con la ayuda de una pipeta Pasteur suficientemente larga. 
+
+ 
+b).-Llenar las jeringas con Sephadex G–50. Para ello emplear una pipeta 
+
+Pasteur provista de tetina, succionar la resina del lecho, introducir la punta de 
+la pipeta hasta el fondo de la jeringa. Liberar la resina mientras se retira la 
+pipeta Pasteur poco a poco, procurando que no se formen burbujas de aire. 
+Colocar cada jeringa rellena de resina en un tubo de plástico de 10 ml y 1,5 cm 
+Ø para que drene el agua libremente. Si fuera necesario —generalmente lo 
+es— añadir más resina para rellenar completamente la jeringa. 
+
+ 
+c).-Secar la resina centrifugando las columnas (colocadas en el interior de 
+
+los tubos de plástico) en centrífuga Mixtasel (Selecta, Barcelona, España) a 
+1000g (~2.500 rpm) durante 1 minuto. Eliminar el agua drenada. 
+
+ 
+d).-Colocar un tubo Eppendorf de 1,5 ml con el tapón cortado (puede ser 
+
+necesario cortar también el borde de la boca para que quepa) en el interior de 
+cada tubo de plástico. Acoplar la jeringa rellena de resina. 
+
+ 
+e).-Añadir 80 µl de agua destilada a cada tubo Eppendorf conteniendo la 
+
+reacción de secuenciación. 
+ 
+f).-Usar una micropipeta tipo P200 (Gilson, Villiers–le–Bel, Francia) ajustada 
+
+a 150 µl para perforar la barrera de cera que separa el producto de reacción del 
+agua añadida. Sacar la punta y expulsar el tapón de cera en el interior del tubo 
+Eppendorf. Introducir de nuevo la punta de la pipeta hasta el fundo del tubo y 
+succionar todo el líquido (reacción+agua). 
+
+ 
+
+10 
+
+
+
+Nota: de esta forma se consigue recuperar la práctica totalidad de la 
+reacción de secuenciación, ya que el agua añadida sobre la cera acaba 
+lavando el fondo del tubo, al ser succionada por la pipeta. 
+
+ 
+g).-Aplicar lentamente y con sumo cuidado la solución (conteniendo la 
+
+reacción de secuenciación) al centro de la resina Sephadex G–50 contenida en 
+la jeringa. 
+
+ 
+ATENCIÓN: es muy importante que la resina Sephadex G–50 no se seque 
+
+en las columnas. En caso contrario no se eliminarían completamente los 
+terminadores. Evitar por consiguiente dejar las columnas rellenas al aire 
+durante mucho tiempo. Si fuera necesario, éstas pueden almacenarse a 4°C en 
+un vaso de precipitados herméticamente cerrado y provisto de un fondo de 
+agua para mantener la humedad. 
+
+ 
+ATENCIÓN: es muy importante aplicar las muestras en el centro de la resina 
+
+contenida en la jeringa. Asimismo, el flujo debe ser lo suficientemente bajo 
+como para permitir que el líquido sea absorbido por la resina, sin llegar a 
+drenar hacia el espacio entre el cilindro de resina y la pared de plástico de la 
+jeringa. Si ello sucediera, los terminadores que contuviera no serían retenidos 
+por la resina, contaminando la muestra. 
+
+ 
+h).-Centrifugar las columnas a 1000g durante 1 minuto en la centrífuga 
+
+basculante previamente utilizada. 
+ 
+i).-Eliminar las columnas y recoger (en tubos Eppendorf nuevos de 0,6 ó 1,5 
+
+ml) el líquido drenado, que debe contener las muestras purificadas. 
+ 
+Nota: para sacar los tubos Eppendorf cortados que contienen las muestras 
+
+purificadas del interior de los tubos de plástico, utilizar unas pinzas estériles. 
+ 
+j).-Concentrar las muestras en un evaporador tipo SpeedVac SVC100 
+
+(Savant, Farmingdale, NY, USA) durante unas 2 horas. 
+ 
+ATENCIÓN: es muy importante encender la trampa de vacío del evaporador 
+
+al menos dos horas antes de su uso, para asegurar que no entren vapores en 
+el aceite de la bomba. 
+
+ 
+ATENCIÓN: para evitar la pérdida de las muestras, es esencial seguir el 
+
+siguiente orden en el manejo del evaporador: para concentrar, colocar las 
+muestras, cortar el circuito de aire, activar la centrífuga, arrancar la bomba, 
+abrir el circuito de aire. Para recoger las muestras: cortar el circuito de aire, 
+apagar la bomba, abrir lentamente la entrada de aire, apagar la centrífuga y 
+acceder a las muestras. 
+
+ 
+k).-Guardar a –20°C. 
+ 
+Nota: las muestras secadas de esta forma son estables durante meses. 
+ 
+
+6.5. Purificación de productos (eliminación de terminadores) por 
+precipitación con etanol (protocolo 1 con lavado) 
+
+ 
+
+11 
+
+
+
+Nota: este método de purificación por precipitación con etanol y lavado no 
+proporciona resultados tan consistentes como la purificación por exclusión 
+molecular, pero generalmente es suficiente cuando se trabaja secuenciando 
+con la enzima AmpliTaqFS y no se requiere leer el máximo de bases en la 
+zona inicial de la secuencia. Es el que seguiremos en esta sesión. 
+
+ 
+a).-Para cada reacción de secuenciación, preparar un tubo Eppendorf de 1,5 
+
+ml que contenga 2 µl de acetato de sodio 3M (pH 4,6) y 50 µl de etanol (95%). 
+ 
+b).Añadir todo el volumen de reacción de secuenciación (20 µl). Agitar 
+
+mediante vórtex para mezclar bien. Incubar en hielo picado durante 10 min. 
+ 
+Nota: la incubación en hielo es importante para favorecer la precipitación de 
+
+los fragmentos de DNA más pequeños. Si se incubara más de 24 h, se 
+incrementaría también la precipitación de terminadores. Algunos protocolos 
+recomiendan incubar a temperatura ambiente en vez de en hielo picado; 
+deberá ser determinado por el investigador, según las condiciones ambientales 
+de su laboratorio. 
+
+ 
+c).-Centrifugar a máxima velocidad (16.000 g) durante 15 – 30 min (p.ej., 20 
+
+min). 
+ 
+d).Decantar o aspirar con sumo cuidado el sobrenadante. Eliminar todo el 
+
+sobrenadante (o sea, terminadores) que sea posible con cuidado de no perder 
+la pella. Para ello, dejar drenar boca abajo sobre papel de filtro. 
+
+ 
+Nota: a veces, la pella puede ser difícil de ver a simple vista. 
+ 
+e).-Lavar la pella añadiendo 250 µl de etanol (70%). Algunos protocolos 
+
+usan etanol frío sacado del congelador a –20°C. 
+ 
+f).-(opcional). Centrifugar a máxima velocidad (16.000 g) durante 15 – 30 
+
+min. Otros protocolos indican 5 min. 
+ 
+g).Decantar o aspirar con sumo cuidado el sobrenadante. Eliminar todo el 
+
+sobrenadante que sea posible con cuidado de no perder la pella. Para ello, 
+dejar drenar boca abajo sobre papel de filtro. 
+
+ 
+h).-Acabar de secar la pella bajo vacío (5 min) o —mejor— en estufa a 37°C 
+
+(10 min). También puede dejarse secar el tubo boca abajo a temperatura 
+ambiente toda la noche e incluso días. 
+
+ 
+Nota: como se desprende de lo dicho, los restos de etanol pueden 
+
+eliminarse manteniendo el tubo boca abajo durante un tiempo, dejándolo 
+escurrir sobre un papel absorbente, colocándolo boca abajo u horizontal en una 
+estufa a 37°C, con la ayuda de un evaporador bajo vacío (SpeedVac), o incluso 
+usando papel higiénico estéril o bastoncillos de papel o algodón estériles para 
+eliminar manualmente las gotas e líquido que queden. Según nuestra 
+experiencia, un secado prolongado al aire (un día) consigue secuencias más 
+limpias (con menos terminadores). 
+
+ 
+i).-Guardar a –20°C. 
+
+12 
+
+
+
+ 
+Nota: las muestras secadas de esta forma son estables durante meses. 
+ 
+
+6.6. Purificación de productos (eliminación de terminadores) por 
+precipitación con etanol (protocolo 2 sin lavado) 
+
+ 
+Nota: este método de purificación por precipitación con etanol sin lavado es 
+
+el más cómodo, aunque puede dejar trazas de terminadores que pudieran 
+interferir con la detección. Su eficiencia deberá confirmarse empíricamente por 
+el investigador en cada caso. 
+
+ 
+a).-Para cada reacción de secuenciación, preparar un tubo Eppendorf de 1,5 
+
+ml que contenga 35 µl de etanol (95%). 
+ 
+b).Añadir todo el volumen de reacción de secuenciación (20 µl). Agitar 
+
+mediante vórtex para mezclar bien. Incubar en hielo picado durante 10 min. 
+ 
+c).-Centrifugar a máxima velocidad (15.000 g) durante 15 – 30 min. 
+ 
+d).Decantar o aspirar con sumo cuidado el sobrenadante. Eliminar todo el 
+
+sobrenadante (o sea, terminadores) con cuidado de no perder la pella. Para 
+ello, dejar drenar boca abajo sobre papel de filtro. 
+
+ 
+Nota: en este protocolo es especialmente importante asegurarse de que 
+
+todo el sobrenadante es eliminado. En caso contrario, los terminadores 
+contaminantes interferirán con la detección y análisis de las secuencias. 
+
+ 
+Nota: a veces, la pella puede ser difícil de ver a simple vista. 
+ 
+e).-Acabar de secar la pella bajo vacío (1 a 3 min), en termobloque a 90°C (1 
+
+min) o —mejor— en estufa a 37°C (10 min). 
+ 
+Nota: los restos de etanol pueden eliminarse manteniendo el tubo boca 
+
+abajo durante un tiempo, dejándolo escurrir sobre un papel absorbente, 
+colocándolo boca abajo u horizontal en una estufa a 37°C, con la ayuda de un 
+evaporador bajo vacío (SpeedVac), o incluso usando papel higiénico estéril o 
+bastoncillos de papel o algodón estériles para eliminar manualmente las gotas 
+e líquido que queden. 
+
+ 
+f).-Guardar a –20°C 
+ 
+Nota: las muestras secadas de esta forma son estables durante meses. 
+ 
+
+6.7. Preparación del gel de secuenciación 
+ 
+ATENCIÓN: el 373 Stretch soporta geles con diferentes longitudes. Debido a 
+
+ello, los volúmenes de gel necesarios así como su concentración de acrilamida 
+pueden ser diferentes. Es muy importante utilizar la concentración apropiada 
+para cada caso. Las diferentes concentraciones de acrilamida y la longitud del 
+gel se muestran en la tabla siguiente. En esta práctica prepararemos un gel de 
+34 cm WTR (Full Scan) con 4,75% de acrilamida o un gel de 48 cm WTR (Full 
+Scan) con 4,25% de acrilamida. 
+
+13 
+
+
+
+ 
+ Tabla 3. Tipos de geles soportados por el 373 Stretch
+“Sequencer/GeneScan” 
+Well–To–Read Tipo de “Scan” Concentración Volumen de 
+(WTR) del gel gel a 
+
+(% acrilamida)* preparar* 
+ 6 GeneScan ‡ 30 
+ 12 GeneScan ‡ 40 
+ 24 Sequencer 6,00 60 
+
+(Full Scan) 
+ 24 Sequencer 4,75 60 
+
+(BaseSprinter)
+ 34 Sequencer 4,75 80 
+
+(Full Scan) 
+ 34 Sequencer 4,25 80 
+
+(BaseSprinter)
+ 48 Sequencer 4,00 100 
+
+(Full Scan) 
+(*): Estos datos han sido obtenidos del manual del 373Stretch 
+suministrado por Perkin–Elmer. Algunos de ellos han sido 
+mejorados, como se indica en esta práctica (Tablas 4 y 5). 
+(‡): Para GeneScan, usar las concentraciones descritas en el
+manual “GeneScan 672” 
+
+ 
+Nota: Well–To–Read (WTR) es la distancia recorrida por la muestra antes 
+
+de ser detectada por el sensor; en otras palabras, es la distancia entre el fondo 
+de los pocillos donde se deposita la muestra y la ventana de lectura del 
+láser/detector. 
+
+ 
+Nota: el modelo 373 Stretch presenta la ventana de lectura más abajo que el 
+
+modelo 373A previo, incrementando el valor WTR para un cristal dado. Así, los 
+cristales previamente catalogados como de “24 cm” (para el 373A) 
+corresponden ahora a cristales “34 cm” (cuando se usan con el 373 Stretch). 
+
+ 
+a).-Preparar los cristales para recibir el gel. Para ello lavarlos con detergente 
+
+Alconox de Sigma–Aldrich (Steinheim, Alemania; <http://www.sigma-
+aldrich.com>) y una esponja, aclararlos con agua del grifo y finalmente con 
+agua destilada. Dejarlos secar al aire. Lavar el prepeine y los espaciadores (en 
+su caso) con agua. Dejarlos secar. Colocar los espaciadores en los laterales de 
+los cristales y fijar el “sandwich” mediante tres pinzas en cada lateral del 
+“sandwich”. 
+
+ 
+Nota: con el protocolo que se describe a continuación ya no es necesario 
+
+sellar el sandwich con cinta adhesiva amarilla de Sigma–Aldrich (Saint Louis, 
+MO, USA; <http://www.sigma-aldrich.com>) como se hacía antes: ahora el gel 
+se carga horizontalmente y no verticalmente. 
+
+ 
+ATENCIÓN: colocar una bayeta o —mejor— una alfombrilla de caucho o 
+
+goma en el fondo y lateral del fregadero donde se limpien los cristales para 
+evitar romperlos. 
+
+ 
+
+14 
+
+
+
+ATENCIÓN: es MUY importante que la zona externa del cristal pequeño 
+(que presenta las “orejas”) quede siempre hacia el exterior del “sandwich”. Ello 
+es así porque dicha zona se pone en contacto con una cinta de goma del 
+secuenciador y queda “impregnada” de dicha goma de forma que se crearían 
+burbujas de aire al formarse el gel si dicha zona se coloca dentro del 
+“sandwich” de cristales. Es muy fácil determinar qué zona del cristal ha estado 
+previamente en contacto con la goma: basta añadir agua y comprobar si ésta 
+corre libremente (cristal virgen) o forma una línea a 1 cm del borde del cristal 
+(cristal con goma). 
+
+ 
+Nota: para facilitar el vertido del gel (ver más adelante), preparar un “bolsillo” 
+
+en la apertura del “sandwich” con cinta amarilla o blanca. 
+ 
+Nota: a continuación se describe la receta para preparar un gel de 
+
+secuenciación. Actualmente es posible comprar soluciones pre–mezcladas que 
+simplifican mucho su preparación. Una de ellas (que usaremos en esta sesión) 
+es la denominada “Gel–Mix 4.25FA Sequencing Gel Solution” de Life 
+Technologies (antes, GibcoBRL) (Rockville, MD, USA; 
+<http://www.lifetech.com>). Consta de acrilamida (4,04% p/v) + bis–acrilamida 
+(0,21% p/v) + urea (6 M) + tris–borato (89 mM) + Na2EDTA (2,2 mM) + TEMED 
+(3,7 mM). Se presenta en forma de solución, de modo que para convertirla en 
+gel sólo es necesario añadir 5 µl de persulfato amónico (APS) al 10% (p/v) por 
+cada ml de gel preparado. Este protocolo se resume en la tabla siguiente y 
+sustituye los apartados “a” a “h” y la Tabla 5 (que se mantienen como 
+referencia o por si se desea preparar un gel en ausencia de la pre–mezcla 
+comercial). 
+
+ 
+ Tabla 4. Preparación del gel de secuenciación (ingredientes pre–mezclados*) 
+ 34 cm WTR 24 cm WTR 12 y 24 cm WTR 
+
+“BaseSprinter” “BaseSprinter” “FullScan” 
+y y (pre–mezcla con 
+
+48 cm WTR 34 cm WTR 6% acrilamida) 
+“FullScan” “FullScan” 
+
+(pre–mezcla con (pre–mezcla con 
+4,25% acrilamida) 4,75% acrilamida) 
+
+ Pre–mezcla con    
+
+ 4,25% acrilamida 46 ml — — 
+ Pre–mezcla con    
+
+ 4,75% acrilamida — 46 ml — 
+ Pre–mezcla con    
+
+ 6,00% acrilamida — — 46 ml 
+ 10% APS (“fresco”) 230 µl 230 µl 230 µl 
+
+Mezclar agitando MUY suavemente 
+Verter entre los cristales 
+
+Utilizar después de 2 h y antes de 24 h 
+(*): como se indica en el texto, las “pre–mezclas” al 4,25; 4,75 ó 6,00 % constan de 
+
+todos los componentes del gel, excepto el APS. 
+ 
+
+b).-Según se indica en la tabla siguiente, pesar 23 g de urea, añadir 5,5 (34 
+cm WTR) o 4,9 (48 cm WTR) ml de 40% acrilamida (19:1) y 14,4 (34 cm WTR) 
+o 14,8 (48 cm WTR) ml de agua. 
+
+ 
+
+15 
+
+
+
+c).-Añadir 0,46 g de una resina de intercambio iónico (Amberlita). 
+ 
+d).-Calentar suavemente (no más de 37°C) y agitar con “mosca” hasta 
+
+disolver completamente (10 min). 
+ 
+e).-Filtrar a través de una membrana hidrofílica con 22 µm de diámetro de 
+
+poro. 
+ 
+f).-Desgasificar bajo vacío en baño de ultrasonidos durante 5 minutos. 
+ 
+g).-Añadir 9,3 (34 cm WTR) o 9,2 (48 cm WTR) ml de 5x TBE y 1,15 (34 cm 
+
+WTR) o 3 (48 cm WTR) ml de agua (volumen final = 46 ml). 
+ 
+h).-Añadir los activadores de la polimerización de la acrilamida: 207 (34 cm 
+
+WTR) o 231 (48 cm WTR) µl de APS “fresco” (con menos de una semana) y 
+20,7 (34 cm WTR) o 23,1 (48 cm WTR) de TEMED (N,N,N´,N´–
+Tetramethylethylenediamine). Agitar muy suavemente para mezclar. 
+
+ 
+i).-Colocar el sandwich horizontalmente (o —mejor— levemente levantado 
+
+por la parte superior). Asegurarse de que la cinta que forma el “bolsillo” está 
+bien pegada. Verter la solución del gel en el centro de la zona creada por el 
+“bolsillo”. Rellenar el bolsillo con gel (no dejar que se seque) a la vez —y esto 
+es importante— que se dan golpecitos enérgicos y breves en la zona del frente 
+para ayudar al avance de la solución y evitar la formación de burbujas. Una vez 
+relleno el sandwich, despegar el “bolsillo” y meter el prepeine hasta el fondo 
+con cuidado de que no se formen burbujas de aire 
+
+ 
+Nota: con el protocolo antiguo (que todavía algunos prefieren) se colocaba 
+
+el sandwich formando un ángulo de unos 45° y se vertía la solución del gel 
+entre los cristales sellados por cinta amarilla. Cuando quedaban unos 3 cm por 
+rellenar, se despegaba el “bolsillo”, se tumbaba el “sandwich” hasta que la 
+acrilamida saliera al exterior y se metía el prepeine hasta el fondo con cuidado 
+de que no se formen burbujas de aire. 
+
+ 
+Nota: en el protocolo antiguo, si se formaran burbujas, dejar de añadir 
+
+acrilamida y volcar el sandwich lateralmente hasta eliminarlas. Continuar 
+añadiendo la solución del gel entre los cristales. 
+
+ 
+Nota: en ambos protocolos, pueden eliminarse burbujas introduciendo un 
+
+alambre suficientemente fino en forma de ojiva desde el fondo del sandwich. 
+Por ejemplo, la referencia 3-200-00 de ATBiochem. 
+
+ 
+j).-Colocar de nuevo el “bolsillo” para cerrar la zona donde se encuentra el 
+
+prepeine, colocar tres pinzas sobre el mismo y dejar el “sandwich” en posición 
+horizontal. 
+
+ 
+Nota: conviene aislar al máximo la zona superior del gel del aire, ya que el 
+
+oxígeno es un inhibidor de la polimerización de la acrilamida. 
+ 
+k).-Guardar el gel a temperatura ambiente. Usar el gel después de 2 h y 
+
+antes de 24 h. 
+ 
+
+16 
+
+
+
+ATENCIÓN: es muy importante usar geles que tengan entre 2 y 24 horas 
+para conseguir resultados óptimos. No obstante, el mismo gel puede 
+reutilizarse (con resultados inferiores) para varias electroforesis, siempre que 
+se eliminen los restos de la electroforesis precedente. 
+
+ 
+ATENCIÓN: en invierno suele suceder un fenómeno curioso en laboratorios 
+
+no climatizados (sin calefacción central). Este fenómeno ocurre típicamente 
+cuando la temperatura baja a unos 15 °C y tiene tres efectos o consecuencias. 
+En primer lugar, la urea suele polimerizar mientras se está filtrando la mezcla 
+que la contiene (junto con las acrilamidas y el TBE). El problema se resuelve 
+calentando la mezcla a 37 °C durante 5 ó 10 min. En segundo lugar, el gel no 
+polimeriza bien. Aunque aparentemente está perfecto, al hacer la electroforesis 
+aparecen bandas gruesas en posiciones no esperadas y otras distorsiones 
+extrañas que parecen debidas a interferencias de los sistemas óptico–
+electrónicos del secuenciador automático. En realidad, se deben a que la urea 
+ha cristalizado en el interior de la matriz del gel, inutilizándolo para su función. 
+Este problema se resuelve preparando y polimerizando el gel en una habitación 
+a ≥20°C. En tercer lugar, los resultados de la secuenciación son también 
+extraños, siendo debido a que en las condiciones de arriba (baja temperatura), 
+el gel necesita ≥20 horas para polimerizar perfectamente. Resumiendo, todos 
+estos efectos no deseados se eliminan preparando y polimerizando el gel a 
+temperatura suave y dejando la polimerización más tiempo. 
+
+ 
+ Tabla 5. Preparación del gel de secuenciación (ingredientes separados) 
+ 34 cm WTR 24 cm WTR 12 y 24 cm WTR 
+
+“BaseSprinter” “BaseSprinter” “FullScan” 
+y y (6% acrilamida) 
+
+48 cm WTR 34 cm WTR 
+“FullScan” “FullScan” 
+
+(4,25% acrilamida) (4,75% acrilamida) 
+ Urea 23 g 23 g 23 g 
+ 40% acrilamida (19:1) 4,914498 ≈ 4,9 ml 5,489539 ≈ 5,5ml 6,934155 ≈ 6,9 ml
+ Agua destilada “milli-Q” 15,359502 ≈ 15,4 ml 14,78446≈14,8 ml 13,339845≈13,3ml
+ Amberlita 0,46 g 0,46 g 0,46 g 
+
+Agitar con “mosca en estufa a ≤37°C hasta disolver completamente (~10 min) 
+Filtrar a través de membrana hidrófila (nitrato de celulosa) con 0,22 µm Ø poro 
+
+Desgasificar bajo vacío en baño ultrasonidos durante 5 minutos 
+ 5x TBE 9,24554 ≈ 9,2 ml o 9,24554 ≈ 9,2 ml 9,24554 ≈ 9,2 ml 
+
+9,25082≈9,3ml(48cmWTR)
+ Agua destilada “milli-Q” ~1,15 ml o ~1,15 ml ~1,15 ml 
+
+~3 ml (48 cm WTR) (hasta 46 ml) (hasta 46 ml) 
+(hasta 46 ml) 
+
+ 10% APS (“fresco”) 207 µl o 207 µl 207 µl 
+231 µl (48 cm WTR) 
+
+ TEMED 20’7 µl o 20,7 µl 20,7 µl 
+23’1 µl (48 cm WTR) 
+Mezclar agitando MUY suavemente 
+
+Verter entre los cristales 
+Utilizar después de 2 h y antes de 24 h 
+
+ 
+Nota: el volumen de gel que conviene preparar para los geles de 34 y 48 cm 
+
+WTR es el mismo (46 ml) porque el primero, aunque es más pequeño (34 cm 
+
+17 
+
+
+
+WTR), tiene espaciadores de 0,4 mm (Volumen = 40,8 cm alto • 22,2 cm ancho 
+• 0,04 cm ancho = 36,23 ml). El segundo es más largo (48 cm WTR), pero tiene 
+espaciadores de sólo 0,3 mm (Volumen = 57,6 cm alto • 20,2 cm ancho • 0,03 
+cm ancho = 34,91 ml). Así, preparando 46 ml sobrarán unos 10 (34 cm WTR) u 
+11 (48 cm WTR) ml. 
+
+ 
+Nota: en el caso de 34 cm WTR, el volumen “V” de la solución de acrilamida 
+
+al 40% necesario para producir un gel de 46ml+(207+20,7)µl=46,2277ml de 
+volumen final y “x” % de acrilamida será: 
+
+ 
+V (ml) acrilamida al 40% = (46,2277 • x)/40 = 1,1556925•x 
+
+ 
+Por tanto, el volumen de agua necesario será: 
+ 
+
+V (ml) de agua = 20,274 – [V (ml) acrilamida al 40%] 
+ 
+Nota: en el caso de 48 cm WTR, el volumen “V” de la solución de acrilamida 
+
+al 40% necesario para producir un gel de 46ml+(231+23,1)µl=46,2541ml de 
+volumen final y “x” % de acrilamida será: 
+
+ 
+V (ml) acrilamida al 40% = (46,2541 • x)/40 = 1,1563525•x 
+
+ 
+Por tanto, el volumen de agua necesario será: 
+ 
+
+V (ml) de agua = 20,274 – [V (ml) acrilamida al 40%] 
+ 
+Nota: los volúmenes de la tabla anterior están ajustados para preparar un 
+
+gel de 34 ó 48 cm WTR. Para geles menores puede prepararse menos 
+volumen, reduciendo proporcionalmente los componentes. 
+
+ 
+Nota: los geles deben prepararse bajo condiciones constantes para 
+
+asegurar la reproducibilidad de la polimerización. Factores como la pureza de 
+los reactivos y agua, el tiempo de desgasificación, la presión parcial de oxígeno 
+o la temperatura ambiente pueden afectar la polimerización y 
+consiguientemente las características físicas y eléctricas del gel. 
+
+ 
+l).-Cuando se vaya a utilizar el gel, quitarle las pinzas y cintas adhesivas. 
+
+Colocar bajo el grifo y lavar completamente los restos de acrilamida. Retirar el 
+prepeine con cuidado y volver a lavar con agua del grifo y finalmente con agua 
+destilada. Dejar escurrir unos segundos y secar con papel de filtro. 
+
+ 
+m).-Lavar bien el prepeine. Secar y guardar. 
+ 
+n).-Colocar la cubeta inferior en la cámara de secuenciación del 373 Stretch 
+
+y el gel sobre la misma. Fijar el gel con las sujeciones laterales. Cerrar la 
+ventana de lectura del láser. 
+
+ 
+ATENCIÓN: cuando se empleen cristales de 34 cm WTR, comprobar que el 
+
+cristal descansa sobre los dos bloques atornillados del fondo de la cubeta. Para 
+el resto de electroforesis, aflojar el tornillo y desplazar el bloque para que los 
+cristales descansen más abajo. 
+
+ 
+
+18 
+
+
+
+ATENCIÓN: no añadir aún el electrolito, por si fuera necesario desmontar el 
+sistema para su limpieza (ver más adelante). 
+
+ 
+o).-Cerrar la cámara de electroforesis. 
+ 
+
+6.8. Preparación del secuenciador: 373 Stretch 
+ 
+a).-Levantar el interruptor (“Circuit Breaker”) del transformador del 
+
+secuenciador (colocado a la derecha del mismo). 
+ 
+b).-Una vez realizado este paso —y sólo entonces— pulsar el interruptor 
+
+general del secuenciador (situado en la parte izquierda frontal, abajo). El 
+secuenciador debe ponerse en marcha. 
+
+ 
+Nota: si el secuenciador no se pusiera en marcha, apagar la máquina y el 
+
+transformador, comprobar que el magnetotérmico (situado en una caja en la 
+pared) se encuentra activado y que hay corriente en la línea. Volver al apartado 
+“a)”. 
+
+ 
+Tras arrancar la máquina y después de un minuto y 35 segundos, la pantalla 
+
+de cristal líquido del secuenciador se debe activar mostrando el estado del 
+mismo. 
+
+ 
+ABI DNA SEQUENCER VER. 2.10 
+
+(Press Main Menu to begin) 
+ 
+
+c).-Presionar “Main Menu”. La pantalla mostrará: 
+ 
+
+Set–up Start Choose Self Cali- 
+Run Pre–run Run Test bration 
+
+ 
+d).-Comprobar el tipo de filtro seleccionado en la máquina. Para ello 
+
+presionar “Calibration”, “Configure” y “more”. Debe obtenerse la siguiente 
+lectura: 
+
+ 
+Filter sequence = 531, 560, 580, 610; Set A 
+
+ change more 
+ 
+
+En caso contrario deberá verse: 
+ 
+
+Filter sequence = 531, 545, 560, 580; Set B 
+ change more 
+
+ 
+Si estuviera instalado el “Set B”, presionar change para que aparezca el “Set 
+
+A” 
+ 
+Nota: cada “Set” representa un conjunto de cuatro filtros que la máquina 
+
+empleará para detectar la fluorescencia inducida por el láser. El “Set A” se 
+utiliza con la química estándar (AmpliTaq o AmpliTaqFS) y la mayor parte de 
+GeneScan, mientras que el “Set B” se reserva para la química de “Sequenase 
+T7 Terminator” y “GeneScan TET Amidite”. 
+
+ 
+
+19 
+
+
+
+e).-Presionar “Set–up Run”. Aparecerá la siguiente pantalla: 
+ 
+
+Scan delay Timer Volt mAmp Watt 
+01:00 7:00 2500 40 32 
+
+ 
+f).-En su caso, modificar “Scan delay” a una hora (34 cm WTR) u hora y 
+
+media (48 cm WTR) y “Timer” a un número de horas entre 7 y 13 (34 cm WTR) 
+o 18 (48 cm WTR) h, dependiendo de la longitud de secuencia que se desee 
+leer. La potencia estará a 32 W (34 cm WTR) o a 38 W (48 cm WTR). Para 
+modificar estos valores emplear las teclas con flechas para moverse entre los 
+campos y el teclado numérico para editar los valores. 
+
+ 
+Nota: el sistema eléctrico del secuenciador se configura siguiendo al 
+
+parámetro más bajo. De modo que si se quiere correr a potencia constante 
+(asterisco en 32 ó 38 W), conviene que el valor de voltios sea alto (p.ej., 2500), 
+al igual que la intensidad de corriente (p.ej., 40 mAmp). De este modo se 
+consigue que el asterisco se vaya al vataje (ver más adelante), 
+reconfigurándose los valores de diferencia de potencial y amperaje 
+proporcionalmente (como es sabido, W = V•Amp). 
+
+ 
+g).-Activar “Start Pre–run” en la pantalla del “Main Menu” y luego “Plate 
+
+Check”. Tras unos segundos, el láser comenzará a funcionar y el secuenciador 
+enviará al Mac datos correspondientes a cuatro barridas usando los cuatro 
+filtros previamente seleccionados. 
+
+ 
+Nota: en este momento el Mac debe estar activo y con la aplicación “Data 
+
+Collection” en pantalla (ver más abajo). 
+ 
+h).-Activar “Scan” en la pantalla del Mac. Aparecerá un sistema de 
+
+coordenadas cuyo eje Y representa el valor de la fluorescencia inducida por el 
+láser, mientras que el eje X corresponde a la anchura del gel. 
+
+ 
+i).-Aparecerán cuatro líneas de colores, que representan la respuesta del 
+
+sensor a cada uno de los filtros empleados. Colocar la punta de la flecha del 
+cursor (ratón) tocando la línea cuyo valor de Y sea menor (generalmente 
+corresponde con el color azul). El valor de Y debe estar entre 800 y 1000 
+(aparece en el margen inferior izquierdo de la ventana). En caso contrario, 
+debe incrementarse o reducirse el voltaje del fotomultiplicador. 
+
+ 
+Nota: el valor de Y suele incrementar un poco una vez que la máquina se 
+
+calienta. Conviene pues dejar el “Scan” funcionando durante unos cinco 
+minutos para asegurarse de que la lectura es correcta. 
+
+ 
+j).-Para alterar el valor del fotomultiplicador, presionar “Calibration” en la 
+
+pantalla del “Main Menu”. aparecerá la siguiente ventana: 
+ 
+
+Set Version Fluor Gain Con- 
+Clock 2.10 Check Set figure 
+
+ 
+k).-Presionar “Fluor Check”. Aparecerá la siguiente pantalla: 
+
+ 
+PMT voltage is 495 volts 
+
+20 
+
+
+
+ change 
+ 
+
+l).-Utilizar las teclas numéricas para introducir el valor deseado. Presionar 
+“change”. Volver al apartado “h)”. Repetir el proceso tantas veces como sea 
+necesario para obtener una lectura de Y entre 800 y 1000. 
+
+ 
+m).-Por otra parte, si las líneas observadas en la pantalla del Mac tras 
+
+realizar el “Scan” presentaran picos, debe volverse a limpiar la zona de lectura 
+del láser, incluyendo los cristales y la propia tapa de cierre de la ventana. Una 
+vez realizada la limpieza, proceder de nuevo a comprobar el “Scan” (apartado 
+h). Repetir el proceso tantas veces como sea necesario para conseguir líneas 
+lo más rectas posibles y sin picos marcados. 
+
+ 
+Nota: los papeles tipo Kleenex son excelentes porque no dejan rastro de 
+
+celulosa. 
+ 
+ATENCIÓN: conviene usar agua y no alcohol para la limpieza de los 
+
+cristales, ya que el alcohol puede llevar sustancias contaminantes que 
+fluorezcan. 
+
+ 
+n).-Una vez conseguido un gel limpio y con un valor de Y correcto, colocarle 
+
+el peine apropiado (generalmente, 24 o 36 dientes de tiburón) con cuidado. 
+ 
+ATENCIÓN: asegurarse que la anchura del gel corresponde con la de los 
+
+espaciadores usados para crearlo. 
+ 
+ATENCIÓN: asegurarse que el gel no está apretado por los tornillos 
+
+superiores del soporte de alineamiento (ver más adelante). En tal caso no 
+podría introducirse bien el peine, que podría romperse. 
+
+ 
+ATENCIÓN: el peine debe introducirse de forma uniforme en toda su 
+
+longitud. Meterlo hasta que entre ~0,5 mm en el gel de acrilamida. Ésta no 
+debe “combarse”. 
+
+ 
+Nota: existen peines con y sin numeración. Generalmente es conveniente 
+
+usar los provistos de numeración. 
+ 
+o).-Colocar el soporte de alineamiento (“Alignment brace”) o barra de 
+
+metacrilato y apretar los dos tornillos laterales. 
+ 
+ATENCIÓN: no apretar demasiado los tornillos (¡podría romperse el soporte 
+
+de alineamiento!). Generalmente basta con que estén ligeramente apretados. 
+ 
+Nota: usar un soporte de alineamiento sin numeración (en el caso de que el 
+
+peine estuviera marcado), y viceversa. 
+ 
+p).-Añadir 1X TBE a la cubeta superior hasta que quede 1,5 cm para llegar 
+
+casi al borde. Llegar hasta el borde para electroforesis de 18 o más horas. 
+ 
+ATENCIÓN: Comprobar que el electrolito no gotea. En caso contrario, 
+
+apretar un poco más los tornillos. Si no dejara de gotear, sacarlo con una 
+jeringa o vaso de precipitados, limpiar con papel de filtro, retirar el sandwich, 
+
+21 
+
+
+
+secar todo bien y volver a colocar el sandwich apretando bien los tornillos. 
+Repetir hasta que no gotee. ¡ NUNCA AÑADIR GRASA ! 
+
+ 
+q).-Añadir 1X TBE a la cubeta inferior hasta que quede 1,5 cm para llegar 
+
+casi al borde. Llegar hasta el borde para electroforesis de 18 o más horas. 
+ 
+r).-Conectar los cables eléctricos de las cubetas superior e inferior. 
+ 
+
+6.9. Preparación del secuenciador: Macintosh 
+ 
+a).-Enciende el Mac pulsando la tecla de arranque situada en el extremo 
+
+superior derecho del teclado. 
+ 
+b).-Desactiva todos las extensiones del sistema que no sean estrictamente 
+
+necesarias para el software de recogida y análisis de datos del 373 Stretch. 
+Para ello accede al botón “CC” (ConflictCatcher) de la barra principal de menús 
+y selecciona “Set this BEFORE a run”. 
+
+ 
+Nota: aunque no es absolutamente necesario, la inactivación de las 
+
+extensiones del sistema (p. ej., antivirus, protectores de pantalla, red, etc) 
+elimina posibles riesgos de conflicto y caída del sistema. 
+
+ 
+c).-Introduce los iconos (alias) “Data Collection” y “Sequence Analysis”, que 
+
+están sobre el escritorio, en la carpeta “Items Arranque. Mete o saca aquí” (que 
+es en realidad un alias de la carpeta “Items de Arranque” situada en la carpeta 
+del sistema del Mac). 
+
+ 
+Nota: mediante este paso se consigue que arranquen automáticamente los 
+
+programas “Data Collection” y “Sequence Analysis” después de un eventual 
+corte del flujo eléctrico. 
+
+ 
+d).-(opcional). Usa un destornillador para girar a derechas (y meter) el 
+
+tornillo situado en la parte derecha trasera del Mac. Se trata en realidad de un 
+interruptor. El Mac debe reiniciarse en ese momento, arrancando 
+automáticamente las aplicaciones Data Collection y Sequence Analysis. 
+
+ 
+Nota: mediante este paso se consigue que arranque el Mac después de un 
+
+corte del flujo eléctrico. De hecho, en estas circunstancias es imposible apagar 
+el Mac desde el menú del escritorio (“Apagar Equipo”). 
+
+ 
+Nota: este paso puede eliminarse si se dispone de un SAI (Sistema de 
+
+Alimentación Ininterrumpida) de 20.000 voltios, y con una autonomía de media 
+hora a pleno rendimiento y de 5 a seis horas cuando está conectado el 
+373Stretch sólo (que es lo que sucede, por ejemplo, al dejar secuenciando 
+durante la noche). 
+
+ 
+e).-Si no lo hubiera hecho, reiniciar el Mac. Acceder a Data Collection. 
+
+Seleccionar “Settings” del menú “Edit”. Teclear los datos requeridos: duración 
+de electroforesis, matriz a usar (Instrument File), tipo de peine empleado y 
+química (terminadores, cebadores). Marcar con una “X” la opción “Analyze all 
+samples”. No seleccionar el resto de opciones (“Plot Raw Data”, “Plot Analyzed 
+Data”). 
+
+22 
+
+
+
+ 
+f).-Abrir “New Sample Sheet” del menú “File”. Rellenar la hoja con los datos 
+
+requeridos: nombre de la muestra, comentarios y química. Los “auto settings” 
+se autoconfiguran como su nombre indica. Sólo hay que tener en cuenta que si 
+en un carril se escribe algo y luego se deja vacío, conviene ir a “auto settings” y 
+borrar la X de “automatic analysis” que el Mac habrá puesto automáticamente. 
+
+ 
+g).-El Mac ya está listo para recoger datos: sólo hace falta activar “Collect” 
+
+(ver más adelante). 
+ 
+
+6.10. Aplicación de las muestras al gel de secuenciación 
+ 
+a).-Añadir a cada reacción (previamente secada) de 3 a 4 µl (ver tabla 
+
+siguiente) de la mezcla de carga (5 formamida : 1 Na2EDTA) con o sin 
+colorante. Agitar vigorosamente con vórtex para disolver el residuo seco. 
+Centrifugar durante 5 segundos a máxima velocidad (16.000 g) para recoger 
+todo el volumen en el fondo. 
+
+ 
+ Tabla 6. Volúmenes de carga para diferentes geles y peines 
+del ABI 373Stretch 
+ Peine Volumen 
+
+(pocillos) (µl) 
+ 24 y 34 cm WTR 24 4–6 (100%) 
+ 24 y 34 cm WTR 32 ó 36 3–4 (75–100%) 
+ 48 cm WTR 32 ó 36  2–4 (50–100%) 
+
+ 
+ATENCIÓN: la muestra disuelta de esta forma debe cargarse en el gel de 
+
+secuenciación en las siguientes horas. 
+ 
+Nota: con AmpliTaqFS y peine de 36 pocillos, se obtienen buenos 
+
+resultados disolviendo la muestra en 4 µl y cargando 3 µl en el pocillo del gel. 
+ 
+b).-Una vez que el gel este dispuesto para recibir las muestras, calentarlas a 
+
+90°C durante 2 minutos para desnaturalizar el dsDNA. Colocar los tubos 
+inmediatamente en hielo picado. 
+
+ 
+Nota: para conseguir un enfriamiento más rápido de las muestras y obtener 
+
+los mejores resultados, desnaturalizar las muestras en una gradilla. Colocarla 
+después en hielo durante unos segundos. Sacarla y volver a pinchar los tubos 
+en otro lugar del hielo picado. Realizar este proceso 3 ó 4 veces hasta que los 
+tubos se enfríen. 
+
+ 
+c).-Justo antes de cargar las muestras en el gel, lavar los pocillos con una 
+
+jeringa conteniendo solución amortiguadora de la cubeta superior para eliminar 
+la urea presente. 
+
+ 
+ATENCIÓN: es muy importante lavar bien los pocillos justo antes de cargar 
+
+las muestras. La omisión de este paso provocará la aparición de bandas 
+borrosas en la imagen del gel, debido a la presencia de urea en el pocillo. 
+
+ 
+d).-Cargar todas las muestras impares usando la micropipeta de 
+
+secuenciación “Drummond 25 µl” (Sigma, Saint Louis, MO, USA). 
+
+23 
+
+
+
+ 
+ATENCIÓN: es esencial lavar bien la punta en el electrolito inferior después 
+
+de cada muestra cargada. 
+ 
+Nota: no debe cambiarse la punta de la micropipeta Drummond; está 
+
+diseñada para ser reutilizada. 
+ 
+ATENCIÓN: es muy importante NO cargar dos pocillos contiguos de forma 
+
+sucesiva. Deben cargarse de forma alterna (por ejemplo, primero impares; 
+luego pares). Si no se cumplen esta regla, el software puede tener problemas 
+para interpretar dónde acaba y donde empieza cada muestra/carril. Asimismo, 
+es muy importante no dejar huecos (carriles) sin cargar entre las muestras. Al 
+menos no dejar huecos de más de dos carriles. En caso contrario el software 
+puede tener problemas a la hora de asignar el número correcto a cada carril 
+cargado. 
+
+ 
+e).-Una vez cargada la primera serie de muestras en el gel (ver más abajo), 
+
+presionar “Start Pre–run” en el “Main Menu” y someter a electroforesis durante 
+5 (34 cm WTR) ó 6 (48 cm WTR) minutos. Aparecerá el siguiente menú en la 
+pantalla del 373 Stretch: 
+
+ 
+Alter Monitor Abort Self Cali- 
+Run Run Run Test bration 
+
+ 
+Nota: para comprobar las condiciones de electroforesis, seleccionar “Monitor 
+
+Run”. Para alterar dichas condiciones, presionar “Alter Run”. 
+ 
+f).-Transcurridos los 5 ó 6 minutos, abortar la electroforesis presionando 
+
+“Abort Run”. Confirmar. 
+ 
+g).-Lavar de nuevo los pocillos. 
+ 
+h).-Cargar las muestras pares. 
+ 
+i).-Una vez cargada la segunda serie de muestras en el gel, presionar “Start 
+
+Pre–run” en el “Main Menu” y someter a electroforesis durante 5 (34 cm WTR) 
+ó 6 (48 cm WTR) minutos. 
+
+ 
+j).-Transcurridos los 5 ó 6 minutos, abortar la electroforesis presionando 
+
+“Abort Run”. Confirmar. 
+ 
+k).-Lavar de nuevo los pocillos. 
+ 
+Nota: este segundo lavado no es crítico, pero mejora el avance uniforme de 
+
+las muestras durante la electroforesis. 
+ 
+ATENCIÓN: al finalizar de cargar las muestras, no olvidar lavar la punta de 
+
+la micropipeta Drummondd con agua destilada y colocarle el canuto protector. 
+ 
+l).-Seleccionar “Choose Run” en “Main Menu”. Aparecerá la siguiente 
+
+pantalla: 
+ 
+
+24 
+
+
+
+GENESCAN SEQUENCE 
+RUN RUN 
+
+ 
+m).-Elegir “Sequence Run”. La pantalla cambiará a: 
+
+ 
+FULL BASE 
+SCAN SPRINTER 
+
+ 
+n).-Elegir “Full Scan” para leer en el gel completo (generalmente es la opción 
+
+utilizada). Elegir “Base Sprinter” cuando sólo se han cargado los 18 pocillos 
+centrales de un peine de 36 pocillos. 
+
+ 
+ñ).-La pantalla cambiará a (34 cm WTR): 
+
+ 
+Intrpt Timer Elapsed Volt mAmp Watt Temp 
+Run 12:59 00:01 1524 21 32* 40 
+
+ 
+…o a (48 cm WTR): 
+
+ 
+Intrpt Timer Elapsed Volt mAmp Watt Temp 
+Run 17:59 00:01 2000 19 38* 40 
+
+ 
+Nota: el asterisco en el valor de “Watt” indica que la electroforesis se realiza 
+
+a potencia constante. La temperatura de electroforesis es de 40°C. Los demás 
+valores de cada variable pueden oscilar algo respecto a los indicados arriba. 
+
+ 
+Nota: para alterar las condiciones de electroforesis, seleccionar “Alter Run” 
+
+en el “Main Menu”. 
+ 
+o).-Desarrollar la electroforesis el tiempo necesario (generalmente entre 7, 
+
+13 ó 18 horas). Generalmente la electroforesis se lleva a cabo durante la 
+noche. 
+
+ 
+p).-Activar “Collect” en el controlador de “373A Collection” de la pantalla del 
+
+Mac. Este aparecerá como una punta de flecha verde intermitente. También 
+puede activarse seleccionando “Start Collecting” del menú “Collect”. 
+
+ 
+ATENCIÓN: asegurarse que el 373 Stretch muestra un valor de potencia 
+
+constante en la pantalla de LCD y que “Collect” está activado e intermitente en 
+el Mac. 
+
+ 
+ATENCIÓN: cerrar todas las ventanas de la pantalla del Mac, excepto la del 
+
+controlador. 
+ 
+q).-Oscurecer la pantalla del Mac para evitar su desgaste (usar los controles 
+
+situados en el lateral derecho del monitor). 
+ 
+r).-Colocar un papel encima del teclado del Mac, indicando que se está 
+
+procediendo a secuenciar. 
+ 
+s).-Encender el aparato de aire acondicionado. Basta presionar una vez el 
+
+interruptor on/off del mando a distancia. 
+
+25 
+
+
+
+ 
+ATENCIÓN: es muy importante encender el aire acondicionado (que 
+
+siempre se fija en el mínimo), tanto en invierno como en verano. En caso 
+contrario la temperatura de la habitación se elevará demasiado, pudiendo 
+afectar a los sistemas electrónicos del secuenciador. 
+
+ 
+6.11. Post–secuenciación: 373 Stretch 
+
+ 
+Una vez realizada la secuenciación, es importante dejar la máquina en 
+
+perfectas condiciones para los siguientes usuarios. Proceder del siguiente 
+modo: 
+
+ 
+a).-Apagar el interruptor del 373 Stretch situado en la parte delantera 
+
+izquierda baja del mismo. 
+ 
+b).-Bajar el interruptor del transformador. 
+ 
+c).-Abrir la cámara de secuenciación y succionar con trompa de agua o 
+
+jeringa la solución amortiguadora de las cámaras superior e inferior. Secar con 
+papel absorbente la zona de contacto de la cámara superior con el cristal para 
+evitar que gotee y ensucie el cañón del láser. 
+
+ 
+d).-Desenchufar las conexiones de las cámaras de electroforesis. 
+
+Desatornillar el soporte de alineamiento y retirarlo. Retirar la cubeta superior. 
+Aflojar las sujeciones del gel (laterales y cámara de lectura) y retirar el conjunto 
+gel+cristales. 
+
+ 
+e).-Utilizar dos espátulas anchas para separar los cristales. Retirar los 
+
+espaciadores y el peine de dientes de tiburón. Tirar el gel de acrilamida. Para 
+ello basta colocar en posición vertical el cristal al que se encuentra adherido y 
+enrollarlo hacia abajo con un poco de papel. Lavar con agua del grifo primero y 
+destilada después los cristales, separadores, peine y cubetas de electroforesis. 
+Dejarlos escurrir en el soporte de plástico apropiado. 
+
+ 
+ATENCIÓN: No usar espátulas con sección corta, pues romperían el cristal. 
+
+Emplear espátulas de ‘albañil” con al menos 5 cm de hoja. 
+ 
+ATENCIÓN: colocar una bayeta o —mejor— una alfombrilla de caucho o 
+
+goma en el fondo y lateral del fregadero donde se limpien los cristales para 
+evitar romperlos. 
+
+ 
+f).-Secar y cerrar la cámara de electroforesis. 
+ 
+
+6.12. Post–secuenciación: Macintosh 
+ 
+Proceder de forma inversa a como se ha descrito anteriormente: 
+ 
+a).-Activa las extensiones del sistema. Para ello accede al botón “CC” 
+
+(ConflictCatcher) de la barra principal de menús y selecciona “Set this AFTER a 
+run”. 
+
+ 
+
+26 
+
+
+
+Nota: este paso es esencial, por ejemplo, para poder imprimir los resultados 
+de la electroforesis. 
+
+ 
+b).-Sacar los iconos (alias) “Data Collection” y “Sequence Analysis” de la 
+
+carpeta “Items Arranque. Mete o saca aquí” y dejarlos en el escritorio. 
+ 
+Nota: mediante este paso se evita que los programas “Data Collection” y 
+
+“Sequence Analysis” arranquen automáticamente cada vez que se encienda el 
+Mac. 
+
+ 
+c).-(en su caso). Usar un destornillador para girar a izquierdas (y sacar) el 
+
+tornillo situado en la parte derecha trasera del Mac. 
+ 
+Nota: mediante este paso se consigue que se pueda apagar el Mac desde el 
+
+menú del escritorio (“Apagar Equipo”). 
+ 
+d).-Cerrar todas las ventanas abiertas en el escritorio y seleccionar 
+
+“Reiniciar” del menú “Especial”. 
+ 
+e).-Proceder a visualizar los datos generados (gel, electroferogramas, 
+
+secuencias), grabarlos en disco magneto óptico, imprimirlos, etc 
+ 
+
+6.13. Análisis de resultados 
+ 
+El secuenciador 373 Stretch transfiere los datos obtenidos durante la 
+
+secuenciación al ordenador Apple Macintosh en tiempo real. Si este último se 
+ha configurado de forma apropiada, al acabar la recogida de datos 
+(electroforesis), el Mac procede automáticamente a analizarlos, generando la 
+imagen del gel y los fluorogramas y secuencias de las muestras cargadas 
+previamente. 
+
+ 
+Al acabar este proceso, el Mac mostrará una ventana “Error log” indicando 
+
+las incidencias de la secuenciación. Leerla (en su caso) y cerrarla. 
+ 
+Asimismo, se mostrará la ventana “Sample File Queue”, que consta de dos 
+
+subventanas (“Sample File Queue” y “Sample File Log”), donde aparecerán los 
+archivos para ser reanalizados o impresos, una vez seleccionad as las 
+opciones correspondientes (“Add for Printing”, “Add for Analysis”). En el caso 
+de un nuevo análisis, pueden elegirse varios algoritmos representados por 
+“Base Caller” (Adaptive, SemiAdaptive, ABI50, ABI100 y ABI200). 
+Generalmente se selecciona el ABI50 (34 cm WTR) o el ABI100 (48 cm WTR), 
+aunque en situaciones especiales (productos cortos de PCR, espaciamientos 
+anormales, etc) puede ser mejor elegir otros. Según nuestra experiencia, los 
+plásmidos secuenciados con geles de 48 cm WTR, se analizan mejor en el 
+373Stretch siguiendo el siguiente orden de algoritmos: ABI100 > Adaptive ≥ 
+SemiAdaptive > ABI50 > ABI200. 
+
+ 
+Los resultados generados pueden utilizarse tal cual o reanalizarse 
+
+manualmente si se desea alterar alguno de los parámetros del análisis 
+automático (eliminar la parte inicial o final de la lectura, alterar la numeración 
+de los carriles o la guía de lectura (tracking), cambiar la química si se cometió 
+un error en la hoja de datos, etc). 
+
+27 
+
+
+
+ 
+El secuenciador 373 Stretch dispone de manuales explícitos del 
+
+funcionamiento de la máquina (“373 DNA Sequencing System”) y del software 
+estándar correspondiente (“373 DNA Sequence Analysis Software”). Asimismo, 
+existe software específico de PerkinElmer: 
+
+ 
+Inherit. Se trata de un software muy potente de ensamblaje de secuencias 
+
+generadas por el 373 Stretch, así como análisis, comparación y búsqueda de 
+secuencias en bases de datos. 
+
+ 
+SeqEd. Para análisis de las secuencias y fluorogramas generados con el 
+
+373 Stretch. 
+ 
+SequenceNavigator. Ideal para detectar polimorfismos y mutaciones en 
+
+gran cantidad de secuencias. 
+ 
+AutoAssembler. Como su nombre indica, permite ensamblar las secuencias 
+
+generadas mediante el 373 Stretch. 
+ 
+Factura. Para análisis de fingerprinting generados mediante GeneScan. 
+ 
+Genotyper. Para convertir los datos de fingerprinting generados mediante 
+
+GeneScan en genotipos y árboles genealógicos. 
+ 
+Finalmente, las secuencias generadas pueden ser también analizadas con el 
+
+paquete LaserGene (DNAStar, Madison, WI, USA), según se comentó en la 
+Sesión 1. En esta práctica realizaremos un análisis de restricción de la 
+secuencia obtenida (mediante MapDraw), así como una comparación de la 
+misma frente a la base de datos GeneMan/EMBL (mediante GeneMan), cuyo 
+resultado debe ser el operón araBAD de Salmonella typhimurium y, más 
+específicamente, una porción del gen araA. Finalmente puede realizarse una 
+comparación de ambas secuencias (mediante Align o MegAlign). 
+
+ 
+ 
+
+7. BIBLIOGRAFÍA COMENTADA 
+ 
++ Applied Biosystems (1996): Comparative Sequencing. Applied Biosystems, 
+
+Perkin Elmer (Foster City, CA, USA; <http://www.perkin-elmer.com>). Libro 
+sobre las diferentes estrategias de secuenciación fluorescente con los 
+equipos 310, 373 y 377. Clasificación: TEORÍA ESPECÍFICO. 
+
++ Applied Biosystems (1995): ABI PRISM Dye Terminator Cycle Sequencing 
+Ready Reaction Kit. Part number 402078. Rev. A (August 1995). Applied 
+Biosystems, Perkin Elmer (Foster City, CA, USA; <http://www.perkin-
+elmer.com>). Manual de instrucciones del kit de secuenciación mediante 
+terminadores “PRISM” y AmpliTaqFS. Clasificación: PROTOCOLOS. 
+
++ Applied Biosystems (1994): 373 DNA Sequence Analysis Software. User’s 
+Manual. Part number 903205. Rev. A (May, 1994). Applied Biosystems, 
+Perkin Elmer (Foster City, CA, USA; <http://www.perkin-elmer.com>). 
+Manual de instrucciones del software “Analysis” del secuenciador automático 
+373 DNA Sequencer Stretch. Clasificación: PROTOCOLOS. 
+
++ Applied Biosystems (1995): ABI Prism DNA Sequence Analysis Software. 
+User’s Manual. Part number 903436. Rev. A (January, 1995). Applied 
+
+28 
+
+
+
+Biosystems, Perkin Elmer (Foster City, CA, USA; <http://www.perkin-
+elmer.com>). Manual de instrucciones del software “Analysis” del 
+secuenciador automático 373 DNA Sequencer Stretch. Clasificación: 
+PROTOCOLOS. 
+
++ Applied Biosystems (1994): 373 DNA Sequencing System. User’s Manual. 
+Part number 903204. Rev. A (June, 1994). Applied Biosystems, Perkin Elmer 
+(Foster City, CA, USA; <http://www.perkin-elmer.com>). Manual de 
+instrucciones del secuenciador automático 373 DNA Sequencer Stretch. 
+Clasificación: PROTOCOLOS. 
+
++ Applied Biosystems (1994): SeqEd 675. DNA Sequence Editor. User’s 
+Manual. Part number 901415. Rev. 1.00A (August, 1990). Applied 
+Biosystems, Perkin Elmer (Foster City, CA, USA; <http://www.perkin-
+elmer.com>). Manual de instrucciones del software “SeqEd” del 
+secuenciador automático 373 DNA Sequencer Stretch. Clasificación: 
+PROTOCOLOS. 
+
++ Applied Biosystems (1994): PRISM Ready Reaction DyeDeoxy Terminator 
+Cycle Sequencing Kit. Part number 401388. Rev. A (June 1994). Applied 
+Biosystems, Perkin Elmer (Foster City, CA, USA; <http://www.perkin-
+elmer.com>). Manual de instrucciones del kit de secuenciación mediante 
+terminadores “PRISM” y AmpliTaq. Clasificación: PROTOCOLOS. 
+
++ Ausubel FM, Brent R, Kingston RE, Moore DD, Seidman JG, Smith JA, Struhl 
+K (eds) (2005): “Current Protocols in Molecular Biology”. Vols 1 a 4. New 
+York: Greene & John Wiley (New York). Manual de protocolos. “La nueva 
+«Biblia» del Biólogo Molecular” actualizada trimestralmente. Clasificación: 
+PROTOCOLOS. 
+
+Brown TA (ed) (1991): “Molecular Biology LabFax”. Oxford: Bios Scientific 
+Publishers/Blackwell Scientific Publications. Compendio de datos útiles en 
+biología molecular. Clasificación: DATOS. 
+
+Cooper NG (1994): “The Human Genome Project. Deciphering the Blueprint of 
+Heredity” Mill Valley: USA. Divulgativo y a la vez con nivel y rigor científico. 
+Explica exhaustivamente el Proyecto del Genoma Humano y aspectos 
+relacionados. Interesante e instructivo. Recomendable. Clasificación: 
+TEORÍA DIVULGATIVO. 
+
++ DNAStar (2005): LaserGene for the Macintosh and PowerMacintosh. User’s 
+Manual. DNAStar (Madison, WI, USA; <http://www.dnastar.com>). Manual 
+de instrucciones del paquete de software de biología molecular “LaserGene”. 
+Clasificación: PROTOCOLOS. 
+
+Lario A, González A, Dorado G (1997): Automated laser-induced-fluorescence 
+DNA sequencing: equalizing signal–to–noise ratios significantly enhances 
+overall performance. Analytical Biochemistry 247: 30-33. Optimización del 
+protocolo de secuenciación para 373 Stretch. Clasificación: TEORÍA 
+ESPECÍFICO. 
+
+Maxam AM, Gibert W (1977): A new method of sequencing DNA. Proc Natl 
+Acad Sci USA 74:560–564. Descripción del protocolo de secuenciación 
+mediante degradación química (de Maxam–Gilbert). Clasificación: TEORÍA 
+ESPECÍFICO. 
+
++ Promega (2005): Magic Minipreps DNA Purification System. Plasmid 
+Miniprep. Instructions for isolating plasmid DNA from bacteria. Catalog 
+number A7100. Promega (Madison, WI, USA; <http://www.promega.com>). 
+Manual de instrucciones del kit “Magic Miniprep”. Clasificación: 
+PROTOCOLOS. 
+
+29 
+
+
+
++ Sambrook J, Russell D (2001): “Molecular Cloning. A Laboratory Manual”, 3rd 
+edition, Vols 1–3. New York: CSH Laboratory Press. Manual de protocolos. 
+“La «Biblia» clásica del Biólogo Molecular”. Clasificación: PROTOCOLOS. 
+
+Sanger F, Nicklen S, Coulson AR (1977): DNA Sequencing with chain–
+terminating inhibitors. Proc Natl Acad Sci USA 74:5463–5467. Descripción 
+del protocolo de secuenciación mediante análogos de nucleótidos 
+(didesoxinucleótidos o de Sanger). Clasificación: TEORÍA ESPECÍFICO. 
+
+Watson JD, Gilman M, Witkowski J, Zoller M (1992): “Recombinant DNA” New 
+York: Freeman and Company. Divulgativo y a la vez con nivel y rigor 
+científico. Clásico sobre Ingeniería Genética y sus aplicaciones. Claro, 
+didáctico y con numerosos esquemas e ilustraciones explicativas. Muy 
+recomendable. Clasificación: TEORÍA DIVULGATIVO. 
+
+ 
+Nota: las referencias fundamentales para la preparación de la sesión se indican 
+
+con el símbolo “+”. 
+ 
+ 
+AGRADECIMIENTOS 
+
+ 
+Proyecto PAFPU ‘FORMAPROFE’ ('UCO-N-031') de Formación del 
+
+Profesorado Universitario, Junta de Andalucía. 
+ 
+ 
+
+ANEXO 1: MEDIOS, SOLUCIONES Y MATERIAL BIOLÓGICO EMPLEADO 
+ 
+Pesar y añadir las cantidades que se indican en las tablas correspondientes, 
+
+disolver previamente en agua (en el caso de que se desee repartir entre botes) 
+y esterilizar en autoclave (“autoclavar”) a 120°C y 1 bar (= 1 kg/cm2) de presión 
+durante 20 minutos. 
+
+ 
+ATENCIÓN: comprobar que el autoclave tiene agua en el fondo. En caso 
+
+contrario, añadir agua destilada hasta la rejilla del fondo de la máquina. 
+Asimismo, comprobar que las salidas de agua y de aire se encuentran 
+cerradas. Si no se toman estas precauciones podría quemarse el autoclave. 
+
+ 
+ATENCIÓN: como norma general, no se deben autoclavar soluciones 
+
+concentradas de ácidos (clorhídrico, sulfúrico) o álcalis (NaOH). Como es 
+obvio, estas soluciones son “estériles” per se. Además, pueden dañar la 
+estructura de acero del autoclave. Tampoco se autoclavan soluciones 
+concentradas ni diluidas de disolventes orgánicos (acetona, tolueno, éter, 
+metanol, etanol, etc). En estos casos se autoclava la solución sin el disolvente 
+orgánico volátil. Éste se añade posteriormente cuando la temperatura de la 
+muestra es igual a la ambiente. En caso contrario, el disolvente volátil ¡se 
+evaporará completamente durante el proceso de esterilización en el autoclave! 
+
+ 
+Generalmente las soluciones se preparan en botes de vidrio tipo Pyrex, 
+
+excepto los que contienen álcalis, que se guardan en plástico. 
+ 
+
+Mezcla sólida acrilamida:bis–acrilamida (19:1) 
+ 
+ATENCIÓN: la acrilamida y la bis–acrilamida (N,N´–Methylene–bis–
+
+acrylamide o N,N´–Methylene–di–acrylamide) en estado de monómeros son 
+
+30 
+
+
+
+neurotóxicos y neurocarcinógenos. Para más información, consultar las 
+monografías de la Agencia Internacional para la Investigación sobre el Cáncer 
+(“International Agency for Research on Cancer”; IARC; <http://www.iarc.fr>) y 
+las publicaciones de la Organización Mundial de la Salud (“World Health 
+Organization”; WHO; <http://www.who.org>). Manipular el material sólido 
+monomérico con guantes y mascarilla dentro de una campana extractora. Está 
+terminantemente prohibido pesar la acrilamida fuera de la campana extractora. 
+La poliacrilamida (o sea, los monómeros polimerizados) no es peligrosa. 
+
+ 
+ Tabla 7. Mezcla sólida acrilamida:bis–acrilamida (19:1) 
+ Para 20 g Para 100 g Para 200 g 
+
+(g) (g) (g) 
+ Acrilamida 19 95 190 
+ Bis–acrilamida 1  5 10 
+
+Mezclar bien los polvos 
+Guardar a temperatura ambiente 
+
+ 
+ATENCIÓN: la acrilamida y bis–acrilamida son higroscópicas, por lo que se 
+
+apelmazan y forman grumos. Por tanto, es esencial pulverizar perfectamente 
+ambos componentes para obtener una mezcla correcta 19:1. 
+
+ 
+Solución 40% acrilamida:bis–acrilamida (19:1) 
+
+ 
+ATENCIÓN: la acrilamida es neurotóxica. Manipular la solución con guantes. 
+
+ 
+ Tabla 8. Solución 40% acrilamida:bis–acrilamida (19:1) 
+ Para 50 ml Para 100 ml Para 200 ml
+ Mezcla sólida acrilamida:bis–acrilamida (19:1) 20 g 40 g 80 g 
+ Agua destilada “milli-Q” 31,5 ml 63 ml 126 ml 
+
+Guardar a 4°C 
+ 
+
+Solución persulfato amónico (APS) 
+ 
+Disolver en agua, según se indica en la tabla. 
+
+ 
+ Tabla 9. Solución persulfato amónico (APS) 
+ Para 0,5 ml Para 1 ml Para 15 ml 
+ Persulfato amónico 0,05 g 0,1 g 1,5 g 
+ Agua destilada “milli-Q” 500 µl 1 ml 15 ml 
+
+Guardar a 4°C 
+USAR SOLUCIONES FRESCAS (≤ 1 SEMANA) 
+
+ 
+ATENCIÓN: la solución de persulfato amónico debe prepararse fresca. No 
+
+deben usarse soluciones con más de una semana. 
+ 
+
+Suspensión Sephadex G–50 
+ 
+La suspensión de Sephadex G–50 (Pharmacia, Suecia) se prepara en agua, 
+
+según se indica en la tabla siguiente. 
+ 
+
+ Tabla 10. Suspensión Sephadex G–50 
+ Para 100 ml Para 500 ml 
+
+31 
+
+
+
+ Azida sódica 0,02 g 0,1 g 
+ Agua destilada “milli-Q” Hasta 10 ml Hasta 500 ml 
+
+Añadir un poco de Sephadex G–50, agitar para que se 
+hidrate y seguir añadiendo hasta que sólo queden ~2 cm 
+
+de agua por encima del lecho de la resina 
+Guardar a 4 °C 
+
+ 
+ATENCIÓN: aunque no es necesario añadir azida sódica cuando la resina 
+
+se va a utilizar el mismo día, es recomendable añadirla si se desea conservar 
+la suspensión sin que se contamine por bacterias. 
+
+ 
+Nota: la azida sódica no interfiere con la detección en el secuenciador; esto 
+
+es, no es necesario lavar la resina al preparar las columnas de purificación de 
+las reacciones de secuenciación. 
+
+ 
+Fibra sintética Perlón 
+
+ 
+La fibra sintética Perlón puede adquirirse en acuarios (se usa para los filtros 
+
+de las peceras). Es mejor que la lana de vidrio, ya que no es tóxica y no 
+adhiere ácidos nucleicos. 
+
+ 
+ Tabla 11. Fibra sintética Perlón 
+
+Lavar la fibra con agua destilada (usar guantes) 
+Realizar tres baños sucesivos 
+
+Empaquetar en bolsas 
+Esterilizar en autoclave 
+
+Secar en estufa a 37°C durante toda la noche 
+Guardar a temperatura ambiente 
+
+ 
+Nota: dependiendo del origen de la fibra, puede no ser necesario lavarla ni 
+
+esterilizarla previamente. El lavado es necesario cuando la fibra presenta 
+sustancias fluorescentes que pudieran interferir con el secuenciador. La 
+esterilización es necesaria si la fibra está contaminada con nucleasas. 
+
+ 
+Solución formamida desionizada 
+
+ 
+Desionizar la formamida en presencia de una resina de intercambio iónico 
+
+como la Amberlite MB–1 (Sigma, USA). 
+ 
+
+ Tabla 12. Solución formamida desionizada 
+ Para 1 ml Para 10 ml 
+ Formamida 1 ml 10 ml 
+ Amberlita 0,1 g 1 g 
+
+Agitar con “mosca” magnética durante 30 minutos 
+Filtrar a través de membrana hidrófila (nitrato de celulosa) 
+
+con 0,22 µm Ø poro 
+Guardar a –20°C 
+
+ 
+Solución 50 mM EDTA, pH 8 
+
+ 
+La solución de la sal disódica del ácido etilendiamino tetraacético 
+
+(ethylenediamine tetraacetic acid, disodium salt) se prepara como sigue: 
+
+32 
+
+
+
+ 
+ Tabla 13. Solución 50 mM EDTA, pH 8 
+ Para 10 ml Para 100 ml 
+ Na2-EDTA (PM = 372,2) 0,19 g 1,86 g 
+ Agua destilada “milli-Q” 8 ml 80 ml 
+
+Disolver con ‘mosca”, ajustar pH a 8 con una solución 
+saturada de NaOH y llevar volumen final a 10 ó 100 ml, 
+
+respectivamente 
+Esterilizar en autoclave 
+
+Guardar a temperatura ambiente 
+ 
+
+Nota: también puede usarse EDTA (ácido libre; PM = 292,25). En tal caso se 
+añadirán 0,146 y 1,46 g, respectivamente, para preparar 10 y 100 ml. Además 
+será preciso añadir sosa para conseguir la disolución del ácido libre. 
+Realmente, generalmente siempre se usa la sal disódica; cuando se dice o 
+escribe “EDTA”, prácticamente en todos los casos se hace referencia a su sal 
+disódica. Sería más correcto escribir Na2–EDTA. 
+
+ 
+Solución de carga (sin colorante) 
+
+ 
+La solución de carga (sin colorante) consta de: 
+
+ 
+ Tabla 14. Solución de carga (sin colorante) 
+ Para 6 µl Para 6 ml 
+
+(µl) (ml) 
+ Formamida desionizada 5 5 
+ Na2–EDTA (50 mM, pH 8) 1 1 
+
+Mezclar 
+Guardar a –20°C 
+
+ 
+Nota: con el modelo “ABI Prism 377 DNA Sequencer” se usa EDTA 25 mM 
+
+en vez de 50 mM (empleado con el “ABI 373 Stretch DNA Sequencer”). 
+ 
+
+Solución stock coloreada 
+ 
+La solución stock coloreada consta de Na2–EDTA y azul dextrano: 
+
+ 
+ Tabla 15. Solución stock coloreada 
+ Para 1 ml Para 10 ml 
+ Na2–EDTA (50 mM, pH 8) 1 ml 10 ml 
+ Azul dextrano 0,03 g 0,3 g 
+
+Mezclar 
+Guardar a –20°C 
+
+ 
+Nota: otros protocolos usan 50 mg (en vez de 30 mg) de dextrano azul por 
+
+cada ml de solución stock coloreada, para dar una tonalidad más fuerte. 
+ 
+
+Solución de carga (con colorante) 
+ 
+La solución de carga (con colorante) consta de: 
+
+ 
+ Tabla 16. Solución de carga (con colorante) 
+
+33 
+
+
+
+ Para 6 µl Para 6 ml 
+(µl) (ml) 
+
+ Formamida desionizada 5 5 
+ Solución stock coloreada 1 1 
+
+Mezclar 
+Guardar a –20°C 
+
+ 
+Nota: la utilización de solución de carga con o sin colorante sólo depende de 
+
+las preferencias del usuario. Facilita la carga de las muestras al hacerlas 
+“visibles” y no afecta la detección por parte del secuenciador automático. Es 
+por ello muy recomendable, al menos para los que se inician en la técnica de 
+secuenciación en gel. 
+
+ 
+Almacenamiento de oligos 
+
+ 
+Es importante realizar un almacenamiento correcto de los oligos, ya que ello 
+
+permitirá una mayor vida útil de los mismos. En general, las empresas 
+garantizan éstos durante un año, pero es sabido que su vida útil puede ser 
+significativamente mayor si se almacenan correctamente (o menor, en caso 
+contrario): 
+
+ 
+El mejor método para almacenar oligos es secándolos en una centrífuga 
+
+evaporadora (SpeedVac) o —mejor— mediante liofilización. Luego se guardan 
+a temperatura ambiente o —mejor— congelados a –20°C o menos. 
+
+ 
+Los oligos también son estables en una solución de 5% de acetonitrilo y –
+
+20°C (no llegan a congelar). Algunas empresas los suministran de ésta forma. 
+Aunque esta concentración de acetonitrilo es soportada en la PCR, 
+generalmente se elimina por desecación o liofilización y se procede como se 
+indica en el apartado anterior o posterior. 
+
+ 
+El siguiente método por orden de estabilidad es disueltos en agua destilada 
+
+(oligos sin marcar, biotinilados o fosforilados) o disueltos en TE pH 8 (oligos 
+marcados con fosforoamiditas fluorescentes de Perkin–Elmer: Rox, Tamra, 6–
+Fam, Hex, Tet, etc). 
+
+ 
+Nota: las fosforoamiditas para marcar oligos suelen ser “Rox” (rojo), “Tamra” 
+
+(rojo), “6–Fam” (azul), “Hex” (amarillo) y “Tet” (verde). Rox y Tamra suelen 
+reservarse para los estándares internos de peso molecular. Estos fluoróforos 
+pueden usarse con la química de cebadores marcados para secuenciación, o 
+bien en GeneScan. La experiencia indica que Tet es el que más rápidamente 
+se degrada y el que da más problemas de fondo (sobre todo, en presencia de 
+otros en PCRs múltiples). 6–Fam da más señal que Hex, siendo ambas buenas 
+opciones para PCRs múltiples. Otra lección de la experiencia es que, en el 
+caso de análisis con GeneScan, deben elegirse en las PCRs múltiples 
+amplicones que no solapen (aunque tengan diferente color): al menos deben 
+distanciarse en 3 pb. Finalmente, el tamaño ideal del amplicón debe oscilar 
+entre 130 y 150 pb. En estos casos suele usarse como patrón interno de pesos 
+moleculares el “GeneScan 350 Tamra” (Perkin-Elmer/AppliedBiosystems). 
+
+ 
+
+34 
+
+
+
+Nota: es importante tener en cuenta que los oligos marcados con 
+fosforoamiditas fluorescentes deben protegerse de la luz, guardados en botes 
+ámbar o envueltos en papel de aluminio. 
+
+ 
+Nota: para evitar la degradación de los oligos, se recomienda alicuotar éstos 
+
+en pequeñas cantidades, de forma que una misma muestra no se 
+congele/descongele más de cinco veces. Lo ideal es mantener los oligos que 
+se vayan a usar en un año o antes en pequeños volúmenes, de forma que en 1 
+µl (p.ej.) de solución haya la cantidad necesaria por reacción. El resto debe 
+guardarse seco a –20°C o menos. 
+
+ 
+
+35
